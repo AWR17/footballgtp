@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "West Ham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 73
+  },
+  {
+    "clubName": "Argentina",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 34
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2008,
+    "appearances": 230
+  },
+  {
+    "clubName": "Espanyol",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 79
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Manchester United",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2005,
+    "appearances": 161
+  },
+  {
+    "clubName": "Northern Ireland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 62
+  },
+  {
+    "clubName": "Leicester",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 121
+  },
+  {
+    "clubName": "West Brom",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 59
+  },
+  {
+    "clubName": "Sunderland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 0
+  }
+]

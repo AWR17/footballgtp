@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2007,
+    "appearances": 348
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 24
+  },
+  {
+    "clubName": "Wigan",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 72
+  }
+]

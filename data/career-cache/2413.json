@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Tottenham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 75
+  },
+  {
+    "clubName": "Brazil",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2018,
+    "appearances": 36
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 135
+  },
+  {
+    "clubName": "Fluminense",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2016,
+    "appearances": 14
+  },
+  {
+    "clubName": "America Mineiro",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2015,
+    "appearances": 24
+  }
+]

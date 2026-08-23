@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Manchester United",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 103
+  },
+  {
+    "clubName": "Portugal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2017,
+    "appearances": 41
+  },
+  {
+    "clubName": "Sporting CP",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2017,
+    "appearances": 66
+  },
+  {
+    "clubName": "Sampdoria",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2016,
+    "appearances": 33
+  },
+  {
+    "clubName": "Udinese",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2013,
+    "appearances": 86
+  },
+  {
+    "clubName": "Novara",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 21
+  }
+]

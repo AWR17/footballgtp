@@ -1,0 +1,18 @@
+[
+  {
+    "clubName": "Manchester United",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 289
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2016,
+    "appearances": 26
+  }
+]

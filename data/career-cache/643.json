@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Brazil",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2016,
+    "appearances": 39
+  },
+  {
+    "clubName": "Arsenal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 70
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 159
+  },
+  {
+    "clubName": "Palmeiras",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2014,
+    "appearances": 8
+  }
+]

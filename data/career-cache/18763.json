@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Celtic",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2021,
+    "appearances": 12
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 49
+  },
+  {
+    "clubName": "Rep. Of Ireland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 27
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 108
+  },
+  {
+    "clubName": "Wigan",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 115
+  },
+  {
+    "clubName": "Hamilton Academical",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 37
+  }
+]

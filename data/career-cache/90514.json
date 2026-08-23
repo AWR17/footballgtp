@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Burnley",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2015,
+    "appearances": 52
+  },
+  {
+    "clubName": "QPR",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 96
+  },
+  {
+    "clubName": "Newcastle",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2007,
+    "appearances": 79
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 1
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2003,
+    "appearances": 123
+  }
+]

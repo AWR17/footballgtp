@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Newcastle",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 87
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2018,
+    "appearances": 5
+  },
+  {
+    "clubName": "Burnley",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 143
+  },
+  {
+    "clubName": "Charlton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2011,
+    "appearances": 33
+  }
+]

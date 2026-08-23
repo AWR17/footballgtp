@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "Gremio",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2025,
+    "appearances": 7
+  },
+  {
+    "clubName": "Olympiakos Piraeus",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2024,
+    "appearances": 6
+  },
+  {
+    "clubName": "Fulham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 58
+  },
+  {
+    "clubName": "Corinthians",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 9
+  },
+  {
+    "clubName": "Arsenal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 25
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 234
+  },
+  {
+    "clubName": "Brazil",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 41
+  },
+  {
+    "clubName": "Anzhi",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 7
+  },
+  {
+    "clubName": "Shakhtar Donetsk",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 77
+  }
+]

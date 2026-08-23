@@ -1,0 +1,66 @@
+[
+  {
+    "clubName": "Olimpia",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2020,
+    "appearances": 2
+  },
+  {
+    "clubName": "Kayserispor",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2019,
+    "appearances": 8
+  },
+  {
+    "clubName": "Başakşehir",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2016,
+    "appearances": 60
+  },
+  {
+    "clubName": "Togo",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2002,
+    "appearances": 21
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 12
+  },
+  {
+    "clubName": "Tottenham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 92
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 34
+  },
+  {
+    "clubName": "Arsenal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 104
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "Al-Sailiya",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2022,
+    "appearances": 24
+  },
+  {
+    "clubName": "Fuenlabrada",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, Spain",
+    "yearStart": 2021,
+    "appearances": 8
+  },
+  {
+    "clubName": "Al Ahli Doha",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2019,
+    "appearances": 41
+  },
+  {
+    "clubName": "Senegal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 11
+  },
+  {
+    "clubName": "Newcastle",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2016,
+    "appearances": 97
+  },
+  {
+    "clubName": "Hull City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 53
+  },
+  {
+    "clubName": "West Ham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2012,
+    "appearances": 68
+  },
+  {
+    "clubName": "Wigan",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 96
+  },
+  {
+    "clubName": "Rayo Vallecano",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 35
+  }
+]

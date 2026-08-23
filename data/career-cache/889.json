@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Aston Villa",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 92
+  },
+  {
+    "clubName": "Sweden",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2016,
+    "appearances": 35
+  },
+  {
+    "clubName": "Manchester United",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2017,
+    "appearances": 38
+  },
+  {
+    "clubName": "Benfica",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2013,
+    "appearances": 34
+  },
+  {
+    "clubName": "Vasteras SK FK",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 27
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Shandong Luneng",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2019,
+    "appearances": 114
+  },
+  {
+    "clubName": "Manchester United",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 119
+  },
+  {
+    "clubName": "Belgium",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 50
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2008,
+    "appearances": 138
+  },
+  {
+    "clubName": "Standard Liege",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 28
+  }
+]

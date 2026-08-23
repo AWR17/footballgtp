@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Crystal Palace",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2026,
+    "appearances": 1
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 94
+  },
+  {
+    "clubName": "Burnley",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 134
+  }
+]

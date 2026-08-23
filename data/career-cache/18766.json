@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Leeds",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2025,
+    "appearances": 2
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2020,
+    "appearances": 5
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 239
+  },
+  {
+    "clubName": "Sheffield Utd",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2013,
+    "appearances": 2
+  }
+]

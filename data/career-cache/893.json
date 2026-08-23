@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Club Queretaro",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2020,
+    "appearances": 15
+  },
+  {
+    "clubName": "Ecuador",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 64
+  },
+  {
+    "clubName": "Manchester United",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 241
+  },
+  {
+    "clubName": "Wigan",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 84
+  },
+  {
+    "clubName": "Villarreal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 2
+  }
+]

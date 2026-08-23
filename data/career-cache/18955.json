@@ -1,0 +1,66 @@
+[
+  {
+    "clubName": "Sheffield Utd",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2025,
+    "appearances": 1
+  },
+  {
+    "clubName": "West Ham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 52
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 30
+  },
+  {
+    "clubName": "Southampton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 91
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2015,
+    "appearances": 2
+  },
+  {
+    "clubName": "Liverpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 14
+  },
+  {
+    "clubName": "Burnley",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2011,
+    "appearances": 122
+  },
+  {
+    "clubName": "Bournemouth",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 0
+  }
+]

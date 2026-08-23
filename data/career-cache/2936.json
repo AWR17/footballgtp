@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 111
+  },
+  {
+    "clubName": "Burnley",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2015,
+    "appearances": 198
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2018,
+    "appearances": 0
+  },
+  {
+    "clubName": "Brentford",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2013,
+    "appearances": 49
+  },
+  {
+    "clubName": "Oldham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2010,
+    "appearances": 46
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Burnley",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 234
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2017,
+    "appearances": 1
+  },
+  {
+    "clubName": "Swansea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 80
+  },
+  {
+    "clubName": "Southampton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2008,
+    "appearances": 125
+  },
+  {
+    "clubName": "Scunthorpe",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 0
+  },
+  {
+    "clubName": "Bournemouth",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 7
+  }
+]

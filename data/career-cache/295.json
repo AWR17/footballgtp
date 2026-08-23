@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Southampton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2007,
+    "appearances": 243
+  },
+  {
+    "clubName": "Brighton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 70
+  },
+  {
+    "clubName": "Liverpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 128
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 14
+  }
+]

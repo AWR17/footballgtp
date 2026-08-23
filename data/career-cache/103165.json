@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Phoenix Rising",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2017,
+    "appearances": 1
+  },
+  {
+    "clubName": "New York Red Bulls",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2015,
+    "appearances": 21
+  },
+  {
+    "clubName": "QPR",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 67
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2004,
+    "appearances": 27
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2002,
+    "appearances": 134
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 80
+  }
+]

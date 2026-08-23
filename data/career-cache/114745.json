@@ -1,0 +1,18 @@
+[
+  {
+    "clubName": "Arsenal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 110
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2004,
+    "appearances": 172
+  }
+]

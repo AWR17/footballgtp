@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Netherlands",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2014,
+    "appearances": 38
+  },
+  {
+    "clubName": "Liverpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 204
+  },
+  {
+    "clubName": "Southampton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 55
+  },
+  {
+    "clubName": "Celtic",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2013,
+    "appearances": 71
+  },
+  {
+    "clubName": "Groningen",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Netherlands",
+    "yearStart": 2010,
+    "appearances": 62
+  }
+]

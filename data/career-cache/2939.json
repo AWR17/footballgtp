@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Brentford",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2026,
+    "appearances": 1
+  },
+  {
+    "clubName": "West Ham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2025,
+    "appearances": 1
+  },
+  {
+    "clubName": "Newcastle",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 114
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2018,
+    "appearances": 5
+  },
+  {
+    "clubName": "Bournemouth",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2014,
+    "appearances": 171
+  },
+  {
+    "clubName": "Coventry",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2010,
+    "appearances": 49
+  }
+]

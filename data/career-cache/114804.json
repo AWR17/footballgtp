@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Blackpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2015,
+    "appearances": 26
+  },
+  {
+    "clubName": "Wigan",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2006,
+    "appearances": 265
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2004,
+    "appearances": 71
+  }
+]

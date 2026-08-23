@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Blackburn",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2025,
+    "appearances": 2
+  },
+  {
+    "clubName": "Burnley",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 12
+  },
+  {
+    "clubName": "Beşiktaş",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2022,
+    "appearances": 5
+  },
+  {
+    "clubName": "Southampton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 163
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2017,
+    "appearances": 1
+  },
+  {
+    "clubName": "Norwich",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 50
+  },
+  {
+    "clubName": "Birmingham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 3
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Brighton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 23
+  },
+  {
+    "clubName": "Liverpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 230
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 24
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 147
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 99
+  },
+  {
+    "clubName": "Newcastle",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2004,
+    "appearances": 89
+  },
+  {
+    "clubName": "Leeds",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2002,
+    "appearances": 0
+  }
+]

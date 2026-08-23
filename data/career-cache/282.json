@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Club Brugge KV",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2019,
+    "appearances": 256
+  },
+  {
+    "clubName": "Belgium",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 19
+  },
+  {
+    "clubName": "Liverpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 155
+  },
+  {
+    "clubName": "Sunderland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 90
+  },
+  {
+    "clubName": "St. Truiden",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 55
+  }
+]

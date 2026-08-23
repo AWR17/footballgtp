@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Arsenal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 75
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2018,
+    "appearances": 28
+  },
+  {
+    "clubName": "West Ham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 204
+  },
+  {
+    "clubName": "Rep. Of Ireland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2017,
+    "appearances": 0
+  }
+]

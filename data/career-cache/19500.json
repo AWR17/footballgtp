@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Bristol City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2019,
+    "appearances": 32
+  },
+  {
+    "clubName": "Wales",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 47
+  },
+  {
+    "clubName": "Stoke City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2018,
+    "appearances": 33
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 60
+  },
+  {
+    "clubName": "Swansea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2007,
+    "appearances": 325
+  },
+  {
+    "clubName": "Stockport County",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 82
+  }
+]

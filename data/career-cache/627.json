@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 47
+  },
+  {
+    "clubName": "Burnley",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 72
+  },
+  {
+    "clubName": "AC Milan",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2024,
+    "appearances": 11
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 165
+  },
+  {
+    "clubName": "Tottenham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 183
+  },
+  {
+    "clubName": "Sheffield Utd",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 2
+  }
+]

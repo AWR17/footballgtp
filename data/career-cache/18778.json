@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2020,
+    "appearances": 1
+  },
+  {
+    "clubName": "Newcastle",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2022,
+    "appearances": 60
+  },
+  {
+    "clubName": "Leicester",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "European competition",
+    "yearStart": 2016,
+    "appearances": 113
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 26
+  },
+  {
+    "clubName": "Ajax",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Netherlands",
+    "yearStart": 2023,
+    "appearances": 42
+  },
+  {
+    "clubName": "Liverpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 360
+  },
+  {
+    "clubName": "Sunderland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2008,
+    "appearances": 71
+  }
+]

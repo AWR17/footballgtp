@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Avispa Fukuoka",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2027,
+    "appearances": 0
+  },
+  {
+    "clubName": "Southampton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 218
+  },
+  {
+    "clubName": "Girona",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2023,
+    "appearances": 25
+  },
+  {
+    "clubName": "Barcelona",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2010,
+    "appearances": 1
+  },
+  {
+    "clubName": "VfB Stuttgart",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2014,
+    "appearances": 27
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 22
+  },
+  {
+    "clubName": "Valencia",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2013,
+    "appearances": 13
+  }
+]

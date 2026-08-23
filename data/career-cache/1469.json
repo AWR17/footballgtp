@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Brighton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 143
+  },
+  {
+    "clubName": "Watford",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 18
+  },
+  {
+    "clubName": "Arsenal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 88
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 19
+  },
+  {
+    "clubName": "Manchester United",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2007,
+    "appearances": 88
+  },
+  {
+    "clubName": "Sunderland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 26
+  }
+]

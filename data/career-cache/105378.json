@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Seattle Sounders",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2013,
+    "appearances": 129
+  },
+  {
+    "clubName": "USA",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 74
+  },
+  {
+    "clubName": "Fulham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2006,
+    "appearances": 183
+  },
+  {
+    "clubName": "New England Revolution",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2004,
+    "appearances": 50
+  }
+]

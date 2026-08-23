@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Reading",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2018,
+    "appearances": 9
+  },
+  {
+    "clubName": "Rep. Of Ireland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2001,
+    "appearances": 72
+  },
+  {
+    "clubName": "Sunderland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 226
+  },
+  {
+    "clubName": "Manchester United",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2002,
+    "appearances": 217
+  }
+]

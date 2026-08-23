@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Bournemouth",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2021,
+    "appearances": 22
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 45
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 191
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 32
+  },
+  {
+    "clubName": "Bolton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2007,
+    "appearances": 111
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 27
+  }
+]

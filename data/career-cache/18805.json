@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "NEOM",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2025,
+    "appearances": 1
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 149
+  },
+  {
+    "clubName": "Mali",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2022,
+    "appearances": 2
+  },
+  {
+    "clubName": "Watford",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 129
+  },
+  {
+    "clubName": "Rennes",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2012,
+    "appearances": 75
+  }
+]

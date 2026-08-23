@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Marseille",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2024,
+    "appearances": 32
+  },
+  {
+    "clubName": "Denmark",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2014,
+    "appearances": 48
+  },
+  {
+    "clubName": "Tottenham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 145
+  },
+  {
+    "clubName": "Southampton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 109
+  },
+  {
+    "clubName": "FC Schalke 04",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2015,
+    "appearances": 23
+  },
+  {
+    "clubName": "Bayern München",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2012,
+    "appearances": 17
+  }
+]

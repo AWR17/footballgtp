@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2023,
+    "appearances": 7
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 203
+  },
+  {
+    "clubName": "Brentford",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2018,
+    "appearances": 42
+  },
+  {
+    "clubName": "Charlton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2015,
+    "appearances": 73
+  }
+]

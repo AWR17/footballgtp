@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Tottenham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 263
+  },
+  {
+    "clubName": "Wales",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 44
+  },
+  {
+    "clubName": "Swansea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2012,
+    "appearances": 71
+  }
+]

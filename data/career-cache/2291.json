@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Croatia",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 48
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 70
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 142
+  },
+  {
+    "clubName": "Real Madrid",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2015,
+    "appearances": 73
+  },
+  {
+    "clubName": "Inter",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2012,
+    "appearances": 80
+  },
+  {
+    "clubName": "Dinamo Zagreb",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 32
+  }
+]

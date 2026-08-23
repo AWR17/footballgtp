@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Watford",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 76
+  },
+  {
+    "clubName": "Nantes",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2022,
+    "appearances": 56
+  },
+  {
+    "clubName": "Tottenham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 141
+  },
+  {
+    "clubName": "France",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 29
+  },
+  {
+    "clubName": "Newcastle",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2012,
+    "appearances": 118
+  },
+  {
+    "clubName": "Toulouse",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2005,
+    "appearances": 172
+  }
+]

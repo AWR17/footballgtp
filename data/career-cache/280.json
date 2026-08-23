@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Brazil",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2015,
+    "appearances": 39
+  },
+  {
+    "clubName": "Liverpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 207
+  },
+  {
+    "clubName": "AS Roma",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2016,
+    "appearances": 37
+  },
+  {
+    "clubName": "Internacional",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 24
+  }
+]

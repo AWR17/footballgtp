@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Al Sadd",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2025,
+    "appearances": 9
+  },
+  {
+    "clubName": "Al-Ahli Jeddah",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2023,
+    "appearances": 49
+  },
+  {
+    "clubName": "Liverpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 256
+  },
+  {
+    "clubName": "Brazil",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2014,
+    "appearances": 30
+  },
+  {
+    "clubName": "1899 Hoffenheim",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2010,
+    "appearances": 140
+  },
+  {
+    "clubName": "Figueirense",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 2
+  }
+]

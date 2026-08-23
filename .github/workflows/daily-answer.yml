@@ -1,0 +1,27 @@
+name: Pick daily answer
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Pick today's answer
+        run: node scripts/pick-daily-answer.js
+
+      - name: Commit new answer files
+        run: |
+          git config user.name "footballgtp-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/daily-answer.json public/answers data/used-answers.json
+          git diff --cached --quiet || git commit -m "Daily answer: $(date -u +%Y-%m-%d)"
+          git push

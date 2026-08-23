@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "Los Angeles FC",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2024,
+    "appearances": 18
+  },
+  {
+    "clubName": "AC Milan",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2021,
+    "appearances": 97
+  },
+  {
+    "clubName": "France",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 56
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 75
+  },
+  {
+    "clubName": "Arsenal",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2012,
+    "appearances": 164
+  },
+  {
+    "clubName": "Montpellier",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2010,
+    "appearances": 73
+  },
+  {
+    "clubName": "Tours",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 61
+  },
+  {
+    "clubName": "Istres",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 33
+  },
+  {
+    "clubName": "Grenoble",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 23
+  }
+]

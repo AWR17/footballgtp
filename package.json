@@ -1,0 +1,13 @@
+{
+  "name": "footballgtp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FootballGTP — Guess The Player. Daily footballer guessing game with attribute-comparison feedback.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build-attributes": "node scripts/build-attributes.js",
+    "pick-answer": "node scripts/pick-daily-answer.js"
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Tottenham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2026,
+    "appearances": 1
+  },
+  {
+    "clubName": "Scotland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2014,
+    "appearances": 44
+  },
+  {
+    "clubName": "Liverpool",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 224
+  },
+  {
+    "clubName": "Hull City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 102
+  },
+  {
+    "clubName": "Dundee Utd",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2013,
+    "appearances": 36
+  },
+  {
+    "clubName": "Queen's Park",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 34
+  }
+]

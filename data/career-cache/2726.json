@@ -1,0 +1,66 @@
+[
+  {
+    "clubName": "CFR 1907 Cluj",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2025,
+    "appearances": 3
+  },
+  {
+    "clubName": "Al Orubah",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2024,
+    "appearances": 19
+  },
+  {
+    "clubName": "West Ham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 82
+  },
+  {
+    "clubName": "France",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 7
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 99
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 32
+  },
+  {
+    "clubName": "Stoke City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 34
+  },
+  {
+    "clubName": "Saint Etienne",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2011,
+    "appearances": 42
+  }
+]

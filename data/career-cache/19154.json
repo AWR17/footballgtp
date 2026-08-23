@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Bristol City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2020,
+    "appearances": 12
+  },
+  {
+    "clubName": "West Brom",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2007,
+    "appearances": 384
+  },
+  {
+    "clubName": "Northern Ireland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 53
+  },
+  {
+    "clubName": "Sheffield Wednesday",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 88
+  }
+]
