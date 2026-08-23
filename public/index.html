@@ -236,7 +236,7 @@
 
   .tile-grid {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     gap: 6px;
   }
 
@@ -245,6 +245,7 @@
     border-radius: 6px;
     padding: 6px 4px;
     text-align: center;
+    cursor: help;
   }
 
   .tile-label {
@@ -435,10 +436,18 @@
     <button class="modal-close" id="howToClose" aria-label="Close">×</button>
     <div class="result-name">How to play</div>
     <div style="font-size:13px; line-height:1.6; margin-top:14px;">
-      <p><strong>Guess the mystery footballer in 6 tries.</strong> Every guess compares 6 attributes against the answer:</p>
-      <p>🟩 Position · Debut decade · Clubs played for · Highest tier reached · Played abroad · Career PL appearances</p>
-      <p><strong style="color:var(--green)">Green</strong> = exact match. <strong style="color:var(--yellow)">Yellow</strong> = close (with an arrow showing which direction). <strong>Grey</strong> = not close.</p>
-      <p>Fewer guesses = higher score. One puzzle a day.</p>
+      <p><strong>Guess the mystery footballer in 6 tries.</strong> Every guess compares 5 attributes: Position, Debut decade, Clubs played for, Highest level reached, Career PL appearances.</p>
+
+      <p><strong>The number or word shown is always YOUR GUESS's value</strong> — not the answer's. Colour tells you how close it is:</p>
+      <p>🟩 <strong style="color:var(--green)">Green</strong> = exact match &nbsp; 🟨 <strong style="color:var(--yellow)">Yellow</strong> = close &nbsp; ⬜ <strong>Grey</strong> = not close</p>
+
+      <p><strong>Arrows point toward the real answer.</strong> ↑ means the answer's value is higher than what's shown, ↓ means lower. For "Level," ↑ means the real answer reached a <em>better</em> level than shown, ↓ a <em>worse</em> one — "Top flight" is always the best possible.</p>
+
+      <p><strong>Worked example:</strong> you guess a player and see "Clubs: 5 ↑" in yellow. That means your guess played for 5 clubs, but the real answer has played for <em>more</em> than 5 — so try someone with a longer club history next.</p>
+
+      <p><strong>Tap or hold any tile</strong> to see a plain-English explanation of what it means.</p>
+
+      <p>Fewer guesses = higher score. One puzzle a day, same for everyone.</p>
     </div>
     <button id="howToDismiss" style="width:100%; margin-top:10px;">Got it</button>
   </div>
@@ -466,13 +475,12 @@
   const MAX_GUESSES = 6;
   const SCORE_BY_GUESS = [100, 85, 70, 55, 40, 25];
 
-  const ATTRIBUTE_ORDER = ["position", "debutDecade", "clubCount", "highestTier", "playedAbroad", "plAppsBand"];
+  const ATTRIBUTE_ORDER = ["position", "debutDecade", "clubCount", "highestTier", "plAppsBand"];
   const ATTRIBUTE_LABELS = {
     position: "Position",
     debutDecade: "Debut",
     clubCount: "Clubs",
-    highestTier: "Top tier",
-    playedAbroad: "Abroad",
+    highestTier: "Level",
     plAppsBand: "PL apps",
   };
 
@@ -616,12 +624,6 @@
         : { status: "miss", text: guessVal };
     }
 
-    if (key === "playedAbroad") {
-      return guessVal === answerVal
-        ? { status: "match", text: guessVal ? "Yes" : "No" }
-        : { status: "miss", text: guessVal ? "Yes" : "No" };
-    }
-
     if (key === "debutDecade") {
       if (guessVal === answerVal) return { status: "match", text: `${guessVal}s` };
       const diff = Math.abs(guessVal - answerVal) / 10;
@@ -641,12 +643,12 @@
     }
 
     if (key === "highestTier") {
-      if (guessVal === answerVal) return { status: "match", text: ordinal(guessVal) };
+      if (guessVal === answerVal) return { status: "match", text: tierDisplay(guessVal) };
       const diff = Math.abs(guessVal - answerVal);
       const arrow = guessVal > answerVal ? "↑" : "↓"; // higher tier NUMBER means lower level, so arrow points toward better
       return diff <= 1
-        ? { status: "close", text: `${ordinal(guessVal)} ${arrow}` }
-        : { status: "miss", text: `${ordinal(guessVal)} ${arrow}` };
+        ? { status: "close", text: `${tierDisplay(guessVal)} ${arrow}` }
+        : { status: "miss", text: `${tierDisplay(guessVal)} ${arrow}` };
     }
 
     if (key === "plAppsBand") {
@@ -670,11 +672,36 @@
     return `${n}th`;
   }
 
+  // "1st" reads ambiguously (first club? first season?) — "Top flight" is
+  // immediately clear as the best possible level, no numbering convention
+  // to learn. Everything below that stays as "Nth tier", which is plain
+  // enough once tier 1 itself isn't confusing.
+  function tierDisplay(n) {
+    if (n === 1) return "Top flight";
+    return `${ordinal(n)} tier`;
+  }
+
   function compareGuess(guessedPlayer) {
     return ATTRIBUTE_ORDER.map((key) => ({
       key,
       ...compareAttribute(key, guessedPlayer[key], answer[key]),
     }));
+  }
+
+  function tileTooltip(c, guessName) {
+    const label = ATTRIBUTE_LABELS[c.key];
+    if (c.status === "match") {
+      return `${label}: ${guessName} matches today's answer exactly on this.`;
+    }
+    if (c.key === "position" || c.key === "playedAbroad") {
+      return `${label}: ${guessName}'s value is shown — it doesn't match the real answer.`;
+    }
+    if (c.key === "highestTier") {
+      const direction = c.text.includes("↑") ? "a better level than" : "a lower level than";
+      return `${label}: ${guessName} reached ${c.text.replace(/[↑↓]/, "").trim()}. The real answer is at ${direction} this.`;
+    }
+    const direction = c.text.includes("↑") ? "higher" : "lower";
+    return `${label}: ${guessName}'s value is ${c.text.replace(/[↑↓]/, "").trim()}. The real answer is ${direction} than this.`;
   }
 
   // ---------- render ----------
@@ -693,7 +720,7 @@
     const guessesList = document.getElementById("guessesList");
     guessesList.innerHTML = state.guesses.map((g) => {
       const tiles = g.comparison.map((c) => `
-        <div class="tile ${c.status}">
+        <div class="tile ${c.status}" title="${tileTooltip(c, g.name).replace(/"/g, "&quot;")}">
           <span class="tile-label">${ATTRIBUTE_LABELS[c.key]}</span>
           <span class="tile-value">${c.text}</span>
         </div>

@@ -93,12 +93,14 @@ async function getStintsForAttributes(playerId) {
 
     const isNationalTeam = t.team.name === t.team.country;
     const seasonLeagues = [];
+    let seasonCountry = null; // captured from season-stat lookups — often more reliable than the team-level country field
     let totalApps = 0;
 
     for (const season of seasons) {
       const stat = await getPlayerSeasonStats(playerId, season, t.team.id);
       totalApps += stat.appearances;
       if (stat.leagueId) seasonLeagues.push({ season, leagueId: stat.leagueId });
+      if (!seasonCountry && stat.country) seasonCountry = stat.country;
       await sleep(REQUEST_PAUSE_MS);
     }
 
@@ -115,7 +117,12 @@ async function getStintsForAttributes(playerId) {
     }
 
     seasonLeagues.sort((a, b) => a.season - b.season);
-    const effectiveCountry = t.team.country || fallbackCountry;
+    // Prefer the team-level country field, but fall back to the
+    // season-stat country (often populated even when the team record's
+    // own country field is empty — this was the actual cause of the
+    // Salah "played abroad: No" bug, where his Basel/Fiorentina/Roma
+    // stints had a missing team.country despite valid league data).
+    const effectiveCountry = t.team.country || seasonCountry || fallbackCountry;
     const tier = isNationalTeam
       ? { label: "national team" }
       : tierFor(seasonLeagues[0]?.leagueId ?? null, effectiveCountry);
@@ -221,16 +228,6 @@ async function run(poolSizeArg) {
 
   for (const candidate of candidates) {
     try {
-      const nameKey = normalizeNameForDedup(candidate.name);
-      if (usedNames.has(nameKey)) {
-        // Candidates are already sorted by totalPlApps descending, so
-        // whichever version of this name was processed first is the
-        // more-capped/more-recognisable one — keep that, skip this one.
-        console.warn(`[build-attributes] skipping "${candidate.name}" (id ${candidate.id}) — name collides with an already-added player.`);
-        nameCollisions++;
-        continue;
-      }
-
       const stints = await getStintsForAttributes(candidate.id);
       if (stints.filter((s) => !s.isNationalTeam).length === 0) {
         skipped++;
@@ -240,21 +237,39 @@ async function run(poolSizeArg) {
       const attrs = deriveAttributes(stints);
 
       let position = null;
+      let displayName = candidate.name;
       try {
         const lastKnownSeason = stints[stints.length - 1]?.yearStart ?? new Date().getFullYear();
         const profile = await getPlayerProfile(candidate.id, lastKnownSeason);
         position = profile.position;
+        // API-Football's shorthand "name" field is inconsistently
+        // formatted across players (some full names, some just a first
+        // initial — e.g. "N. Redmond" vs "Mohamed Salah"). firstname/
+        // lastname are typically stored more consistently, so prefer a
+        // reconstructed full name when both are available.
+        if (profile.firstname && profile.lastname) {
+          displayName = `${profile.firstname} ${profile.lastname}`.trim();
+        }
       } catch (err) {
         console.warn(`[build-attributes] position lookup failed for ${candidate.name}: ${err.message}`);
       }
 
+      // Collision check runs against the FINAL display name, not the raw
+      // one — two players with different shorthand names could still
+      // resolve to the same real full name once reconstructed above.
+      const nameKey = normalizeNameForDedup(displayName);
+      if (usedNames.has(nameKey)) {
+        console.warn(`[build-attributes] skipping "${displayName}" (id ${candidate.id}) — name collides with an already-added player.`);
+        nameCollisions++;
+        continue;
+      }
+
       attributesById[candidate.id] = {
-        name: candidate.name,
+        name: displayName,
         position,
         debutDecade: attrs.debutDecade,
         clubCount: attrs.clubCount,
         highestTier: attrs.highestTier, // 1 = top flight, 2 = second tier, etc. — lower is higher level
-        playedAbroad: attrs.playedAbroad,
         plAppsBand: bandPlApps(candidate.totalPlApps),
       };
       usedNames.add(nameKey);
