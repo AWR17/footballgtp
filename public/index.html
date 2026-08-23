@@ -565,11 +565,34 @@
     banner.classList.toggle("show", dailyAnswerMeta.date !== todayDateStr());
   }
 
+  function freshState() {
+    return { guesses: [], solved: false, gaveUp: false, score: 0 };
+  }
+
+  function stateMatchesCurrentAttributes(saved) {
+    // If the game's attribute set changes (e.g. one gets added or
+    // removed) while someone has guesses saved from earlier the same
+    // day, those saved comparisons would still reference the old
+    // attribute keys — rendering as broken "undefined" labels and stale
+    // text rather than being recalculated. Safer to just discard
+    // incompatible saved state than show something broken.
+    if (!saved.guesses || saved.guesses.length === 0) return true;
+    const savedKeys = saved.guesses[0].comparison?.map((c) => c.key) || [];
+    if (savedKeys.length !== ATTRIBUTE_ORDER.length) return false;
+    return ATTRIBUTE_ORDER.every((k) => savedKeys.includes(k));
+  }
+
   function loadState() {
     const key = STORAGE_PREFIX + todayDateStr();
     const saved = localStorage.getItem(key);
-    if (saved) return JSON.parse(saved);
-    return { guesses: [], solved: false, gaveUp: false, score: 0 };
+    if (!saved) return freshState();
+
+    const parsed = JSON.parse(saved);
+    if (!stateMatchesCurrentAttributes(parsed)) {
+      console.warn("[footballgtp] saved state used a different attribute set (likely from before a game update) — starting today's puzzle fresh.");
+      return freshState();
+    }
+    return parsed;
   }
 
   function saveState() {
@@ -693,12 +716,16 @@
     if (c.status === "match") {
       return `${label}: ${guessName} matches today's answer exactly on this.`;
     }
-    if (c.key === "position" || c.key === "playedAbroad") {
+    if (c.key === "position") {
       return `${label}: ${guessName}'s value is shown — it doesn't match the real answer.`;
     }
     if (c.key === "highestTier") {
       const direction = c.text.includes("↑") ? "a better level than" : "a lower level than";
       return `${label}: ${guessName} reached ${c.text.replace(/[↑↓]/, "").trim()}. The real answer is at ${direction} this.`;
+    }
+    if (c.key === "debutDecade") {
+      const direction = c.text.includes("↑") ? "more recently" : "earlier";
+      return `${label}: ${guessName} debuted in the ${c.text.replace(/[↑↓]/, "").trim()}. The real answer debuted ${direction}.`;
     }
     const direction = c.text.includes("↑") ? "higher" : "lower";
     return `${label}: ${guessName}'s value is ${c.text.replace(/[↑↓]/, "").trim()}. The real answer is ${direction} than this.`;
