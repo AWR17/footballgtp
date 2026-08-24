@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Liverpool",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 146
+  },
+  {
+    "clubName": "England",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 12
+  },
+  {
+    "clubName": "Charlton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2014,
+    "appearances": 21
+  }
+]

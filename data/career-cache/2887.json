@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2018,
+    "appearances": 2
+  },
+  {
+    "clubName": "Mexico",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2013,
+    "appearances": 51
+  },
+  {
+    "clubName": "Fulham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2024,
+    "appearances": 74
+  },
+  {
+    "clubName": "Benfica",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2015,
+    "appearances": 49
+  },
+  {
+    "clubName": "Club America",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 96
+  }
+]

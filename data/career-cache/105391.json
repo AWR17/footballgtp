@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Rep. Of Ireland",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2006,
+    "appearances": 35
+  },
+  {
+    "clubName": "Colorado Rapids",
+    "country": "USA",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2015,
+    "appearances": 75
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 164
+  },
+  {
+    "clubName": "Reading",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 155
+  }
+]

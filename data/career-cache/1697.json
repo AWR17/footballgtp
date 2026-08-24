@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Real Betis",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2023,
+    "appearances": 47
+  },
+  {
+    "clubName": "Spain",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2016,
+    "appearances": 7
+  },
+  {
+    "clubName": "West Ham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 137
+  },
+  {
+    "clubName": "Villarreal",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2017,
+    "appearances": 70
+  },
+  {
+    "clubName": "Malaga",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2015,
+    "appearances": 59
+  }
+]

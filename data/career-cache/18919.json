@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Walsall",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2021,
+    "appearances": 27
+  },
+  {
+    "clubName": "Ipswich",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2020,
+    "appearances": 30
+  },
+  {
+    "clubName": "Stoke City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2019,
+    "appearances": 15
+  },
+  {
+    "clubName": "Burnley",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 101
+  },
+  {
+    "clubName": "Rep. Of Ireland",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2011,
+    "appearances": 15
+  },
+  {
+    "clubName": "Brighton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2013,
+    "appearances": 46
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2006,
+    "appearances": 224
+  }
+]

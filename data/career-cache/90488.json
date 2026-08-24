@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Saint Etienne",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2019,
+    "appearances": 15
+  },
+  {
+    "clubName": "France",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2010,
+    "appearances": 28
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 96
+  },
+  {
+    "clubName": "Paris Saint Germain",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2013,
+    "appearances": 39
+  },
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 60
+  },
+  {
+    "clubName": "Lille",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2005,
+    "appearances": 178
+  }
+]

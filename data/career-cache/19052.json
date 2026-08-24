@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Anorthosis",
+    "country": "Cyprus",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Cyprus",
+    "yearStart": 2022,
+    "appearances": 16
+  },
+  {
+    "clubName": "Pafos",
+    "country": "Cyprus",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Cyprus",
+    "yearStart": 2019,
+    "appearances": 68
+  },
+  {
+    "clubName": "Huddersfield",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 6
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 134
+  },
+  {
+    "clubName": "Southampton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2009,
+    "appearances": 60
+  },
+  {
+    "clubName": "Milton Keynes Dons",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 9
+  }
+]

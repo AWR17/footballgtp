@@ -1,0 +1,66 @@
+[
+  {
+    "clubName": "FC Differdange 03",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2017,
+    "appearances": 8
+  },
+  {
+    "clubName": "French Guyana",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 1
+  },
+  {
+    "clubName": "Wadi Degla",
+    "country": "Egypt",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Egypt",
+    "yearStart": 2015,
+    "appearances": 0
+  },
+  {
+    "clubName": "Metz",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2014,
+    "appearances": 28
+  },
+  {
+    "clubName": "Trabzonspor",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2013,
+    "appearances": 19
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2007,
+    "appearances": 149
+  },
+  {
+    "clubName": "France",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2004,
+    "appearances": 33
+  },
+  {
+    "clubName": "Lyon",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 49
+  }
+]

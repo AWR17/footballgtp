@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Hull City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2026,
+    "appearances": 1
+  },
+  {
+    "clubName": "Middlesbrough",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2025,
+    "appearances": 1
+  },
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 74
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 66
+  },
+  {
+    "clubName": "Southampton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 43
+  }
+]

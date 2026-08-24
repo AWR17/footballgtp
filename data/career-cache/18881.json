@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "Al Khaleej Saihat",
+    "country": "Saudi-Arabia",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Saudi-Arabia",
+    "yearStart": 2025,
+    "appearances": 3
+  },
+  {
+    "clubName": "Toulouse",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2024,
+    "appearances": 28
+  },
+  {
+    "clubName": "Fenerbahçe",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 4
+  },
+  {
+    "clubName": "Norway",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2013,
+    "appearances": 32
+  },
+  {
+    "clubName": "Watford",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2021,
+    "appearances": 0
+  },
+  {
+    "clubName": "Bournemouth",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2015,
+    "appearances": 73
+  },
+  {
+    "clubName": "Blackburn",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2012,
+    "appearances": 17
+  },
+  {
+    "clubName": "Manchester United",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 0
+  },
+  {
+    "clubName": "Hull City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2011,
+    "appearances": 18
+  }
+]

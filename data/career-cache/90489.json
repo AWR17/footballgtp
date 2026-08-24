@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Arsenal",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 156
+  },
+  {
+    "clubName": "Germany",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2004,
+    "appearances": 50
+  },
+  {
+    "clubName": "Werder Bremen",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2006,
+    "appearances": 143
+  },
+  {
+    "clubName": "Hannover 96",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 30
+  }
+]

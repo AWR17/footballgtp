@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "FK Crvena Zvezda",
+    "country": "Serbia",
+    "isNationalTeam": false,
+    "tierLabel": "European competition",
+    "yearStart": 2025,
+    "appearances": 12
+  },
+  {
+    "clubName": "Austria",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2008,
+    "appearances": 58
+  },
+  {
+    "clubName": "Bologna",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2021,
+    "appearances": 54
+  },
+  {
+    "clubName": "Inter",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 3
+  },
+  {
+    "clubName": "SHANGHAI SIPG",
+    "country": "China",
+    "isNationalTeam": false,
+    "tierLabel": "a club in China",
+    "yearStart": 2019,
+    "appearances": 29
+  },
+  {
+    "clubName": "West Ham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 59
+  },
+  {
+    "clubName": "Stoke City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 125
+  },
+  {
+    "clubName": "Werder Bremen",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2010,
+    "appearances": 70
+  },
+  {
+    "clubName": "Twente",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 28
+  }
+]

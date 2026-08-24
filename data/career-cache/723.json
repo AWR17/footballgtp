@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Brazil",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2023,
+    "appearances": 8
+  },
+  {
+    "clubName": "Newcastle",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 186
+  },
+  {
+    "clubName": "1899 Hoffenheim",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2015,
+    "appearances": 29
+  },
+  {
+    "clubName": "Rapid Vienna",
+    "country": "Austria",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Austria",
+    "yearStart": 2016,
+    "appearances": 60
+  },
+  {
+    "clubName": "Sport Recife",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2014,
+    "appearances": 1
+  }
+]

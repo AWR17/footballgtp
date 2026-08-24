@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Southampton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2011,
+    "appearances": 168
+  },
+  {
+    "clubName": "Middlesbrough",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2015,
+    "appearances": 1
+  },
+  {
+    "clubName": "Plymouth",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 5
+  }
+]

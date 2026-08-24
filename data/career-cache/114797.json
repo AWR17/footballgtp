@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Fenerbahçe",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2010,
+    "appearances": 90
+  },
+  {
+    "clubName": "Nigeria",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2002,
+    "appearances": 37
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2003,
+    "appearances": 195
+  }
+]

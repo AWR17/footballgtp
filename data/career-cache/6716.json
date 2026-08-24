@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Liverpool",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 39
+  },
+  {
+    "clubName": "Argentina",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2019,
+    "appearances": 30
+  },
+  {
+    "clubName": "Brighton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 98
+  },
+  {
+    "clubName": "Argentinos JRS",
+    "country": "Argentina",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Argentina",
+    "yearStart": 2016,
+    "appearances": 50
+  }
+]

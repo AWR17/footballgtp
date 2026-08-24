@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Denmark",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2019,
+    "appearances": 28
+  },
+  {
+    "clubName": "Fulham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 61
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 104
+  },
+  {
+    "clubName": "Lyon",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2019,
+    "appearances": 18
+  },
+  {
+    "clubName": "Sampdoria",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2017,
+    "appearances": 39
+  },
+  {
+    "clubName": "Twente",
+    "country": "Netherlands",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Netherlands",
+    "yearStart": 2014,
+    "appearances": 47
+  },
+  {
+    "clubName": "Twente Res.",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 21
+  }
+]

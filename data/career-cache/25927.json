@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Crystal Palace",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 111
+  },
+  {
+    "clubName": "France",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2024,
+    "appearances": 6
+  },
+  {
+    "clubName": "FSV Mainz 05",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2018,
+    "appearances": 52
+  },
+  {
+    "clubName": "Le Havre",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, France",
+    "yearStart": 2017,
+    "appearances": 37
+  },
+  {
+    "clubName": "Lyon",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2016,
+    "appearances": 2
+  },
+  {
+    "clubName": "Chateauroux",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "a club in France",
+    "yearStart": 2015,
+    "appearances": 22
+  }
+]

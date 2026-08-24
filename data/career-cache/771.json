@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Inter",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2020,
+    "appearances": 10
+  },
+  {
+    "clubName": "AS Roma",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2017,
+    "appearances": 100
+  },
+  {
+    "clubName": "Serbia",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2008,
+    "appearances": 44
+  },
+  {
+    "clubName": "Manchester City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 165
+  },
+  {
+    "clubName": "Lazio",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 81
+  },
+  {
+    "clubName": "OFK Beograd",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 38
+  },
+  {
+    "clubName": "Cukaricki",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2004,
+    "appearances": 27
+  }
+]

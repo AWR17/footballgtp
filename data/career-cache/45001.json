@@ -1,0 +1,66 @@
+[
+  {
+    "clubName": "ST Mirren",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2018,
+    "appearances": 18
+  },
+  {
+    "clubName": "Southend",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2016,
+    "appearances": 65
+  },
+  {
+    "clubName": "Reading",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2014,
+    "appearances": 21
+  },
+  {
+    "clubName": "Antalyaspor",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2013,
+    "appearances": 3
+  },
+  {
+    "clubName": "Bursaspor",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2012,
+    "appearances": 7
+  },
+  {
+    "clubName": "QPR",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 31
+  },
+  {
+    "clubName": "Sunderland",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2008,
+    "appearances": 82
+  },
+  {
+    "clubName": "West Ham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 89
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Toronto FC",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2015,
+    "appearances": 1
+  },
+  {
+    "clubName": "Chivas USA",
+    "country": "USA",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2014,
+    "appearances": 6
+  },
+  {
+    "clubName": "Elazığspor",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2013,
+    "appearances": 14
+  },
+  {
+    "clubName": "Swansea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 55
+  },
+  {
+    "clubName": "West Brom",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 57
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2003,
+    "appearances": 72
+  }
+]

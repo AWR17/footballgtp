@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Paris Saint Germain",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2008,
+    "appearances": 98
+  },
+  {
+    "clubName": "France",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2001,
+    "appearances": 28
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2003,
+    "appearances": 144
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "Sassuolo",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2025,
+    "appearances": 35
+  },
+  {
+    "clubName": "Lyon",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2023,
+    "appearances": 16
+  },
+  {
+    "clubName": "AS Roma",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 11
+  },
+  {
+    "clubName": "Manchester United",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2017,
+    "appearances": 24
+  },
+  {
+    "clubName": "Serbia",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2008,
+    "appearances": 22
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 28
+  },
+  {
+    "clubName": "Benfica",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 3
+  },
+  {
+    "clubName": "Vitesse",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 2
+  },
+  {
+    "clubName": "Košice",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 40
+  }
+]

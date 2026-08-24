@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Oviedo",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Spain",
+    "yearStart": 2025,
+    "appearances": 0
+  },
+  {
+    "clubName": "Anderlecht",
+    "country": "Belgium",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Belgium",
+    "yearStart": 2012,
+    "appearances": 155
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 28
+  },
+  {
+    "clubName": "Belgium",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2015,
+    "appearances": 14
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 101
+  }
+]

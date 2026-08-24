@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Argentina",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2004,
+    "appearances": 45
+  },
+  {
+    "clubName": "Shanghai Shenhua",
+    "country": "China",
+    "isNationalTeam": false,
+    "tierLabel": "a club in China",
+    "yearStart": 2017,
+    "appearances": 16
+  },
+  {
+    "clubName": "Juventus",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2013,
+    "appearances": 66
+  },
+  {
+    "clubName": "Manchester City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 113
+  },
+  {
+    "clubName": "Manchester United",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 63
+  },
+  {
+    "clubName": "Corinthians",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 39
+  }
+]

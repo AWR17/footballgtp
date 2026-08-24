@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Western Sydney Wanderers",
+    "country": "Australia",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Australia",
+    "yearStart": 2025,
+    "appearances": 12
+  },
+  {
+    "clubName": "Southampton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2023,
+    "appearances": 50
+  },
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 53
+  },
+  {
+    "clubName": "Scotland",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 12
+  },
+  {
+    "clubName": "Bournemouth",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2012,
+    "appearances": 183
+  },
+  {
+    "clubName": "Ipswich",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2015,
+    "appearances": 18
+  },
+  {
+    "clubName": "Aberdeen",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2010,
+    "appearances": 5
+  }
+]

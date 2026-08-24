@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Estudiantes L.P.",
+    "country": "Argentina",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Argentina",
+    "yearStart": 2008,
+    "appearances": 94
+  },
+  {
+    "clubName": "Al-Duhail SC",
+    "country": "Qatar",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Qatar",
+    "yearStart": 2022,
+    "appearances": 0
+  },
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 82
+  },
+  {
+    "clubName": "Argentina",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2011,
+    "appearances": 22
+  },
+  {
+    "clubName": "Swansea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 117
+  },
+  {
+    "clubName": "Napoli",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2012,
+    "appearances": 28
+  }
+]

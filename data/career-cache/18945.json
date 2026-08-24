@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Aberdeen",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Scotland",
+    "yearStart": 2025,
+    "appearances": 13
+  },
+  {
+    "clubName": "Vancouver Whitecaps",
+    "country": "USA",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2024,
+    "appearances": 10
+  },
+  {
+    "clubName": "Southampton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 191
+  },
+  {
+    "clubName": "Scotland",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2013,
+    "appearances": 23
+  },
+  {
+    "clubName": "Celtic",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2014,
+    "appearances": 98
+  },
+  {
+    "clubName": "Dundee Utd",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2010,
+    "appearances": 107
+  }
+]

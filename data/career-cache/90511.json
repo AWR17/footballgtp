@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Sunderland",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 18
+  },
+  {
+    "clubName": "West Brom",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 55
+  },
+  {
+    "clubName": "Nigeria",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 5
+  },
+  {
+    "clubName": "Everton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2005,
+    "appearances": 130
+  }
+]

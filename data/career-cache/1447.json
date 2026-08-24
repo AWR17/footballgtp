@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Real Sociedad",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2019,
+    "appearances": 55
+  },
+  {
+    "clubName": "Arsenal",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2012,
+    "appearances": 184
+  },
+  {
+    "clubName": "Spain",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2009,
+    "appearances": 11
+  },
+  {
+    "clubName": "Malaga",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2011,
+    "appearances": 31
+  },
+  {
+    "clubName": "Osasuna",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2006,
+    "appearances": 127
+  }
+]

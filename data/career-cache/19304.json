@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Universitario",
+    "country": "Peru",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Peru",
+    "yearStart": 2022,
+    "appearances": 8
+  },
+  {
+    "clubName": "Club Nacional",
+    "country": "Uruguay",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Uruguay",
+    "yearStart": 2020,
+    "appearances": 16
+  },
+  {
+    "clubName": "Nottingham Forest",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2018,
+    "appearances": 16
+  },
+  {
+    "clubName": "West Brom",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2012,
+    "appearances": 160
+  },
+  {
+    "clubName": "Argentina",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 2
+  }
+]

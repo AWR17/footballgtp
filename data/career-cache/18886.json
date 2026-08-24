@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Tottenham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2026,
+    "appearances": 0
+  },
+  {
+    "clubName": "Burnley",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2024,
+    "appearances": 38
+  },
+  {
+    "clubName": "Slovakia",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2014,
+    "appearances": 24
+  },
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 150
+  },
+  {
+    "clubName": "Slovan Liberec",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2016,
+    "appearances": 28
+  },
+  {
+    "clubName": "Esbjerg",
+    "country": "Denmark",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Denmark",
+    "yearStart": 2013,
+    "appearances": 66
+  },
+  {
+    "clubName": "Žilina",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 84
+  }
+]

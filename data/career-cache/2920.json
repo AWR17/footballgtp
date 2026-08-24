@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Belgium",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2018,
+    "appearances": 29
+  },
+  {
+    "clubName": "Fulham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 71
+  },
+  {
+    "clubName": "Leicester",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 91
+  },
+  {
+    "clubName": "Atalanta",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2017,
+    "appearances": 75
+  },
+  {
+    "clubName": "Genk",
+    "country": "Belgium",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Belgium",
+    "yearStart": 2013,
+    "appearances": 72
+  }
+]

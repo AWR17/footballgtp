@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Wigan",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2018,
+    "appearances": 6
+  },
+  {
+    "clubName": "Djurgardens IF",
+    "country": "Sweden",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Sweden",
+    "yearStart": 2017,
+    "appearances": 22
+  },
+  {
+    "clubName": "West Brom",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2008,
+    "appearances": 244
+  },
+  {
+    "clubName": "Sweden",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 23
+  },
+  {
+    "clubName": "NEC Nijmegen",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 91
+  }
+]

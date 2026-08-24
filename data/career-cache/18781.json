@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Birmingham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2013,
+    "appearances": 74
+  },
+  {
+    "clubName": "Jamaica",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2023,
+    "appearances": 13
+  },
+  {
+    "clubName": "Al-Ettifaq",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2023,
+    "appearances": 27
+  },
+  {
+    "clubName": "Everton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 67
+  },
+  {
+    "clubName": "Bayer Leverkusen",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2020,
+    "appearances": 10
+  },
+  {
+    "clubName": "Leicester",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 120
+  },
+  {
+    "clubName": "England",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2018,
+    "appearances": 0
+  }
+]

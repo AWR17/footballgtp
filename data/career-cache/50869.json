@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Atlanta United FC",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2017,
+    "appearances": 219
+  },
+  {
+    "clubName": "USA",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2006,
+    "appearances": 33
+  },
+  {
+    "clubName": "Middlesbrough",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 10
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2008,
+    "appearances": 144
+  },
+  {
+    "clubName": "Chivas USA",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 68
+  }
+]

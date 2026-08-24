@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2021,
+    "appearances": 23
+  },
+  {
+    "clubName": "Portugal",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 1
+  },
+  {
+    "clubName": "Olympiakos Piraeus",
+    "country": "Greece",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Greece",
+    "yearStart": 2018,
+    "appearances": 50
+  },
+  {
+    "clubName": "FC Porto",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2015,
+    "appearances": 14
+  },
+  {
+    "clubName": "Maritimo",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2012,
+    "appearances": 8
+  }
+]

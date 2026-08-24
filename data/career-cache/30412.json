@@ -1,0 +1,82 @@
+[
+  {
+    "clubName": "AEL",
+    "country": "Cyprus",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Cyprus",
+    "yearStart": 2022,
+    "appearances": 22
+  },
+  {
+    "clubName": "Moreirense",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2021,
+    "appearances": 8
+  },
+  {
+    "clubName": "Gaziantep FK",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2020,
+    "appearances": 28
+  },
+  {
+    "clubName": "Antwerp",
+    "country": "Belgium",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Belgium",
+    "yearStart": 2019,
+    "appearances": 18
+  },
+  {
+    "clubName": "Fiorentina",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2018,
+    "appearances": 27
+  },
+  {
+    "clubName": "Olympiakos Piraeus",
+    "country": "Greece",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Greece",
+    "yearStart": 2010,
+    "appearances": 65
+  },
+  {
+    "clubName": "Everton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2012,
+    "appearances": 146
+  },
+  {
+    "clubName": "Belgium",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2008,
+    "appearances": 12
+  },
+  {
+    "clubName": "Saint Etienne",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 53
+  },
+  {
+    "clubName": "Lille",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 60
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Brazil",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 16
+  },
+  {
+    "clubName": "Arsenal",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 162
+  },
+  {
+    "clubName": "Ituano",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2018,
+    "appearances": 3
+  }
+]

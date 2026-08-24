@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Brazil",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 33
+  },
+  {
+    "clubName": "Arsenal",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2026,
+    "appearances": 1
+  },
+  {
+    "clubName": "Newcastle",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 125
+  },
+  {
+    "clubName": "Lyon",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2019,
+    "appearances": 36
+  },
+  {
+    "clubName": "Atletico Paranaense",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2017,
+    "appearances": 36
+  },
+  {
+    "clubName": "Gremio Osasco Audax",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2015,
+    "appearances": 1
+  }
+]

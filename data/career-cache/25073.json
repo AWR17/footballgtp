@@ -1,0 +1,18 @@
+[
+  {
+    "clubName": "Brentford",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2020,
+    "appearances": 184
+  },
+  {
+    "clubName": "VfL Bochum",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, Germany",
+    "yearStart": 2016,
+    "appearances": 53
+  }
+]

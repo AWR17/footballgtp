@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2025,
+    "appearances": 3
+  },
+  {
+    "clubName": "Congo DR",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2020,
+    "appearances": 13
+  },
+  {
+    "clubName": "Brentford",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 137
+  },
+  {
+    "clubName": "Lorient",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, France",
+    "yearStart": 2017,
+    "appearances": 117
+  },
+  {
+    "clubName": "Angers",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2016,
+    "appearances": 2
+  },
+  {
+    "clubName": "Chateauroux",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "a club in France",
+    "yearStart": 2015,
+    "appearances": 23
+  }
+]

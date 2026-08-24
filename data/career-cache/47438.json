@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Brentford",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2019,
+    "appearances": 218
+  },
+  {
+    "clubName": "Denmark",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2020,
+    "appearances": 19
+  },
+  {
+    "clubName": "FC Nordsjaelland",
+    "country": "Denmark",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Denmark",
+    "yearStart": 2015,
+    "appearances": 63
+  }
+]

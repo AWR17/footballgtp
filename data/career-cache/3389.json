@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "Benin",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2008,
+    "appearances": 27
+  },
+  {
+    "clubName": "Sirens",
+    "country": "Malta",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Malta",
+    "yearStart": 2022,
+    "appearances": 19
+  },
+  {
+    "clubName": "Gençlerbirliği S.K.",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2017,
+    "appearances": 76
+  },
+  {
+    "clubName": "Montpellier",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2016,
+    "appearances": 27
+  },
+  {
+    "clubName": "West Brom",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 79
+  },
+  {
+    "clubName": "Sunderland",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 85
+  },
+  {
+    "clubName": "Paris Saint Germain",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 63
+  },
+  {
+    "clubName": "Le Mans",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 44
+  },
+  {
+    "clubName": "Creteil",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 33
+  }
+]

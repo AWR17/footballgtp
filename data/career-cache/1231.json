@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "1899 Hoffenheim",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Germany",
+    "yearStart": 2025,
+    "appearances": 2
+  },
+  {
+    "clubName": "Czechia",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 31
+  },
+  {
+    "clubName": "West Ham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 147
+  },
+  {
+    "clubName": "Slavia Praha",
+    "country": "Czech-Republic",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Czech-Republic",
+    "yearStart": 2018,
+    "appearances": 60
+  },
+  {
+    "clubName": "Slovan Liberec",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 118
+  },
+  {
+    "clubName": "Opava",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 13
+  },
+  {
+    "clubName": "Hlučín",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 5
+  }
+]

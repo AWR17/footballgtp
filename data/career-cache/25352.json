@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Arta / SIHD",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2022,
+    "appearances": 2
+  },
+  {
+    "clubName": "Botafogo",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2020,
+    "appearances": 25
+  },
+  {
+    "clubName": "Hertha BSC",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2014,
+    "appearances": 151
+  },
+  {
+    "clubName": "Ivory Coast",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2009,
+    "appearances": 21
+  },
+  {
+    "clubName": "Lille",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2012,
+    "appearances": 66
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2006,
+    "appearances": 155
+  },
+  {
+    "clubName": "Feyenoord",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 34
+  }
+]

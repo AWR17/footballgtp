@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Bulgaria",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 1999,
+    "appearances": 58
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2006,
+    "appearances": 185
+  },
+  {
+    "clubName": "Celtic",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 37
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Denmark",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2005,
+    "appearances": 45
+  },
+  {
+    "clubName": "Brondby",
+    "country": "Denmark",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Denmark",
+    "yearStart": 2005,
+    "appearances": 48
+  },
+  {
+    "clubName": "Liverpool",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2006,
+    "appearances": 171
+  }
+]

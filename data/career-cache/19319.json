@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Malmo FF",
+    "country": "Sweden",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Sweden",
+    "yearStart": 2021,
+    "appearances": 76
+  },
+  {
+    "clubName": "Sweden",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2010,
+    "appearances": 23
+  },
+  {
+    "clubName": "BK Hacken",
+    "country": "Sweden",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Sweden",
+    "yearStart": 2020,
+    "appearances": 1
+  },
+  {
+    "clubName": "Swansea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 68
+  },
+  {
+    "clubName": "Norwich",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 103
+  },
+  {
+    "clubName": "Blackburn",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2007,
+    "appearances": 117
+  }
+]

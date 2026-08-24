@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Everton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 112
+  },
+  {
+    "clubName": "Ukraine",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2018,
+    "appearances": 33
+  },
+  {
+    "clubName": "Dynamo Kyiv",
+    "country": "Ukraine",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Ukraine",
+    "yearStart": 2017,
+    "appearances": 73
+  }
+]

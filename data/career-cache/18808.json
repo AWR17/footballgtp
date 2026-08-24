@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Forest Green",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2023,
+    "appearances": 16
+  },
+  {
+    "clubName": "Birmingham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2021,
+    "appearances": 54
+  },
+  {
+    "clubName": "Watford",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2010,
+    "appearances": 389
+  },
+  {
+    "clubName": "Walsall",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 87
+  }
+]

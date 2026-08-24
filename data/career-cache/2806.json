@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 198
+  },
+  {
+    "clubName": "Switzerland",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2013,
+    "appearances": 34
+  },
+  {
+    "clubName": "Deportivo La Coruna",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2017,
+    "appearances": 25
+  },
+  {
+    "clubName": "1899 Hoffenheim",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2015,
+    "appearances": 30
+  },
+  {
+    "clubName": "FC Basel 1893",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 73
+  },
+  {
+    "clubName": "FC WIL 1900",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 52
+  }
+]
