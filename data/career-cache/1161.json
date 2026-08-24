@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Fulham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 68
+  },
+  {
+    "clubName": "Arsenal",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 67
+  },
+  {
+    "clubName": "England",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2020,
+    "appearances": 3
+  }
+]

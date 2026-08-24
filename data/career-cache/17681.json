@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "Ashton United",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2022,
+    "appearances": 0
+  },
+  {
+    "clubName": "Darlington 1883",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2020,
+    "appearances": 6
+  },
+  {
+    "clubName": "Crewe",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2018,
+    "appearances": 47
+  },
+  {
+    "clubName": "Notts County",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2017,
+    "appearances": 13
+  },
+  {
+    "clubName": "Leyton Orient",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2015,
+    "appearances": 51
+  },
+  {
+    "clubName": "Accrington ST",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2012,
+    "appearances": 77
+  },
+  {
+    "clubName": "Bristol City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2010,
+    "appearances": 7
+  },
+  {
+    "clubName": "Derby",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 21
+  },
+  {
+    "clubName": "Bolton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2003,
+    "appearances": 125
+  }
+]

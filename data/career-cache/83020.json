@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Derby",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2020,
+    "appearances": 0
+  },
+  {
+    "clubName": "Brighton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2015,
+    "appearances": 46
+  },
+  {
+    "clubName": "Hull City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2010,
+    "appearances": 144
+  },
+  {
+    "clubName": "Ipswich",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 29
+  },
+  {
+    "clubName": "Reading",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 61
+  },
+  {
+    "clubName": "Fulham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2004,
+    "appearances": 79
+  }
+]

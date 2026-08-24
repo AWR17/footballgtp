@@ -1,0 +1,18 @@
+[
+  {
+    "clubName": "Leeds",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2019,
+    "appearances": 203
+  },
+  {
+    "clubName": "Lorient",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, France",
+    "yearStart": 2018,
+    "appearances": 28
+  }
+]

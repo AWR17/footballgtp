@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 139
+  },
+  {
+    "clubName": "Ivory Coast",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2009,
+    "appearances": 16
+  },
+  {
+    "clubName": "Twente",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 56
+  },
+  {
+    "clubName": "Roda",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 26
+  },
+  {
+    "clubName": "Anderlecht",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 4
+  }
+]

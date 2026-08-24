@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Manchester City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2022,
+    "appearances": 35
+  },
+  {
+    "clubName": "Portugal",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2020,
+    "appearances": 6
+  },
+  {
+    "clubName": "Sporting CP",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2019,
+    "appearances": 74
+  },
+  {
+    "clubName": "Brazil",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 0
+  },
+  {
+    "clubName": "Estoril",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Portugal",
+    "yearStart": 2018,
+    "appearances": 6
+  }
+]

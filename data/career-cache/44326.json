@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Oman",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2002,
+    "appearances": 42
+  },
+  {
+    "clubName": "West Brom",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2019,
+    "appearances": 0
+  },
+  {
+    "clubName": "Al-Hilal Saudi FC",
+    "country": "Saudi-Arabia",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Saudi-Arabia",
+    "yearStart": 2017,
+    "appearances": 34
+  },
+  {
+    "clubName": "Reading",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2015,
+    "appearances": 81
+  },
+  {
+    "clubName": "Brighton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2014,
+    "appearances": 1
+  },
+  {
+    "clubName": "Wigan",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 125
+  },
+  {
+    "clubName": "Bolton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 10
+  }
+]

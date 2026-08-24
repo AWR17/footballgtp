@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Aston Villa",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2025,
+    "appearances": 1
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2024,
+    "appearances": 31
+  },
+  {
+    "clubName": "Manchester United",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 58
+  },
+  {
+    "clubName": "Borussia Dortmund",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2017,
+    "appearances": 104
+  },
+  {
+    "clubName": "England",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2018,
+    "appearances": 6
+  }
+]

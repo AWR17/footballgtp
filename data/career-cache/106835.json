@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Japan",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 14
+  },
+  {
+    "clubName": "Brighton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 88
+  },
+  {
+    "clubName": "Union St. Gilloise",
+    "country": "Belgium",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Belgium",
+    "yearStart": 2021,
+    "appearances": 27
+  },
+  {
+    "clubName": "Kawasaki Frontale",
+    "country": "Japan",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Japan",
+    "yearStart": 2019,
+    "appearances": 31
+  },
+  {
+    "clubName": "Tsukuba University",
+    "country": "Japan",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Japan",
+    "yearStart": 2017,
+    "appearances": 1
+  }
+]

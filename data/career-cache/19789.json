@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Brentford",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2019,
+    "appearances": 205
+  },
+  {
+    "clubName": "Jamaica",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2021,
+    "appearances": 15
+  },
+  {
+    "clubName": "Barnsley",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2017,
+    "appearances": 58
+  },
+  {
+    "clubName": "Forest Green",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2016,
+    "appearances": 40
+  },
+  {
+    "clubName": "Dulwich Hamlet",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2015,
+    "appearances": 2
+  }
+]

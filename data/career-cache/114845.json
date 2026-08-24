@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Coventry",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2015,
+    "appearances": 5
+  },
+  {
+    "clubName": "Ipswich",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2013,
+    "appearances": 40
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 56
+  },
+  {
+    "clubName": "Rep. Of Ireland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 25
+  },
+  {
+    "clubName": "Hull City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 27
+  },
+  {
+    "clubName": "Reading",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 157
+  }
+]

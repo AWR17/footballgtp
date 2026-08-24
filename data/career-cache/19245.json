@@ -1,0 +1,18 @@
+[
+  {
+    "clubName": "Bournemouth",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 84
+  },
+  {
+    "clubName": "Middlesbrough",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2017,
+    "appearances": 135
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "clubName": "Molde",
+    "country": "Norway",
+    "isNationalTeam": false,
+    "tierLabel": "European competition",
+    "yearStart": 2015,
+    "appearances": 13
+  },
+  {
+    "clubName": "Iceland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2000,
+    "appearances": 68
+  },
+  {
+    "clubName": "Bolton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2014,
+    "appearances": 21
+  },
+  {
+    "clubName": "Club Brugge KV",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 0
+  },
+  {
+    "clubName": "Cercle Brugge",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 1
+  },
+  {
+    "clubName": "AEK Athens FC",
+    "country": "Greece",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Greece",
+    "yearStart": 2011,
+    "appearances": 10
+  },
+  {
+    "clubName": "Fulham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 10
+  },
+  {
+    "clubName": "Tottenham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 11
+  },
+  {
+    "clubName": "Barcelona",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 72
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2003,
+    "appearances": 89
+  }
+]

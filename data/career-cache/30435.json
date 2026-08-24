@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Sweden",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2020,
+    "appearances": 29
+  },
+  {
+    "clubName": "Tottenham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 116
+  },
+  {
+    "clubName": "Juventus",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2020,
+    "appearances": 35
+  },
+  {
+    "clubName": "Parma",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2019,
+    "appearances": 1
+  },
+  {
+    "clubName": "Atalanta",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2017,
+    "appearances": 3
+  }
+]

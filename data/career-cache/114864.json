@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "CSKA Sofia",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 17
+  },
+  {
+    "clubName": "Espanyol",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2012,
+    "appearances": 8
+  },
+  {
+    "clubName": "Bolton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 59
+  },
+  {
+    "clubName": "Bulgaria",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2000,
+    "appearances": 48
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 59
+  },
+  {
+    "clubName": "Atletico Madrid",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 49
+  },
+  {
+    "clubName": "Servette FC",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 1998,
+    "appearances": 75
+  }
+]

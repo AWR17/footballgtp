@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Torpedo Kutaisi",
+    "country": "Georgia",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Georgia",
+    "yearStart": 2024,
+    "appearances": 16
+  },
+  {
+    "clubName": "Montpellier",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2021,
+    "appearances": 62
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2016,
+    "appearances": 72
+  },
+  {
+    "clubName": "France",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2010,
+    "appearances": 17
+  },
+  {
+    "clubName": "Liverpool",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 56
+  },
+  {
+    "clubName": "Paris Saint Germain",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2007,
+    "appearances": 151
+  }
+]

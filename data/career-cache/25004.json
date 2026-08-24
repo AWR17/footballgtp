@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Olympiakos Piraeus",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "European competition",
+    "yearStart": 2026,
+    "appearances": 0
+  },
+  {
+    "clubName": "Nottingham Forest",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "European competition",
+    "yearStart": 2025,
+    "appearances": 7
+  },
+  {
+    "clubName": "Manchester City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 114
+  },
+  {
+    "clubName": "Germany",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2024,
+    "appearances": 0
+  },
+  {
+    "clubName": "Arminia Bielefeld",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Germany",
+    "yearStart": 2011,
+    "appearances": 202
+  },
+  {
+    "clubName": "TSV 1860 München",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, Germany",
+    "yearStart": 2014,
+    "appearances": 56
+  }
+]

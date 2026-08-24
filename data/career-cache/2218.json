@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Senegal",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 37
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2024,
+    "appearances": 4
+  },
+  {
+    "clubName": "Marseille",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2023,
+    "appearances": 23
+  },
+  {
+    "clubName": "Watford",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 126
+  },
+  {
+    "clubName": "Rennes",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2017,
+    "appearances": 59
+  },
+  {
+    "clubName": "Metz",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2016,
+    "appearances": 31
+  }
+]

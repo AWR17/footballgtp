@@ -1,0 +1,66 @@
+[
+  {
+    "clubName": "St. Truiden",
+    "country": "Belgium",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Belgium",
+    "yearStart": 2022,
+    "appearances": 37
+  },
+  {
+    "clubName": "Japan",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2008,
+    "appearances": 40
+  },
+  {
+    "clubName": "FC Cartagena",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, Spain",
+    "yearStart": 2021,
+    "appearances": 32
+  },
+  {
+    "clubName": "Huesca",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, Spain",
+    "yearStart": 2019,
+    "appearances": 62
+  },
+  {
+    "clubName": "Leicester",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 93
+  },
+  {
+    "clubName": "FSV Mainz 05",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2013,
+    "appearances": 65
+  },
+  {
+    "clubName": "VfB Stuttgart",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2010,
+    "appearances": 63
+  },
+  {
+    "clubName": "Shimizu S-pulse",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 42
+  }
+]

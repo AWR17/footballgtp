@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Al Shabab",
+    "country": "Saudi-Arabia",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Saudi-Arabia",
+    "yearStart": 2025,
+    "appearances": 32
+  },
+  {
+    "clubName": "Burnley",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 194
+  },
+  {
+    "clubName": "Bristol City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2016,
+    "appearances": 117
+  },
+  {
+    "clubName": "Barnsley",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2015,
+    "appearances": 25
+  },
+  {
+    "clubName": "Preston",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2013,
+    "appearances": 43
+  }
+]

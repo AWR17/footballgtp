@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Ivory Coast",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2021,
+    "appearances": 18
+  },
+  {
+    "clubName": "Nottingham Forest",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2022,
+    "appearances": 6
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2017,
+    "appearances": 22
+  },
+  {
+    "clubName": "FC Porto",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Portugal",
+    "yearStart": 2016,
+    "appearances": 0
+  },
+  {
+    "clubName": "SC Braga",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2014,
+    "appearances": 22
+  },
+  {
+    "clubName": "Auxerre",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2010,
+    "appearances": 79
+  }
+]

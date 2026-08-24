@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Brighton",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2026,
+    "appearances": 0
+  },
+  {
+    "clubName": "Leeds",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2017,
+    "appearances": 153
+  },
+  {
+    "clubName": "Netherlands",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 0
+  }
+]

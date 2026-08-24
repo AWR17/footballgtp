@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Manchester United",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2005,
+    "appearances": 0
+  },
+  {
+    "clubName": "England",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2015,
+    "appearances": 1
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 20
+  },
+  {
+    "clubName": "Burnley",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2013,
+    "appearances": 188
+  },
+  {
+    "clubName": "Bristol City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2012,
+    "appearances": 43
+  },
+  {
+    "clubName": "Cardiff",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2008,
+    "appearances": 50
+  },
+  {
+    "clubName": "QPR",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 2
+  }
+]

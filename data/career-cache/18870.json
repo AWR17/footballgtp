@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Bournemouth",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 129
+  },
+  {
+    "clubName": "Wales",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 24
+  },
+  {
+    "clubName": "Sheffield Utd",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2015,
+    "appearances": 30
+  }
+]

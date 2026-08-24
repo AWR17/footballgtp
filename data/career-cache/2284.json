@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Marseille",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "a club in France",
+    "yearStart": 2025,
+    "appearances": 2
+  },
+  {
+    "clubName": "West Ham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 93
+  },
+  {
+    "clubName": "Italy",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2018,
+    "appearances": 11
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 33
+  },
+  {
+    "clubName": "AS Roma",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2015,
+    "appearances": 33
+  },
+  {
+    "clubName": "Santos",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2011,
+    "appearances": 8
+  }
+]

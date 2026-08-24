@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Leicester",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2018,
+    "appearances": 80
+  },
+  {
+    "clubName": "Portugal",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2015,
+    "appearances": 3
+  },
+  {
+    "clubName": "FC Porto",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2013,
+    "appearances": 46
+  },
+  {
+    "clubName": "Nice",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "a club in France",
+    "yearStart": 2016,
+    "appearances": 0
+  },
+  {
+    "clubName": "Vitória SC",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2011,
+    "appearances": 10
+  }
+]

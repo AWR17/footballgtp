@@ -1,0 +1,18 @@
+[
+  {
+    "clubName": "Nottingham Forest",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2016,
+    "appearances": 220
+  },
+  {
+    "clubName": "Notts County",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2017,
+    "appearances": 25
+  }
+]

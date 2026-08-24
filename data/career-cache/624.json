@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Argentina",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2009,
+    "appearances": 84
+  },
+  {
+    "clubName": "River Plate",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2026,
+    "appearances": 1
+  },
+  {
+    "clubName": "Benfica",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2020,
+    "appearances": 62
+  },
+  {
+    "clubName": "Manchester City",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2015,
+    "appearances": 26
+  },
+  {
+    "clubName": "Valencia",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2014,
+    "appearances": 35
+  },
+  {
+    "clubName": "FC Porto",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 6
+  },
+  {
+    "clubName": "Velez Sarsfield",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 37
+  }
+]

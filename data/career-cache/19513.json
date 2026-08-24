@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Gillingham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2025,
+    "appearances": 1
+  },
+  {
+    "clubName": "Wycombe",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2021,
+    "appearances": 133
+  },
+  {
+    "clubName": "Stoke City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2018,
+    "appearances": 78
+  },
+  {
+    "clubName": "Wales",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2008,
+    "appearances": 32
+  },
+  {
+    "clubName": "Burnley",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2011,
+    "appearances": 219
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2008,
+    "appearances": 39
+  },
+  {
+    "clubName": "Bournemouth",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 54
+  }
+]

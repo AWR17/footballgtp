@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Argentina",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 22
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 62
+  },
+  {
+    "clubName": "River Plate",
+    "country": "Argentina",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Argentina",
+    "yearStart": 2018,
+    "appearances": 20
+  }
+]

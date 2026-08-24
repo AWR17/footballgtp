@@ -1,0 +1,90 @@
+[
+  {
+    "clubName": "Beitar Jerusalem",
+    "country": "Israel",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Israel",
+    "yearStart": 2019,
+    "appearances": 1
+  },
+  {
+    "clubName": "Israel",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2002,
+    "appearances": 73
+  },
+  {
+    "clubName": "Maccabi Tel Aviv",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2015,
+    "appearances": 8
+  },
+  {
+    "clubName": "Charlton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2014,
+    "appearances": 37
+  },
+  {
+    "clubName": "Standard Liege",
+    "country": "Belgium",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Belgium",
+    "yearStart": 2013,
+    "appearances": 10
+  },
+  {
+    "clubName": "QPR",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2012,
+    "appearances": 3
+  },
+  {
+    "clubName": "Portsmouth",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2009,
+    "appearances": 55
+  },
+  {
+    "clubName": "West Ham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 8
+  },
+  {
+    "clubName": "Manchester City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 9
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 13
+  },
+  {
+    "clubName": "Bolton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2004,
+    "appearances": 87
+  }
+]

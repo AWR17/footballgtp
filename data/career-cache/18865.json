@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Bournemouth",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "3rd tier, England",
+    "yearStart": 2011,
+    "appearances": 272
+  },
+  {
+    "clubName": "Charlton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2010,
+    "appearances": 34
+  },
+  {
+    "clubName": "Southend",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 89
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "clubName": "Al Nasr",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2024,
+    "appearances": 23
+  },
+  {
+    "clubName": "Alanyaspor",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2021,
+    "appearances": 81
+  },
+  {
+    "clubName": "Feyenoord",
+    "country": "Netherlands",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Netherlands",
+    "yearStart": 2007,
+    "appearances": 142
+  },
+  {
+    "clubName": "Netherlands",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2010,
+    "appearances": 7
+  },
+  {
+    "clubName": "Swansea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 90
+  },
+  {
+    "clubName": "QPR",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 29
+  },
+  {
+    "clubName": "Norwich",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2013,
+    "appearances": 29
+  },
+  {
+    "clubName": "Twente",
+    "country": "Netherlands",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Netherlands",
+    "yearStart": 2012,
+    "appearances": 30
+  }
+]

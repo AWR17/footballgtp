@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Atletico-MG",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2026,
+    "appearances": 1
+  },
+  {
+    "clubName": "Fenerbahçe",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2023,
+    "appearances": 3
+  },
+  {
+    "clubName": "Manchester United",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2018,
+    "appearances": 40
+  },
+  {
+    "clubName": "Brazil",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2011,
+    "appearances": 27
+  },
+  {
+    "clubName": "Shakhtar Donetsk",
+    "country": "Ukraine",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Ukraine",
+    "yearStart": 2013,
+    "appearances": 101
+  },
+  {
+    "clubName": "Internacional",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2011,
+    "appearances": 5
+  }
+]

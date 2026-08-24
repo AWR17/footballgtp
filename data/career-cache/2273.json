@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Arsenal",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2024,
+    "appearances": 33
+  },
+  {
+    "clubName": "Real Madrid",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2023,
+    "appearances": 35
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2018,
+    "appearances": 109
+  },
+  {
+    "clubName": "Spain",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 3
+  },
+  {
+    "clubName": "Athletic Club",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2011,
+    "appearances": 53
+  },
+  {
+    "clubName": "Valladolid",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2015,
+    "appearances": 39
+  }
+]

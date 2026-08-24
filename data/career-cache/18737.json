@@ -1,0 +1,66 @@
+[
+  {
+    "clubName": "Newcastle",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2024,
+    "appearances": 42
+  },
+  {
+    "clubName": "Birmingham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2022,
+    "appearances": 86
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2017,
+    "appearances": 50
+  },
+  {
+    "clubName": "Norwich",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 238
+  },
+  {
+    "clubName": "England",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 1
+  },
+  {
+    "clubName": "Motherwell",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 34
+  },
+  {
+    "clubName": "Crewe",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 18
+  },
+  {
+    "clubName": "Everton",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 0
+  }
+]

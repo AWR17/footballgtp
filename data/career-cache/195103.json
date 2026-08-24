@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Aston Villa",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2026,
+    "appearances": 1
+  },
+  {
+    "clubName": "Brazil",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2023,
+    "appearances": 6
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 91
+  },
+  {
+    "clubName": "Flamengo",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2020,
+    "appearances": 14
+  }
+]

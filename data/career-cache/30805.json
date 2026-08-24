@@ -1,0 +1,90 @@
+[
+  {
+    "clubName": "Brescia",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, Italy",
+    "yearStart": 2021,
+    "appearances": 5
+  },
+  {
+    "clubName": "Genoa",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2019,
+    "appearances": 43
+  },
+  {
+    "clubName": "Udinese",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2017,
+    "appearances": 39
+  },
+  {
+    "clubName": "Switzerland",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2006,
+    "appearances": 31
+  },
+  {
+    "clubName": "Watford",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2015,
+    "appearances": 48
+  },
+  {
+    "clubName": "Hamburger SV",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2014,
+    "appearances": 22
+  },
+  {
+    "clubName": "Napoli",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2012,
+    "appearances": 54
+  },
+  {
+    "clubName": "Fiorentina",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2010,
+    "appearances": 48
+  },
+  {
+    "clubName": "West Ham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 51
+  },
+  {
+    "clubName": "Lazio",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 65
+  },
+  {
+    "clubName": "FC Lugano",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2002,
+    "appearances": 2
+  }
+]

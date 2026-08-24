@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Scotland",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 40
+  },
+  {
+    "clubName": "Bournemouth",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2021,
+    "appearances": 137
+  },
+  {
+    "clubName": "Celtic",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2015,
+    "appearances": 91
+  },
+  {
+    "clubName": "Aberdeen",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2017,
+    "appearances": 32
+  },
+  {
+    "clubName": "Inverness CT",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2012,
+    "appearances": 50
+  }
+]

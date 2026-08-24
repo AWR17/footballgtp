@@ -1,6 +1,15 @@
 {
+  "18": {
+    "name": "Jadon Sancho",
+    "position": "Attacker",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
   "44": {
-    "name": "Rodrigo Hernández Cascante",
+    "name": "Rodri",
     "position": "Midfielder",
     "nationality": "Spain",
     "debutDecade": 2010,
@@ -8,17 +17,44 @@
     "transferFeeBand": "50M+",
     "plAppsBand": "150-300"
   },
-  "108": {
-    "name": "Francesc Fàbregas i Soler",
+  "49": {
+    "name": "Thomas Teye Partey",
     "position": "Midfielder",
+    "nationality": "Ghana",
+    "debutDecade": 2010,
+    "clubCount": 7,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "54": {
+    "name": "Diego Costa",
+    "position": "Attacker",
     "nationality": "Spain",
     "debutDecade": 2000,
+    "clubCount": 13,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "106": {
+    "name": "Nacer Chadli",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "debutDecade": 2010,
+    "clubCount": 9,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "108": {
+    "name": "Cesc Fàbregas",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "130": {
-    "name": "Nélson Cabral Semedo",
+    "name": "Nélson Semedo",
     "position": "Defender",
     "nationality": "Portugal",
     "debutDecade": 2010,
@@ -26,8 +62,17 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
+  "140": {
+    "name": "Thomas Vermaelen",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "147": {
-    "name": "Philippe Coutinho Correia",
+    "name": "Philippe Coutinho",
     "position": "Midfielder",
     "nationality": "Brazil",
     "debutDecade": 2000,
@@ -35,17 +80,26 @@
     "transferFeeBand": "50M+",
     "plAppsBand": "150-300"
   },
+  "157": {
+    "name": "Luis Suárez Díaz",
+    "position": "Attacker",
+    "nationality": "Uruguay",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
   "159": {
-    "name": "Hugo Hadrien Dominique Lloris",
-    "position": "Goalkeeper",
-    "nationality": "France",
+    "name": "H. Lloris",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "162": {
-    "name": "Toby Albertine Maurits Alderweireld",
+    "name": "Toby Alderweireld",
     "position": "Defender",
     "nationality": "Belgium",
     "debutDecade": 2000,
@@ -53,17 +107,26 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
-  "164": {
-    "name": "Benjamin Thomas Davies",
+  "163": {
+    "name": "Sèrge Aurier",
     "position": "Defender",
-    "nationality": "Wales",
+    "nationality": "Côte d'Ivoire",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "164": {
+    "name": "B. Davies",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 3,
     "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "167": {
-    "name": "Daniel Lee Rose",
+    "name": "Daniel Rose",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -71,8 +134,17 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
+  "168": {
+    "name": "Davinson Sánchez Mina",
+    "position": "Defender",
+    "nationality": "Colombia",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "169": {
-    "name": "Kieran John Trippier",
+    "name": "Kieran Trippier",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -90,7 +162,7 @@
     "plAppsBand": "150-300"
   },
   "171": {
-    "name": "Kyle Leonardus Walker-Peters",
+    "name": "Kyle Walker-Peters",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -99,7 +171,7 @@
     "plAppsBand": "150-300"
   },
   "172": {
-    "name": "Bamidele Jermaine Alli",
+    "name": "Bamidele Alli",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -108,25 +180,25 @@
     "plAppsBand": "150-300"
   },
   "174": {
-    "name": "Christian Dannemann Eriksen",
-    "position": "Midfielder",
-    "nationality": "Denmark",
+    "name": "C. Eriksen",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "175": {
-    "name": "Eric Jeremy Edgar Dier",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "E. Dier",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "176": {
-    "name": "Erik Manuel Lamela Cordero",
+    "name": "Erik Lamela Cordero",
     "position": "Midfielder",
     "nationality": "Argentina",
     "debutDecade": 2000,
@@ -135,7 +207,7 @@
     "plAppsBand": "150-300"
   },
   "178": {
-    "name": "Lucas Rodrigues Moura da Silva",
+    "name": "Lucas Moura",
     "position": "Attacker",
     "nationality": "Brazil",
     "debutDecade": 2010,
@@ -144,12 +216,12 @@
     "plAppsBand": "150-300"
   },
   "179": {
-    "name": "Moussa Sissoko",
-    "position": "Midfielder",
-    "nationality": "France",
+    "name": "M. Sissoko",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "181": {
@@ -162,7 +234,7 @@
     "plAppsBand": "150-300"
   },
   "182": {
-    "name": "Harry Billy Winks",
+    "name": "Harry Winks",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -171,25 +243,25 @@
     "plAppsBand": "150-300"
   },
   "184": {
-    "name": "Harry Edward Kane",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "H. Kane",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "186": {
-    "name": "Heung-Min Son",
-    "position": "Attacker",
-    "nationality": "Korea Republic",
+    "name": "Son Heung-Min",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "190": {
-    "name": "Cédric Ricardo Alves Soares",
+    "name": "Cédric Soares",
     "position": "Defender",
     "nationality": "Portugal",
     "debutDecade": 2010,
@@ -197,35 +269,62 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "50-150"
   },
-  "280": {
-    "name": "Alisson Ramsés Becker",
+  "247": {
+    "name": "Cody Gakpo",
+    "position": "Attacker",
+    "nationality": "Netherlands",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "253": {
+    "name": "Alphonse Areola",
     "position": "Goalkeeper",
+    "nationality": "France",
+    "debutDecade": 2010,
+    "clubCount": 7,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "259": {
+    "name": "Thiago Silva",
+    "position": "Defender",
     "nationality": "Brazil",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "280": {
+    "name": "Alisson Becker",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "282": {
-    "name": "Simon Luc Hildebert Mignolet",
-    "position": "Goalkeeper",
-    "nationality": "Belgium",
+    "name": "S. Mignolet",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "283": {
-    "name": "Trent John Alexander-Arnold",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "T. Alexander-Arnold",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 3,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "284": {
-    "name": "Joseph Dave Gomez",
+    "name": "Joseph Gomez",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -234,7 +333,7 @@
     "plAppsBand": "150-300"
   },
   "286": {
-    "name": "Job Joël André Matip",
+    "name": "Job Matip",
     "position": "Defender",
     "nationality": "Cameroon",
     "debutDecade": 2000,
@@ -252,34 +351,34 @@
     "plAppsBand": "150-300"
   },
   "289": {
-    "name": "Andrew Henry Robertson",
-    "position": "Defender",
-    "nationality": "Scotland",
+    "name": "A. Robertson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "290": {
-    "name": "Virgil van Dijk",
-    "position": "Defender",
-    "nationality": "Netherlands",
+    "name": "V. van Dijk",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "292": {
-    "name": "Jordan Brian Henderson",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "J. Henderson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "293": {
-    "name": "Curtis Julian Jones",
+    "name": "Curtis Jones",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -288,25 +387,25 @@
     "plAppsBand": "150-300"
   },
   "295": {
-    "name": "Adam David Lallana",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "A. Lallana",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "296": {
-    "name": "James Philip Milner",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "J. Milner",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "297": {
-    "name": "Alexander Mark David Oxlade-Chamberlain",
+    "name": "Alexander Oxlade-Chamberlain",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2000,
@@ -315,7 +414,7 @@
     "plAppsBand": "150-300"
   },
   "299": {
-    "name": "Fábio Henrique Tavares",
+    "name": "Fabinho",
     "position": "Midfielder",
     "nationality": "Brazil",
     "debutDecade": 2010,
@@ -324,7 +423,7 @@
     "plAppsBand": "150-300"
   },
   "300": {
-    "name": "Georginio Gregion Emile Wijnaldum",
+    "name": "Georginio Wijnaldum",
     "position": "Midfielder",
     "nationality": "Netherlands",
     "debutDecade": 2000,
@@ -333,31 +432,49 @@
     "plAppsBand": "150-300"
   },
   "302": {
-    "name": "Roberto Firmino Barbosa de Oliveira",
-    "position": "Attacker",
-    "nationality": "Brazil",
+    "name": "Roberto Firmino",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "304": {
-    "name": "Sadio Mané",
-    "position": "Attacker",
-    "nationality": "Senegal",
+    "name": "S. Mané",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 7,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
-  "306": {
-    "name": "Mohamed Salah Hamed Mahrous Ghaly",
+  "305": {
+    "name": "Divock Okoth Origi",
     "position": "Attacker",
-    "nationality": "Egypt",
+    "nationality": "Belgium",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "306": {
+    "name": "Mohamed Salah",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 7,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
+  },
+  "307": {
+    "name": "Xherdan Shaqiri",
+    "position": "Midfielder",
+    "nationality": "Switzerland",
+    "debutDecade": 2000,
+    "clubCount": 8,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "308": {
     "name": "Daniel Andre Sturridge",
@@ -368,8 +485,17 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "468": {
+    "name": "V. Ćorluka",
+    "position": "Defender",
+    "nationality": "Croatia",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "537": {
-    "name": "Joël Ivo Veltman",
+    "name": "Joël Veltman",
     "position": "Defender",
     "nationality": "Netherlands",
     "debutDecade": 2010,
@@ -377,8 +503,17 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
+  "554": {
+    "name": "Dušan Tadić",
+    "position": "Forward",
+    "nationality": "Serbia",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "567": {
-    "name": "Rúben dos Santos Gato Alves Dias",
+    "name": "Rúben Dias",
     "position": "Defender",
     "nationality": "Portugal",
     "debutDecade": 2010,
@@ -387,39 +522,57 @@
     "plAppsBand": "150-300"
   },
   "617": {
-    "name": "Ederson Santana de Moraes",
-    "position": "Goalkeeper",
-    "nationality": "Brazil",
+    "name": "Ederson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
-  "626": {
-    "name": "John Stones",
+  "622": {
+    "name": "Aymeric Laporte",
     "position": "Defender",
-    "nationality": "England",
+    "nationality": "Spain",
     "debutDecade": 2010,
     "clubCount": 5,
     "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "624": {
+    "name": "Nicolás Otamendi",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "626": {
+    "name": "J. Stones",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "627": {
-    "name": "Kyle Andrew Walker",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "K. Walker",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "629": {
-    "name": "Kevin De Bruyne",
-    "position": "Midfielder",
-    "nationality": "Belgium",
+    "name": "K. De Bruyne",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "630": {
@@ -432,7 +585,7 @@
     "plAppsBand": "150-300"
   },
   "631": {
-    "name": "Philip Walter Foden",
+    "name": "Philip Foden",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -441,7 +594,7 @@
     "plAppsBand": "150-300"
   },
   "633": {
-    "name": "İlkay Gündoğan",
+    "name": "İ. Gündoğan",
     "position": "Midfielder",
     "nationality": "Germany",
     "debutDecade": 2000,
@@ -450,39 +603,39 @@
     "plAppsBand": "150-300"
   },
   "634": {
-    "name": "David Josué Jiménez Silva",
-    "position": "Midfielder",
-    "nationality": "Spain",
+    "name": "David Silva",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "635": {
-    "name": "Riyad Karim Mahrez",
-    "position": "Attacker",
-    "nationality": "Algeria",
+    "name": "R. Mahrez",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "636": {
-    "name": "Bernardo Mota Veiga de Carvalho e Silva",
-    "position": "Midfielder",
-    "nationality": "Portugal",
+    "name": "Bernardo Silva",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "640": {
-    "name": "Fernando Luiz Roza",
-    "position": "Midfielder",
-    "nationality": "Brazil",
+    "name": "Fernandinho",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "641": {
@@ -495,34 +648,52 @@
     "plAppsBand": "150-300"
   },
   "642": {
-    "name": "Sergio Leonel Agüero del Castillo",
-    "position": "Attacker",
-    "nationality": "Argentina",
+    "name": "S. Agüero",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "643": {
-    "name": "Gabriel Fernando de Jesus",
-    "position": "Attacker",
-    "nationality": "Brazil",
+    "name": "Gabriel Jesus",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "645": {
-    "name": "Raheem Shaquille Sterling",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "R. Sterling",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 6,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
+  "655": {
+    "name": "Rafael",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "657": {
+    "name": "Kenny Tete",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "723": {
-    "name": "Joelinton Cássio Apolinário de Lira",
+    "name": "Joelinton",
     "position": "Midfielder",
     "nationality": "Brazil",
     "debutDecade": 2010,
@@ -530,8 +701,35 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
+  "730": {
+    "name": "Thibaut Courtois",
+    "position": "Goalkeeper",
+    "nationality": "Belgium",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "747": {
+    "name": "Casemiro",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "754": {
+    "name": "Luka Modrić",
+    "position": "Midfielder",
+    "nationality": "Croatia",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "758": {
-    "name": "Gareth Frank Bale",
+    "name": "Gareth Bale",
     "position": "Attacker",
     "nationality": "Wales",
     "debutDecade": 2000,
@@ -549,7 +747,7 @@
     "plAppsBand": "150-300"
   },
   "780": {
-    "name": "Steven N'Kemboanza Mike Christ Nzonzi",
+    "name": "Steven Nzonzi",
     "position": "Midfielder",
     "nationality": "France",
     "debutDecade": 2000,
@@ -557,8 +755,44 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
+  "790": {
+    "name": "Edin Džeko",
+    "position": "Forward",
+    "nationality": "Bosnia and Herzegovina",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "851": {
+    "name": "Wojciech Szczęsny",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "863": {
+    "name": "Rodrigo Bentancur Colmán",
+    "position": "Midfielder",
+    "nationality": "Uruguay",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "864": {
+    "name": "Emre Can",
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "874": {
-    "name": "Cristiano Ronaldo dos Santos Aveiro",
+    "name": "Cristiano Ronaldo",
     "position": "Forward",
     "nationality": "Portugal",
     "debutDecade": 2000,
@@ -567,16 +801,16 @@
     "plAppsBand": "150-300"
   },
   "882": {
-    "name": "David de Gea Quintana",
-    "position": "Goalkeeper",
-    "nationality": "Spain",
+    "name": "David de Gea",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "886": {
-    "name": "José Diogo Dalot Teixeira",
+    "name": "Diogo Dalot",
     "position": "Defender",
     "nationality": "Portugal",
     "debutDecade": 2010,
@@ -585,7 +819,7 @@
     "plAppsBand": "150-300"
   },
   "888": {
-    "name": "Phil Anthony Jones",
+    "name": "Phil Jones",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -594,7 +828,7 @@
     "plAppsBand": "150-300"
   },
   "889": {
-    "name": "Victor Jörgen Nilsson Lindelöf",
+    "name": "Victor Nilsson Lindelöf",
     "position": "Defender",
     "nationality": "Sweden",
     "debutDecade": 2010,
@@ -603,16 +837,16 @@
     "plAppsBand": "150-300"
   },
   "891": {
-    "name": "Luke Paul Hoare Shaw",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "L. Shaw",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 3,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "892": {
-    "name": "Christopher Lloyd Smalling",
+    "name": "Christopher Smalling",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -621,25 +855,43 @@
     "plAppsBand": "150-300"
   },
   "893": {
-    "name": "Luis Antonio Valencia Mosquera",
-    "position": "Midfielder",
-    "nationality": "Ecuador",
+    "name": "A. Valencia",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "894": {
-    "name": "Ashley Simon Young",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "A. Young",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
+  "895": {
+    "name": "James Garner",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "898": {
+    "name": "Ander Herrera",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "899": {
-    "name": "Andreas Hugo Hoelgebaum Pereira",
+    "name": "Andreas Pereira",
     "position": "Midfielder",
     "nationality": "Brazil",
     "debutDecade": 2010,
@@ -648,7 +900,7 @@
     "plAppsBand": "50-150"
   },
   "900": {
-    "name": "Jesse Ellis Lingard",
+    "name": "Jesse Lingard",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -657,12 +909,12 @@
     "plAppsBand": "150-300"
   },
   "901": {
-    "name": "Juan Manuel Mata García",
-    "position": "Midfielder",
-    "nationality": "Spain",
+    "name": "Mata",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "902": {
@@ -675,7 +927,7 @@
     "plAppsBand": "150-300"
   },
   "903": {
-    "name": "Scott Francis McTominay",
+    "name": "Scott McTominay",
     "position": "Midfielder",
     "nationality": "Scotland",
     "debutDecade": 2010,
@@ -684,7 +936,7 @@
     "plAppsBand": "150-300"
   },
   "904": {
-    "name": "Paul Labile Pogba",
+    "name": "Paul Pogba",
     "position": "Midfielder",
     "nationality": "France",
     "debutDecade": 2010,
@@ -692,17 +944,26 @@
     "transferFeeBand": "50M+",
     "plAppsBand": "150-300"
   },
+  "905": {
+    "name": "Fred",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
   "907": {
-    "name": "Romelu Menama Lukaku Bolingoli",
-    "position": "Attacker",
-    "nationality": "Belgium",
+    "name": "R. Lukaku",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 9,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "908": {
-    "name": "Anthony Jordan Martial",
+    "name": "Anthony Martial",
     "position": "Attacker",
     "nationality": "France",
     "debutDecade": 2010,
@@ -711,16 +972,34 @@
     "plAppsBand": "150-300"
   },
   "909": {
-    "name": "Marcus Rashford",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "M. Rashford",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 2,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "910": {
+    "name": "Alexis Sánchez Sánchez",
+    "position": "Attacker",
+    "nationality": "Chile",
+    "debutDecade": 2000,
+    "clubCount": 11,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "935": {
+    "name": "Rodrigo",
+    "position": "Forward",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "978": {
-    "name": "Kai Lukas Havertz",
+    "name": "Kai Havertz",
     "position": "Attacker",
     "nationality": "Germany",
     "debutDecade": 2010,
@@ -728,13 +1007,94 @@
     "transferFeeBand": "50M+",
     "plAppsBand": "150-300"
   },
-  "1200": {
-    "name": "Branislav Ivanović",
+  "983": {
+    "name": "Leon Bailey Butler",
+    "position": "Attacker",
+    "nationality": "Jamaica",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "1100": {
+    "name": "Erling Braut Haaland",
+    "position": "Attacker",
+    "nationality": "Norway",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "1119": {
+    "name": "Kristoffer Vassbakk Ajer",
     "position": "Defender",
-    "nationality": "Serbia",
+    "nationality": "Norway",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "1125": {
+    "name": "Ryan Christie",
+    "position": "Midfielder",
+    "nationality": "Scotland",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "1133": {
+    "name": "Scott Sinclair",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 8,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "1145": {
+    "name": "Ibrahima Konaté",
+    "position": "Defender",
+    "nationality": "France",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "1161": {
+    "name": "Emile Smith Rowe",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "1165": {
+    "name": "Matheus Cunha",
+    "position": "Attacker",
+    "nationality": "Brazil",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "1187": {
+    "name": "Nicklas Bendtner",
+    "position": "Attacker",
+    "nationality": "Denmark",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
+  "1200": {
+    "name": "B. Ivanović",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "1231": {
@@ -766,33 +1126,33 @@
   },
   "1350": {
     "name": "Martin Škrtel",
-    "position": "Defender",
-    "nationality": "Slovakia",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "1436": {
     "name": "Petr Čech",
-    "position": "Goalkeeper",
-    "nationality": "Czech Republic",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 3,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "1438": {
-    "name": "Bernd Leno",
-    "position": "Goalkeeper",
-    "nationality": "Germany",
+    "name": "B. Leno",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "1439": {
-    "name": "Héctor Bellerín Moruno",
+    "name": "Héctor Bellerín",
     "position": "Defender",
     "nationality": "Spain",
     "debutDecade": 2010,
@@ -802,15 +1162,15 @@
   },
   "1443": {
     "name": "Laurent Koscielny",
-    "position": "Defender",
-    "nationality": "France",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "1447": {
-    "name": "Ignacio Monreal Eraso",
+    "name": "Nacho Monreal",
     "position": "Defender",
     "nationality": "Spain",
     "debutDecade": 2000,
@@ -819,7 +1179,7 @@
     "plAppsBand": "150-300"
   },
   "1452": {
-    "name": "Mohamed Naser Elsayed Elneny",
+    "name": "Mohamed Elneny",
     "position": "Midfielder",
     "nationality": "Egypt",
     "debutDecade": 2010,
@@ -828,16 +1188,16 @@
     "plAppsBand": "150-300"
   },
   "1455": {
-    "name": "Alexander Chuka Iwobi",
-    "position": "Attacker",
-    "nationality": "Nigeria",
+    "name": "A. Iwobi",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "1458": {
-    "name": "Mesut Özil",
+    "name": "M. Özil",
     "position": "Midfielder",
     "nationality": "Germany",
     "debutDecade": 2000,
@@ -846,16 +1206,16 @@
     "plAppsBand": "150-300"
   },
   "1459": {
-    "name": "Aaron James Ramsey",
-    "position": "Midfielder",
-    "nationality": "Wales",
+    "name": "A. Ramsey",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "1460": {
-    "name": "Bukayo Ayoyinka Temidayo Saka",
+    "name": "Bukayo Saka",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2010,
@@ -864,7 +1224,7 @@
     "plAppsBand": "150-300"
   },
   "1463": {
-    "name": "Joseph George Willock",
+    "name": "Joseph Willock",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -873,16 +1233,25 @@
     "plAppsBand": "150-300"
   },
   "1464": {
-    "name": "Granit Xhaka",
-    "position": "Midfielder",
-    "nationality": "Switzerland",
+    "name": "G. Xhaka",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "1465": {
+    "name": "Pierre-Emerick Aubameyang",
+    "position": "Attacker",
+    "nationality": "Gabon",
+    "debutDecade": 2000,
+    "clubCount": 11,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
   "1467": {
-    "name": "Alexandre Armand Lacazette",
+    "name": "Alexandre Lacazette",
     "position": "Attacker",
     "nationality": "France",
     "debutDecade": 2000,
@@ -890,17 +1259,26 @@
     "transferFeeBand": "50M+",
     "plAppsBand": "150-300"
   },
-  "1469": {
-    "name": "Daniel Nii Tackie Mensah Welbeck",
+  "1468": {
+    "name": "Edward Keddar Nketiah",
     "position": "Attacker",
     "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "1469": {
+    "name": "D. Welbeck",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "1485": {
-    "name": "Bruno Miguel Borges Fernandes",
+    "name": "Bruno Fernandes",
     "position": "Midfielder",
     "nationality": "Portugal",
     "debutDecade": 2010,
@@ -909,7 +1287,7 @@
     "plAppsBand": "150-300"
   },
   "1590": {
-    "name": "José Pedro Malheiro de Sá",
+    "name": "José Sá",
     "position": "Goalkeeper",
     "nationality": "Portugal",
     "debutDecade": 2010,
@@ -918,16 +1296,34 @@
     "plAppsBand": "150-300"
   },
   "1624": {
-    "name": "José Manuel Reina Páez",
-    "position": "Goalkeeper",
+    "name": "Pepe Reina",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "150-300"
+  },
+  "1646": {
+    "name": "Lucas Paquetá",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "1695": {
+    "name": "Santi Cazorla",
+    "position": "Midfielder",
     "nationality": "Spain",
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "5-20M",
-    "plAppsBand": "150-300"
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
   },
   "1697": {
-    "name": "Pablo Fornals Malla",
+    "name": "Pablo Fornals",
     "position": "Midfielder",
     "nationality": "Spain",
     "debutDecade": 2010,
@@ -945,34 +1341,43 @@
     "plAppsBand": "150-300"
   },
   "1749": {
-    "name": "Steven Davis",
-    "position": "Midfielder",
-    "nationality": "Northern Ireland",
+    "name": "S. Davis",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
+  "1750": {
+    "name": "Graham Dorrans",
+    "position": "Midfielder",
+    "nationality": "Scotland",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "1758": {
-    "name": "Jermain Colin Defoe",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "J. Defoe",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "1858": {
-    "name": "Lucas Pezzini Leiva",
-    "position": "Midfielder",
-    "nationality": "Brazil",
+    "name": "Lucas Leiva",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "1864": {
-    "name": "Pedro Lomba Neto",
+    "name": "Pedro Neto",
     "position": "Forward",
     "nationality": "Portugal",
     "debutDecade": 2010,
@@ -989,6 +1394,15 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
+  "2054": {
+    "name": "Jesús Navas",
+    "position": "Defender",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 3,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "2165": {
     "name": "Vitalii Mykolenko",
     "position": "Defender",
@@ -998,17 +1412,35 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "50-150"
   },
-  "2277": {
-    "name": "Robert Green",
+  "2218": {
+    "name": "Ismaïla Sarr",
+    "position": "Attacker",
+    "nationality": "Senegal",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "2273": {
+    "name": "Kepa",
     "position": "Goalkeeper",
-    "nationality": "England",
+    "nationality": "Spain",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "2277": {
+    "name": "R. Green",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2278": {
-    "name": "Marcos Alonso Mendoza",
+    "name": "Marcos Alonso",
     "position": "Defender",
     "nationality": "Spain",
     "debutDecade": 2000,
@@ -1017,25 +1449,25 @@
     "plAppsBand": "150-300"
   },
   "2280": {
-    "name": "César Azpilicueta Tanco",
-    "position": "Defender",
-    "nationality": "Spain",
+    "name": "César Azpilicueta",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2281": {
     "name": "Gary Cahill",
-    "position": "Defender",
-    "nationality": "England",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2283": {
-    "name": "David Luiz Moreira Marinho",
+    "name": "David Luiz",
     "position": "Defender",
     "nationality": "Brazil",
     "debutDecade": 2000,
@@ -1043,17 +1475,35 @@
     "transferFeeBand": "50M+",
     "plAppsBand": "150-300"
   },
-  "2287": {
-    "name": "Ross Barkley",
-    "position": "Midfielder",
-    "nationality": "England",
+  "2284": {
+    "name": "Emerson",
+    "position": "Defender",
+    "nationality": "Italy",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "2285": {
+    "name": "Antonio Rüdiger",
+    "position": "Defender",
+    "nationality": "Germany",
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "2287": {
+    "name": "R. Barkley",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2289": {
-    "name": "Jorge Luiz Frello Filho",
+    "name": "Jorginho",
     "position": "Midfielder",
     "nationality": "Italy",
     "debutDecade": 2010,
@@ -1080,7 +1530,7 @@
     "plAppsBand": "150-300"
   },
   "2292": {
-    "name": "Ruben Ira Loftus-Cheek",
+    "name": "Ruben Loftus-Cheek",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -1089,43 +1539,70 @@
     "plAppsBand": "150-300"
   },
   "2294": {
-    "name": "Willian Borges da Silva",
-    "position": "Attacker",
-    "nationality": "Brazil",
+    "name": "Willian",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 9,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2295": {
-    "name": "Olivier Jonathan Giroud",
-    "position": "Attacker",
-    "nationality": "France",
+    "name": "O. Giroud",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 9,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2296": {
-    "name": "Eden Michael Walter Hazard",
-    "position": "Attacker",
-    "nationality": "Belgium",
+    "name": "E. Hazard",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
-  "2413": {
-    "name": "Richarlison de Andrade",
+  "2298": {
+    "name": "Callum Hudson-Odoi",
     "position": "Attacker",
-    "nationality": "Brazil",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "2299": {
+    "name": "Pedro",
+    "position": "Attacker",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "2312": {
+    "name": "Aleksandr Hleb",
+    "position": "Midfielder",
+    "nationality": "Belarus",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "2413": {
+    "name": "Richarlison",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2461": {
-    "name": "José Salomón Rondón Giménez",
+    "name": "José Rondón Giménez",
     "position": "Attacker",
     "nationality": "Venezuela",
     "debutDecade": 2000,
@@ -1142,8 +1619,17 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "2475": {
+    "name": "Roberto Pereyra",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "2490": {
-    "name": "Jefferson Andrés Lerma Solís",
+    "name": "Jefferson Lerma Solís",
     "position": "Midfielder",
     "nationality": "Colombia",
     "debutDecade": 2010,
@@ -1152,7 +1638,7 @@
     "plAppsBand": "150-300"
   },
   "2507": {
-    "name": "Miguel Ángel Almirón Rejala",
+    "name": "Miguel Almirón Rejala",
     "position": "Midfielder",
     "nationality": "Paraguay",
     "debutDecade": 2010,
@@ -1160,8 +1646,17 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
+  "2674": {
+    "name": "Rui Patrício",
+    "position": "Goalkeeper",
+    "nationality": "Portugal",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
   "2675": {
-    "name": "José Miguel da Rocha Fonte",
+    "name": "José Fonte",
     "position": "Defender",
     "nationality": "Portugal",
     "debutDecade": 2000,
@@ -1170,7 +1665,7 @@
     "plAppsBand": "150-300"
   },
   "2676": {
-    "name": "Rúben Diogo da Silva Neves",
+    "name": "Rúben Neves",
     "position": "Midfielder",
     "nationality": "Portugal",
     "debutDecade": 2010,
@@ -1179,7 +1674,7 @@
     "plAppsBand": "150-300"
   },
   "2677": {
-    "name": "João Filipe Iria Santos Moutinho",
+    "name": "João Moutinho",
     "position": "Midfielder",
     "nationality": "Portugal",
     "debutDecade": 2000,
@@ -1188,7 +1683,7 @@
     "plAppsBand": "150-300"
   },
   "2678": {
-    "name": "Diogo José Teixeira da Silva",
+    "name": "Diogo Jota",
     "position": "Attacker",
     "nationality": "Portugal",
     "debutDecade": 2010,
@@ -1196,35 +1691,44 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
-  "2724": {
-    "name": "Lucas Digne",
+  "2716": {
+    "name": "Romain Saïss",
     "position": "Defender",
-    "nationality": "France",
+    "nationality": "Morocco",
     "debutDecade": 2010,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "2724": {
+    "name": "L. Digne",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2726": {
-    "name": "Kurt Happy Zouma",
-    "position": "Defender",
-    "nationality": "France",
+    "name": "K. Zouma",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 8,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2728": {
-    "name": "Kasper Peter Schmeichel",
-    "position": "Goalkeeper",
-    "nationality": "Denmark",
+    "name": "K. Schmeichel",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 8,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2729": {
-    "name": "Joachim Christian Andersen",
+    "name": "Joachim Andersen",
     "position": "Defender",
     "nationality": "Denmark",
     "debutDecade": 2010,
@@ -1242,16 +1746,34 @@
     "plAppsBand": "150-300"
   },
   "2735": {
-    "name": "Pierre-Emile Kordt Højbjerg",
-    "position": "Midfielder",
-    "nationality": "Denmark",
+    "name": "P. Højbjerg",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "2741": {
+    "name": "Mathew Ryan",
+    "position": "Goalkeeper",
+    "nationality": "Australia",
+    "debutDecade": 2010,
+    "clubCount": 9,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "2771": {
+    "name": "Temitayo Aina",
+    "position": "Defender",
+    "nationality": "Nigeria",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
   "2778": {
-    "name": "Kelechi Promise Ịheanachọ",
+    "name": "K. Ịheanachọ",
     "position": "Attacker",
     "nationality": "Nigeria",
     "debutDecade": 2010,
@@ -1260,7 +1782,7 @@
     "plAppsBand": "150-300"
   },
   "2790": {
-    "name": "Jóhann Berg Guðmunds­son",
+    "name": "Jóhann Guðmunds­son",
     "position": "Attacker",
     "nationality": "Iceland",
     "debutDecade": 2000,
@@ -1269,16 +1791,16 @@
     "plAppsBand": "150-300"
   },
   "2795": {
-    "name": "Gylfi Þór Sigurðsson",
-    "position": "Midfielder",
-    "nationality": "Iceland",
+    "name": "G. Sigurðsson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 9,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2806": {
-    "name": "Fabian Lukas Schär",
+    "name": "Fabian Schär",
     "position": "Defender",
     "nationality": "Switzerland",
     "debutDecade": 2000,
@@ -1286,13 +1808,31 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
-  "2859": {
-    "name": "Bengt Ulf Sebastian Larsson",
-    "position": "Midfielder",
+  "2825": {
+    "name": "Aleksandar Mitrović",
+    "position": "Attacker",
+    "nationality": "Serbia",
+    "debutDecade": 2010,
+    "clubCount": 7,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "2855": {
+    "name": "Emil Krafth",
+    "position": "Defender",
     "nationality": "Sweden",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "2859": {
+    "name": "S. Larsson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2886": {
@@ -1305,7 +1845,7 @@
     "plAppsBand": "150-300"
   },
   "2887": {
-    "name": "Raúl Alonso Jiménez Rodríguez",
+    "name": "Raúl Jiménez Rodríguez",
     "position": "Forward",
     "nationality": "Mexico",
     "debutDecade": 2010,
@@ -1323,12 +1863,12 @@
     "plAppsBand": "150-300"
   },
   "2921": {
-    "name": "Mousa Sidi Yaya Dembélé",
-    "position": "Midfielder",
-    "nationality": "Belgium",
+    "name": "M. Dembélé",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2922": {
@@ -1341,34 +1881,43 @@
     "plAppsBand": "50-150"
   },
   "2926": {
-    "name": "Youri Marion A. Tielemans",
-    "position": "Midfielder",
-    "nationality": "Belgium",
+    "name": "Y. Tielemans",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2928": {
-    "name": "Christian Benteke Liolo",
-    "position": "Attacker",
-    "nationality": "Belgium",
+    "name": "C. Benteke",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 9,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
-  "2932": {
-    "name": "Jordan Lee Pickford",
+  "2931": {
+    "name": "Thomas Heaton",
     "position": "Goalkeeper",
     "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "2932": {
+    "name": "J. Pickford",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2933": {
-    "name": "Benjamin James Chilwell",
+    "name": "Benjamin Chilwell",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -1377,88 +1926,88 @@
     "plAppsBand": "150-300"
   },
   "2934": {
-    "name": "Michael Vincent Keane",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "M. Keane",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2935": {
-    "name": "Jacob Harry Maguire",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "H. Maguire",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2936": {
-    "name": "James Alan Tarkowski",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "J. Tarkowski",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2937": {
-    "name": "Declan Rice",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "D. Rice",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "50M+",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2938": {
-    "name": "James Michael Edward Ward-Prowse",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "J. Ward-Prowse",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 3,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2939": {
-    "name": "Callum Eddie Graham Wilson",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "C. Wilson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2990": {
-    "name": "Idrissa Gana Gueye",
-    "position": "Midfielder",
-    "nationality": "Senegal",
+    "name": "I. Gueye",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2991": {
-    "name": "Cheikhou Kouyaté",
-    "position": "Midfielder",
-    "nationality": "Senegal",
+    "name": "C. Kouyaté",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "2997": {
-    "name": "Łukasz Marek Fabiański",
-    "position": "Goalkeeper",
-    "nationality": "Poland",
+    "name": "Ł. Fabiański",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "2999": {
-    "name": "Jan Kacper Bednarek",
+    "name": "Jan Bednarek",
     "position": "Defender",
     "nationality": "Poland",
     "debutDecade": 2010,
@@ -1466,13 +2015,22 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "3106": {
+    "name": "Saido Berahino",
+    "position": "Attacker",
+    "nationality": "Burundi",
+    "debutDecade": 2010,
+    "clubCount": 8,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "3247": {
-    "name": "Dazet Wilfried Armel Zaha",
-    "position": "Forward",
-    "nationality": "Côte d'Ivoire",
+    "name": "W. Zaha",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "3389": {
@@ -1484,17 +2042,26 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
-  "3428": {
-    "name": "Jordan Pierre Ayew",
-    "position": "Attacker",
+  "3421": {
+    "name": "Daniel Amartey",
+    "position": "Defender",
     "nationality": "Ghana",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "3428": {
+    "name": "J. Ayew",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "5946": {
-    "name": "Jonás Manuel Gutiérrez",
+    "name": "Jonás Gutiérrez",
     "position": "Midfielder",
     "nationality": "Argentina",
     "debutDecade": 2000,
@@ -1503,13 +2070,22 @@
     "plAppsBand": "150-300"
   },
   "5982": {
-    "name": "Carlos Alberto Tevez",
+    "name": "Carlos Tevez",
     "position": "Attacker",
     "nationality": "Argentina",
     "debutDecade": 2000,
     "clubCount": 6,
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
+  },
+  "5996": {
+    "name": "Enzo Fernández",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
   },
   "6599": {
     "name": "Fabricio Coloccini",
@@ -1519,6 +2095,15 @@
     "clubCount": 4,
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
+  },
+  "6610": {
+    "name": "Marcos Senesi Barón",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "6716": {
     "name": "Alexis Mac Allister",
@@ -1530,7 +2115,7 @@
     "plAppsBand": "150-300"
   },
   "6929": {
-    "name": "Steven Vincent Taylor",
+    "name": "Steven Taylor",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -1538,8 +2123,17 @@
     "transferFeeBand": "Free",
     "plAppsBand": "150-300"
   },
+  "7526": {
+    "name": "Emanuel Pogatetz",
+    "position": "Defender",
+    "nationality": "Austria",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "10135": {
-    "name": "Bruno Guimarães Rodriguez Moura",
+    "name": "Bruno Guimarães",
     "position": "Midfielder",
     "nationality": "Brazil",
     "debutDecade": 2010,
@@ -1547,23 +2141,59 @@
     "transferFeeBand": "50M+",
     "plAppsBand": "150-300"
   },
-  "12753": {
-    "name": "Marouane Fellaini-Bakkioui",
+  "10329": {
+    "name": "João Pedro",
     "position": "Attacker",
-    "nationality": "Belgium",
+    "nationality": "Brazil",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "12692": {
+    "name": "Oscar",
+    "position": "Midfielder",
+    "nationality": "Brazil",
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "12753": {
+    "name": "M. Fellaini",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "12788": {
-    "name": "Ramires Santos do Nascimento",
+    "name": "Ramires",
     "position": "Midfielder",
     "nationality": "Brazil",
     "debutDecade": 2000,
     "clubCount": 6,
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
+  },
+  "15382": {
+    "name": "Jordi Gómez García-Penche",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "15908": {
+    "name": "Mikkel Krogh Damsgaard",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "17360": {
     "name": "Neal James Eardley",
@@ -1572,6 +2202,24 @@
     "debutDecade": 2000,
     "clubCount": 8,
     "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "17426": {
+    "name": "Russell Martin",
+    "position": "Defender",
+    "nationality": "Scotland",
+    "debutDecade": 2000,
+    "clubCount": 4,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
+  "17681": {
+    "name": "Nicholas Hunt",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "Free",
     "plAppsBand": "50-150"
   },
   "17828": {
@@ -1583,8 +2231,35 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "50-150"
   },
+  "18357": {
+    "name": "Roger Johnson",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "18737": {
+    "name": "John Ruddy",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 8,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "18739": {
+    "name": "Willy-Arnaud Zobo Boly",
+    "position": "Defender",
+    "nationality": "Côte d'Ivoire",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "18741": {
-    "name": "Conor David Coady",
+    "name": "Conor Coady",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -1593,7 +2268,7 @@
     "plAppsBand": "150-300"
   },
   "18742": {
-    "name": "Matthew James Doherty",
+    "name": "Matthew Doherty",
     "position": "Defender",
     "nationality": "Republic of Ireland",
     "debutDecade": 2010,
@@ -1602,7 +2277,7 @@
     "plAppsBand": "150-300"
   },
   "18744": {
-    "name": "Maximilian William Kilman",
+    "name": "Maximilian Kilman",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -1611,7 +2286,7 @@
     "plAppsBand": "50-150"
   },
   "18746": {
-    "name": "Morgan Anthony Gibbs-White",
+    "name": "Morgan Gibbs-White",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -1620,39 +2295,39 @@
     "plAppsBand": "150-300"
   },
   "18753": {
-    "name": "Adama Traoré Diarra",
-    "position": "Attacker",
-    "nationality": "Spain",
+    "name": "Adama Traoré",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 7,
-    "transferFeeBand": "Free",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18757": {
-    "name": "Leighton Baines",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "L. Baines",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 3,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18758": {
-    "name": "Séamus Coleman",
-    "position": "Defender",
-    "nationality": "Republic of Ireland",
+    "name": "S. Coleman",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 3,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18759": {
-    "name": "Philip Nikodem Jagielka",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "P. Jagielka",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18762": {
@@ -1665,16 +2340,16 @@
     "plAppsBand": "150-300"
   },
   "18763": {
-    "name": "James Patrick McCarthy",
-    "position": "Midfielder",
-    "nationality": "Republic of Ireland",
+    "name": "J. McCarthy",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18764": {
-    "name": "Morgan Fernand Gérard Schneiderlin",
+    "name": "Morgan Schneiderlin",
     "position": "Midfielder",
     "nationality": "France",
     "debutDecade": 2000,
@@ -1683,31 +2358,49 @@
     "plAppsBand": "150-300"
   },
   "18766": {
-    "name": "Dominic Nathaniel Calvert-Lewin",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "D. Calvert-Lewin",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18769": {
-    "name": "Theo James Walcott",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "T. Walcott",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
-  "18772": {
-    "name": "Jonathan Grant Evans",
+  "18771": {
+    "name": "Ricardo Pereira",
     "position": "Defender",
-    "nationality": "Northern Ireland",
+    "nationality": "Portugal",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "18772": {
+    "name": "J. Evans",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
+  },
+  "18773": {
+    "name": "Christian Fuchs",
+    "position": "Defender",
+    "nationality": "Austria",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
   },
   "18774": {
     "name": "Wes Morgan",
@@ -1728,25 +2421,25 @@
     "plAppsBand": "150-300"
   },
   "18777": {
-    "name": "Marc Kevin Albrighton",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "M. Albrighton",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 2,
-    "transferFeeBand": "Free",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18778": {
-    "name": "Harvey Lewis Barnes",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "H. Barnes",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 3,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18781": {
-    "name": "Demarai Ramelle Gray",
+    "name": "Demarai Gray",
     "position": "Attacker",
     "nationality": "Jamaica",
     "debutDecade": 2010,
@@ -1755,7 +2448,7 @@
     "plAppsBand": "150-300"
   },
   "18784": {
-    "name": "James Daniel Maddison",
+    "name": "James Maddison",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -1764,7 +2457,7 @@
     "plAppsBand": "150-300"
   },
   "18786": {
-    "name": "Onyinye Wilfred Ndidi",
+    "name": "Onyinye Ndidi",
     "position": "Midfielder",
     "nationality": "Nigeria",
     "debutDecade": 2010,
@@ -1772,17 +2465,26 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
-  "18788": {
-    "name": "Jamie Richard Vardy",
+  "18787": {
+    "name": "Shinji Okazaki",
     "position": "Attacker",
-    "nationality": "England",
+    "nationality": "Japan",
+    "debutDecade": 2000,
+    "clubCount": 8,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "18788": {
+    "name": "J. Vardy",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18789": {
-    "name": "Heurelho da Silva Gomes",
+    "name": "Gomes",
     "position": "Goalkeeper",
     "nationality": "Brazil",
     "debutDecade": 2000,
@@ -1791,22 +2493,40 @@
     "plAppsBand": "150-300"
   },
   "18791": {
-    "name": "Benjamin Anthony Foster",
-    "position": "Goalkeeper",
-    "nationality": "England",
+    "name": "B. Foster",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18793": {
-    "name": "Craig George Cathcart",
+    "name": "Craig Cathcart",
     "position": "Defender",
     "nationality": "Northern Ireland",
     "debutDecade": 2000,
     "clubCount": 6,
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
+  },
+  "18794": {
+    "name": "Kiko Femenía",
+    "position": "Defender",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "18795": {
+    "name": "José Holebas",
+    "position": "Defender",
+    "nationality": "Greece",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
   },
   "18796": {
     "name": "Daryl Janmaat",
@@ -1817,8 +2537,17 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "50-150"
   },
+  "18797": {
+    "name": "Christian Kabasele",
+    "position": "Defender",
+    "nationality": "Belgium",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "18798": {
-    "name": "Adrian Joseph Mariappa",
+    "name": "Adrian Mariappa",
     "position": "Defender",
     "nationality": "Jamaica",
     "debutDecade": 2000,
@@ -1827,7 +2556,7 @@
     "plAppsBand": "150-300"
   },
   "18802": {
-    "name": "Étienne René Capoue",
+    "name": "É. Capoue",
     "position": "Midfielder",
     "nationality": "France",
     "debutDecade": 2000,
@@ -1836,7 +2565,7 @@
     "plAppsBand": "150-300"
   },
   "18804": {
-    "name": "Thomas William Cleverley",
+    "name": "Thomas Cleverley",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2000,
@@ -1845,16 +2574,16 @@
     "plAppsBand": "150-300"
   },
   "18805": {
-    "name": "Abdoulaye Doucouré",
-    "position": "Midfielder",
-    "nationality": "Mali",
+    "name": "A. Doucouré",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18806": {
-    "name": "William James Hughes",
+    "name": "William Hughes",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -1871,23 +2600,50 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
+  "18809": {
+    "name": "Deulofeu",
+    "position": "Attacker",
+    "nationality": "Spain",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "18812": {
+    "name": "Adrián",
+    "position": "Goalkeeper",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 4,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
   "18813": {
-    "name": "Aaron William Cresswell",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "A. Cresswell",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18814": {
-    "name": "Issa Laye Lucas Jean Diop",
+    "name": "Issa Diop",
     "position": "Defender",
     "nationality": "France",
     "debutDecade": 2010,
     "clubCount": 5,
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
+  },
+  "18816": {
+    "name": "Fuka-Arthur Masuaku Kawela",
+    "position": "Defender",
+    "nationality": "Congo DR",
+    "debutDecade": 2010,
+    "clubCount": 7,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "18817": {
     "name": "Angelo Obinze Ogbonna",
@@ -1899,21 +2655,21 @@
     "plAppsBand": "150-300"
   },
   "18818": {
-    "name": "Pablo Javier Zabaleta Girod",
-    "position": "Defender",
-    "nationality": "Argentina",
+    "name": "P. Zabaleta",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18819": {
-    "name": "Michail Gregory Antonio",
-    "position": "Attacker",
-    "nationality": "Jamaica",
+    "name": "M. Antonio",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 8,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18825": {
@@ -1927,8 +2683,8 @@
   },
   "18826": {
     "name": "Mark Noble",
-    "position": "Midfielder",
-    "nationality": "England",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 1,
     "transferFeeBand": "Unknown",
@@ -1962,7 +2718,7 @@
     "plAppsBand": "150-300"
   },
   "18831": {
-    "name": "Andrew Thomas Carroll",
+    "name": "Andrew Carroll",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2000,
@@ -1971,7 +2727,7 @@
     "plAppsBand": "150-300"
   },
   "18835": {
-    "name": "Vicente Guaita Panadero",
+    "name": "Guaita",
     "position": "Goalkeeper",
     "nationality": "Spain",
     "debutDecade": 2000,
@@ -1980,7 +2736,7 @@
     "plAppsBand": "50-150"
   },
   "18836": {
-    "name": "Wayne Robert Hennessey",
+    "name": "Wayne Hennessey",
     "position": "Goalkeeper",
     "nationality": "Wales",
     "debutDecade": 2000,
@@ -1989,16 +2745,16 @@
     "plAppsBand": "150-300"
   },
   "18839": {
-    "name": "Scott Dann",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "S. Dann",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18840": {
-    "name": "Martin Ronald Kelly",
+    "name": "Martin Kelly",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2006,26 +2762,35 @@
     "transferFeeBand": "Free",
     "plAppsBand": "150-300"
   },
+  "18842": {
+    "name": "Mamadou Sakho",
+    "position": "Defender",
+    "nationality": "France",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "18843": {
-    "name": "Jeffrey Schlupp",
-    "position": "Midfielder",
-    "nationality": "Ghana",
+    "name": "J. Schlupp",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18844": {
-    "name": "James Oliver Charles Tomkins",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "J. Tomkins",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 2,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18845": {
-    "name": "Patrick John Miguel van Aanholt",
+    "name": "P. van Aanholt",
     "position": "Defender",
     "nationality": "Netherlands",
     "debutDecade": 2000,
@@ -2043,21 +2808,21 @@
     "plAppsBand": "150-300"
   },
   "18847": {
-    "name": "Joel Edward Philip Ward",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "J. Ward",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18849": {
-    "name": "James McFarlane McArthur",
-    "position": "Midfielder",
-    "nationality": "Scotland",
+    "name": "J. McArthur",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18852": {
@@ -2070,43 +2835,52 @@
     "plAppsBand": "150-300"
   },
   "18854": {
-    "name": "Andros Darryl Townsend",
-    "position": "Forward",
-    "nationality": "England",
+    "name": "A. Townsend",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 8,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18858": {
-    "name": "Asmir Begović",
-    "position": "Goalkeeper",
-    "nationality": "Bosnia and Herzegovina",
+    "name": "A. Begović",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 12,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "18859": {
+    "name": "Artur Boruc",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "18861": {
-    "name": "Nathan Benjamin Aké",
-    "position": "Defender",
-    "nationality": "Netherlands",
+    "name": "N. Aké",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 5,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18862": {
-    "name": "Nathaniel Edwin Clyne",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "N. Clyne",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18863": {
-    "name": "Steve Anthony Cook",
+    "name": "Steve Cook",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2114,17 +2888,44 @@
     "transferFeeBand": "Free",
     "plAppsBand": "150-300"
   },
-  "18869": {
-    "name": "Adam James Smith",
+  "18864": {
+    "name": "Charlie John Daniels",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
     "clubCount": 4,
     "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
+  "18865": {
+    "name": "Simon Francis",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 3,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "18869": {
+    "name": "A. Smith",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2000,
+    "clubCount": 4,
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "18870": {
+    "name": "David Brooks",
+    "position": "Midfielder",
+    "nationality": "Wales",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
   "18872": {
-    "name": "Lewis John Cook",
+    "name": "Lewis Cook",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2150,8 +2951,17 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
+  "18876": {
+    "name": "Jordon Ibe",
+    "position": "Attacker",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 7,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "18878": {
-    "name": "Felix Junior Stanislas",
+    "name": "Felix Stanislas",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2169,7 +2979,7 @@
     "plAppsBand": "50-150"
   },
   "18881": {
-    "name": "Joshua Christian Kojo King",
+    "name": "Joshua Kojo King",
     "position": "Forward",
     "nationality": "Norway",
     "debutDecade": 2000,
@@ -2178,7 +2988,7 @@
     "plAppsBand": "150-300"
   },
   "18883": {
-    "name": "Dominic Ayodele Solanke-Mitchell",
+    "name": "Dominic Solanke-Mitchell",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2231,6 +3041,24 @@
     "transferFeeBand": "Free",
     "plAppsBand": "150-300"
   },
+  "18896": {
+    "name": "Javier Manquillo",
+    "position": "Defender",
+    "nationality": "Spain",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "18897": {
+    "name": "DeAndre Yedlin",
+    "position": "Defender",
+    "nationality": "USA",
+    "debutDecade": 2010,
+    "clubCount": 8,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "18898": {
     "name": "Mohamed Diamé",
     "position": "Midfielder",
@@ -2240,8 +3068,17 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
+  "18899": {
+    "name": "Isaac Hayden",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "18900": {
-    "name": "Sung-Yueng Ki",
+    "name": "Ki Sung-Yueng",
     "position": "Midfielder",
     "nationality": "Korea Republic",
     "debutDecade": 2000,
@@ -2250,7 +3087,7 @@
     "plAppsBand": "150-300"
   },
   "18901": {
-    "name": "Sean David Longstaff",
+    "name": "Sean Longstaff",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2259,7 +3096,7 @@
     "plAppsBand": "150-300"
   },
   "18903": {
-    "name": "Matthew Thomas Ritchie",
+    "name": "Matthew Ritchie",
     "position": "Midfielder",
     "nationality": "Scotland",
     "debutDecade": 2000,
@@ -2268,16 +3105,16 @@
     "plAppsBand": "150-300"
   },
   "18904": {
-    "name": "Jonjo Shelvey",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "J. Shelvey",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18906": {
-    "name": "Ayoze Pérez Gutiérrez",
+    "name": "Ayoze Pérez",
     "position": "Attacker",
     "nationality": "Spain",
     "debutDecade": 2010,
@@ -2286,34 +3123,34 @@
     "plAppsBand": "150-300"
   },
   "18908": {
-    "name": "Charles Joseph John Hart",
-    "position": "Goalkeeper",
-    "nationality": "England",
+    "name": "J. Hart",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 8,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18911": {
-    "name": "Nicholas David Pope",
-    "position": "Goalkeeper",
-    "nationality": "England",
+    "name": "N. Pope",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18912": {
-    "name": "Phil Bardsley",
-    "position": "Defender",
-    "nationality": "Scotland",
+    "name": "P. Bardsley",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18916": {
-    "name": "Matthew John Lowton",
+    "name": "Matthew Lowton",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2322,16 +3159,16 @@
     "plAppsBand": "150-300"
   },
   "18917": {
-    "name": "Benjamin Thomas Mee",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "B. Mee",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "Free",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18918": {
-    "name": "Charles James Taylor",
+    "name": "Charles Taylor",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2358,16 +3195,16 @@
     "plAppsBand": "150-300"
   },
   "18922": {
-    "name": "Jack Frank Porteous Cork",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "J. Cork",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18924": {
-    "name": "Jeffrey Patrick Hendrick",
+    "name": "Jeffrey Hendrick",
     "position": "Midfielder",
     "nationality": "Republic of Ireland",
     "debutDecade": 2010,
@@ -2376,25 +3213,25 @@
     "plAppsBand": "50-150"
   },
   "18925": {
-    "name": "Aaron Lennon",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "A. Lennon",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18926": {
-    "name": "Ashley Roy Westwood",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "A. Westwood",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18927": {
-    "name": "Ashley Luke Barnes",
+    "name": "Ashley Barnes",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2403,34 +3240,43 @@
     "plAppsBand": "150-300"
   },
   "18928": {
-    "name": "Peter Crouch",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "P. Crouch",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 8,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18929": {
-    "name": "Dwight James Matthew McNeil",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "D. McNeil",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 3,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
-  "18931": {
-    "name": "Christopher Grant Wood",
+  "18930": {
+    "name": "Matěj Vydra",
     "position": "Attacker",
-    "nationality": "New Zealand",
+    "nationality": "Czechia",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "18931": {
+    "name": "C. Wood",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 8,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18932": {
-    "name": "Fraser Gerard Forster",
+    "name": "Fraser Forster",
     "position": "Goalkeeper",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2439,7 +3285,7 @@
     "plAppsBand": "150-300"
   },
   "18935": {
-    "name": "Alex Simon McCarthy",
+    "name": "Alex McCarthy",
     "position": "Goalkeeper",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2448,12 +3294,12 @@
     "plAppsBand": "150-300"
   },
   "18936": {
-    "name": "Ryan Dominic Bertrand",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "R. Bertrand",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 8,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18940": {
@@ -2466,7 +3312,7 @@
     "plAppsBand": "150-300"
   },
   "18941": {
-    "name": "Matthew Robert Targett",
+    "name": "Matthew Targett",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2493,7 +3339,7 @@
     "plAppsBand": "50-150"
   },
   "18947": {
-    "name": "Mario René Junior Lemina",
+    "name": "Mario Lemina",
     "position": "Midfielder",
     "nationality": "Gabon",
     "debutDecade": 2010,
@@ -2502,25 +3348,34 @@
     "plAppsBand": "50-150"
   },
   "18948": {
-    "name": "Nathan Daniel Jerome Redmond",
-    "position": "Midfielder",
+    "name": "N. Redmond",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "150-300"
+  },
+  "18949": {
+    "name": "Oriol Romeu",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2010,
+    "clubCount": 7,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "150-300"
+  },
+  "18952": {
+    "name": "Charlie Austin",
+    "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2000,
     "clubCount": 7,
     "transferFeeBand": "5-20M",
-    "plAppsBand": "150-300"
-  },
-  "18949": {
-    "name": "Oriol Romeu Vidal",
-    "position": "Midfielder",
-    "nationality": "Spain",
-    "debutDecade": 2010,
-    "clubCount": 7,
-    "transferFeeBand": "5-20M",
-    "plAppsBand": "150-300"
+    "plAppsBand": "50-150"
   },
   "18955": {
-    "name": "Daniel William John Ings",
+    "name": "Daniel Ings",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2529,16 +3384,16 @@
     "plAppsBand": "150-300"
   },
   "18956": {
-    "name": "Shane Patrick Long",
-    "position": "Attacker",
-    "nationality": "Republic of Ireland",
+    "name": "S. Long",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "18959": {
-    "name": "Robert Lynch Sánchez",
+    "name": "Robert Sánchez",
     "position": "Goalkeeper",
     "nationality": "Spain",
     "debutDecade": 2010,
@@ -2547,7 +3402,7 @@
     "plAppsBand": "150-300"
   },
   "18961": {
-    "name": "Daniel Johnson Burn",
+    "name": "Daniel Burn",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2555,13 +3410,22 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
-  "18963": {
-    "name": "Lewis Carl Dunk",
+  "18962": {
+    "name": "Shane Duffy",
     "position": "Defender",
-    "nationality": "England",
+    "nationality": "Republic of Ireland",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "18963": {
+    "name": "L. Dunk",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 2,
-    "transferFeeBand": "Free",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18968": {
@@ -2574,16 +3438,16 @@
     "plAppsBand": "150-300"
   },
   "18970": {
-    "name": "Pascal Groß",
-    "position": "Midfielder",
-    "nationality": "Germany",
+    "name": "P. Groß",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "18973": {
-    "name": "Solomon Benjamin March",
+    "name": "Solomon March",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2591,8 +3455,44 @@
     "transferFeeBand": "Free",
     "plAppsBand": "150-300"
   },
+  "18975": {
+    "name": "Davy Pröpper",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "debutDecade": 2000,
+    "clubCount": 4,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "18977": {
+    "name": "Dale Stephens",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "18982": {
+    "name": "Glenn Murray",
+    "position": "Attacker",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 3,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "19004": {
+    "name": "Bobby De Cordova-Reid",
+    "position": "Attacker",
+    "nationality": "Jamaica",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
   "19007": {
-    "name": "David Junior Wayne Hoilett",
+    "name": "David Hoilett",
     "position": "Attacker",
     "nationality": "Canada",
     "debutDecade": 2000,
@@ -2609,6 +3509,15 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
+  "19023": {
+    "name": "Timothy Ream",
+    "position": "Defender",
+    "nationality": "USA",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "19025": {
     "name": "Thomas Cairney",
     "position": "Midfielder",
@@ -2618,8 +3527,17 @@
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "19034": {
+    "name": "Ryan Babel",
+    "position": "Attacker",
+    "nationality": "Netherlands",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "19052": {
-    "name": "Jason David Ian Puncheon",
+    "name": "Jason Puncheon",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2628,13 +3546,22 @@
     "plAppsBand": "150-300"
   },
   "19061": {
-    "name": "Timothy Michael Krul",
+    "name": "Timothy Krul",
     "position": "Goalkeeper",
     "nationality": "Netherlands",
     "debutDecade": 2000,
     "clubCount": 7,
     "transferFeeBand": "Free",
     "plAppsBand": "150-300"
+  },
+  "19070": {
+    "name": "Maximillian Aarons",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "19071": {
     "name": "Emiliano Buendía Stati",
@@ -2645,8 +3572,26 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
+  "19073": {
+    "name": "Benjamin Godfrey",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 8,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "19088": {
+    "name": "Dean Henderson",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "19128": {
-    "name": "Jack David Harrison",
+    "name": "Jack Harrison",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2654,17 +3599,35 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
-  "19147": {
-    "name": "Craig Dawson",
-    "position": "Defender",
+  "19143": {
+    "name": "Samuel Johnstone",
+    "position": "Goalkeeper",
     "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 7,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "19144": {
+    "name": "Glyn Myhill",
+    "position": "Goalkeeper",
+    "nationality": "Wales",
+    "debutDecade": 2000,
+    "clubCount": 3,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "19147": {
+    "name": "C. Dawson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "19148": {
-    "name": "Kieran James Ricardo Gibbs",
+    "name": "Kieran Gibbs",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2672,26 +3635,44 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
-  "19153": {
-    "name": "Gareth Barry",
-    "position": "Midfielder",
+  "19150": {
+    "name": "Mason Holgate",
+    "position": "Defender",
     "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
+  "19153": {
+    "name": "G. Barry",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "19154": {
-    "name": "Chris Brunt",
-    "position": "Midfielder",
-    "nationality": "Northern Ireland",
+    "name": "C. Brunt",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "19158": {
+    "name": "Wesley Hoolahan",
+    "position": "Midfielder",
+    "nationality": "Republic of Ireland",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "19160": {
-    "name": "Jake Cyril Livermore",
+    "name": "Jake Livermore",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2700,16 +3681,16 @@
     "plAppsBand": "150-300"
   },
   "19162": {
-    "name": "James Morrison",
-    "position": "Midfielder",
-    "nationality": "Scotland",
+    "name": "James  Morrison",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 3,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "19163": {
-    "name": "Jacob Kai Murphy",
+    "name": "Jacob Murphy",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2717,8 +3698,17 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "19164": {
+    "name": "Matthew Phillips",
+    "position": "Midfielder",
+    "nationality": "Scotland",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "19166": {
-    "name": "Dwight Devon Boyd Gayle",
+    "name": "Dwight Gayle",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2727,16 +3717,25 @@
     "plAppsBand": "50-150"
   },
   "19169": {
-    "name": "Jay Enrique Rodríguez",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "J. Rodríguez",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "19178": {
+    "name": "Alan Hutton",
+    "position": "Defender",
+    "nationality": "Scotland",
+    "debutDecade": 2000,
+    "clubCount": 4,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "19179": {
-    "name": "Tyrone Deon Mings",
+    "name": "Tyrone Mings",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2745,7 +3744,7 @@
     "plAppsBand": "150-300"
   },
   "19181": {
-    "name": "Neil John Taylor",
+    "name": "Neil Taylor",
     "position": "Defender",
     "nationality": "Wales",
     "debutDecade": 2000,
@@ -2754,7 +3753,7 @@
     "plAppsBand": "50-150"
   },
   "19186": {
-    "name": "Ahmed Eissa El Mohamady Abdel Fattah",
+    "name": "Ahmed El Mohamady",
     "position": "Defender",
     "nationality": "Egypt",
     "debutDecade": 2000,
@@ -2763,7 +3762,7 @@
     "plAppsBand": "150-300"
   },
   "19187": {
-    "name": "Jack Peter Grealish",
+    "name": "Jack Grealish",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2772,7 +3771,7 @@
     "plAppsBand": "150-300"
   },
   "19191": {
-    "name": "John McGinn",
+    "name": "J.  McGinn",
     "position": "Midfielder",
     "nationality": "Scotland",
     "debutDecade": 2010,
@@ -2781,7 +3780,7 @@
     "plAppsBand": "150-300"
   },
   "19192": {
-    "name": "Jacob Matthew Ramsey",
+    "name": "Jacob Ramsey",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2790,16 +3789,16 @@
     "plAppsBand": "150-300"
   },
   "19193": {
-    "name": "Glenn David Whelan",
-    "position": "Midfielder",
-    "nationality": "Republic of Ireland",
+    "name": "G. Whelan",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "19197": {
-    "name": "Scott Paul Carson",
+    "name": "Scott Carson",
     "position": "Goalkeeper",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2808,16 +3807,16 @@
     "plAppsBand": "50-150"
   },
   "19203": {
-    "name": "Ashley Cole",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "A. Cole",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "19204": {
-    "name": "Curtis Eugene Davies",
+    "name": "Curtis Davies",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -2826,16 +3825,16 @@
     "plAppsBand": "150-300"
   },
   "19215": {
-    "name": "Tom Huddlestone",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "T. Huddlestone",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "19220": {
-    "name": "Mason Tony Mount",
+    "name": "Mason Mount",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2853,25 +3852,34 @@
     "plAppsBand": "150-300"
   },
   "19238": {
-    "name": "Stewart Downing",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "S. Downing",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "19243": {
     "name": "Mikel John Obi",
-    "position": "Midfielder",
-    "nationality": "Nigeria",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "19245": {
+    "name": "Marcus Tavernier",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 2,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "19265": {
-    "name": "Adam Harry Webster",
+    "name": "Adam Webster",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -2879,17 +3887,35 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
-  "19289": {
-    "name": "Michael Dawson",
-    "position": "Defender",
+  "19268": {
+    "name": "Joshua Brownhill",
+    "position": "Midfielder",
     "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "19283": {
+    "name": "Andreas Weimann",
+    "position": "Attacker",
+    "nationality": "Austria",
+    "debutDecade": 2000,
+    "clubCount": 8,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
+  "19289": {
+    "name": "M. Dawson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "19298": {
-    "name": "Matthew Stuart Cash",
+    "name": "Matthew Cash",
     "position": "Defender",
     "nationality": "Poland",
     "debutDecade": 2010,
@@ -2898,13 +3924,22 @@
     "plAppsBand": "150-300"
   },
   "19299": {
-    "name": "Jack Raymond Colback",
+    "name": "Jack Colback",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2000,
     "clubCount": 5,
     "transferFeeBand": "Free",
     "plAppsBand": "150-300"
+  },
+  "19303": {
+    "name": "Benjamin Watson",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
   },
   "19304": {
     "name": "Claudio Ariel Yacob",
@@ -2914,6 +3949,15 @@
     "clubCount": 5,
     "transferFeeBand": "Free",
     "plAppsBand": "150-300"
+  },
+  "19305": {
+    "name": "Ryan Yates",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 2,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
   },
   "19318": {
     "name": "Kyle Naughton",
@@ -2925,7 +3969,7 @@
     "plAppsBand": "150-300"
   },
   "19319": {
-    "name": "Martin Tony Waikwa Olsson",
+    "name": "Martin Olsson",
     "position": "Defender",
     "nationality": "Sweden",
     "debutDecade": 2000,
@@ -2942,14 +3986,41 @@
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
-  "19332": {
-    "name": "Wayne Routledge",
+  "19326": {
+    "name": "Leroy Fer",
     "position": "Midfielder",
-    "nationality": "England",
+    "nationality": "Netherlands",
+    "debutDecade": 2000,
+    "clubCount": 8,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "19329": {
+    "name": "Daniel James",
+    "position": "Midfielder",
+    "nationality": "Wales",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "19332": {
+    "name": "W. Routledge",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "19346": {
+    "name": "Rico Henry",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
   },
   "19354": {
     "name": "Ezri Konsa Ngoyo",
@@ -2959,6 +4030,15 @@
     "clubCount": 4,
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
+  },
+  "19361": {
+    "name": "Mohamed Benrahma",
+    "position": "Attacker",
+    "nationality": "Algeria",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
   },
   "19364": {
     "name": "Neal Maupay",
@@ -2970,13 +4050,22 @@
     "plAppsBand": "150-300"
   },
   "19366": {
-    "name": "Oliver George Arthur Watkins",
+    "name": "Oliver Watkins",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2010,
     "clubCount": 4,
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
+  },
+  "19390": {
+    "name": "David Jones",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
   },
   "19398": {
     "name": "Steven Fletcher",
@@ -2988,21 +4077,21 @@
     "plAppsBand": "150-300"
   },
   "19417": {
-    "name": "Liam Ridgewell",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "L. Ridgewell",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "19428": {
-    "name": "Jarrod Bowen",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "J. Bowen",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2010,
     "clubCount": 4,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "19429": {
@@ -3014,8 +4103,26 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "50-150"
   },
+  "19465": {
+    "name": "David Raya",
+    "position": "Goalkeeper",
+    "nationality": "Spain",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "19480": {
+    "name": "Harrison Reed",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "19481": {
-    "name": "Jack Christian Rodwell",
+    "name": "Jack Rodwell",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -3024,7 +4131,7 @@
     "plAppsBand": "150-300"
   },
   "19495": {
-    "name": "Nathan Michael Collins",
+    "name": "Nathan Collins",
     "position": "Defender",
     "nationality": "Republic of Ireland",
     "debutDecade": 2010,
@@ -3033,21 +4140,21 @@
     "plAppsBand": "150-300"
   },
   "19498": {
-    "name": "Ryan Shawcross",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "R. Shawcross",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "Free",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "19500": {
     "name": "Ashley Williams",
-    "position": "Defender",
-    "nationality": "Wales",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "19501": {
@@ -3060,7 +4167,7 @@
     "plAppsBand": "150-300"
   },
   "19502": {
-    "name": "Joseph Michael Allen",
+    "name": "Joseph Allen",
     "position": "Midfielder",
     "nationality": "Wales",
     "debutDecade": 2000,
@@ -3069,16 +4176,16 @@
     "plAppsBand": "150-300"
   },
   "19504": {
-    "name": "Darren Fletcher",
-    "position": "Midfielder",
-    "nationality": "Scotland",
+    "name": "Darren  Fletcher",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "Free",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "19507": {
-    "name": "James Joseph McClean",
+    "name": "James McClean",
     "position": "Midfielder",
     "nationality": "Republic of Ireland",
     "debutDecade": 2000,
@@ -3086,17 +4193,44 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "19511": {
+    "name": "Mame Diouf",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "debutDecade": 2000,
+    "clubCount": 10,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "19513": {
+    "name": "Samuel Vokes",
+    "position": "Attacker",
+    "nationality": "Wales",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "19524": {
+    "name": "Ché Adams",
+    "position": "Attacker",
+    "nationality": "Scotland",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "19526": {
-    "name": "Craig Gardner",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "C. Gardner",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "19545": {
-    "name": "Reece Lewis James",
+    "name": "Reece James",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -3132,7 +4266,7 @@
     "plAppsBand": "150-300"
   },
   "19583": {
-    "name": "Àngel Rangel Zaragoza",
+    "name": "Àngel Rangel",
     "position": "Defender",
     "nationality": "Spain",
     "debutDecade": 2000,
@@ -3141,7 +4275,7 @@
     "plAppsBand": "150-300"
   },
   "19586": {
-    "name": "Eberechi Oluchi Eze",
+    "name": "Eberechi Eze",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
@@ -3150,7 +4284,7 @@
     "plAppsBand": "50-150"
   },
   "19599": {
-    "name": "Damián Emiliano Martínez Romero",
+    "name": "Damián Martínez Romero",
     "position": "Goalkeeper",
     "nationality": "Argentina",
     "debutDecade": 2010,
@@ -3159,13 +4293,31 @@
     "plAppsBand": "150-300"
   },
   "19609": {
-    "name": "John O'Shea",
-    "position": "Defender",
-    "nationality": "Republic of Ireland",
+    "name": "J. O'Shea",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
+  },
+  "19660": {
+    "name": "Billy Jones",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "19696": {
+    "name": "Andrew Taylor",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
   },
   "19698": {
     "name": "Marc David Wilson",
@@ -3186,25 +4338,43 @@
     "plAppsBand": "150-300"
   },
   "19722": {
-    "name": "James Collins",
-    "position": "Defender",
-    "nationality": "Wales",
+    "name": "J. Collins",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
-  "19899": {
-    "name": "Lee Cattermole",
-    "position": "Midfielder",
+  "19760": {
+    "name": "James Justin",
+    "position": "Defender",
     "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "19789": {
+    "name": "Ethan Pinnock",
+    "position": "Defender",
+    "nationality": "Jamaica",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "19899": {
+    "name": "L. Cattermole",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "19952": {
-    "name": "Sébastien Aymar Bassong Nguena",
+    "name": "Sebastien Bassong",
     "position": "Defender",
     "nationality": "Cameroon",
     "debutDecade": 2000,
@@ -3213,7 +4383,7 @@
     "plAppsBand": "150-300"
   },
   "19959": {
-    "name": "Benjamin William White",
+    "name": "Benjamin White",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -3231,7 +4401,7 @@
     "plAppsBand": "150-300"
   },
   "20355": {
-    "name": "Aaron Christopher Ramsdale",
+    "name": "Aaron Ramsdale",
     "position": "Goalkeeper",
     "nationality": "England",
     "debutDecade": 2010,
@@ -3248,14 +4418,32 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "20500": {
+    "name": "Karl Henry",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "20589": {
-    "name": "Bryan Tetsadong Marceau Mbeumo",
+    "name": "Bryan Mbeumo",
     "position": "Attacker",
     "nationality": "Cameroon",
     "debutDecade": 2010,
     "clubCount": 4,
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
+  },
+  "20619": {
+    "name": "Illan Meslier",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "debutDecade": 2010,
+    "clubCount": 2,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "20649": {
     "name": "Yoane Wissa",
@@ -3284,14 +4472,50 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
+  "22090": {
+    "name": "William Saliba",
+    "position": "Defender",
+    "nationality": "France",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "22173": {
+    "name": "Allan Saint-Maximin",
+    "position": "Forward",
+    "nationality": "France",
+    "debutDecade": 2010,
+    "clubCount": 8,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "22224": {
-    "name": "Gabriel dos Santos Magalhães",
+    "name": "Gabriel Magalhães",
     "position": "Defender",
     "nationality": "Brazil",
     "debutDecade": 2010,
     "clubCount": 4,
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
+  },
+  "24888": {
+    "name": "Hwang Hee-Chan",
+    "position": "Attacker",
+    "nationality": "Korea Republic",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "25004": {
+    "name": "Stefan Ortega Moreno",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
   },
   "25073": {
     "name": "Vitaly Janelt",
@@ -3320,8 +4544,26 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "50-150"
   },
+  "27543": {
+    "name": "Wilson Roberto Palacios Suazo",
+    "position": "Midfielder",
+    "nationality": "Honduras",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "30407": {
+    "name": "Christian Thers Nørgaard",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "debutDecade": 2010,
+    "clubCount": 6,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "30412": {
-    "name": "Kevin Antonio Joel Gislain Mirallas y Castillo",
+    "name": "Kevin Mirallas",
     "position": "Midfielder",
     "nationality": "Belgium",
     "debutDecade": 2000,
@@ -3329,8 +4571,35 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "30435": {
+    "name": "Dejan Kulusevski",
+    "position": "Midfielder",
+    "nationality": "Sweden",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "30805": {
+    "name": "Valon Behrami",
+    "position": "Midfielder",
+    "nationality": "Switzerland",
+    "debutDecade": 2000,
+    "clubCount": 11,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "30813": {
+    "name": "Sandro Raniere Guimarães Cordeiro",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "debutDecade": 2000,
+    "clubCount": 10,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "33413": {
-    "name": "Fernando José Torres Sanz",
+    "name": "Fernando Torres",
     "position": "Attacker",
     "nationality": "Spain",
     "debutDecade": 2000,
@@ -3338,8 +4607,17 @@
     "transferFeeBand": "50M+",
     "plAppsBand": "150-300"
   },
+  "36788": {
+    "name": "Vurnon Anita",
+    "position": "Midfielder",
+    "nationality": "Curaçao",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "37127": {
-    "name": "Martin Ødegaard",
+    "name": "M. Ødegaard",
     "position": "Midfielder",
     "nationality": "Norway",
     "debutDecade": 2010,
@@ -3349,24 +4627,60 @@
   },
   "37162": {
     "name": "Robin van Persie",
-    "position": "Attacker",
-    "nationality": "Netherlands",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "38695": {
+    "name": "J. van Hecke",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
   "39358": {
-    "name": "Morten Gamst Pedersen",
+    "name": "M. Pedersen",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "150-300"
+  },
+  "41606": {
+    "name": "Toti Gomes",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "41621": {
+    "name": "Matheus Nunes",
     "position": "Midfielder",
-    "nationality": "Norway",
+    "nationality": "Portugal",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
+  "44326": {
+    "name": "Ali Al Habsi",
+    "position": "Goalkeeper",
+    "nationality": "Oman",
     "debutDecade": 2000,
     "clubCount": 7,
     "transferFeeBand": "<5M",
-    "plAppsBand": "150-300"
+    "plAppsBand": "50-150"
   },
   "44789": {
-    "name": "Youssouf Chafiq Mulumbu Ngangu",
+    "name": "Youssouf Mulumbu Ngangu",
     "position": "Midfielder",
     "nationality": "Congo DR",
     "debutDecade": 2000,
@@ -3374,14 +4688,32 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
-  "44863": {
-    "name": "Aaron Hughes",
+  "44837": {
+    "name": "Jonathan Spector",
     "position": "Defender",
-    "nationality": "Northern Ireland",
+    "nationality": "USA",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "44863": {
+    "name": "A. Hughes",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 8,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
+  },
+  "44881": {
+    "name": "Steven Naismith",
+    "position": "Attacker",
+    "nationality": "Scotland",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "45001": {
     "name": "Anton Ferdinand",
@@ -3402,7 +4734,7 @@
     "plAppsBand": "150-300"
   },
   "47380": {
-    "name": "Marc Cucurella Saseta",
+    "name": "Marc Cucurella",
     "position": "Defender",
     "nationality": "Spain",
     "debutDecade": 2010,
@@ -3419,14 +4751,32 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "47519": {
+    "name": "Pedro Porro",
+    "position": "Defender",
+    "nationality": "Spain",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "47522": {
-    "name": "Douglas Luiz Soares de Paulo",
+    "name": "Douglas Luiz",
     "position": "Midfielder",
     "nationality": "Brazil",
     "debutDecade": 2010,
     "clubCount": 5,
     "transferFeeBand": "50M+",
     "plAppsBand": "150-300"
+  },
+  "47552": {
+    "name": "Franco Di Santo",
+    "position": "Attacker",
+    "nationality": "Argentina",
+    "debutDecade": 2000,
+    "clubCount": 13,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "48528": {
     "name": "Alexandre Dimitri Song-Billong",
@@ -3438,21 +4788,21 @@
     "plAppsBand": "150-300"
   },
   "49840": {
-    "name": "Gaël Dimitri Clichy",
-    "position": "Defender",
-    "nationality": "France",
+    "name": "G. Clichy",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "49861": {
     "name": "Emmanuel Adebayor",
-    "position": "Attacker",
-    "nationality": "Togo",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 8,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "49892": {
@@ -3462,6 +4812,24 @@
     "debutDecade": 2000,
     "clubCount": 11,
     "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "49931": {
+    "name": "Steven Roy Caulker",
+    "position": "Defender",
+    "nationality": "Sierra Leone",
+    "debutDecade": 2000,
+    "clubCount": 15,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "49946": {
+    "name": "Papiss Cissé",
+    "position": "Attacker",
+    "nationality": "Senegal",
+    "debutDecade": 2000,
+    "clubCount": 9,
+    "transferFeeBand": "5-20M",
     "plAppsBand": "50-150"
   },
   "50188": {
@@ -3474,16 +4842,16 @@
     "plAppsBand": "150-300"
   },
   "50785": {
-    "name": "Bacary Sagna",
-    "position": "Defender",
-    "nationality": "France",
+    "name": "B. Sagna",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "50869": {
-    "name": "Bradley Edwin Guzan",
+    "name": "Bradley Guzan",
     "position": "Goalkeeper",
     "nationality": "USA",
     "debutDecade": 2000,
@@ -3492,7 +4860,7 @@
     "plAppsBand": "150-300"
   },
   "50940": {
-    "name": "Luís Carlos Almeida da Cunha",
+    "name": "Nani",
     "position": "Forward",
     "nationality": "Portugal",
     "debutDecade": 2000,
@@ -3501,7 +4869,7 @@
     "plAppsBand": "50-150"
   },
   "51079": {
-    "name": "Maynor Alexis Figueroa Róchez",
+    "name": "Maynor Figueroa Róchez",
     "position": "Defender",
     "nationality": "Honduras",
     "debutDecade": 2000,
@@ -3520,11 +4888,11 @@
   },
   "51298": {
     "name": "Timothy Matthew Howard",
-    "position": "Goalkeeper",
-    "nationality": "USA",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "53466": {
@@ -3536,8 +4904,17 @@
     "transferFeeBand": "Unknown",
     "plAppsBand": "50-150"
   },
+  "64003": {
+    "name": "Pascal Struijk",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
   "67971": {
-    "name": "Addji Keaninkin Marc-Israel Guéhi",
+    "name": "Addji Guéhi",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -3546,13 +4923,31 @@
     "plAppsBand": "150-300"
   },
   "67972": {
-    "name": "Conor John Gallagher",
+    "name": "Conor Gallagher",
     "position": "Midfielder",
     "nationality": "England",
     "debutDecade": 2010,
     "clubCount": 4,
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
+  },
+  "69261": {
+    "name": "Joseph Martin O'Brien",
+    "position": "Defender",
+    "nationality": "Republic of Ireland",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
+  "69388": {
+    "name": "Damien Delaney",
+    "position": "Defender",
+    "nationality": "Republic of Ireland",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
   },
   "77105": {
     "name": "Tim Cahill",
@@ -3564,13 +4959,22 @@
     "plAppsBand": "150-300"
   },
   "77110": {
-    "name": "Thomas Løvendahl Sørensen",
-    "position": "Goalkeeper",
-    "nationality": "Denmark",
+    "name": "T. Sørensen",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "80933": {
+    "name": "Ricardo Carvalho",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
   },
   "81993": {
     "name": "Jonathan Walters",
@@ -3582,21 +4986,21 @@
     "plAppsBand": "150-300"
   },
   "82009": {
-    "name": "John Terry",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "J. Terry",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 3,
-    "transferFeeBand": "Free",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "82011": {
-    "name": "Darren Bent",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "D. Bent",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "82017": {
@@ -3627,7 +5031,7 @@
     "plAppsBand": "50-150"
   },
   "82340": {
-    "name": "Stephen Warnock",
+    "name": "Stephen  Warnock",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2000,
@@ -3636,9 +5040,9 @@
     "plAppsBand": "150-300"
   },
   "82435": {
-    "name": "Gabriel Imuetinyan Agbonlahor",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "Gabriel  Imuetinyan Agbonlahor",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 2,
     "transferFeeBand": "Unknown",
@@ -3662,13 +5066,31 @@
     "transferFeeBand": "Free",
     "plAppsBand": "150-300"
   },
-  "83032": {
-    "name": "Scott Parker",
-    "position": "Midfielder",
+  "83020": {
+    "name": "Liam Rosenior",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "83027": {
+    "name": "Rickie Lambert",
+    "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2000,
     "clubCount": 6,
     "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "83032": {
+    "name": "Scott Parker",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "83131": {
@@ -3679,6 +5101,15 @@
     "clubCount": 4,
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
+  },
+  "83259": {
+    "name": "Stephen Kelly",
+    "position": "Defender",
+    "nationality": "Republic of Ireland",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
   },
   "85057": {
     "name": "Benoît Assou-Ekotto",
@@ -3691,30 +5122,39 @@
   },
   "87077": {
     "name": "Patrice Evra",
-    "position": "Defender",
-    "nationality": "France",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "87295": {
-    "name": "Steed Malbranque",
-    "position": "Midfielder",
-    "nationality": "France",
+    "name": "S. Malbranque",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "87315": {
-    "name": "Kieran Richardson",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "Kieran  Richardson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "87348": {
+    "name": "Cheik Tioté",
+    "position": "Midfielder",
+    "nationality": "Côte d'Ivoire",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
   },
   "87798": {
     "name": "Nigel Reo-Coker",
@@ -3744,12 +5184,12 @@
     "plAppsBand": "150-300"
   },
   "87896": {
-    "name": "Paul Konchesky",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "P. Konchesky",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "89051": {
@@ -3780,21 +5220,21 @@
     "plAppsBand": "150-300"
   },
   "90490": {
-    "name": "Michael Carrick",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "M. Carrick",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 3,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "90491": {
-    "name": "Glen Johnson",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "G. Johnson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "90492": {
@@ -3807,7 +5247,7 @@
     "plAppsBand": "150-300"
   },
   "90493": {
-    "name": "Gnégnéri Yaya Touré",
+    "name": "Yaya Touré",
     "position": "Midfielder",
     "nationality": "Côte d'Ivoire",
     "debutDecade": 2000,
@@ -3816,7 +5256,7 @@
     "plAppsBand": "150-300"
   },
   "90497": {
-    "name": "Winston Wiremu Reid",
+    "name": "Winston Reid",
     "position": "Defender",
     "nationality": "New Zealand",
     "debutDecade": 2000,
@@ -3835,11 +5275,11 @@
   },
   "90507": {
     "name": "Joleon Lescott",
-    "position": "Defender",
-    "nationality": "England",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "Free",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "90511": {
@@ -3852,12 +5292,12 @@
     "plAppsBand": "150-300"
   },
   "90512": {
-    "name": "Robert Huth",
-    "position": "Defender",
-    "nationality": "Germany",
+    "name": "R. Huth",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "90513": {
@@ -3870,31 +5310,49 @@
     "plAppsBand": "150-300"
   },
   "90514": {
-    "name": "Joey Barton",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "Joey  Barton",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "Free",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "90516": {
     "name": "Shay Given",
-    "position": "Goalkeeper",
-    "nationality": "Republic of Ireland",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 5,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "90517": {
-    "name": "Paul Robinson",
-    "position": "Goalkeeper",
-    "nationality": "England",
+    "name": "P. Robinson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
+  },
+  "90608": {
+    "name": "Vassiriki Abou Diaby",
+    "position": "Midfielder",
+    "nationality": "France",
+    "debutDecade": 2000,
+    "clubCount": 3,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "90657": {
+    "name": "Xabier Alonso Olano",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
   },
   "93990": {
     "name": "Dirk Kuijt",
@@ -3914,40 +5372,58 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "100187": {
+    "name": "Johan Elmander",
+    "position": "Attacker",
+    "nationality": "Sweden",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "100486": {
+    "name": "Eiður Smári Gudjohnsen",
+    "position": "Attacker",
+    "nationality": "Iceland",
+    "debutDecade": 2000,
+    "clubCount": 10,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
   "102731": {
     "name": "Didier Yves Drogba Tébily",
-    "position": "Attacker",
-    "nationality": "Côte d'Ivoire",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 3,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "102748": {
-    "name": "Joe Cole",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "J. Cole",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "103165": {
-    "name": "Shaun Wright-Phillips",
-    "position": "Midfielder",
-    "nationality": "England",
+    "name": "S. Wright-Phillips",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "104129": {
     "name": "Kolo Habib Touré",
-    "position": "Defender",
-    "nationality": "Côte d'Ivoire",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "104256": {
@@ -3960,9 +5436,9 @@
     "plAppsBand": "150-300"
   },
   "104259": {
-    "name": "Brett Emerton",
-    "position": "Midfielder",
-    "nationality": "Australia",
+    "name": "Brett  Emerton",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 3,
     "transferFeeBand": "Unknown",
@@ -3970,15 +5446,15 @@
   },
   "104311": {
     "name": "Mark Schwarzer",
-    "position": "Goalkeeper",
-    "nationality": "Australia",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
     "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "104312": {
-    "name": "Lucas Neill",
+    "name": "Lucas  Neill",
     "position": "Defender",
     "nationality": "Australia",
     "debutDecade": 2000,
@@ -3995,8 +5471,17 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "104780": {
+    "name": "Philippe Senderos",
+    "position": "Defender",
+    "nationality": "Switzerland",
+    "debutDecade": 2000,
+    "clubCount": 11,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "105044": {
-    "name": "José Enrique de la Sánchez Diaz",
+    "name": "José Enrique",
     "position": "Defender",
     "nationality": "Spain",
     "debutDecade": 2000,
@@ -4023,7 +5508,7 @@
     "plAppsBand": "150-300"
   },
   "105409": {
-    "name": "Kenwyne Jones",
+    "name": "Kenwyne  Jones",
     "position": "Attacker",
     "nationality": "Trinidad and Tobago",
     "debutDecade": 2000,
@@ -4049,6 +5534,15 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "106725": {
+    "name": "Keane Lewis-Potter",
+    "position": "Attacker",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 2,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "106799": {
     "name": "Michael Essien",
     "position": "Midfielder",
@@ -4059,13 +5553,40 @@
     "plAppsBand": "150-300"
   },
   "106805": {
-    "name": "Yossi Shai Benayoun",
+    "name": "Yossi Benayoun",
     "position": "Midfielder",
     "nationality": "Israel",
     "debutDecade": 1990,
     "clubCount": 10,
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
+  },
+  "106835": {
+    "name": "Kaoru Mitoma",
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "debutDecade": 2010,
+    "clubCount": 5,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
+  "111312": {
+    "name": "Carlos Cuéllar",
+    "position": "Defender",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 8,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "111327": {
+    "name": "Tal Ben Haim",
+    "position": "Defender",
+    "nationality": "Israel",
+    "debutDecade": 2000,
+    "clubCount": 11,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "113639": {
     "name": "Dimitar Ivanov Berbatov",
@@ -4085,28 +5606,64 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "50-150"
   },
+  "113662": {
+    "name": "Djibril Cissé",
+    "position": "Attacker",
+    "nationality": "France",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "113823": {
+    "name": "Carlos Manuel Bocanegra",
+    "position": "Defender",
+    "nationality": "USA",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
   "113868": {
     "name": "Claude Makelele",
-    "position": null,
-    "nationality": null,
+    "position": "Midfielder",
+    "nationality": "France",
     "debutDecade": 2000,
     "clubCount": 3,
     "transferFeeBand": "Unknown",
     "plAppsBand": "50-150"
   },
-  "114743": {
-    "name": "Kevin Nolan",
-    "position": "Midfielder",
-    "nationality": "England",
+  "113887": {
+    "name": "Franck Queudrue",
+    "position": "Defender",
+    "nationality": "France",
     "debutDecade": 2000,
     "clubCount": 5,
     "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "114571": {
+    "name": "Gilberto Silva",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "114743": {
+    "name": "K. Nolan",
+    "position": null,
+    "nationality": null,
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "114744": {
     "name": "Adam Johnson",
-    "position": "Midfielder",
-    "nationality": "England",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
     "transferFeeBand": "Unknown",
@@ -4114,17 +5671,17 @@
   },
   "114745": {
     "name": "Mikel Arteta Amatriain",
-    "position": "Midfielder",
-    "nationality": "Spain",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 2,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "114746": {
     "name": "Leon Osman",
-    "position": "Midfielder",
-    "nationality": "England",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 2,
     "transferFeeBand": "Unknown",
@@ -4132,8 +5689,8 @@
   },
   "114747": {
     "name": "Sylvain Distin",
-    "position": "Defender",
-    "nationality": "France",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
     "transferFeeBand": "Unknown",
@@ -4141,8 +5698,8 @@
   },
   "114751": {
     "name": "Brede Hangeland",
-    "position": "Defender",
-    "nationality": "Norway",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
     "transferFeeBand": "Unknown",
@@ -4150,8 +5707,8 @@
   },
   "114752": {
     "name": "Charles N'Zogbia",
-    "position": "Midfielder",
-    "nationality": "France",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
     "transferFeeBand": "Unknown",
@@ -4167,21 +5724,21 @@
     "plAppsBand": "150-300"
   },
   "114757": {
-    "name": "Richard Dunne",
-    "position": "Defender",
-    "nationality": "Republic of Ireland",
+    "name": "Richard  Dunne",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 4,
     "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "114758": {
-    "name": "Carlton Cole Okirie",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "C. Cole",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "114759": {
@@ -4193,6 +5750,15 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
+  "114760": {
+    "name": "Steve Harper",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 3,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
   "114761": {
     "name": "Bobby Zamora",
     "position": "Attacker",
@@ -4203,30 +5769,30 @@
     "plAppsBand": "150-300"
   },
   "114763": {
-    "name": "Matthew Upson",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "Matthew  Upson",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "114764": {
-    "name": "Rio Ferdinand",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "R. Ferdinand",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 3,
-    "transferFeeBand": "20-50M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "114765": {
-    "name": "Jussi Jääskeläinen",
-    "position": "Goalkeeper",
-    "nationality": "Finland",
+    "name": "J. Jääskeläinen",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 5,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "114768": {
@@ -4237,6 +5803,15 @@
     "clubCount": 5,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "114769": {
+    "name": "Andy Wilkinson",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 3,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
   },
   "114772": {
     "name": "Nicolas Anelka",
@@ -4257,18 +5832,18 @@
     "plAppsBand": "150-300"
   },
   "114774": {
-    "name": "Ryan Giggs",
-    "position": "Midfielder",
-    "nationality": "Wales",
+    "name": "Ryan  Giggs",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 2,
     "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "114775": {
-    "name": "Damien Duff",
-    "position": "Goalkeeper",
-    "nationality": "Republic of Ireland",
+    "name": "Damien  Duff",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 5,
     "transferFeeBand": "Unknown",
@@ -4293,12 +5868,12 @@
     "plAppsBand": "150-300"
   },
   "114787": {
-    "name": "John Arne Semundseth Riise",
-    "position": "Defender",
-    "nationality": "Norway",
+    "name": "J. Riise",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 7,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "114788": {
@@ -4308,6 +5883,15 @@
     "debutDecade": 2000,
     "clubCount": 4,
     "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "114790": {
+    "name": "Kevin  Phillips",
+    "position": "Attacker",
+    "nationality": "England",
+    "debutDecade": 1990,
+    "clubCount": 8,
+    "transferFeeBand": "Unknown",
     "plAppsBand": "50-150"
   },
   "114792": {
@@ -4330,8 +5914,8 @@
   },
   "114801": {
     "name": "Phil Neville",
-    "position": "Midfielder",
-    "nationality": "England",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 3,
     "transferFeeBand": "Unknown",
@@ -4339,15 +5923,15 @@
   },
   "114802": {
     "name": "Paul Scholes",
-    "position": "Midfielder",
-    "nationality": "England",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 2,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "114804": {
-    "name": "Emmerson Orlando Boyce",
+    "name": "Emmerson Boyce",
     "position": "Defender",
     "nationality": "Barbados",
     "debutDecade": 2000,
@@ -4355,10 +5939,19 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
+  "114806": {
+    "name": "José Bosingwa da Silva",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
   "114808": {
     "name": "William Gallas",
-    "position": "Defender",
-    "nationality": "France",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
     "transferFeeBand": "Unknown",
@@ -4374,12 +5967,21 @@
     "plAppsBand": "150-300"
   },
   "114814": {
-    "name": "Luke Moore",
+    "name": "Luke  Moore",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2000,
     "clubCount": 6,
     "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "114815": {
+    "name": "Michael Owen",
+    "position": "Attacker",
+    "nationality": "England",
+    "debutDecade": 1990,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
     "plAppsBand": "50-150"
   },
   "114817": {
@@ -4401,22 +6003,40 @@
     "plAppsBand": "150-300"
   },
   "114819": {
-    "name": "Jamie Carragher",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "J. Carragher",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 2,
     "transferFeeBand": "Unknown",
     "plAppsBand": "300+"
   },
   "114820": {
-    "name": "Louis Saha",
+    "name": "Louis  Saha",
     "position": "Attacker",
     "nationality": "France",
     "debutDecade": 2000,
     "clubCount": 4,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "114822": {
+    "name": "Kieron  Dyer",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 1990,
+    "clubCount": 6,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "114828": {
+    "name": "Paulo Renato Rebocho Ferreira",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "debutDecade": 2000,
+    "clubCount": 2,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
   },
   "114829": {
     "name": "Nicky Shorey",
@@ -4445,6 +6065,15 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "150-300"
   },
+  "114845": {
+    "name": "Stephen Hunt",
+    "position": "Midfielder",
+    "nationality": "Republic of Ireland",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "114846": {
     "name": "Stiliyan Alyoshev Petrov",
     "position": "Midfielder",
@@ -4464,22 +6093,40 @@
     "plAppsBand": "150-300"
   },
   "114850": {
-    "name": "Luke Young",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "L. Young",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "114851": {
-    "name": "Emile Heskey",
-    "position": "Attacker",
-    "nationality": "England",
+    "name": "E. Heskey",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 7,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "114854": {
+    "name": "Jonathan Woodgate",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "114855": {
+    "name": "Dickson Etuhu",
+    "position": "Midfielder",
+    "nationality": "Nigeria",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
   },
   "114859": {
     "name": "David Dunn",
@@ -4492,12 +6139,30 @@
   },
   "114862": {
     "name": "Yakubu Aiyegbeni",
-    "position": "Attacker",
-    "nationality": "Nigeria",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 10,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "114863": {
+    "name": "Tuncay Volkan Sanli",
+    "position": "Attacker",
+    "nationality": "Turkey",
+    "debutDecade": 2000,
+    "clubCount": 8,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "114864": {
+    "name": "Martin Petrov",
+    "position": "Midfielder",
+    "nationality": "Bulgaria",
+    "debutDecade": 1990,
+    "clubCount": 7,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
   },
   "114865": {
     "name": "Ledley King",
@@ -4510,12 +6175,30 @@
   },
   "114866": {
     "name": "Danny Murphy",
-    "position": "Midfielder",
-    "nationality": "England",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 6,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "114867": {
+    "name": "Grétar Steinsson",
+    "position": "Defender",
+    "nationality": "Iceland",
+    "debutDecade": 2000,
+    "clubCount": 4,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "114876": {
+    "name": "Thierry  Henry",
+    "position": "Attacker",
+    "nationality": "France",
+    "debutDecade": 1990,
+    "clubCount": 4,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
   },
   "114879": {
     "name": "Wayne Bridge",
@@ -4526,14 +6209,41 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "150-300"
   },
+  "114880": {
+    "name": "Ricardo Fuller",
+    "position": "Attacker",
+    "nationality": "Jamaica",
+    "debutDecade": 1990,
+    "clubCount": 8,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "114884": {
-    "name": "Zat Knight",
-    "position": "Defender",
-    "nationality": "England",
+    "name": "Z. Knight",
+    "position": null,
+    "nationality": null,
     "debutDecade": 2000,
     "clubCount": 5,
-    "transferFeeBand": "<5M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "114896": {
+    "name": "Danny Higginbotham",
+    "position": "Defender",
+    "nationality": "Gibraltar",
+    "debutDecade": 2000,
+    "clubCount": 4,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "114900": {
+    "name": "Manuel Almunia Rivero",
+    "position": "Goalkeeper",
+    "nationality": "Spain",
+    "debutDecade": 2000,
+    "clubCount": 3,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
   },
   "115062": {
     "name": "Mikaël Silvestre",
@@ -4553,6 +6263,15 @@
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "115095": {
+    "name": "Moritz Volz",
+    "position": "Defender",
+    "nationality": "Germany",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "115931": {
     "name": "Luís Boa Morte Pereira",
     "position": "Midfielder",
@@ -4561,6 +6280,15 @@
     "clubCount": 5,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "115933": {
+    "name": "Marlon Harewood",
+    "position": "Attacker",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "115936": {
     "name": "Stephen Carr",
@@ -4571,14 +6299,50 @@
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "115938": {
+    "name": "Emmanuel Eboué",
+    "position": "Defender",
+    "nationality": "Côte d'Ivoire",
+    "debutDecade": 2000,
+    "clubCount": 4,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "115943": {
+    "name": "John Carew",
+    "position": "Attacker",
+    "nationality": "Norway",
+    "debutDecade": 1990,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "115945": {
+    "name": "Boudewijn Zenden",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "debutDecade": 1990,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
   "115949": {
-    "name": "James Beattie",
+    "name": "James  Beattie",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2000,
     "clubCount": 7,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "115953": {
+    "name": "Andy Reid",
+    "position": "Midfielder",
+    "nationality": "Republic of Ireland",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
   },
   "115954": {
     "name": "David Bentley",
@@ -4589,8 +6353,26 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
+  "115955": {
+    "name": "Robert  Pirès",
+    "position": "Midfielder",
+    "nationality": "France",
+    "debutDecade": 1990,
+    "clubCount": 4,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "115959": {
+    "name": "Diomansy Kamara",
+    "position": "Attacker",
+    "nationality": "Senegal",
+    "debutDecade": 2000,
+    "clubCount": 8,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "115962": {
-    "name": "El-Hadji Ousseynou Diouf",
+    "name": "El-Hadji Diouf",
     "position": "Attacker",
     "nationality": "Senegal",
     "debutDecade": 2000,
@@ -4625,13 +6407,40 @@
     "transferFeeBand": "Unknown",
     "plAppsBand": "50-150"
   },
-  "115977": {
-    "name": "Edwin van der Sar",
+  "115973": {
+    "name": "Barry Ferguson",
+    "position": "Midfielder",
+    "nationality": "Scotland",
+    "debutDecade": 2000,
+    "clubCount": 6,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "115975": {
+    "name": "Maik Taylor",
     "position": "Goalkeeper",
-    "nationality": "Netherlands",
+    "nationality": "Northern Ireland",
+    "debutDecade": 1990,
+    "clubCount": 4,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "115976": {
+    "name": "Marcus Hahnemann",
+    "position": "Goalkeeper",
+    "nationality": "USA",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "115977": {
+    "name": "E. van der Sar",
+    "position": null,
+    "nationality": null,
     "debutDecade": 1990,
     "clubCount": 3,
-    "transferFeeBand": "5-20M",
+    "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
   "115980": {
@@ -4652,6 +6461,24 @@
     "transferFeeBand": "<5M",
     "plAppsBand": "50-150"
   },
+  "116023": {
+    "name": "Tomasz Radziński",
+    "position": "Attacker",
+    "nationality": "Canada",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
+  "116117": {
+    "name": "Moisés Caicedo Corozo",
+    "position": "Midfielder",
+    "nationality": "Ecuador",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
   "117973": {
     "name": "Nwankwo Christian Kanu",
     "position": "Attacker",
@@ -4660,6 +6487,24 @@
     "clubCount": 4,
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
+  },
+  "118000": {
+    "name": "Aaron Mokoena",
+    "position": "Defender",
+    "nationality": "South Africa",
+    "debutDecade": 1990,
+    "clubCount": 4,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "118023": {
+    "name": "Gérémi N'Djitap Fotso",
+    "position": "Midfielder",
+    "nationality": "Cameroon",
+    "debutDecade": 1990,
+    "clubCount": 6,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
   },
   "118126": {
     "name": "Mario Melchiot",
@@ -4670,8 +6515,26 @@
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "118149": {
+    "name": "Michael Duberry",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 1990,
+    "clubCount": 6,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "126949": {
+    "name": "Christopher Richards",
+    "position": "Defender",
+    "nationality": "USA",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
   "127769": {
-    "name": "Gabriel Teodoro Martinelli Silva",
+    "name": "Gabriel Martinelli",
     "position": "Attacker",
     "nationality": "Brazil",
     "debutDecade": 2010,
@@ -4679,8 +6542,26 @@
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "129058": {
+    "name": "Bart Verbruggen",
+    "position": "Goalkeeper",
+    "nationality": "Netherlands",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "129711": {
+    "name": "Brennan Johnson",
+    "position": "Attacker",
+    "nationality": "Wales",
+    "debutDecade": 2010,
+    "clubCount": 4,
+    "transferFeeBand": "50M+",
+    "plAppsBand": "50-150"
+  },
   "138780": {
-    "name": "Neco Shay Williams",
+    "name": "Neco Williams",
     "position": "Defender",
     "nationality": "Wales",
     "debutDecade": 2010,
@@ -4689,7 +6570,7 @@
     "plAppsBand": "150-300"
   },
   "138787": {
-    "name": "Anthony Michael Gordon",
+    "name": "Anthony Gordon",
     "position": "Attacker",
     "nationality": "England",
     "debutDecade": 2010,
@@ -4697,8 +6578,17 @@
     "transferFeeBand": "20-50M",
     "plAppsBand": "150-300"
   },
+  "152982": {
+    "name": "Cole Palmer",
+    "position": "Midfielder",
+    "nationality": "England",
+    "debutDecade": 2010,
+    "clubCount": 3,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "153430": {
-    "name": "Anthony David Junior Elanga",
+    "name": "Anthony Junior Elanga",
     "position": "Attacker",
     "nationality": "Sweden",
     "debutDecade": 2020,
@@ -4706,8 +6596,17 @@
     "transferFeeBand": "5-20M",
     "plAppsBand": "50-150"
   },
+  "158694": {
+    "name": "Valentino Livramento",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2020,
+    "clubCount": 3,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
   "182201": {
-    "name": "Tyrick Kwon Mitchell",
+    "name": "Tyrick Mitchell",
     "position": "Defender",
     "nationality": "England",
     "debutDecade": 2010,
@@ -4715,8 +6614,44 @@
     "transferFeeBand": "Unknown",
     "plAppsBand": "150-300"
   },
+  "195103": {
+    "name": "João Gomes",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "debutDecade": 2020,
+    "clubCount": 4,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "230924": {
+    "name": "Richard Hughes",
+    "position": "Midfielder",
+    "nationality": "Scotland",
+    "debutDecade": 2000,
+    "clubCount": 3,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
+  "230926": {
+    "name": "Anthony Gardner",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "230965": {
+    "name": "Papa Diop",
+    "position": "Midfielder",
+    "nationality": "Senegal",
+    "debutDecade": 2000,
+    "clubCount": 7,
+    "transferFeeBand": "<5M",
+    "plAppsBand": "50-150"
+  },
   "230996": {
-    "name": "Kevin Kilbane",
+    "name": "Kevin  Kilbane",
     "position": "Midfielder",
     "nationality": "Ireland Republic",
     "debutDecade": 1990,
@@ -4749,6 +6684,69 @@
     "debutDecade": 2000,
     "clubCount": 5,
     "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "237129": {
+    "name": "Pape Sarr",
+    "position": "Midfielder",
+    "nationality": "Senegal",
+    "debutDecade": 2020,
+    "clubCount": 3,
+    "transferFeeBand": "5-20M",
+    "plAppsBand": "50-150"
+  },
+  "240320": {
+    "name": "Juan Pablo Ángel Arango",
+    "position": "Attacker",
+    "nationality": "Colombia",
+    "debutDecade": 2000,
+    "clubCount": 5,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "258155": {
+    "name": "Henri Camara",
+    "position": "Attacker",
+    "nationality": "Senegal",
+    "debutDecade": 2000,
+    "clubCount": 12,
+    "transferFeeBand": "Free",
+    "plAppsBand": "50-150"
+  },
+  "284230": {
+    "name": "Rico Lewis",
+    "position": "Defender",
+    "nationality": "England",
+    "debutDecade": 2020,
+    "clubCount": 2,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "284324": {
+    "name": "Alejandro Garnacho Ferreyra",
+    "position": "Attacker",
+    "nationality": "Argentina",
+    "debutDecade": 2020,
+    "clubCount": 4,
+    "transferFeeBand": "Unknown",
+    "plAppsBand": "50-150"
+  },
+  "284797": {
+    "name": "Dango Ouattara",
+    "position": "Attacker",
+    "nationality": "Burkina Faso",
+    "debutDecade": 2020,
+    "clubCount": 3,
+    "transferFeeBand": "20-50M",
+    "plAppsBand": "50-150"
+  },
+  "495015": {
+    "name": "Robbie Savage",
+    "position": "Midfielder",
+    "nationality": "Wales",
+    "debutDecade": 1990,
+    "clubCount": 5,
+    "transferFeeBand": "<5M",
     "plAppsBand": "50-150"
   }
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Nottingham Forest",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2020,
+    "appearances": 16
+  },
+  {
+    "clubName": "Brighton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "domestic cup, England",
+    "yearStart": 2008,
+    "appearances": 194
+  },
+  {
+    "clubName": "Crystal Palace",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2011,
+    "appearances": 99
+  }
+]

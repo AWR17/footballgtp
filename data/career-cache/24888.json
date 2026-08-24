@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "South Korea",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2016,
+    "appearances": 47
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2021,
+    "appearances": 110
+  },
+  {
+    "clubName": "RB Leipzig",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2020,
+    "appearances": 18
+  },
+  {
+    "clubName": "Red Bull Salzburg",
+    "country": "Austria",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Austria",
+    "yearStart": 2015,
+    "appearances": 86
+  },
+  {
+    "clubName": "FC Liefering",
+    "country": "Austria",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Austria",
+    "yearStart": 2014,
+    "appearances": 13
+  }
+]

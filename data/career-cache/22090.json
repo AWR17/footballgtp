@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "France",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 17
+  },
+  {
+    "clubName": "Arsenal",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2019,
+    "appearances": 104
+  },
+  {
+    "clubName": "Saint Etienne",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2018,
+    "appearances": 16
+  }
+]

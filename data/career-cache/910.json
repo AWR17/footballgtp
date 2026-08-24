@@ -1,0 +1,90 @@
+[
+  {
+    "clubName": "Chile",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2006,
+    "appearances": 94
+  },
+  {
+    "clubName": "CF Montreal",
+    "country": "USA",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2026,
+    "appearances": 2
+  },
+  {
+    "clubName": "Sevilla",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Spain",
+    "yearStart": 2025,
+    "appearances": 2
+  },
+  {
+    "clubName": "Udinese",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2008,
+    "appearances": 108
+  },
+  {
+    "clubName": "Inter",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2019,
+    "appearances": 102
+  },
+  {
+    "clubName": "Manchester United",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 32
+  },
+  {
+    "clubName": "Arsenal",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 103
+  },
+  {
+    "clubName": "Barcelona",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2011,
+    "appearances": 88
+  },
+  {
+    "clubName": "River Plate",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 0
+  },
+  {
+    "clubName": "Colo Colo",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 32
+  },
+  {
+    "clubName": "Cobreloa",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 35
+  }
+]

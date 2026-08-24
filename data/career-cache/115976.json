@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Seattle Sounders",
+    "country": "USA",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2012,
+    "appearances": 6
+  },
+  {
+    "clubName": "Everton",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 0
+  },
+  {
+    "clubName": "USA",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2003,
+    "appearances": 3
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 39
+  },
+  {
+    "clubName": "Reading",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 155
+  }
+]

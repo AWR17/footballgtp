@@ -1,0 +1,66 @@
+[
+  {
+    "clubName": "Charlotte",
+    "country": "USA",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2026,
+    "appearances": 3
+  },
+  {
+    "clubName": "Lens",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "a club in France",
+    "yearStart": 2025,
+    "appearances": 3
+  },
+  {
+    "clubName": "Fenerbahçe",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2024,
+    "appearances": 20
+  },
+  {
+    "clubName": "Al-Ahli Jeddah",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2023,
+    "appearances": 1
+  },
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2019,
+    "appearances": 35
+  },
+  {
+    "clubName": "Nice",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2017,
+    "appearances": 35
+  },
+  {
+    "clubName": "Monaco",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "European competition",
+    "yearStart": 2016,
+    "appearances": 0
+  },
+  {
+    "clubName": "Saint Etienne",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2013,
+    "appearances": 3
+  }
+]

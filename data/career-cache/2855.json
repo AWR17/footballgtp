@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Newcastle",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2019,
+    "appearances": 109
+  },
+  {
+    "clubName": "Sweden",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2014,
+    "appearances": 27
+  },
+  {
+    "clubName": "Amiens",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2018,
+    "appearances": 35
+  },
+  {
+    "clubName": "Bologna",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2015,
+    "appearances": 42
+  },
+  {
+    "clubName": "Helsingborg",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 64
+  },
+  {
+    "clubName": "Osters IF",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2011,
+    "appearances": 24
+  }
+]

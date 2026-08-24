@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Brighton",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 75
+  },
+  {
+    "clubName": "Netherlands",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 11
+  },
+  {
+    "clubName": "Anderlecht",
+    "country": "Belgium",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Belgium",
+    "yearStart": 2020,
+    "appearances": 35
+  },
+  {
+    "clubName": "NAC Breda",
+    "country": "Netherlands",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Netherlands",
+    "yearStart": 2019,
+    "appearances": 0
+  }
+]

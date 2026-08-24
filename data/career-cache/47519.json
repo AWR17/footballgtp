@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Spain",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2020,
+    "appearances": 13
+  },
+  {
+    "clubName": "Tottenham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 49
+  },
+  {
+    "clubName": "Sporting CP",
+    "country": "Portugal",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Portugal",
+    "yearStart": 2020,
+    "appearances": 53
+  },
+  {
+    "clubName": "Valladolid",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2019,
+    "appearances": 13
+  },
+  {
+    "clubName": "Girona",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2017,
+    "appearances": 1
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Nuneaton Town",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "a club in England",
+    "yearStart": 2015,
+    "appearances": 1
+  },
+  {
+    "clubName": "Hartlepool",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2013,
+    "appearances": 53
+  },
+  {
+    "clubName": "Barnsley",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2010,
+    "appearances": 42
+  },
+  {
+    "clubName": "Nottingham Forest",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2011,
+    "appearances": 4
+  },
+  {
+    "clubName": "Aston Villa",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 29
+  },
+  {
+    "clubName": "West Ham",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 68
+  }
+]

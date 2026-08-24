@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Nottingham Forest",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 69
+  },
+  {
+    "clubName": "Nigeria",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2017,
+    "appearances": 24
+  },
+  {
+    "clubName": "Torino",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2018,
+    "appearances": 102
+  },
+  {
+    "clubName": "Fulham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 31
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 4
+  },
+  {
+    "clubName": "Hull City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2017,
+    "appearances": 44
+  }
+]

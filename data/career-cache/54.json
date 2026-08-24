@@ -1,0 +1,106 @@
+[
+  {
+    "clubName": "Gremio",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2024,
+    "appearances": 6
+  },
+  {
+    "clubName": "Botafogo",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2023,
+    "appearances": 13
+  },
+  {
+    "clubName": "Wolves",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 23
+  },
+  {
+    "clubName": "Atletico-MG",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2021,
+    "appearances": 15
+  },
+  {
+    "clubName": "Atletico Madrid",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2010,
+    "appearances": 155
+  },
+  {
+    "clubName": "Spain",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2014,
+    "appearances": 11
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2014,
+    "appearances": 89
+  },
+  {
+    "clubName": "Brazil",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2013,
+    "appearances": 2
+  },
+  {
+    "clubName": "Rayo Vallecano",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2011,
+    "appearances": 16
+  },
+  {
+    "clubName": "Valladolid",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 34
+  },
+  {
+    "clubName": "Albacete",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 35
+  },
+  {
+    "clubName": "Celta Vigo",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 30
+  },
+  {
+    "clubName": "Penafiel",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 13
+  }
+]

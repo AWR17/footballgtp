@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Fulham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2020,
+    "appearances": 126
+  },
+  {
+    "clubName": "Netherlands",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2015,
+    "appearances": 7
+  },
+  {
+    "clubName": "Lyon",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2017,
+    "appearances": 53
+  },
+  {
+    "clubName": "Ajax",
+    "country": "Netherlands",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Netherlands",
+    "yearStart": 2013,
+    "appearances": 31
+  }
+]

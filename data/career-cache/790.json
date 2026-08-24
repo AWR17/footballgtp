@@ -1,0 +1,58 @@
+[
+  {
+    "clubName": "Bosnia & Herzegovina",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2007,
+    "appearances": 84
+  },
+  {
+    "clubName": "Fenerbahçe",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2022,
+    "appearances": 37
+  },
+  {
+    "clubName": "Inter",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2021,
+    "appearances": 1
+  },
+  {
+    "clubName": "AS Roma",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2015,
+    "appearances": 37
+  },
+  {
+    "clubName": "Manchester City",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 27
+  },
+  {
+    "clubName": "VfL Wolfsburg",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 59
+  },
+  {
+    "clubName": "Teplice",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 43
+  }
+]

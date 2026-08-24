@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "Amiens",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, France",
+    "yearStart": 2022,
+    "appearances": 30
+  },
+  {
+    "clubName": "Rizespor",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2021,
+    "appearances": 14
+  },
+  {
+    "clubName": "Fenerbahçe",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2020,
+    "appearances": 25
+  },
+  {
+    "clubName": "Alanyaspor",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2018,
+    "appearances": 58
+  },
+  {
+    "clubName": "Shandong Luneng",
+    "country": "China",
+    "isNationalTeam": false,
+    "tierLabel": "a club in China",
+    "yearStart": 2016,
+    "appearances": 31
+  },
+  {
+    "clubName": "Newcastle",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 117
+  },
+  {
+    "clubName": "Senegal",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2012,
+    "appearances": 7
+  },
+  {
+    "clubName": "SC Freiburg",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2009,
+    "appearances": 48
+  },
+  {
+    "clubName": "Metz",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 79
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "clubName": "Uruguay",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2008,
+    "appearances": 56
+  },
+  {
+    "clubName": "Inter Miami",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, USA",
+    "yearStart": 2024,
+    "appearances": 33
+  },
+  {
+    "clubName": "Gremio",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2023,
+    "appearances": 32
+  },
+  {
+    "clubName": "Club Nacional",
+    "country": "Uruguay",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Uruguay",
+    "yearStart": 2005,
+    "appearances": 43
+  },
+  {
+    "clubName": "Atletico Madrid",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2020,
+    "appearances": 67
+  },
+  {
+    "clubName": "Barcelona",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2014,
+    "appearances": 191
+  },
+  {
+    "clubName": "Liverpool",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 110
+  },
+  {
+    "clubName": "Ajax",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 64
+  },
+  {
+    "clubName": "Groningen",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "clubName": "Germany",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2014,
+    "appearances": 41
+  },
+  {
+    "clubName": "Real Madrid",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2022,
+    "appearances": 104
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 133
+  },
+  {
+    "clubName": "AS Roma",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2015,
+    "appearances": 56
+  },
+  {
+    "clubName": "VfB Stuttgart",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2011,
+    "appearances": 66
+  }
+]

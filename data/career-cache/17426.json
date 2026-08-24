@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Milton Keynes Dons",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2018,
+    "appearances": 29
+  },
+  {
+    "clubName": "Norwich",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 287
+  },
+  {
+    "clubName": "Scotland",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2012,
+    "appearances": 23
+  },
+  {
+    "clubName": "Peterborough",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 46
+  }
+]

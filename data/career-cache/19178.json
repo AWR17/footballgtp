@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Aston Villa",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2011,
+    "appearances": 188
+  },
+  {
+    "clubName": "Scotland",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2008,
+    "appearances": 40
+  },
+  {
+    "clubName": "Tottenham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2007,
+    "appearances": 51
+  },
+  {
+    "clubName": "Rangers",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 51
+  }
+]

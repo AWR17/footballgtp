@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Clyde",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2014,
+    "appearances": 0
+  },
+  {
+    "clubName": "Blackpool",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2011,
+    "appearances": 65
+  },
+  {
+    "clubName": "Birmingham",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2009,
+    "appearances": 72
+  },
+  {
+    "clubName": "Scotland",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2000,
+    "appearances": 35
+  },
+  {
+    "clubName": "Rangers",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2005,
+    "appearances": 13
+  },
+  {
+    "clubName": "Blackburn",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2003,
+    "appearances": 36
+  }
+]

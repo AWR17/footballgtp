@@ -1,0 +1,106 @@
+[
+  {
+    "clubName": "U. Catolica",
+    "country": "Chile",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Chile",
+    "yearStart": 2023,
+    "appearances": 20
+  },
+  {
+    "clubName": "Club Tijuana",
+    "country": "Mexico",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Mexico",
+    "yearStart": 2022,
+    "appearances": 15
+  },
+  {
+    "clubName": "Göztepe",
+    "country": "Turkey",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Turkey",
+    "yearStart": 2021,
+    "appearances": 15
+  },
+  {
+    "clubName": "San Lorenzo",
+    "country": "Argentina",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Argentina",
+    "yearStart": 2020,
+    "appearances": 6
+  },
+  {
+    "clubName": "Atletico-MG",
+    "country": "Brazil",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Brazil",
+    "yearStart": 2019,
+    "appearances": 21
+  },
+  {
+    "clubName": "Rayo Vallecano",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2018,
+    "appearances": 6
+  },
+  {
+    "clubName": "FC Schalke 04",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2015,
+    "appearances": 67
+  },
+  {
+    "clubName": "Werder Bremen",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2013,
+    "appearances": 49
+  },
+  {
+    "clubName": "Argentina",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2012,
+    "appearances": 3
+  },
+  {
+    "clubName": "Wigan",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2010,
+    "appearances": 92
+  },
+  {
+    "clubName": "Blackburn",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 22
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 8
+  },
+  {
+    "clubName": "A. Italiano",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 61
+  }
+]

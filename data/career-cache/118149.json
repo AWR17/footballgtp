@@ -1,0 +1,50 @@
+[
+  {
+    "clubName": "Oxford United",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "4th tier, England",
+    "yearStart": 2011,
+    "appearances": 47
+  },
+  {
+    "clubName": "ST Johnstone",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Scotland",
+    "yearStart": 2009,
+    "appearances": 50
+  },
+  {
+    "clubName": "Reading",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2006,
+    "appearances": 50
+  },
+  {
+    "clubName": "Stoke City",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2004,
+    "appearances": 66
+  },
+  {
+    "clubName": "Leeds",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 1999,
+    "appearances": 40
+  },
+  {
+    "clubName": "Chelsea",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 1993,
+    "appearances": 86
+  }
+]

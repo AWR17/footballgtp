@@ -1,0 +1,90 @@
+[
+  {
+    "clubName": "Deportivo La Coruna",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2026,
+    "appearances": 1
+  },
+  {
+    "clubName": "Gabon",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2010,
+    "appearances": 32
+  },
+  {
+    "clubName": "Marseille",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2023,
+    "appearances": 35
+  },
+  {
+    "clubName": "Chelsea",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 15
+  },
+  {
+    "clubName": "Barcelona",
+    "country": "Spain",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Spain",
+    "yearStart": 2021,
+    "appearances": 17
+  },
+  {
+    "clubName": "Arsenal",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2017,
+    "appearances": 114
+  },
+  {
+    "clubName": "Borussia Dortmund",
+    "country": "Germany",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Germany",
+    "yearStart": 2013,
+    "appearances": 128
+  },
+  {
+    "clubName": "Saint Etienne",
+    "country": "France",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, France",
+    "yearStart": 2010,
+    "appearances": 70
+  },
+  {
+    "clubName": "Lille",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2009,
+    "appearances": 14
+  },
+  {
+    "clubName": "Dijon",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2008,
+    "appearances": 34
+  },
+  {
+    "clubName": "AC Milan",
+    "country": null,
+    "isNationalTeam": false,
+    "tierLabel": "an unspecified league",
+    "yearStart": 2007,
+    "appearances": 0
+  }
+]

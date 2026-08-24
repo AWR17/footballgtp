@@ -1,0 +1,26 @@
+[
+  {
+    "clubName": "Rangers",
+    "country": "Scotland",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Scotland",
+    "yearStart": 2025,
+    "appearances": 25
+  },
+  {
+    "clubName": "Bournemouth",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2023,
+    "appearances": 39
+  },
+  {
+    "clubName": "Norwich",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "2nd tier, England",
+    "yearStart": 2018,
+    "appearances": 201
+  }
+]

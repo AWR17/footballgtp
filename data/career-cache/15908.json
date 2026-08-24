@@ -1,0 +1,34 @@
+[
+  {
+    "clubName": "Brentford",
+    "country": "England",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, England",
+    "yearStart": 2022,
+    "appearances": 90
+  },
+  {
+    "clubName": "Denmark",
+    "country": "World",
+    "isNationalTeam": false,
+    "tierLabel": "a club in World",
+    "yearStart": 2020,
+    "appearances": 18
+  },
+  {
+    "clubName": "Sampdoria",
+    "country": "Italy",
+    "isNationalTeam": false,
+    "tierLabel": "1st tier, Italy",
+    "yearStart": 2020,
+    "appearances": 46
+  },
+  {
+    "clubName": "FC Nordsjaelland",
+    "country": "Denmark",
+    "isNationalTeam": false,
+    "tierLabel": "a club in Denmark",
+    "yearStart": 2017,
+    "appearances": 84
+  }
+]
