@@ -416,6 +416,8 @@
 
   <div class="feedback-msg" id="feedbackMsg"></div>
 
+  <button id="viewResultBtn" style="display:none; width:100%; margin-bottom:16px;">View result / Share</button>
+
   <div class="guesses" id="guessesList"></div>
 
   <!--
@@ -485,21 +487,13 @@
     plAppsBand: "PL apps",
   };
 
-  // England, Scotland, and Wales don't have their own ISO country code
-  // (they're part of GB) — they use a different, longer Unicode "tag
-  // sequence" mechanism instead of the standard 2-letter regional
-  // indicator formula, so they can't be generated the same way as
-  // everything else and are hardcoded here as literal sequences.
   const SPECIAL_FLAGS = {
     "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
     "Wales": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-    "Northern Ireland": "🇬🇧", // no distinct official Unicode flag exists — GB is the closest honest approximation
+    "Northern Ireland": "🇬🇧",
   };
 
-  // Nationality strings from API-Football, mapped to ISO 3166-1 alpha-2
-  // codes — covers common footballing nations. Anything not listed here
-  // just shows as plain text with no flag, rather than guessing wrong.
   const NATIONALITY_TO_ISO = {
     "Brazil": "BR", "France": "FR", "Belgium": "BE", "Spain": "ES", "Germany": "DE",
     "Italy": "IT", "Portugal": "PT", "Netherlands": "NL", "Argentina": "AR",
@@ -529,7 +523,7 @@
     if (!nationality) return "";
     if (SPECIAL_FLAGS[nationality]) return SPECIAL_FLAGS[nationality];
     const code = NATIONALITY_TO_ISO[nationality];
-    if (!code) return ""; // not in the table — show plain text, don't guess
+    if (!code) return "";
     const codePoints = [...code.toUpperCase()].map((c) => 0x1F1E6 + (c.charCodeAt(0) - 65));
     return String.fromCodePoint(...codePoints);
   }
@@ -543,7 +537,7 @@
   };
 
   let attributesById = null;
-  let dailyAnswerMeta = null; // { date, playerId } from daily-answer.json, or null in demo mode
+  let dailyAnswerMeta = null;
   let todayId = null;
   let answer = null;
   let names = [];
@@ -576,12 +570,6 @@
   }
 
   async function pickTodaysAnswer() {
-    // Real mode: today's answer is picked ONCE by pick-daily-answer.js and
-    // committed permanently — never recomputed client-side. This matters:
-    // hashing the date against the attributes file directly (the earlier
-    // approach) breaks the moment that file is regenerated, since the
-    // hash-to-player mapping shifts — different visitors could see
-    // different answers, and nothing would stop a repeat.
     if (!isDemoMode) {
       try {
         const res = await fetch("./daily-answer.json", { cache: "no-store" });
@@ -594,9 +582,7 @@
         checkStale();
         return;
       } catch (e) {
-        // Fall through to demo mode below if daily-answer.json is missing
-        // or doesn't match the attributes file (e.g. first deploy before
-        // the daily job has ever run).
+        // Fall through to demo mode.
       }
     }
 
@@ -624,12 +610,6 @@
   }
 
   function stateMatchesCurrentAttributes(saved) {
-    // If the game's attribute set changes (e.g. one gets added or
-    // removed) while someone has guesses saved from earlier the same
-    // day, those saved comparisons would still reference the old
-    // attribute keys — rendering as broken "undefined" labels and stale
-    // text rather than being recalculated. Safer to just discard
-    // incompatible saved state than show something broken.
     if (!saved.guesses || saved.guesses.length === 0) return true;
     const savedKeys = saved.guesses[0].comparison?.map((c) => c.key) || [];
     if (savedKeys.length !== ATTRIBUTE_ORDER.length) return false;
@@ -643,7 +623,7 @@
 
     const parsed = JSON.parse(saved);
     if (!stateMatchesCurrentAttributes(parsed)) {
-      console.warn("[footballgtp] saved state used a different attribute set (likely from before a game update) — starting today's puzzle fresh.");
+      console.warn("[footballgtp] saved state used a different attribute set — starting today's puzzle fresh.");
       return freshState();
     }
     return parsed;
@@ -671,11 +651,6 @@
     localStorage.setItem(STORAGE_PREFIX + "streak", streak);
     localStorage.setItem(STORAGE_PREFIX + "lastSolvedDate", todayDateStr());
   }
-
-  // ---------- timer (cosmetic only — never affects scoring) ----------
-  // Counts only while this tab is actually visible and open. Closing the
-  // tab, switching away, or leaving it idle in the background does NOT
-  // count as elapsed time — only active time on the page does.
 
   function formatElapsed(seconds) {
     const m = Math.floor(seconds / 60);
@@ -718,8 +693,6 @@
     }
   }
 
-  // ---------- theme ----------
-
   function applyTheme(theme) {
     document.documentElement.setAttribute("data-theme", theme);
     document.documentElement.style.colorScheme = theme;
@@ -733,8 +706,6 @@
     const prefersLight = window.matchMedia?.("(prefers-color-scheme: light)").matches;
     applyTheme(saved || (prefersLight ? "light" : "dark"));
   }
-
-  // ---------- comparison logic ----------
 
   function compareAttribute(key, guessVal, answerVal) {
     if (guessVal === null || guessVal === undefined || answerVal === null || answerVal === undefined) {
@@ -777,7 +748,7 @@
         : ["<50", "50-150", "150-300", "300+"];
       const gi = bands.indexOf(guessVal);
       const ai = bands.indexOf(answerVal);
-      if (gi === -1 || ai === -1) return { status: "miss", text: guessVal }; // e.g. "Unknown" fee — not comparable
+      if (gi === -1 || ai === -1) return { status: "miss", text: guessVal };
       if (gi === ai) return { status: "match", text: guessVal };
       const arrow = gi < ai ? "↑" : "↓";
       return Math.abs(gi - ai) <= 1
@@ -818,8 +789,6 @@
     return `${label}: ${guessName}'s value is ${c.text.replace(/[↑↓]/, "").trim()}. The real answer is ${direction} than this.`;
   }
 
-  // ---------- render ----------
-
   function render() {
     const streak = getStreak();
     document.getElementById("statRow").innerHTML = `
@@ -831,6 +800,7 @@
     const finished = state.solved || state.gaveUp;
     document.getElementById("guessInput").disabled = finished;
     document.getElementById("guessBtn").disabled = finished;
+    document.getElementById("viewResultBtn").style.display = finished ? "block" : "none";
 
     const guessesList = document.getElementById("guessesList");
     guessesList.innerHTML = state.guesses.map((g) => {
@@ -846,7 +816,7 @@
       `;
       }).join("");
       return `<div class="guess-card"><div class="guess-name">${g.name}</div><div class="tile-grid">${tiles}</div></div>`;
-    }).reverse().join(""); // most recent guess on top
+    }).reverse().join("");
 
     if (finished) {
       stopTimer();
@@ -857,8 +827,6 @@
       startTimerIfNeeded();
     }
   }
-
-  // ---------- guessing ----------
 
   function normalise(str) {
     return str
@@ -916,8 +884,6 @@
     render();
   }
 
-  // ---------- autocomplete ----------
-
   function renderAutocomplete(matches) {
     const list = document.getElementById("autocompleteList");
     autocompleteActiveIndex = -1;
@@ -946,8 +912,6 @@
       .slice(0, 6);
     renderAutocomplete(matches);
   }
-
-  // ---------- result modal + share ----------
 
   function shareGrid() {
     return state.guesses.map((g) =>
@@ -1002,8 +966,6 @@
     window.open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer");
   }
 
-  // ---------- init ----------
-
   async function init() {
     initTheme();
     await loadAttributes();
@@ -1027,6 +989,7 @@
     });
 
     document.getElementById("guessBtn").addEventListener("click", handleGuess);
+    document.getElementById("viewResultBtn").addEventListener("click", openResultModal);
     document.getElementById("guessInput").addEventListener("input", handleGuessInput);
     document.getElementById("guessInput").addEventListener("keydown", (e) => {
       if (e.key === "Enter") handleGuess();
