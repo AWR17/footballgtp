@@ -1,26 +1,105 @@
-[
-  {
-    "clubName": "Liverpool",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2022,
-    "appearances": 63
-  },
-  {
-    "clubName": "Netherlands",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2020,
-    "appearances": 20
-  },
-  {
-    "clubName": "PSV Eindhoven",
-    "country": "Netherlands",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, Netherlands",
-    "yearStart": 2017,
-    "appearances": 92
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 63
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2020,
+      "appearances": 20
+    },
+    {
+      "clubName": "PSV Eindhoven",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2017,
+      "appearances": 92
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 21
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 5
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 7
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 88,
+      "appearances": 27
+    },
+    {
+      "season": 2020,
+      "leagueId": 88,
+      "appearances": 23
+    },
+    {
+      "season": 2019,
+      "leagueId": 88,
+      "appearances": 25
+    },
+    {
+      "season": 2018,
+      "leagueId": 88,
+      "appearances": 16
+    },
+    {
+      "season": 2017,
+      "leagueId": 88,
+      "appearances": 1
+    }
+  ]
+}

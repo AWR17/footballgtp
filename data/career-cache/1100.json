@@ -1,50 +1,139 @@
-[
-  {
-    "clubName": "Manchester City",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2022,
-    "appearances": 104
-  },
-  {
-    "clubName": "Norway",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2020,
-    "appearances": 26
-  },
-  {
-    "clubName": "Borussia Dortmund",
-    "country": "Germany",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, Germany",
-    "yearStart": 2019,
-    "appearances": 67
-  },
-  {
-    "clubName": "Red Bull Salzburg",
-    "country": "Austria",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Austria",
-    "yearStart": 2018,
-    "appearances": 2
-  },
-  {
-    "clubName": "Molde",
-    "country": "Norway",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Norway",
-    "yearStart": 2017,
-    "appearances": 14
-  },
-  {
-    "clubName": "Bryne",
-    "country": "Norway",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Norway",
-    "yearStart": 2016,
-    "appearances": 16
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 104
+    },
+    {
+      "clubName": "Norway",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2020,
+      "appearances": 26
+    },
+    {
+      "clubName": "Borussia Dortmund",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2019,
+      "appearances": 67
+    },
+    {
+      "clubName": "Red Bull Salzburg",
+      "country": "Austria",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Austria",
+      "yearStart": 2018,
+      "appearances": 2
+    },
+    {
+      "clubName": "Molde",
+      "country": "Norway",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Norway",
+      "yearStart": 2017,
+      "appearances": 14
+    },
+    {
+      "clubName": "Bryne",
+      "country": "Norway",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Norway",
+      "yearStart": 2016,
+      "appearances": 16
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 4
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 5
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 6
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 6
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 24
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 28
+    },
+    {
+      "season": 2019,
+      "leagueId": 78,
+      "appearances": 15
+    },
+    {
+      "season": 2018,
+      "leagueId": 218,
+      "appearances": 2
+    },
+    {
+      "season": 2017,
+      "leagueId": 103,
+      "appearances": 14
+    },
+    {
+      "season": 2016,
+      "leagueId": 104,
+      "appearances": 16
+    }
+  ]
+}

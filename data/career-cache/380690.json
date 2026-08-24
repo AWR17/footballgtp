@@ -1,0 +1,34 @@
+{
+  "stints": [
+    {
+      "clubName": "Tottenham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 15
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 10
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 2
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "stints": [
+    {
+      "clubName": "Tottenham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 11
+    },
+    {
+      "clubName": "Austria",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2017,
+      "appearances": 21
+    },
+    {
+      "clubName": "Lens",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2021,
+      "appearances": 100
+    },
+    {
+      "clubName": "FC Augsburg",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2016,
+      "appearances": 41
+    },
+    {
+      "clubName": "Fortuna Düsseldorf",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Germany",
+      "yearStart": 2020,
+      "appearances": 32
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 10
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 4
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 3
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 5
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 0
+    },
+    {
+      "season": 2018,
+      "leagueId": 32,
+      "appearances": 4
+    },
+    {
+      "season": 2017,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 61,
+      "appearances": 30
+    },
+    {
+      "season": 2022,
+      "leagueId": 61,
+      "appearances": 37
+    },
+    {
+      "season": 2021,
+      "leagueId": 61,
+      "appearances": 33
+    },
+    {
+      "season": 2019,
+      "leagueId": 78,
+      "appearances": 0
+    },
+    {
+      "season": 2018,
+      "leagueId": 78,
+      "appearances": 18
+    },
+    {
+      "season": 2017,
+      "leagueId": 78,
+      "appearances": 16
+    },
+    {
+      "season": 2016,
+      "leagueId": 78,
+      "appearances": 7
+    },
+    {
+      "season": 2020,
+      "leagueId": 79,
+      "appearances": 32
+    }
+  ]
+}

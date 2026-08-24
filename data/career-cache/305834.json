@@ -1,0 +1,83 @@
+{
+  "stints": [
+    {
+      "clubName": "Manchester United",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Brazil",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 4
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 4
+    },
+    {
+      "clubName": "Vasco DA Gama",
+      "country": "Brazil",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Brazil",
+      "yearStart": 2021,
+      "appearances": 3
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 34,
+      "appearances": 3
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 624,
+      "appearances": 2
+    },
+    {
+      "season": 2021,
+      "leagueId": 624,
+      "appearances": 1
+    }
+  ]
+}

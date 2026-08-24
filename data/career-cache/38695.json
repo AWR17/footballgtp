@@ -1,42 +1,101 @@
-[
-  {
-    "clubName": "Tottenham",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2026,
-    "appearances": 1
-  },
-  {
-    "clubName": "Netherlands",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2024,
-    "appearances": 8
-  },
-  {
-    "clubName": "Brighton",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2022,
-    "appearances": 72
-  },
-  {
-    "clubName": "Blackburn",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "2nd tier, England",
-    "yearStart": 2021,
-    "appearances": 31
-  },
-  {
-    "clubName": "NAC Breda",
-    "country": "Netherlands",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, Netherlands",
-    "yearStart": 2018,
-    "appearances": 11
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Tottenham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 8
+    },
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 72
+    },
+    {
+      "clubName": "Blackburn",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2021,
+      "appearances": 31
+    },
+    {
+      "clubName": "NAC Breda",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2018,
+      "appearances": 11
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 5,
+      "appearances": 4
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 28
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 8
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 31
+    },
+    {
+      "season": 2020,
+      "leagueId": 89,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 89,
+      "appearances": 11
+    },
+    {
+      "season": 2018,
+      "leagueId": 88,
+      "appearances": 0
+    }
+  ]
+}

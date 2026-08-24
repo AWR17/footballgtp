@@ -1,34 +1,98 @@
-[
-  {
-    "clubName": "Brighton",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2023,
-    "appearances": 75
-  },
-  {
-    "clubName": "Netherlands",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2022,
-    "appearances": 11
-  },
-  {
-    "clubName": "Anderlecht",
-    "country": "Belgium",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Belgium",
-    "yearStart": 2020,
-    "appearances": 35
-  },
-  {
-    "clubName": "NAC Breda",
-    "country": "Netherlands",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Netherlands",
-    "yearStart": 2019,
-    "appearances": 0
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 75
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 11
+    },
+    {
+      "clubName": "Anderlecht",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2020,
+      "appearances": 35
+    },
+    {
+      "clubName": "NAC Breda",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Netherlands",
+      "yearStart": 2019,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 848,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 38
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 4
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 144,
+      "appearances": 28
+    },
+    {
+      "season": 2021,
+      "leagueId": 144,
+      "appearances": 1
+    },
+    {
+      "season": 2020,
+      "leagueId": 144,
+      "appearances": 6
+    },
+    {
+      "season": 2019,
+      "leagueId": 89,
+      "appearances": 0
+    }
+  ]
+}

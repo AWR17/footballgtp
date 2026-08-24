@@ -1,0 +1,108 @@
+{
+  "stints": [
+    {
+      "clubName": "Benfica",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 39
+    },
+    {
+      "clubName": "Bosnia & Herzegovina",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2020,
+      "appearances": 16
+    },
+    {
+      "clubName": "Red Bull Salzburg",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2020,
+      "appearances": 6
+    },
+    {
+      "clubName": "FC Liefering",
+      "country": "Austria",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Austria",
+      "yearStart": 2018,
+      "appearances": 24
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 3,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 94,
+      "appearances": 24
+    },
+    {
+      "season": 2024,
+      "leagueId": 550,
+      "appearances": 13
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 10
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 2
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 667,
+      "appearances": 2
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 4
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 218,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 219,
+      "appearances": 24
+    },
+    {
+      "season": 2018,
+      "leagueId": 219,
+      "appearances": 0
+    }
+  ]
+}

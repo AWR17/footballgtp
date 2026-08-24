@@ -1,0 +1,50 @@
+{
+  "stints": [
+    {
+      "clubName": "Australia",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 2
+    },
+    {
+      "clubName": "Colorado Rapids",
+      "country": "USA",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, USA",
+      "yearStart": 2026,
+      "appearances": 18
+    },
+    {
+      "clubName": "Brisbane Roar",
+      "country": "Australia",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Australia",
+      "yearStart": 2024,
+      "appearances": 19
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 2
+    },
+    {
+      "season": 2026,
+      "leagueId": 253,
+      "appearances": 18
+    },
+    {
+      "season": 2025,
+      "leagueId": 874,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 188,
+      "appearances": 18
+    }
+  ]
+}

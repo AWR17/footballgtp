@@ -1,19 +1,19 @@
 // scripts/build-attributes.js
 //
-// FOOTBALLGTP ATTRIBUTE PIPELINE — precomputes 6 comparable attributes
-// per player for instant client-side guess feedback. Fully self-contained
-// within this repo (no dependency on having Scouting Report checked out
-// alongside it) — lib/api-football.js and lib/league-tiers.js are local
-// copies of that project's files, kept independent so this pipeline
-// doesn't silently break if that project's code changes shape later.
+// FOOTBALLGTP ATTRIBUTE PIPELINE — precomputes 5 comparable attributes
+// per player for instant client-side guess feedback: Position, Nation,
+// Clubs played for, Record transfer fee, Career PL appearances. PL debut
+// year is also computed but used only as a free clue shown before any
+// guess — it's never a comparison attribute.
 //
-// Usage: API_FOOTBALL_KEY=xxx node scripts/build-attributes.js [poolSize]
+// SOURCE: data/pl-squad.json — the CURRENT Premier League squad, built by
+// scripts/build-pl-squad.js. This replaced the older approach (a curated
+// slice of Scouting Report's full historical player pool) — every player
+// here is someone actually playing in the league right now, not a
+// legends-across-any-era pool. Run build-pl-squad.js first if that file
+// doesn't exist yet.
 //
-// ONE-TIME SETUP before running this for the first time: copy your
-// Scouting Report project's data/player-pool.json into this repo's
-// data/player-pool.json (it's the source list of eligible players this
-// script draws its curated pool from). After that one copy, this script
-// is fully independent — no further cross-project file sharing needed.
+// Usage: API_FOOTBALL_KEY=xxx node scripts/build-attributes.js
 
 const fs = require("fs");
 const path = require("path");
@@ -22,17 +22,12 @@ const { getPlayerTeams, getPlayerSeasonStats, getPlayerSeasonAnyTeamLeague, getP
   require("../lib/api-football");
 const { tierFor } = require("../lib/league-tiers");
 
-const SOURCE_POOL_PATH = path.join(__dirname, "../data/player-pool.json");
+const SOURCE_POOL_PATH = path.join(__dirname, "../data/pl-squad.json");
 const CACHE_DIR = path.join(__dirname, "../data/career-cache");
 const OUTPUT_PATH = path.join(__dirname, "../public/footygtp-attributes.json");
 
-const REQUEST_PAUSE_MS = 300;
-const DEFAULT_POOL_SIZE = 750;
-
-function tierRank(tierLabel) {
-  const match = tierLabel?.match(/(\d+)(?:st|nd|rd|th) tier/i);
-  return match ? parseInt(match[1], 10) : null;
-}
+const REQUEST_PAUSE_MS = 300; // tuned for API-Football Pro (300 req/min)
+const PL_LEAGUE_ID = 39;
 
 function isYouthOrReserveTeam(teamName) {
   if (!teamName) return false;
@@ -65,15 +60,16 @@ function saveJSON(filePath, data) {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 
-async function getStintsForAttributes(playerId) {
+async function getCareerData(playerId) {
   const cachePath = path.join(CACHE_DIR, `${playerId}.json`);
   const cached = loadJSON(cachePath, null);
-  if (cached) return cached;
+  if (cached && cached.stints && cached.seasonRecords) return cached;
 
   const teams = await getPlayerTeams(playerId);
   await sleep(REQUEST_PAUSE_MS);
 
   const stints = [];
+  const seasonRecords = [];
 
   for (const t of teams) {
     const seasons = t.seasons || [];
@@ -88,7 +84,12 @@ async function getStintsForAttributes(playerId) {
     for (const season of seasons) {
       const stat = await getPlayerSeasonStats(playerId, season, t.team.id);
       totalApps += stat.appearances;
-      if (stat.leagueId) seasonLeagues.push({ season, leagueId: stat.leagueId });
+      if (stat.leagueId) {
+        seasonLeagues.push({ season, leagueId: stat.leagueId });
+        if (!isNationalTeam) {
+          seasonRecords.push({ season, leagueId: stat.leagueId, appearances: stat.appearances });
+        }
+      }
       if (!seasonCountry && stat.country) seasonCountry = stat.country;
       await sleep(REQUEST_PAUSE_MS);
     }
@@ -98,7 +99,10 @@ async function getStintsForAttributes(playerId) {
       try {
         const fallback = await getPlayerSeasonAnyTeamLeague(playerId, Math.min(...seasons), t.team.id);
         await sleep(REQUEST_PAUSE_MS);
-        if (fallback.leagueId) seasonLeagues.push({ season: Math.min(...seasons), leagueId: fallback.leagueId });
+        if (fallback.leagueId) {
+          seasonLeagues.push({ season: Math.min(...seasons), leagueId: fallback.leagueId });
+          seasonRecords.push({ season: Math.min(...seasons), leagueId: fallback.leagueId, appearances: totalApps });
+        }
         fallbackCountry = fallback.country;
       } catch (err) {
         console.warn(`[build-attributes] fallback league lookup failed for ${t.team.name}: ${err.message}`);
@@ -145,19 +149,22 @@ async function getStintsForAttributes(playerId) {
   }
   const mergedStints = [...mergedByClub.values()];
 
-  saveJSON(cachePath, mergedStints);
-  return mergedStints;
+  const result = { stints: mergedStints, seasonRecords };
+  saveJSON(cachePath, result);
+  return result;
+}
+
+function derivePlStats(seasonRecords) {
+  const plSeasons = seasonRecords.filter((r) => r.leagueId === PL_LEAGUE_ID);
+  const totalPlApps = plSeasons.reduce((sum, r) => sum + r.appearances, 0);
+  const plDebutYear = plSeasons.length > 0 ? Math.min(...plSeasons.map((r) => r.season)) : null;
+  return { totalPlApps, plDebutYear };
 }
 
 function deriveAttributes(stints) {
   const clubStints = stints.filter((s) => !s.isNationalTeam);
-  const debutYear = Math.min(...clubStints.map((s) => s.yearStart));
-  const debutDecade = Math.floor(debutYear / 10) * 10;
   const clubCount = clubStints.length;
-  const tierRanks = clubStints.map((s) => tierRank(s.tierLabel)).filter((r) => r !== null);
-  const highestTier = tierRanks.length > 0 ? Math.min(...tierRanks) : null;
-  const playedAbroad = clubStints.some((s) => s.country && s.country !== "England");
-  return { debutDecade, clubCount, highestTier, playedAbroad };
+  return { clubCount };
 }
 
 function bandPlApps(totalPlApps) {
@@ -207,16 +214,11 @@ function normalizeNameForDedup(name) {
     .trim().toLowerCase().replace(/[^a-z\s]/g, "");
 }
 
-async function run(poolSizeArg) {
-  const poolSize = parseInt(poolSizeArg, 10) || DEFAULT_POOL_SIZE;
-  const sourcePool = loadJSON(SOURCE_POOL_PATH, []);
-  if (sourcePool.length === 0) {
-    throw new Error(`No source pool found at ${SOURCE_POOL_PATH}. Run Scouting Report's build-player-pool.js first.`);
+async function run() {
+  const candidates = loadJSON(SOURCE_POOL_PATH, []);
+  if (candidates.length === 0) {
+    throw new Error(`No source pool found at ${SOURCE_POOL_PATH}. Run build-pl-squad.js first.`);
   }
-
-  const candidates = [...sourcePool]
-    .sort((a, b) => b.totalPlApps - a.totalPlApps)
-    .slice(0, poolSize);
 
   console.log(`[build-attributes] processing ${candidates.length} players...`);
 
@@ -228,13 +230,19 @@ async function run(poolSizeArg) {
 
   for (const candidate of candidates) {
     try {
-      const stints = await getStintsForAttributes(candidate.id);
+      const { stints, seasonRecords } = await getCareerData(candidate.id);
       if (stints.filter((s) => !s.isNationalTeam).length === 0) {
         skipped++;
         continue;
       }
 
       const attrs = deriveAttributes(stints);
+      const { totalPlApps, plDebutYear } = derivePlStats(seasonRecords);
+
+      if (plDebutYear === null) {
+        skipped++;
+        continue;
+      }
 
       let position = null;
       let nationality = null;
@@ -273,10 +281,10 @@ async function run(poolSizeArg) {
         name: displayName,
         position,
         nationality,
-        debutDecade: attrs.debutDecade,
         clubCount: attrs.clubCount,
         transferFeeBand,
-        plAppsBand: bandPlApps(candidate.totalPlApps),
+        plAppsBand: bandPlApps(totalPlApps),
+        plDebutYear,
       };
       usedNames.add(nameKey);
 
@@ -292,8 +300,7 @@ async function run(poolSizeArg) {
   console.log(`[build-attributes] wrote ${processed} players to ${OUTPUT_PATH} (${skipped} skipped, ${nameCollisions} name collisions resolved).`);
 }
 
-const poolSizeArg = process.argv[2];
-run(poolSizeArg).catch((err) => {
+run().catch((err) => {
   console.error("[build-attributes] fatal error:", err);
   process.exit(1);
 });

@@ -1,0 +1,93 @@
+{
+  "stints": [
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2024,
+      "appearances": 25
+    },
+    {
+      "clubName": "Algeria",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2021,
+      "appearances": 34
+    },
+    {
+      "clubName": "Farense",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Portugal",
+      "yearStart": 2022,
+      "appearances": 1
+    },
+    {
+      "clubName": "MC Oran",
+      "country": "Algeria",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Algeria",
+      "yearStart": 2020,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 40,
+      "appearances": 24
+    },
+    {
+      "season": 2024,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 33
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 29,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 29,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 96,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 95,
+      "appearances": 1
+    },
+    {
+      "season": 2020,
+      "leagueId": 832,
+      "appearances": 1
+    }
+  ]
+}

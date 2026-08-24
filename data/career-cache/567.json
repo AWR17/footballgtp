@@ -1,26 +1,115 @@
-[
-  {
-    "clubName": "Manchester City",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2020,
-    "appearances": 65
-  },
-  {
-    "clubName": "Portugal",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2018,
-    "appearances": 30
-  },
-  {
-    "clubName": "Benfica",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "European competition",
-    "yearStart": 2015,
-    "appearances": 8
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 65
+    },
+    {
+      "clubName": "Portugal",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2018,
+      "appearances": 30
+    },
+    {
+      "clubName": "Benfica",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "European competition",
+      "yearStart": 2015,
+      "appearances": 8
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 27
+    },
+    {
+      "season": 2023,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 2
+    },
+    {
+      "season": 2021,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 32,
+      "appearances": 6
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 9
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 2
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 7
+    },
+    {
+      "season": 2018,
+      "leagueId": 1,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 26,
+      "appearances": 3
+    },
+    {
+      "season": 2018,
+      "leagueId": 26,
+      "appearances": 3
+    },
+    {
+      "season": 2015,
+      "leagueId": 2,
+      "appearances": 0
+    }
+  ]
+}

@@ -1,50 +1,184 @@
-[
-  {
-    "clubName": "Switzerland",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "an unspecified league",
-    "yearStart": 2011,
-    "appearances": 58
-  },
-  {
-    "clubName": "Sunderland",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "domestic cup, England",
-    "yearStart": 2025,
-    "appearances": 3
-  },
-  {
-    "clubName": "Bayer Leverkusen",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, Germany",
-    "yearStart": 2023,
-    "appearances": 66
-  },
-  {
-    "clubName": "Arsenal",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2016,
-    "appearances": 225
-  },
-  {
-    "clubName": "Borussia Mönchengladbach",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, Germany",
-    "yearStart": 2012,
-    "appearances": 108
-  },
-  {
-    "clubName": "FC Basel 1893",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "an unspecified league",
-    "yearStart": 2010,
-    "appearances": 44
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Switzerland",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2011,
+      "appearances": 58
+    },
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 3
+    },
+    {
+      "clubName": "Bayer Leverkusen",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2023,
+      "appearances": 66
+    },
+    {
+      "clubName": "Arsenal",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2016,
+      "appearances": 225
+    },
+    {
+      "clubName": "Borussia Mönchengladbach",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2012,
+      "appearances": 108
+    },
+    {
+      "clubName": "FC Basel 1893",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2010,
+      "appearances": 44
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 6
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 4
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 10
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 6
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 2
+    },
+    {
+      "season": 2018,
+      "leagueId": 5,
+      "appearances": 6
+    },
+    {
+      "season": 2017,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2016,
+      "leagueId": 4,
+      "appearances": 4
+    },
+    {
+      "season": 2014,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 78,
+      "appearances": 33
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 33
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 27
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2018,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2017,
+      "leagueId": 39,
+      "appearances": 38
+    },
+    {
+      "season": 2016,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2015,
+      "leagueId": 78,
+      "appearances": 28
+    },
+    {
+      "season": 2014,
+      "leagueId": 78,
+      "appearances": 30
+    },
+    {
+      "season": 2013,
+      "leagueId": 78,
+      "appearances": 28
+    },
+    {
+      "season": 2012,
+      "leagueId": 78,
+      "appearances": 22
+    }
+  ]
+}

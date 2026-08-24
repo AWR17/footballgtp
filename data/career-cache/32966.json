@@ -1,0 +1,113 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 47
+    },
+    {
+      "clubName": "Japan",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2019,
+      "appearances": 26
+    },
+    {
+      "clubName": "Fortuna Düsseldorf",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Germany",
+      "yearStart": 2021,
+      "appearances": 81
+    },
+    {
+      "clubName": "Kawasaki Frontale",
+      "country": "Japan",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Japan",
+      "yearStart": 2017,
+      "appearances": 59
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 43
+    },
+    {
+      "season": 2026,
+      "leagueId": 30,
+      "appearances": 9
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 10,
+      "appearances": 4
+    },
+    {
+      "season": 2022,
+      "leagueId": 30,
+      "appearances": 7
+    },
+    {
+      "season": 2023,
+      "leagueId": 79,
+      "appearances": 30
+    },
+    {
+      "season": 2022,
+      "leagueId": 79,
+      "appearances": 22
+    },
+    {
+      "season": 2021,
+      "leagueId": 79,
+      "appearances": 29
+    },
+    {
+      "season": 2020,
+      "leagueId": 98,
+      "appearances": 31
+    },
+    {
+      "season": 2019,
+      "leagueId": 98,
+      "appearances": 24
+    },
+    {
+      "season": 2018,
+      "leagueId": 98,
+      "appearances": 4
+    },
+    {
+      "season": 2017,
+      "leagueId": 98,
+      "appearances": 0
+    }
+  ]
+}

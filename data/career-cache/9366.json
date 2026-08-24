@@ -1,0 +1,91 @@
+{
+  "stints": [
+    {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Brazil",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2025,
+      "appearances": 5
+    },
+    {
+      "clubName": "Botafogo",
+      "country": "Brazil",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Brazil",
+      "yearStart": 2024,
+      "appearances": 22
+    },
+    {
+      "clubName": "Shabab Al Ahli Dubai",
+      "country": "United-Arab-Emirates",
+      "isNationalTeam": false,
+      "tierLabel": "a club in United-Arab-Emirates",
+      "yearStart": 2020,
+      "appearances": 66
+    },
+    {
+      "clubName": "Coritiba",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2019,
+      "appearances": 8
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 34,
+      "appearances": 4
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 71,
+      "appearances": 22
+    },
+    {
+      "season": 2023,
+      "leagueId": 301,
+      "appearances": 19
+    },
+    {
+      "season": 2022,
+      "leagueId": 301,
+      "appearances": 17
+    },
+    {
+      "season": 2021,
+      "leagueId": 301,
+      "appearances": 6
+    },
+    {
+      "season": 2020,
+      "leagueId": 301,
+      "appearances": 24
+    }
+  ]
+}

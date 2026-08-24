@@ -1,0 +1,63 @@
+{
+  "stints": [
+    {
+      "clubName": "Newcastle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Reims",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "a club in France",
+      "yearStart": 2025,
+      "appearances": 0
+    },
+    {
+      "clubName": "Rodez",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, France",
+      "yearStart": 2023,
+      "appearances": 8
+    },
+    {
+      "clubName": "Guingamp",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, France",
+      "yearStart": 2022,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 66,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 62,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 62,
+      "appearances": 8
+    },
+    {
+      "season": 2022,
+      "leagueId": 62,
+      "appearances": 0
+    }
+  ]
+}

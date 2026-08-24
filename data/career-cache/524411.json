@@ -1,0 +1,32 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "AIK Stockholm",
+      "country": "Sweden",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Sweden",
+      "yearStart": 2025,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 848,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 113,
+      "appearances": 0
+    }
+  ]
+}

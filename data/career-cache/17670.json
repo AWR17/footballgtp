@@ -1,0 +1,93 @@
+{
+  "stints": [
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2020,
+      "appearances": 171
+    },
+    {
+      "clubName": "Sheffield Utd",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2016,
+      "appearances": 2
+    },
+    {
+      "clubName": "Scunthorpe",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "4th tier, England",
+      "yearStart": 2019,
+      "appearances": 12
+    },
+    {
+      "clubName": "Carlisle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "4th tier, England",
+      "yearStart": 2018,
+      "appearances": 35
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 44
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 38
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 44
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 16
+    },
+    {
+      "season": 2020,
+      "leagueId": 41,
+      "appearances": 27
+    },
+    {
+      "season": 2017,
+      "leagueId": 40,
+      "appearances": 1
+    },
+    {
+      "season": 2016,
+      "leagueId": 46,
+      "appearances": 1
+    },
+    {
+      "season": 2019,
+      "leagueId": 42,
+      "appearances": 12
+    },
+    {
+      "season": 2018,
+      "leagueId": 42,
+      "appearances": 35
+    }
+  ]
+}

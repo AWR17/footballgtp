@@ -1,50 +1,164 @@
-[
-  {
-    "clubName": "Manchester United",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2026,
-    "appearances": 1
-  },
-  {
-    "clubName": "Belgium",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "an unspecified league",
-    "yearStart": 2015,
-    "appearances": 32
-  },
-  {
-    "clubName": "Aston Villa",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2023,
-    "appearances": 73
-  },
-  {
-    "clubName": "Leicester",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2018,
-    "appearances": 151
-  },
-  {
-    "clubName": "Monaco",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, France",
-    "yearStart": 2017,
-    "appearances": 27
-  },
-  {
-    "clubName": "Anderlecht",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "an unspecified league",
-    "yearStart": 2013,
-    "appearances": 139
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Manchester United",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Belgium",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2015,
+      "appearances": 32
+    },
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 73
+    },
+    {
+      "clubName": "Leicester",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2018,
+      "appearances": 151
+    },
+    {
+      "clubName": "Monaco",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2017,
+      "appearances": 27
+    },
+    {
+      "clubName": "Anderlecht",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2013,
+      "appearances": 139
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 5
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 6
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 5
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 5
+    },
+    {
+      "season": 2018,
+      "leagueId": 5,
+      "appearances": 4
+    },
+    {
+      "season": 2017,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 5
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 38
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2018,
+      "leagueId": 39,
+      "appearances": 13
+    },
+    {
+      "season": 2017,
+      "leagueId": 61,
+      "appearances": 27
+    },
+    {
+      "season": 2016,
+      "leagueId": 144,
+      "appearances": 37
+    },
+    {
+      "season": 2015,
+      "leagueId": 144,
+      "appearances": 34
+    },
+    {
+      "season": 2014,
+      "leagueId": 144,
+      "appearances": 39
+    },
+    {
+      "season": 2013,
+      "leagueId": 144,
+      "appearances": 29
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "stints": [
+    {
+      "clubName": "Tromso",
+      "country": "Norway",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Norway",
+      "yearStart": 2022,
+      "appearances": 72
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 103,
+      "appearances": 14
+    },
+    {
+      "season": 2025,
+      "leagueId": 105,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 103,
+      "appearances": 29
+    },
+    {
+      "season": 2023,
+      "leagueId": 103,
+      "appearances": 28
+    },
+    {
+      "season": 2022,
+      "leagueId": 103,
+      "appearances": 0
+    }
+  ]
+}

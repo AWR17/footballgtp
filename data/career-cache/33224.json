@@ -1,0 +1,147 @@
+{
+  "stints": [
+    {
+      "clubName": "Ipswich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Japan",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2019,
+      "appearances": 16
+    },
+    {
+      "clubName": "Celtic",
+      "country": "Scotland",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Scotland",
+      "yearStart": 2021,
+      "appearances": 147
+    },
+    {
+      "clubName": "Yokohama F. Marinos",
+      "country": "Japan",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Japan",
+      "yearStart": 2020,
+      "appearances": 23
+    },
+    {
+      "clubName": "Maritimo",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Portugal",
+      "yearStart": 2019,
+      "appearances": 0
+    },
+    {
+      "clubName": "Matsumoto Yamaga",
+      "country": "Japan",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Japan",
+      "yearStart": 2016,
+      "appearances": 38
+    },
+    {
+      "clubName": "Mito Hollyhock",
+      "country": "Japan",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Japan",
+      "yearStart": 2017,
+      "appearances": 36
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 30,
+      "appearances": 7
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 7,
+      "appearances": 3
+    },
+    {
+      "season": 2022,
+      "leagueId": 30,
+      "appearances": 2
+    },
+    {
+      "season": 2019,
+      "leagueId": 9,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 179,
+      "appearances": 36
+    },
+    {
+      "season": 2024,
+      "leagueId": 179,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 179,
+      "appearances": 27
+    },
+    {
+      "season": 2022,
+      "leagueId": 179,
+      "appearances": 35
+    },
+    {
+      "season": 2021,
+      "leagueId": 179,
+      "appearances": 15
+    },
+    {
+      "season": 2020,
+      "leagueId": 98,
+      "appearances": 23
+    },
+    {
+      "season": 2019,
+      "leagueId": 97,
+      "appearances": 0
+    },
+    {
+      "season": 2018,
+      "leagueId": 99,
+      "appearances": 29
+    },
+    {
+      "season": 2016,
+      "leagueId": 99,
+      "appearances": 9
+    },
+    {
+      "season": 2017,
+      "leagueId": 99,
+      "appearances": 36
+    }
+  ]
+}

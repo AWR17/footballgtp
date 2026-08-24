@@ -1,0 +1,116 @@
+{
+  "stints": [
+    {
+      "clubName": "Arsenal",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 3
+    },
+    {
+      "clubName": "Ecuador",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2021,
+      "appearances": 39
+    },
+    {
+      "clubName": "Bayer Leverkusen",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2021,
+      "appearances": 116
+    },
+    {
+      "clubName": "Talleres Cordoba",
+      "country": "Argentina",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Argentina",
+      "yearStart": 2020,
+      "appearances": 1
+    },
+    {
+      "clubName": "Independiente del Valle",
+      "country": "Ecuador",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Ecuador",
+      "yearStart": 2019,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 2
+    },
+    {
+      "season": 2026,
+      "leagueId": 34,
+      "appearances": 14
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 9,
+      "appearances": 4
+    },
+    {
+      "season": 2023,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2022,
+      "leagueId": 34,
+      "appearances": 11
+    },
+    {
+      "season": 2021,
+      "leagueId": 9,
+      "appearances": 5
+    },
+    {
+      "season": 2024,
+      "leagueId": 78,
+      "appearances": 33
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 26
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 30
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 27
+    },
+    {
+      "season": 2020,
+      "leagueId": 128,
+      "appearances": 1
+    },
+    {
+      "season": 2019,
+      "leagueId": 242,
+      "appearances": 1
+    }
+  ]
+}

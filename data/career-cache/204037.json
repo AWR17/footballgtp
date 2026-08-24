@@ -1,0 +1,70 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Olympiakos Piraeus",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 1
+    },
+    {
+      "clubName": "Rio Ave",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2019,
+      "appearances": 65
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 848,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 197,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 94,
+      "appearances": 33
+    },
+    {
+      "season": 2021,
+      "leagueId": 95,
+      "appearances": 31
+    },
+    {
+      "season": 2020,
+      "leagueId": 96,
+      "appearances": 1
+    },
+    {
+      "season": 2019,
+      "leagueId": 94,
+      "appearances": 0
+    }
+  ]
+}

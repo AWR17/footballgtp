@@ -1,0 +1,75 @@
+{
+  "stints": [
+    {
+      "clubName": "Sweden",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 4
+    },
+    {
+      "clubName": "Mjallby AIF",
+      "country": "Sweden",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Sweden",
+      "yearStart": 2022,
+      "appearances": 98
+    },
+    {
+      "clubName": "Oddevold",
+      "country": "Sweden",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Sweden",
+      "yearStart": 2019,
+      "appearances": 11
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 32,
+      "appearances": 0
+    },
+    {
+      "season": 2026,
+      "leagueId": 113,
+      "appearances": 10
+    },
+    {
+      "season": 2025,
+      "leagueId": 113,
+      "appearances": 28
+    },
+    {
+      "season": 2024,
+      "leagueId": 113,
+      "appearances": 29
+    },
+    {
+      "season": 2023,
+      "leagueId": 113,
+      "appearances": 28
+    },
+    {
+      "season": 2022,
+      "leagueId": 115,
+      "appearances": 3
+    },
+    {
+      "season": 2021,
+      "leagueId": 115,
+      "appearances": 2
+    },
+    {
+      "season": 2019,
+      "leagueId": 564,
+      "appearances": 9
+    }
+  ]
+}

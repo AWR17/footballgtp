@@ -1,0 +1,91 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 1
+    },
+    {
+      "clubName": "Ghana",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 3
+    },
+    {
+      "clubName": "Birmingham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "FC Nordsjaelland",
+      "country": "Denmark",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Denmark",
+      "yearStart": 2022,
+      "appearances": 43
+    },
+    {
+      "clubName": "Asante Kotoko",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2020,
+      "appearances": 3
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 848,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2023,
+      "leagueId": 29,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 119,
+      "appearances": 29
+    },
+    {
+      "season": 2022,
+      "leagueId": 119,
+      "appearances": 14
+    },
+    {
+      "season": 2020,
+      "leagueId": 12,
+      "appearances": 3
+    }
+  ]
+}

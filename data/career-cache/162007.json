@@ -1,0 +1,88 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Belgium",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 8
+    },
+    {
+      "clubName": "Club Brugge KV",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2019,
+      "appearances": 74
+    },
+    {
+      "clubName": "KVC Westerlo",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2022,
+      "appearances": 39
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 848,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 6
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 144,
+      "appearances": 37
+    },
+    {
+      "season": 2023,
+      "leagueId": 144,
+      "appearances": 37
+    },
+    {
+      "season": 2021,
+      "leagueId": 144,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 144,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 144,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 144,
+      "appearances": 39
+    }
+  ]
+}

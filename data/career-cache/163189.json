@@ -1,0 +1,93 @@
+{
+  "stints": [
+    {
+      "clubName": "Newcastle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Germany",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 5
+    },
+    {
+      "clubName": "AC Milan",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2022,
+      "appearances": 63
+    },
+    {
+      "clubName": "FC Schalke 04",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2019,
+      "appearances": 54
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 135,
+      "appearances": 22
+    },
+    {
+      "season": 2023,
+      "leagueId": 135,
+      "appearances": 21
+    },
+    {
+      "season": 2022,
+      "leagueId": 135,
+      "appearances": 20
+    },
+    {
+      "season": 2021,
+      "leagueId": 79,
+      "appearances": 31
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 19
+    },
+    {
+      "season": 2019,
+      "leagueId": 78,
+      "appearances": 4
+    }
+  ]
+}

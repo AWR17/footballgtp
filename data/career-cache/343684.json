@@ -1,0 +1,63 @@
+{
+  "stints": [
+    {
+      "clubName": "Everton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Villarreal",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2024,
+      "appearances": 35
+    },
+    {
+      "clubName": "FC Basel 1893",
+      "country": "Switzerland",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Switzerland",
+      "yearStart": 2023,
+      "appearances": 35
+    },
+    {
+      "clubName": "SK Beveren",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2022,
+      "appearances": 31
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 1022,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 140,
+      "appearances": 35
+    },
+    {
+      "season": 2023,
+      "leagueId": 207,
+      "appearances": 35
+    },
+    {
+      "season": 2022,
+      "leagueId": 145,
+      "appearances": 31
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "stints": [
+    {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2020,
+      "appearances": 126
+    },
+    {
+      "clubName": "Sheffield Utd",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 45
+    },
+    {
+      "clubName": "PEC Zwolle",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2018,
+      "appearances": 48
+    },
+    {
+      "clubName": "Dordrecht",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2017,
+      "appearances": 4
+    },
+    {
+      "clubName": "Feyenoord",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2016,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 1
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 43
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 39
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 42
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 44
+    },
+    {
+      "season": 2019,
+      "leagueId": 88,
+      "appearances": 25
+    },
+    {
+      "season": 2018,
+      "leagueId": 88,
+      "appearances": 23
+    },
+    {
+      "season": 2017,
+      "leagueId": 88,
+      "appearances": 4
+    },
+    {
+      "season": 2016,
+      "leagueId": 88,
+      "appearances": 2
+    }
+  ]
+}

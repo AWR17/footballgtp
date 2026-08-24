@@ -1,0 +1,75 @@
+{
+  "stints": [
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Portugal",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 8
+    },
+    {
+      "clubName": "Benfica",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 35
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 32,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 5
+    },
+    {
+      "season": 2022,
+      "leagueId": 1,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 550,
+      "appearances": 30
+    },
+    {
+      "season": 2023,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 0
+    }
+  ]
+}

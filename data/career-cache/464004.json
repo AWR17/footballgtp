@@ -1,0 +1,37 @@
+{
+  "stints": [
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2025,
+      "appearances": 4
+    },
+    {
+      "clubName": "Gremio",
+      "country": "Brazil",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Brazil",
+      "yearStart": 2024,
+      "appearances": 7
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 39,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 71,
+      "appearances": 7
+    }
+  ]
+}

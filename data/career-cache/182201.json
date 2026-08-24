@@ -1,18 +1,67 @@
-[
-  {
-    "clubName": "Crystal Palace",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2019,
-    "appearances": 139
-  },
-  {
-    "clubName": "England",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2022,
-    "appearances": 2
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2019,
+      "appearances": 139
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 19
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 4
+    },
+    {
+      "season": 2022,
+      "leagueId": 10,
+      "appearances": 2
+    }
+  ]
+}

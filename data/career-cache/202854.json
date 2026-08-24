@@ -1,0 +1,65 @@
+{
+  "stints": [
+    {
+      "clubName": "Everton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "SC Freiburg",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2022,
+      "appearances": 46
+    },
+    {
+      "clubName": "FC Ingolstadt 04",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Germany",
+      "yearStart": 2020,
+      "appearances": 45
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 78,
+      "appearances": 19
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 24
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 3
+    },
+    {
+      "season": 2021,
+      "leagueId": 79,
+      "appearances": 26
+    },
+    {
+      "season": 2020,
+      "leagueId": 80,
+      "appearances": 19
+    }
+  ]
+}

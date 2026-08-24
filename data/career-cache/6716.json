@@ -1,34 +1,123 @@
-[
-  {
-    "clubName": "Liverpool",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2023,
-    "appearances": 39
-  },
-  {
-    "clubName": "Argentina",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2019,
-    "appearances": 30
-  },
-  {
-    "clubName": "Brighton",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2019,
-    "appearances": 98
-  },
-  {
-    "clubName": "Argentinos JRS",
-    "country": "Argentina",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Argentina",
-    "yearStart": 2016,
-    "appearances": 50
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 39
+    },
+    {
+      "clubName": "Argentina",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2019,
+      "appearances": 30
+    },
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2019,
+      "appearances": 98
+    },
+    {
+      "clubName": "Argentinos JRS",
+      "country": "Argentina",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Argentina",
+      "yearStart": 2016,
+      "appearances": 50
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 4
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2026,
+      "leagueId": 34,
+      "appearances": 14
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 9,
+      "appearances": 6
+    },
+    {
+      "season": 2023,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2022,
+      "leagueId": 34,
+      "appearances": 2
+    },
+    {
+      "season": 2019,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 21
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 9
+    },
+    {
+      "season": 2018,
+      "leagueId": 130,
+      "appearances": 3
+    },
+    {
+      "season": 2017,
+      "leagueId": 128,
+      "appearances": 24
+    },
+    {
+      "season": 2016,
+      "leagueId": 129,
+      "appearances": 23
+    }
+  ]
+}

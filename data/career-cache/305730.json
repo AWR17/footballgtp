@@ -1,0 +1,39 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 47
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 848,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 26
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 16
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 3
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "stints": [
+    {
+      "clubName": "Manchester United",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Belgium",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 1
+    },
+    {
+      "clubName": "Antwerp",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2023,
+      "appearances": 74
+    },
+    {
+      "clubName": "Club Brugge KV",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2020,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 5,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 144,
+      "appearances": 37
+    },
+    {
+      "season": 2023,
+      "leagueId": 144,
+      "appearances": 37
+    },
+    {
+      "season": 2022,
+      "leagueId": 144,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 144,
+      "appearances": 2
+    },
+    {
+      "season": 2020,
+      "leagueId": 144,
+      "appearances": 0
+    }
+  ]
+}

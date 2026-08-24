@@ -1,0 +1,90 @@
+{
+  "stints": [
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Greece",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 9
+    },
+    {
+      "clubName": "Olympiakos Piraeus",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2018,
+      "appearances": 90
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 6
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 26
+    },
+    {
+      "season": 2024,
+      "leagueId": 197,
+      "appearances": 19
+    },
+    {
+      "season": 2023,
+      "leagueId": 197,
+      "appearances": 10
+    },
+    {
+      "season": 2022,
+      "leagueId": 197,
+      "appearances": 26
+    },
+    {
+      "season": 2021,
+      "leagueId": 197,
+      "appearances": 3
+    },
+    {
+      "season": 2020,
+      "leagueId": 197,
+      "appearances": 5
+    },
+    {
+      "season": 2019,
+      "leagueId": 197,
+      "appearances": 1
+    },
+    {
+      "season": 2018,
+      "leagueId": 199,
+      "appearances": 0
+    }
+  ]
+}

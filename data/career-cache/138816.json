@@ -1,0 +1,93 @@
+{
+  "stints": [
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 60
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 0
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2019,
+      "appearances": 1
+    },
+    {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2021,
+      "appearances": 40
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 20
+    },
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 4,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2019,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 40
+    }
+  ]
+}

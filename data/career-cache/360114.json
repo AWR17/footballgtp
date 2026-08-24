@@ -1,0 +1,73 @@
+{
+  "stints": [
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 15
+    },
+    {
+      "clubName": "Uzbekistan",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 17
+    },
+    {
+      "clubName": "Lens",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2023,
+      "appearances": 11
+    },
+    {
+      "clubName": "FC Energetik-Bgu Minsk",
+      "country": "Belarus",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belarus",
+      "yearStart": 2022,
+      "appearances": 27
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 11
+    },
+    {
+      "season": 2026,
+      "leagueId": 30,
+      "appearances": 14
+    },
+    {
+      "season": 2023,
+      "leagueId": 7,
+      "appearances": 3
+    },
+    {
+      "season": 2023,
+      "leagueId": 61,
+      "appearances": 11
+    },
+    {
+      "season": 2022,
+      "leagueId": 116,
+      "appearances": 27
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "stints": [
+    {
+      "clubName": "Hungary",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 2
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2025,
+      "appearances": 10
+    },
+    {
+      "clubName": "Ferencvarosi TC",
+      "country": "Hungary",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Hungary",
+      "yearStart": 2022,
+      "appearances": 20
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 5,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 39,
+      "appearances": 9
+    },
+    {
+      "season": 2024,
+      "leagueId": 271,
+      "appearances": 13
+    },
+    {
+      "season": 2023,
+      "leagueId": 271,
+      "appearances": 5
+    },
+    {
+      "season": 2022,
+      "leagueId": 271,
+      "appearances": 2
+    }
+  ]
+}

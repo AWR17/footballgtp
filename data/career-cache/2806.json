@@ -1,50 +1,149 @@
-[
-  {
-    "clubName": "Newcastle",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2018,
-    "appearances": 198
-  },
-  {
-    "clubName": "Switzerland",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2013,
-    "appearances": 34
-  },
-  {
-    "clubName": "Deportivo La Coruna",
-    "country": "Spain",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, Spain",
-    "yearStart": 2017,
-    "appearances": 25
-  },
-  {
-    "clubName": "1899 Hoffenheim",
-    "country": "Germany",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, Germany",
-    "yearStart": 2015,
-    "appearances": 30
-  },
-  {
-    "clubName": "FC Basel 1893",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "an unspecified league",
-    "yearStart": 2012,
-    "appearances": 73
-  },
-  {
-    "clubName": "FC WIL 1900",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "an unspecified league",
-    "yearStart": 2009,
-    "appearances": 52
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Newcastle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2018,
+      "appearances": 198
+    },
+    {
+      "clubName": "Switzerland",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2013,
+      "appearances": 34
+    },
+    {
+      "clubName": "Deportivo La Coruna",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2017,
+      "appearances": 25
+    },
+    {
+      "clubName": "1899 Hoffenheim",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2015,
+      "appearances": 30
+    },
+    {
+      "clubName": "FC Basel 1893",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2012,
+      "appearances": 73
+    },
+    {
+      "clubName": "FC WIL 1900",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2009,
+      "appearances": 52
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 25
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 18
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 22
+    },
+    {
+      "season": 2018,
+      "leagueId": 39,
+      "appearances": 24
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 3
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 3
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 4
+    },
+    {
+      "season": 2018,
+      "leagueId": 5,
+      "appearances": 5
+    },
+    {
+      "season": 2017,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2017,
+      "leagueId": 140,
+      "appearances": 25
+    },
+    {
+      "season": 2016,
+      "leagueId": 78,
+      "appearances": 6
+    },
+    {
+      "season": 2015,
+      "leagueId": 78,
+      "appearances": 24
+    }
+  ]
+}

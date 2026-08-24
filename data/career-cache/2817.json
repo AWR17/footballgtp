@@ -1,0 +1,133 @@
+{
+  "stints": [
+    {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 38
+    },
+    {
+      "clubName": "Serbia",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2018,
+      "appearances": 29
+    },
+    {
+      "clubName": "Fiorentina",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2017,
+      "appearances": 225
+    },
+    {
+      "clubName": "FK Partizan",
+      "country": "Serbia",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Serbia",
+      "yearStart": 2015,
+      "appearances": 36
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 8
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 4
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 5
+    },
+    {
+      "season": 2019,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2018,
+      "leagueId": 5,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 135,
+      "appearances": 34
+    },
+    {
+      "season": 2022,
+      "leagueId": 135,
+      "appearances": 36
+    },
+    {
+      "season": 2021,
+      "leagueId": 135,
+      "appearances": 34
+    },
+    {
+      "season": 2020,
+      "leagueId": 135,
+      "appearances": 34
+    },
+    {
+      "season": 2019,
+      "leagueId": 135,
+      "appearances": 37
+    },
+    {
+      "season": 2018,
+      "leagueId": 135,
+      "appearances": 34
+    },
+    {
+      "season": 2017,
+      "leagueId": 135,
+      "appearances": 16
+    },
+    {
+      "season": 2016,
+      "leagueId": 286,
+      "appearances": 32
+    }
+  ]
+}

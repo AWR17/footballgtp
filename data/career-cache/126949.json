@@ -1,26 +1,110 @@
-[
-  {
-    "clubName": "Crystal Palace",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2022,
-    "appearances": 69
-  },
-  {
-    "clubName": "USA",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2020,
-    "appearances": 18
-  },
-  {
-    "clubName": "Bayern München",
-    "country": "Germany",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Germany",
-    "yearStart": 2018,
-    "appearances": 8
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 69
+    },
+    {
+      "clubName": "USA",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2020,
+      "appearances": 18
+    },
+    {
+      "clubName": "Bayern München",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Germany",
+      "yearStart": 2018,
+      "appearances": 8
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 27
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2025,
+      "leagueId": 22,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 536,
+      "appearances": 4
+    },
+    {
+      "season": 2023,
+      "leagueId": 536,
+      "appearances": 3
+    },
+    {
+      "season": 2022,
+      "leagueId": 536,
+      "appearances": 1
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2020,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 1
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 3
+    },
+    {
+      "season": 2019,
+      "leagueId": 78,
+      "appearances": 1
+    },
+    {
+      "season": 2018,
+      "leagueId": 26,
+      "appearances": 3
+    }
+  ]
+}

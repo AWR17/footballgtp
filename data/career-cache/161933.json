@@ -1,0 +1,60 @@
+{
+  "stints": [
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 37
+    },
+    {
+      "clubName": "FC Porto",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2023,
+      "appearances": 25
+    },
+    {
+      "clubName": "Barcelona",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Spain",
+      "yearStart": 2021,
+      "appearances": 29
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 39,
+      "appearances": 25
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 11
+    },
+    {
+      "season": 2023,
+      "leagueId": 94,
+      "appearances": 25
+    },
+    {
+      "season": 2022,
+      "leagueId": 140,
+      "appearances": 26
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 3
+    }
+  ]
+}

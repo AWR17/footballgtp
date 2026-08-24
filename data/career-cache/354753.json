@@ -1,0 +1,67 @@
+{
+  "stints": [
+    {
+      "clubName": "Sporting CP",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2022,
+      "appearances": 86
+    },
+    {
+      "clubName": "Ivory Coast",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 6
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 94,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 94,
+      "appearances": 17
+    },
+    {
+      "season": 2024,
+      "leagueId": 94,
+      "appearances": 31
+    },
+    {
+      "season": 2023,
+      "leagueId": 94,
+      "appearances": 26
+    },
+    {
+      "season": 2022,
+      "leagueId": 94,
+      "appearances": 12
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 6,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2023,
+      "leagueId": 29,
+      "appearances": 1
+    }
+  ]
+}

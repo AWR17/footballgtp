@@ -1,0 +1,93 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 21
+    },
+    {
+      "clubName": "Paraguay",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 21
+    },
+    {
+      "clubName": "Inter Miami",
+      "country": "USA",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, USA",
+      "yearStart": 2023,
+      "appearances": 5
+    },
+    {
+      "clubName": "Libertad Asuncion",
+      "country": "Paraguay",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Paraguay",
+      "yearStart": 2021,
+      "appearances": 21
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 848,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 17
+    },
+    {
+      "season": 2026,
+      "leagueId": 34,
+      "appearances": 13
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2022,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2023,
+      "leagueId": 253,
+      "appearances": 5
+    },
+    {
+      "season": 2022,
+      "leagueId": 250,
+      "appearances": 21
+    },
+    {
+      "season": 2021,
+      "leagueId": 11,
+      "appearances": 0
+    }
+  ]
+}

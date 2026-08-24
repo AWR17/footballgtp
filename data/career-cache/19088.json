@@ -1,42 +1,131 @@
-[
-  {
-    "clubName": "Crystal Palace",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2022,
-    "appearances": 50
-  },
-  {
-    "clubName": "England",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2020,
-    "appearances": 1
-  },
-  {
-    "clubName": "Manchester United",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "domestic cup, England",
-    "yearStart": 2015,
-    "appearances": 13
-  },
-  {
-    "clubName": "Sheffield Utd",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "2nd tier, England",
-    "yearStart": 2018,
-    "appearances": 82
-  },
-  {
-    "clubName": "Shrewsbury",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "3rd tier, England",
-    "yearStart": 2017,
-    "appearances": 41
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 50
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2020,
+      "appearances": 1
+    },
+    {
+      "clubName": "Manchester United",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2015,
+      "appearances": 13
+    },
+    {
+      "clubName": "Sheffield Utd",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2018,
+      "appearances": 82
+    },
+    {
+      "clubName": "Shrewsbury",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2017,
+      "appearances": 41
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 25
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 18
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 13
+    },
+    {
+      "season": 2016,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2015,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 46
+    },
+    {
+      "season": 2017,
+      "leagueId": 41,
+      "appearances": 41
+    }
+  ]
+}

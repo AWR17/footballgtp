@@ -1,0 +1,132 @@
+{
+  "stints": [
+    {
+      "clubName": "Ipswich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Union St. Gilloise",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "European competition",
+      "yearStart": 2025,
+      "appearances": 8
+    },
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2021,
+      "appearances": 0
+    },
+    {
+      "clubName": "Sturm Graz",
+      "country": "Austria",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Austria",
+      "yearStart": 2023,
+      "appearances": 16
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 0
+    },
+    {
+      "clubName": "Ajax",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2019,
+      "appearances": 2
+    },
+    {
+      "clubName": "Emmen",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2016,
+      "appearances": 34
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 2,
+      "appearances": 8
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 218,
+      "appearances": 16
+    },
+    {
+      "season": 2024,
+      "leagueId": 32,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 88,
+      "appearances": 2
+    },
+    {
+      "season": 2019,
+      "leagueId": 88,
+      "appearances": 0
+    },
+    {
+      "season": 2018,
+      "leagueId": 88,
+      "appearances": 34
+    },
+    {
+      "season": 2017,
+      "leagueId": 88,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 88,
+      "appearances": 0
+    }
+  ]
+}

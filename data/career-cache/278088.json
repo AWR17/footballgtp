@@ -1,0 +1,68 @@
+{
+  "stints": [
+    {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Swansea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2023,
+      "appearances": 46
+    },
+    {
+      "clubName": "Lincoln",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2022,
+      "appearances": 42
+    },
+    {
+      "clubName": "Walsall",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "4th tier, England",
+      "yearStart": 2021,
+      "appearances": 43
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 46
+    },
+    {
+      "season": 2022,
+      "leagueId": 41,
+      "appearances": 42
+    },
+    {
+      "season": 2021,
+      "leagueId": 42,
+      "appearances": 43
+    }
+  ]
+}
