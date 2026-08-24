@@ -18,7 +18,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const { getPlayerTeams, getPlayerSeasonStats, getPlayerSeasonAnyTeamLeague, getPlayerProfile, sleep } =
+const { getPlayerTeams, getPlayerSeasonStats, getPlayerSeasonAnyTeamLeague, getPlayerProfile, getPlayerTransfers, sleep } =
   require("../lib/api-football");
 const { tierFor } = require("../lib/league-tiers");
 
@@ -196,6 +196,49 @@ function bandPlApps(totalPlApps) {
   return "<50";
 }
 
+// Transfer fees arrive as free-text (e.g. "€45M", "£30M", "Free", "Loan",
+// "N/A") in whatever currency the deal was actually done in. This
+// deliberately does NOT convert between currencies — for a rough banding
+// comparison, the raw number is close enough (€/£/$ are usually within
+// ~15-20% of each other), but it's an approximation worth knowing about,
+// not a precise cross-currency ranking.
+function parseFeeAmount(feeStr) {
+  if (!feeStr) return null;
+  const cleaned = feeStr.trim();
+  if (/free/i.test(cleaned)) return 0;
+  if (/loan/i.test(cleaned) || /n\/a/i.test(cleaned) || /^transfer$/i.test(cleaned)) return null;
+  const match = cleaned.match(/([\d.]+)\s*([MK])?/i);
+  if (!match) return null;
+  let value = parseFloat(match[1]);
+  if (Number.isNaN(value)) return null;
+  const suffix = match[2]?.toUpperCase();
+  if (suffix === "M") value *= 1_000_000;
+  else if (suffix === "K") value *= 1_000;
+  return value;
+}
+
+// Finds the single biggest transfer fee across a player's whole career —
+// one new API call per player, on top of everything else this pipeline
+// already fetches.
+async function getRecordTransferFee(playerId) {
+  const transfers = await getPlayerTransfers(playerId);
+  let maxFee = null;
+  for (const t of transfers) {
+    const amount = parseFeeAmount(t.fee);
+    if (amount !== null && (maxFee === null || amount > maxFee)) maxFee = amount;
+  }
+  return maxFee; // null if every transfer was a loan/free/unknown — no real fee figure exists
+}
+
+function bandTransferFee(amount) {
+  if (amount === null) return "Unknown";
+  if (amount === 0) return "Free";
+  if (amount < 5_000_000) return "<5M";
+  if (amount < 20_000_000) return "5-20M";
+  if (amount < 50_000_000) return "20-50M";
+  return "50M+";
+}
+
 // ---------- main ----------
 
 function normalizeNameForDedup(name) {
@@ -237,11 +280,13 @@ async function run(poolSizeArg) {
       const attrs = deriveAttributes(stints);
 
       let position = null;
+      let nationality = null;
       let displayName = candidate.name;
       try {
         const lastKnownSeason = stints[stints.length - 1]?.yearStart ?? new Date().getFullYear();
         const profile = await getPlayerProfile(candidate.id, lastKnownSeason);
         position = profile.position;
+        nationality = profile.nationality;
         // API-Football's shorthand "name" field is inconsistently
         // formatted across players (some full names, some just a first
         // initial — e.g. "N. Redmond" vs "Mohamed Salah"). firstname/
@@ -252,6 +297,15 @@ async function run(poolSizeArg) {
         }
       } catch (err) {
         console.warn(`[build-attributes] position lookup failed for ${candidate.name}: ${err.message}`);
+      }
+
+      let transferFeeBand = "Unknown";
+      try {
+        const recordFee = await getRecordTransferFee(candidate.id);
+        await sleep(REQUEST_PAUSE_MS);
+        transferFeeBand = bandTransferFee(recordFee);
+      } catch (err) {
+        console.warn(`[build-attributes] transfer fee lookup failed for ${candidate.name}: ${err.message}`);
       }
 
       // Collision check runs against the FINAL display name, not the raw
@@ -267,9 +321,10 @@ async function run(poolSizeArg) {
       attributesById[candidate.id] = {
         name: displayName,
         position,
+        nationality,
         debutDecade: attrs.debutDecade,
         clubCount: attrs.clubCount,
-        highestTier: attrs.highestTier, // 1 = top flight, 2 = second tier, etc. — lower is higher level
+        transferFeeBand,
         plAppsBand: bandPlApps(candidate.totalPlApps),
       };
       usedNames.add(nameKey);
