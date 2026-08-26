@@ -1,0 +1,108 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2012,
+      "appearances": 201
+    },
+    {
+      "clubName": "Norwich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2019,
+      "appearances": 47
+    },
+    {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2018,
+      "appearances": 6
+    },
+    {
+      "clubName": "West Ham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2016,
+      "appearances": 23
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 36
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 34
+    },
+    {
+      "season": 2015,
+      "leagueId": 40,
+      "appearances": 22
+    },
+    {
+      "season": 2014,
+      "leagueId": 40,
+      "appearances": 39
+    },
+    {
+      "season": 2013,
+      "leagueId": 40,
+      "appearances": 25
+    },
+    {
+      "season": 2012,
+      "leagueId": 40,
+      "appearances": 44
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 15
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 15
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 17
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 6
+    },
+    {
+      "season": 2017,
+      "leagueId": 39,
+      "appearances": 5
+    },
+    {
+      "season": 2016,
+      "leagueId": 39,
+      "appearances": 18
+    }
+  ]
+}

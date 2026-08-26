@@ -1,0 +1,42 @@
+{
+  "stints": [
+    {
+      "clubName": "Argentina",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "River Plate",
+      "country": "Argentina",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Argentina",
+      "yearStart": 2023,
+      "appearances": 35
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 34,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 128,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 128,
+      "appearances": 30
+    },
+    {
+      "season": 2023,
+      "leagueId": 1032,
+      "appearances": 5
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Wigan",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 41,
+      "appearances": 1
+    }
+  ]
+}

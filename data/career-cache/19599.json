@@ -1,34 +1,148 @@
-[
-  {
-    "clubName": "Argentina",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "an unspecified league",
-    "yearStart": 2019,
-    "appearances": 44
-  },
-  {
-    "clubName": "Aston Villa",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2020,
-    "appearances": 186
-  },
-  {
-    "clubName": "Arsenal",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2011,
-    "appearances": 15
-  },
-  {
-    "clubName": "Sheffield Wednesday",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "2nd tier, England",
-    "yearStart": 2013,
-    "appearances": 11
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Argentina",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2019,
+      "appearances": 44
+    },
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 186
+    },
+    {
+      "clubName": "Arsenal",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2011,
+      "appearances": 15
+    },
+    {
+      "clubName": "Sheffield Wednesday",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2013,
+      "appearances": 11
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 34,
+      "appearances": 16
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 9,
+      "appearances": 6
+    },
+    {
+      "season": 2023,
+      "leagueId": 10,
+      "appearances": 4
+    },
+    {
+      "season": 2022,
+      "leagueId": 34,
+      "appearances": 10
+    },
+    {
+      "season": 2021,
+      "leagueId": 9,
+      "appearances": 6
+    },
+    {
+      "season": 2019,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 34
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 38
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 9
+    },
+    {
+      "season": 2018,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2017,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 39,
+      "appearances": 2
+    },
+    {
+      "season": 2015,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2014,
+      "leagueId": 39,
+      "appearances": 4
+    },
+    {
+      "season": 2012,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2011,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2013,
+      "leagueId": 40,
+      "appearances": 11
+    }
+  ]
+}

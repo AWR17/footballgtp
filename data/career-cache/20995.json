@@ -1,0 +1,96 @@
+{
+  "stints": [
+    {
+      "clubName": "France",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 3
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2024,
+      "appearances": 6
+    },
+    {
+      "clubName": "VfL Wolfsburg",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2020,
+      "appearances": 117
+    },
+    {
+      "clubName": "Sochaux",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, France",
+      "yearStart": 2018,
+      "appearances": 27
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 3
+    },
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 28
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 30
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 29
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 30
+    },
+    {
+      "season": 2019,
+      "leagueId": 62,
+      "appearances": 20
+    },
+    {
+      "season": 2018,
+      "leagueId": 62,
+      "appearances": 7
+    }
+  ]
+}

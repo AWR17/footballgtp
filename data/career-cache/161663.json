@@ -1,0 +1,65 @@
+{
+  "stints": [
+    {
+      "clubName": "Rep. Of Ireland",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Blackburn",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Derby",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2020,
+      "appearances": 105
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 41,
+      "appearances": 44
+    },
+    {
+      "season": 2022,
+      "leagueId": 41,
+      "appearances": 42
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 18
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 0
+    }
+  ]
+}

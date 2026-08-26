@@ -1,0 +1,63 @@
+{
+  "stints": [
+    {
+      "clubName": "Gambia",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 10
+    },
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 34
+    },
+    {
+      "clubName": "Feyenoord",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2023,
+      "appearances": 27
+    },
+    {
+      "clubName": "Odense",
+      "country": "Denmark",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Denmark",
+      "yearStart": 2022,
+      "appearances": 17
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2023,
+      "leagueId": 29,
+      "appearances": 4
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2023,
+      "leagueId": 88,
+      "appearances": 27
+    },
+    {
+      "season": 2022,
+      "leagueId": 119,
+      "appearances": 17
+    }
+  ]
+}

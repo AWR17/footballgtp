@@ -1,0 +1,126 @@
+{
+  "stints": [
+    {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2021,
+      "appearances": 129
+    },
+    {
+      "clubName": "Swansea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2019,
+      "appearances": 81
+    },
+    {
+      "clubName": "QPR",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2016,
+      "appearances": 122
+    },
+    {
+      "clubName": "Brentford",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2011,
+      "appearances": 195
+    },
+    {
+      "clubName": "Everton",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2009,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 29
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 33
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 48
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 16
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 42
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 39
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 40
+    },
+    {
+      "season": 2017,
+      "leagueId": 40,
+      "appearances": 46
+    },
+    {
+      "season": 2016,
+      "leagueId": 40,
+      "appearances": 36
+    },
+    {
+      "season": 2015,
+      "leagueId": 40,
+      "appearances": 45
+    },
+    {
+      "season": 2014,
+      "leagueId": 40,
+      "appearances": 45
+    },
+    {
+      "season": 2013,
+      "leagueId": 41,
+      "appearances": 38
+    },
+    {
+      "season": 2012,
+      "leagueId": 41,
+      "appearances": 43
+    },
+    {
+      "season": 2011,
+      "leagueId": 41,
+      "appearances": 24
+    }
+  ]
+}

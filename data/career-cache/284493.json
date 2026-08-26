@@ -1,0 +1,45 @@
+{
+  "stints": [
+    {
+      "clubName": "Rep. Of Ireland",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Cercle Brugge",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Leyton Orient",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 144,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    }
+  ]
+}

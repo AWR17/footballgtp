@@ -1,42 +1,141 @@
-[
-  {
-    "clubName": "Colombia",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2017,
-    "appearances": 44
-  },
-  {
-    "clubName": "Crystal Palace",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2023,
-    "appearances": 34
-  },
-  {
-    "clubName": "Bournemouth",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2018,
-    "appearances": 178
-  },
-  {
-    "clubName": "Levante",
-    "country": "Spain",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, Spain",
-    "yearStart": 2015,
-    "appearances": 89
-  },
-  {
-    "clubName": "Huila",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "an unspecified league",
-    "yearStart": 2013,
-    "appearances": 61
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Colombia",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2017,
+      "appearances": 44
+    },
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 34
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2018,
+      "appearances": 178
+    },
+    {
+      "clubName": "Levante",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2015,
+      "appearances": 89
+    },
+    {
+      "clubName": "Huila",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2013,
+      "appearances": 61
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 34,
+      "appearances": 14
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 9,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2022,
+      "leagueId": 34,
+      "appearances": 11
+    },
+    {
+      "season": 2019,
+      "leagueId": 9,
+      "appearances": 2
+    },
+    {
+      "season": 2018,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2017,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 28
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 34
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 44
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2018,
+      "leagueId": 39,
+      "appearances": 30
+    },
+    {
+      "season": 2017,
+      "leagueId": 140,
+      "appearances": 26
+    },
+    {
+      "season": 2016,
+      "leagueId": 141,
+      "appearances": 30
+    },
+    {
+      "season": 2015,
+      "leagueId": 140,
+      "appearances": 33
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "stints": [
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Lask Linz",
+      "country": "Austria",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Austria",
+      "yearStart": 2024,
+      "appearances": 41
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 531,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 218,
+      "appearances": 26
+    },
+    {
+      "season": 2024,
+      "leagueId": 218,
+      "appearances": 15
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "stints": [
+    {
+      "clubName": "Albania",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 5
+    },
+    {
+      "clubName": "Ipswich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Bristol City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2022,
+      "appearances": 97
+    },
+    {
+      "clubName": "Wycombe",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2020,
+      "appearances": 61
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 32,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 3
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 44
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 38
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 15
+    },
+    {
+      "season": 2021,
+      "leagueId": 41,
+      "appearances": 32
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 29
+    }
+  ]
+}

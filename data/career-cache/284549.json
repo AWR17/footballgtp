@@ -1,0 +1,42 @@
+{
+  "stints": [
+    {
+      "clubName": "Exeter City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2024,
+      "appearances": 47
+    },
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 41,
+      "appearances": 46
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 2
+    }
+  ]
+}

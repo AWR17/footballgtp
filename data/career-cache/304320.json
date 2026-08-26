@@ -1,0 +1,42 @@
+{
+  "stints": [
+    {
+      "clubName": "Derby",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 11
+    },
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 10
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 10
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 9
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 1
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "stints": [
+    {
+      "clubName": "Belgium",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 14
+    },
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 29
+    },
+    {
+      "clubName": "Everton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 64
+    },
+    {
+      "clubName": "Lille",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2021,
+      "appearances": 32
+    },
+    {
+      "clubName": "Hamburger SV",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Germany",
+      "yearStart": 2020,
+      "appearances": 25
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 4
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 4
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 28
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2021,
+      "leagueId": 61,
+      "appearances": 32
+    },
+    {
+      "season": 2020,
+      "leagueId": 79,
+      "appearances": 25
+    }
+  ]
+}

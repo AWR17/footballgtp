@@ -1,0 +1,52 @@
+{
+  "stints": [
+    {
+      "clubName": "Japan",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2025,
+      "appearances": 15
+    },
+    {
+      "clubName": "Kawasaki Frontale",
+      "country": "Japan",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Japan",
+      "yearStart": 2022,
+      "appearances": 63
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 30,
+      "appearances": 4
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 11
+    },
+    {
+      "season": 2025,
+      "leagueId": 98,
+      "appearances": 22
+    },
+    {
+      "season": 2024,
+      "leagueId": 98,
+      "appearances": 24
+    },
+    {
+      "season": 2023,
+      "leagueId": 98,
+      "appearances": 17
+    },
+    {
+      "season": 2022,
+      "leagueId": 98,
+      "appearances": 0
+    }
+  ]
+}

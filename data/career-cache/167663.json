@@ -1,0 +1,77 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 0
+    },
+    {
+      "clubName": "Canada",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 848,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 22,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 536,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 536,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 536,
+      "appearances": 0
+    }
+  ]
+}

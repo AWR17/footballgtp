@@ -1,0 +1,114 @@
+{
+  "stints": [
+    {
+      "clubName": "Fulham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 31
+    },
+    {
+      "clubName": "Villarreal",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2021,
+      "appearances": 39
+    },
+    {
+      "clubName": "Spain",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2020,
+      "appearances": 0
+    },
+    {
+      "clubName": "Almeria",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Spain",
+      "yearStart": 2020,
+      "appearances": 35
+    },
+    {
+      "clubName": "Barcelona",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2018,
+      "appearances": 0
+    },
+    {
+      "clubName": "Alcorcon",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Spain",
+      "yearStart": 2016,
+      "appearances": 5
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 26
+    },
+    {
+      "season": 2023,
+      "leagueId": 140,
+      "appearances": 29
+    },
+    {
+      "season": 2022,
+      "leagueId": 140,
+      "appearances": 10
+    },
+    {
+      "season": 2021,
+      "leagueId": 140,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 141,
+      "appearances": 35
+    },
+    {
+      "season": 2019,
+      "leagueId": 140,
+      "appearances": 0
+    },
+    {
+      "season": 2018,
+      "leagueId": 140,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 141,
+      "appearances": 5
+    }
+  ]
+}

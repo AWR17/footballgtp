@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Doncaster",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 0
+    }
+  ]
+}

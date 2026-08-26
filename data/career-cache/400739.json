@@ -1,0 +1,32 @@
+{
+  "stints": [
+    {
+      "clubName": "Shrewsbury",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 0
+    }
+  ]
+}

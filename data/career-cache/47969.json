@@ -1,0 +1,121 @@
+{
+  "stints": [
+    {
+      "clubName": "Sweden",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 12
+    },
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 0
+    },
+    {
+      "clubName": "Lille",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2021,
+      "appearances": 113
+    },
+    {
+      "clubName": "Groningen",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2019,
+      "appearances": 34
+    },
+    {
+      "clubName": "Halmstad",
+      "country": "Sweden",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Sweden",
+      "yearStart": 2015,
+      "appearances": 56
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 4
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 2
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 61,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 61,
+      "appearances": 25
+    },
+    {
+      "season": 2022,
+      "leagueId": 61,
+      "appearances": 24
+    },
+    {
+      "season": 2021,
+      "leagueId": 61,
+      "appearances": 30
+    },
+    {
+      "season": 2020,
+      "leagueId": 88,
+      "appearances": 23
+    },
+    {
+      "season": 2019,
+      "leagueId": 88,
+      "appearances": 11
+    },
+    {
+      "season": 2018,
+      "leagueId": 114,
+      "appearances": 28
+    },
+    {
+      "season": 2017,
+      "leagueId": 113,
+      "appearances": 25
+    },
+    {
+      "season": 2016,
+      "leagueId": 113,
+      "appearances": 2
+    }
+  ]
+}

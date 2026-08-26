@@ -1,0 +1,70 @@
+{
+  "stints": [
+    {
+      "clubName": "Belgium",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 0
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 5
+    },
+    {
+      "clubName": "Genk",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2021,
+      "appearances": 5
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 32,
+      "appearances": 0
+    },
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 5
+    },
+    {
+      "season": 2024,
+      "leagueId": 147,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 144,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 144,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 144,
+      "appearances": 0
+    }
+  ]
+}

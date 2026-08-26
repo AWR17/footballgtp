@@ -1,0 +1,88 @@
+{
+  "stints": [
+    {
+      "clubName": "Morocco",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 9
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Bayer Leverkusen",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2021,
+      "appearances": 94
+    },
+    {
+      "clubName": "Toulouse",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2019,
+      "appearances": 38
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 6,
+      "appearances": 4
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 78,
+      "appearances": 20
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 23
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 26
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 25
+    },
+    {
+      "season": 2020,
+      "leagueId": 62,
+      "appearances": 34
+    },
+    {
+      "season": 2019,
+      "leagueId": 61,
+      "appearances": 4
+    }
+  ]
+}

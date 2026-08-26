@@ -1,0 +1,32 @@
+{
+  "stints": [
+    {
+      "clubName": "Ecuador",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 0
+    }
+  ]
+}

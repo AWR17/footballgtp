@@ -1,0 +1,122 @@
+{
+  "stints": [
+    {
+      "clubName": "Stoke City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Scotland",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 4
+    },
+    {
+      "clubName": "Ipswich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2022,
+      "appearances": 74
+    },
+    {
+      "clubName": "Leicester",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2019,
+      "appearances": 2
+    },
+    {
+      "clubName": "Portsmouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2021,
+      "appearances": 40
+    },
+    {
+      "clubName": "OH Leuven",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2018,
+      "appearances": 22
+    },
+    {
+      "clubName": "Sheffield Wednesday",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2016,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 40,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 5,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 26
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 26
+    },
+    {
+      "season": 2022,
+      "leagueId": 41,
+      "appearances": 21
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 2
+    },
+    {
+      "season": 2021,
+      "leagueId": 41,
+      "appearances": 40
+    },
+    {
+      "season": 2018,
+      "leagueId": 145,
+      "appearances": 22
+    },
+    {
+      "season": 2016,
+      "leagueId": 40,
+      "appearances": 1
+    }
+  ]
+}

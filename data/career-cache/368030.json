@@ -1,0 +1,42 @@
+{
+  "stints": [
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Lorient",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2022,
+      "appearances": 33
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 66,
+      "appearances": 2
+    },
+    {
+      "season": 2023,
+      "leagueId": 61,
+      "appearances": 30
+    },
+    {
+      "season": 2022,
+      "leagueId": 61,
+      "appearances": 1
+    }
+  ]
+}

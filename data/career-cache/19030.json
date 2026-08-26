@@ -1,0 +1,114 @@
+{
+  "stints": [
+    {
+      "clubName": "Marseille",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "a club in France",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 21
+    },
+    {
+      "clubName": "Denmark",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 4
+    },
+    {
+      "clubName": "Celtic",
+      "country": "Scotland",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Scotland",
+      "yearStart": 2021,
+      "appearances": 91
+    },
+    {
+      "clubName": "Milton Keynes Dons",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2020,
+      "appearances": 23
+    },
+    {
+      "clubName": "Fulham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2017,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 526,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 21
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 179,
+      "appearances": 37
+    },
+    {
+      "season": 2022,
+      "leagueId": 179,
+      "appearances": 38
+    },
+    {
+      "season": 2021,
+      "leagueId": 179,
+      "appearances": 16
+    },
+    {
+      "season": 2020,
+      "leagueId": 41,
+      "appearances": 23
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 1
+    },
+    {
+      "season": 2018,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2017,
+      "leagueId": 40,
+      "appearances": 0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Suwon Bluewings",
+      "country": "South-Korea",
+      "isNationalTeam": false,
+      "tierLabel": "a club in South-Korea",
+      "yearStart": 2024,
+      "appearances": 14
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2024,
+      "leagueId": 293,
+      "appearances": 14
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "stints": [
+    {
+      "clubName": "Valencia",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "FC Volendam",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2022,
+      "appearances": 38
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 140,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 90,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 89,
+      "appearances": 36
+    },
+    {
+      "season": 2023,
+      "leagueId": 88,
+      "appearances": 1
+    },
+    {
+      "season": 2022,
+      "leagueId": 88,
+      "appearances": 0
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "stints": [
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 21
+    },
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 45
+    },
+    {
+      "clubName": "Wigan",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2018,
+      "appearances": 19
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 20
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 10
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 15
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 20
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 18
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 1
+    }
+  ]
+}

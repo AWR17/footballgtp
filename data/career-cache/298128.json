@@ -1,0 +1,57 @@
+{
+  "stints": [
+    {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Aston Villa",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2019,
+      "appearances": 3
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 3
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 0
+    }
+  ]
+}

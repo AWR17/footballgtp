@@ -1,42 +1,111 @@
-[
-  {
-    "clubName": "Japan",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2022,
-    "appearances": 14
-  },
-  {
-    "clubName": "Brighton",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2022,
-    "appearances": 88
-  },
-  {
-    "clubName": "Union St. Gilloise",
-    "country": "Belgium",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Belgium",
-    "yearStart": 2021,
-    "appearances": 27
-  },
-  {
-    "clubName": "Kawasaki Frontale",
-    "country": "Japan",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Japan",
-    "yearStart": 2019,
-    "appearances": 31
-  },
-  {
-    "clubName": "Tsukuba University",
-    "country": "Japan",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Japan",
-    "yearStart": 2017,
-    "appearances": 1
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Japan",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 14
+    },
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 88
+    },
+    {
+      "clubName": "Union St. Gilloise",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2021,
+      "appearances": 27
+    },
+    {
+      "clubName": "Kawasaki Frontale",
+      "country": "Japan",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Japan",
+      "yearStart": 2019,
+      "appearances": 31
+    },
+    {
+      "clubName": "Tsukuba University",
+      "country": "Japan",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Japan",
+      "yearStart": 2017,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 30,
+      "appearances": 7
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 7,
+      "appearances": 2
+    },
+    {
+      "season": 2022,
+      "leagueId": 30,
+      "appearances": 3
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 19
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2021,
+      "leagueId": 144,
+      "appearances": 27
+    },
+    {
+      "season": 2020,
+      "leagueId": 98,
+      "appearances": 30
+    },
+    {
+      "season": 2019,
+      "leagueId": 101,
+      "appearances": 1
+    },
+    {
+      "season": 2017,
+      "leagueId": 102,
+      "appearances": 1
+    }
+  ]
+}

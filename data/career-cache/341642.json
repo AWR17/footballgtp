@@ -1,0 +1,70 @@
+{
+  "stints": [
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 2
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 5
+    },
+    {
+      "clubName": "Ajax",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2022,
+      "appearances": 75
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 1
+    },
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 88,
+      "appearances": 31
+    },
+    {
+      "season": 2023,
+      "leagueId": 88,
+      "appearances": 33
+    },
+    {
+      "season": 2022,
+      "leagueId": 88,
+      "appearances": 11
+    }
+  ]
+}

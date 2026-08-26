@@ -1,34 +1,143 @@
-[
-  {
-    "clubName": "Newcastle",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2022,
-    "appearances": 87
-  },
-  {
-    "clubName": "England",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "an unspecified league",
-    "yearStart": 2018,
-    "appearances": 5
-  },
-  {
-    "clubName": "Burnley",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2016,
-    "appearances": 143
-  },
-  {
-    "clubName": "Charlton",
-    "country": null,
-    "isNationalTeam": false,
-    "tierLabel": "domestic cup, England",
-    "yearStart": 2011,
-    "appearances": 33
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Newcastle",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 87
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2018,
+      "appearances": 5
+    },
+    {
+      "clubName": "Burnley",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2016,
+      "appearances": 143
+    },
+    {
+      "clubName": "Charlton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2011,
+      "appearances": 33
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 18
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2024,
+      "leagueId": 5,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 2
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 3
+    },
+    {
+      "season": 2018,
+      "leagueId": 1,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 38
+    },
+    {
+      "season": 2018,
+      "leagueId": 45,
+      "appearances": 2
+    },
+    {
+      "season": 2017,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2016,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2015,
+      "leagueId": 40,
+      "appearances": 24
+    },
+    {
+      "season": 2014,
+      "leagueId": 40,
+      "appearances": 8
+    },
+    {
+      "season": 2013,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2012,
+      "leagueId": 40,
+      "appearances": 1
+    },
+    {
+      "season": 2011,
+      "leagueId": 45,
+      "appearances": 0
+    }
+  ]
+}

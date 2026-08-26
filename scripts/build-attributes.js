@@ -1,16 +1,13 @@
 // scripts/build-attributes.js
 //
-// FOOTBALLGTP ATTRIBUTE PIPELINE — precomputes 5 comparable attributes
-// per player for instant client-side guess feedback: Position, Nation,
-// Clubs played for, Record transfer fee, Career PL appearances. PL debut
-// year is also computed but used only as a free clue shown before any
-// guess — it's never a comparison attribute.
+// PREMSTREAK ATTRIBUTE PIPELINE — precomputes 5 comparable attributes per
+// player: Position, Nation, Current club, Transfer fee (for the move to
+// that club), Career PL appearances. PL debut year is also computed but
+// used only as a free clue shown before any guess — it's never a
+// comparison attribute.
 //
-// SOURCE: data/pl-squad.json — the CURRENT Premier League squad, built by
-// scripts/build-pl-squad.js. This replaced the older approach (a curated
-// slice of Scouting Report's full historical player pool) — every player
-// here is someone actually playing in the league right now, not a
-// legends-across-any-era pool. Run build-pl-squad.js first if that file
+// SOURCE: data/pl-squad.json — the FULL current Premier League squad,
+// built by scripts/build-pl-squad.js. Run that first if this file
 // doesn't exist yet.
 //
 // Usage: API_FOOTBALL_KEY=xxx node scripts/build-attributes.js
@@ -26,7 +23,7 @@ const SOURCE_POOL_PATH = path.join(__dirname, "../data/pl-squad.json");
 const CACHE_DIR = path.join(__dirname, "../data/career-cache");
 const OUTPUT_PATH = path.join(__dirname, "../public/footygtp-attributes.json");
 
-const REQUEST_PAUSE_MS = 300; // tuned for API-Football Pro (300 req/min)
+const REQUEST_PAUSE_MS = 300;
 const PL_LEAGUE_ID = 39;
 
 function isYouthOrReserveTeam(teamName) {
@@ -161,12 +158,6 @@ function derivePlStats(seasonRecords) {
   return { totalPlApps, plDebutYear };
 }
 
-function deriveAttributes(stints) {
-  const clubStints = stints.filter((s) => !s.isNationalTeam);
-  const clubCount = clubStints.length;
-  return { clubCount };
-}
-
 function bandPlApps(totalPlApps) {
   if (totalPlApps >= 300) return "300+";
   if (totalPlApps >= 150) return "150-300";
@@ -174,37 +165,52 @@ function bandPlApps(totalPlApps) {
   return "<50";
 }
 
-function parseFeeAmount(feeStr) {
-  if (!feeStr) return null;
+function getCurrentClub(stints) {
+  const clubStints = stints.filter((s) => !s.isNationalTeam);
+  if (clubStints.length === 0) return null;
+  const mostRecent = clubStints.reduce((latest, s) => (s.yearStart > latest.yearStart ? s : latest));
+  return mostRecent.clubName;
+}
+
+function isAcademyGraduate(stints, currentClubName) {
+  const clubStints = stints.filter((s) => !s.isNationalTeam);
+  if (clubStints.length !== 1) return false;
+  const only = clubStints[0];
+  return normalizeClubKey(only.clubName) === normalizeClubKey(currentClubName);
+}
+
+async function getCurrentClubFee(playerId, currentClubName, stints) {
+  if (!currentClubName) return "Unknown";
+  if (isAcademyGraduate(stints, currentClubName)) return "Academy";
+
+  const transfers = await getPlayerTransfers(playerId);
+  const targetKey = normalizeClubKey(currentClubName);
+  const matches = transfers.filter((t) => normalizeClubKey(t.clubIn) === targetKey);
+  if (matches.length === 0) return "Unknown";
+
+  matches.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+  const nonLoan = matches.find((m) => !/loan/i.test(m.fee || ""));
+  const chosen = nonLoan || matches[0];
+  return bandFeeString(chosen.fee);
+}
+
+function bandFeeString(feeStr) {
+  if (!feeStr) return "Undisclosed";
   const cleaned = feeStr.trim();
-  if (/free/i.test(cleaned)) return 0;
-  if (/loan/i.test(cleaned) || /n\/a/i.test(cleaned) || /^transfer$/i.test(cleaned)) return null;
+  if (/free/i.test(cleaned)) return "Free";
+  if (/loan/i.test(cleaned)) return "Loan";
+  if (/undisclosed/i.test(cleaned) || /n\/a/i.test(cleaned) || /^transfer$/i.test(cleaned)) return "Undisclosed";
   const match = cleaned.match(/([\d.]+)\s*([MK])?/i);
-  if (!match) return null;
+  if (!match) return "Undisclosed";
   let value = parseFloat(match[1]);
-  if (Number.isNaN(value)) return null;
+  if (Number.isNaN(value)) return "Undisclosed";
   const suffix = match[2]?.toUpperCase();
   if (suffix === "M") value *= 1_000_000;
   else if (suffix === "K") value *= 1_000;
-  return value;
-}
-
-async function getRecordTransferFee(playerId) {
-  const transfers = await getPlayerTransfers(playerId);
-  let maxFee = null;
-  for (const t of transfers) {
-    const amount = parseFeeAmount(t.fee);
-    if (amount !== null && (maxFee === null || amount > maxFee)) maxFee = amount;
-  }
-  return maxFee;
-}
-
-function bandTransferFee(amount) {
-  if (amount === null) return "Unknown";
-  if (amount === 0) return "Free";
-  if (amount < 5_000_000) return "<5M";
-  if (amount < 20_000_000) return "5-20M";
-  if (amount < 50_000_000) return "20-50M";
+  if (value === 0) return "Free";
+  if (value < 5_000_000) return "<5M";
+  if (value < 20_000_000) return "5-20M";
+  if (value < 50_000_000) return "20-50M";
   return "50M+";
 }
 
@@ -236,7 +242,6 @@ async function run() {
         continue;
       }
 
-      const attrs = deriveAttributes(stints);
       const { totalPlApps, plDebutYear } = derivePlStats(seasonRecords);
 
       if (plDebutYear === null) {
@@ -261,11 +266,12 @@ async function run() {
         console.warn(`[build-attributes] position lookup failed for ${candidate.name}: ${err.message}`);
       }
 
+      const currentClub = getCurrentClub(stints);
+
       let transferFeeBand = "Unknown";
       try {
-        const recordFee = await getRecordTransferFee(candidate.id);
+        transferFeeBand = await getCurrentClubFee(candidate.id, currentClub, stints);
         await sleep(REQUEST_PAUSE_MS);
-        transferFeeBand = bandTransferFee(recordFee);
       } catch (err) {
         console.warn(`[build-attributes] transfer fee lookup failed for ${candidate.name}: ${err.message}`);
       }
@@ -281,7 +287,7 @@ async function run() {
         name: displayName,
         position,
         nationality,
-        clubCount: attrs.clubCount,
+        currentClub,
         transferFeeBand,
         plAppsBand: bandPlApps(totalPlApps),
         plDebutYear,

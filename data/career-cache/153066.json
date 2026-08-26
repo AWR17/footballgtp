@@ -1,0 +1,60 @@
+{
+  "stints": [
+    {
+      "clubName": "Brentford",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 22
+    },
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 13
+    },
+    {
+      "clubName": "Fulham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 4
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 19
+    },
+    {
+      "season": 2023,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 13
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 4
+    }
+  ]
+}

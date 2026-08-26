@@ -1,0 +1,114 @@
+{
+  "stints": [
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2021,
+      "appearances": 2
+    },
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2020,
+      "appearances": 6
+    },
+    {
+      "clubName": "Bolton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2018,
+      "appearances": 34
+    },
+    {
+      "clubName": "Norwich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2014,
+      "appearances": 0
+    },
+    {
+      "clubName": "Hamilton Academical",
+      "country": "Scotland",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Scotland",
+      "yearStart": 2016,
+      "appearances": 17
+    },
+    {
+      "clubName": "Burton Albion",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2015,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 41,
+      "appearances": 6
+    },
+    {
+      "season": 2019,
+      "leagueId": 41,
+      "appearances": 33
+    },
+    {
+      "season": 2018,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2017,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2014,
+      "leagueId": 40,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 179,
+      "appearances": 17
+    },
+    {
+      "season": 2015,
+      "leagueId": 41,
+      "appearances": 2
+    }
+  ]
+}

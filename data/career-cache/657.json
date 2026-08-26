@@ -1,34 +1,128 @@
-[
-  {
-    "clubName": "Fulham",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2020,
-    "appearances": 126
-  },
-  {
-    "clubName": "Netherlands",
-    "country": "World",
-    "isNationalTeam": false,
-    "tierLabel": "a club in World",
-    "yearStart": 2015,
-    "appearances": 7
-  },
-  {
-    "clubName": "Lyon",
-    "country": "France",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, France",
-    "yearStart": 2017,
-    "appearances": 53
-  },
-  {
-    "clubName": "Ajax",
-    "country": "Netherlands",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, Netherlands",
-    "yearStart": 2013,
-    "appearances": 31
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Fulham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 126
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2015,
+      "appearances": 7
+    },
+    {
+      "clubName": "Lyon",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2017,
+      "appearances": 53
+    },
+    {
+      "clubName": "Ajax",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2013,
+      "appearances": 31
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 24
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 28
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 20
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 22
+    },
+    {
+      "season": 2021,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 32,
+      "appearances": 1
+    },
+    {
+      "season": 2018,
+      "leagueId": 5,
+      "appearances": 2
+    },
+    {
+      "season": 2017,
+      "leagueId": 10,
+      "appearances": 2
+    },
+    {
+      "season": 2019,
+      "leagueId": 61,
+      "appearances": 18
+    },
+    {
+      "season": 2018,
+      "leagueId": 61,
+      "appearances": 13
+    },
+    {
+      "season": 2017,
+      "leagueId": 61,
+      "appearances": 22
+    },
+    {
+      "season": 2016,
+      "leagueId": 88,
+      "appearances": 5
+    },
+    {
+      "season": 2015,
+      "leagueId": 88,
+      "appearances": 21
+    },
+    {
+      "season": 2014,
+      "leagueId": 88,
+      "appearances": 5
+    },
+    {
+      "season": 2013,
+      "leagueId": 88,
+      "appearances": 0
+    }
+  ]
+}

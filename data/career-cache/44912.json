@@ -1,0 +1,113 @@
+{
+  "stints": [
+    {
+      "clubName": "Newcastle",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 0
+    },
+    {
+      "clubName": "Motherwell",
+      "country": "Scotland",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Scotland",
+      "yearStart": 2018,
+      "appearances": 57
+    },
+    {
+      "clubName": "Walsall",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2017,
+      "appearances": 23
+    },
+    {
+      "clubName": "Carlisle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2009,
+      "appearances": 163
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 179,
+      "appearances": 30
+    },
+    {
+      "season": 2018,
+      "leagueId": 179,
+      "appearances": 27
+    },
+    {
+      "season": 2017,
+      "leagueId": 41,
+      "appearances": 23
+    },
+    {
+      "season": 2016,
+      "leagueId": 42,
+      "appearances": 48
+    },
+    {
+      "season": 2015,
+      "leagueId": 42,
+      "appearances": 45
+    },
+    {
+      "season": 2014,
+      "leagueId": 42,
+      "appearances": 19
+    },
+    {
+      "season": 2013,
+      "leagueId": 41,
+      "appearances": 15
+    },
+    {
+      "season": 2012,
+      "leagueId": 41,
+      "appearances": 35
+    },
+    {
+      "season": 2011,
+      "leagueId": 41,
+      "appearances": 0
+    }
+  ]
+}

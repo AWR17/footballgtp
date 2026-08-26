@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Birmingham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2022,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 0
+    }
+  ]
+}

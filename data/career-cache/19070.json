@@ -1,26 +1,70 @@
-[
-  {
-    "clubName": "Rangers",
-    "country": "Scotland",
-    "isNationalTeam": false,
-    "tierLabel": "a club in Scotland",
-    "yearStart": 2025,
-    "appearances": 25
-  },
-  {
-    "clubName": "Bournemouth",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "1st tier, England",
-    "yearStart": 2023,
-    "appearances": 39
-  },
-  {
-    "clubName": "Norwich",
-    "country": "England",
-    "isNationalTeam": false,
-    "tierLabel": "2nd tier, England",
-    "yearStart": 2018,
-    "appearances": 201
-  }
-]
+{
+  "stints": [
+    {
+      "clubName": "Rangers",
+      "country": "Scotland",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Scotland",
+      "yearStart": 2025,
+      "appearances": 25
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 39
+    },
+    {
+      "clubName": "Norwich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2018,
+      "appearances": 201
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 185,
+      "appearances": 25
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 14
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 25
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 45
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 34
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 45
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 41
+    }
+  ]
+}

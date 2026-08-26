@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Brentford",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    }
+  ]
+}

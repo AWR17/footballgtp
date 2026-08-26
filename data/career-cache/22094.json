@@ -1,0 +1,93 @@
+{
+  "stints": [
+    {
+      "clubName": "Chelsea",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 32
+    },
+    {
+      "clubName": "France",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 1
+    },
+    {
+      "clubName": "Leicester",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 35
+    },
+    {
+      "clubName": "Saint Etienne",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "a club in France",
+      "yearStart": 2017,
+      "appearances": 16
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 15
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 16
+    },
+    {
+      "season": 2024,
+      "leagueId": 5,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 1
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 7
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 28
+    },
+    {
+      "season": 2019,
+      "leagueId": 61,
+      "appearances": 14
+    },
+    {
+      "season": 2018,
+      "leagueId": 61,
+      "appearances": 2
+    },
+    {
+      "season": 2017,
+      "leagueId": 66,
+      "appearances": 0
+    }
+  ]
+}

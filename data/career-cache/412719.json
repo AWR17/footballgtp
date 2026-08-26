@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Serbia",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2024,
+      "leagueId": 32,
+      "appearances": 2
+    }
+  ]
+}

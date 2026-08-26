@@ -1,0 +1,83 @@
+{
+  "stints": [
+    {
+      "clubName": "Northern Ireland",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 8
+    },
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 24
+    },
+    {
+      "clubName": "Airdrie United",
+      "country": "Scotland",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Scotland",
+      "yearStart": 2021,
+      "appearances": 41
+    },
+    {
+      "clubName": "Kilmarnock",
+      "country": "Scotland",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Scotland",
+      "yearStart": 2020,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 10,
+      "appearances": 3
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 5,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 23
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 183,
+      "appearances": 32
+    },
+    {
+      "season": 2021,
+      "leagueId": 183,
+      "appearances": 9
+    },
+    {
+      "season": 2020,
+      "leagueId": 185,
+      "appearances": 0
+    }
+  ]
+}
