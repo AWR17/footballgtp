@@ -6,7 +6,9 @@
 <meta name="theme-color" id="themeColorMeta" content="#F2F2EB" />
 <title>PremStreak</title>
 <meta name="description" content="PremStreak. Guess today's mystery Premier League player in 6 tries — every guess tells you how close you are." />
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%BD%3C/text%3E%3C/svg%3E" />
+<link rel="icon" type="image/jpeg" href="./assets/favicon.jpg" />
+<link rel="apple-touch-icon" href="./assets/favicon.jpg" />
+<meta property="og:image" content="./assets/favicon.jpg" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -91,16 +93,11 @@
   .icon-btn-left { left: 0; }
   .icon-btn-right { right: 0; }
 
-  h1 {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 400;
-    font-size: clamp(28px, 8vw, 38px);
+  .logo {
+    height: clamp(36px, 9vw, 48px);
+    width: auto;
     margin: 4px 0 2px;
-    letter-spacing: -0.01em;
   }
-
-  h1 .prem { font-weight: 700; color: var(--accent); }
-  h1 .streak { font-weight: 400; }
 
   .subhead {
     font-family: 'Poppins', sans-serif;
@@ -417,7 +414,7 @@
   <header>
     <button class="icon-btn icon-btn-left" id="helpToggle" aria-label="How to play">?</button>
     <button class="icon-btn icon-btn-right" id="themeToggle" aria-label="Toggle theme">☾</button>
-    <h1><span class="prem">Prem</span><span class="streak">Streak</span></h1>
+    <img src="./assets/logo-light.png" alt="PremStreak" class="logo" id="logoImg" />
     <div class="subhead">Guess the player. <em>Keep the streak.</em></div>
   </header>
 
@@ -455,12 +452,14 @@
     <button class="modal-close" id="howToClose" aria-label="Close">×</button>
     <div class="result-name">How to play</div>
     <div style="font-size:13px; line-height:1.6; margin-top:14px;">
-      <p><strong>Guess the mystery current Premier League player in 6 tries.</strong> You start with one clue — their PL debut year, shown at the top. Every guess after that compares 5 attributes: Position, Nation, Current club, Transfer fee (for the move to that club), Career PL appearances.</p>
+      <p><strong>Guess the mystery current Premier League player in 6 tries.</strong> You start with one free clue — their PL debut year, shown at the top. Every guess after that compares 5 attributes: Position, Nation, Current club, Transfer fee (for the move to that club), Career PL appearances.</p>
 
       <p><strong>The number or word shown is always YOUR GUESS's value</strong> — not the answer's. Colour tells you how close it is:</p>
       <p>🟢 <strong style="color:var(--green)">Green</strong> = exact match &nbsp; 🟡 <strong style="color:var(--yellow)">Yellow</strong> = close &nbsp; ⚪ <strong>Grey</strong> = not close</p>
 
       <p><strong>Arrows point toward the real answer.</strong> ↑ means the answer's value is higher than what's shown, ↓ means lower — applies to Fee and PL apps when both are on the same numeric scale. Position, Nation, and Current club are just a match or a miss, no arrow — and "Free", "Loan", or "Undisclosed" fees also show as plain match/miss, since they're not part of the numeric scale.</p>
+
+      <p><strong>Worked example:</strong> you guess a player and see "Clubs: 2 ↑" in yellow. That means your guess played for 2 clubs, but the real answer has played for <em>more</em> than 2 — so try someone with a longer club history next.</p>
 
       <p><strong>Tap or hold any tile</strong> to see a plain-English explanation of what it means.</p>
 
@@ -716,6 +715,7 @@
     document.documentElement.style.colorScheme = theme;
     document.getElementById("themeToggle").textContent = theme === "light" ? "☀" : "☾";
     document.getElementById("themeColorMeta").setAttribute("content", theme === "light" ? "#F2F2EB" : "#14180F");
+    document.getElementById("logoImg").src = theme === "light" ? "./assets/logo-light.png" : "./assets/logo-dark.png";
     localStorage.setItem(STORAGE_PREFIX + "theme", theme);
   }
 
