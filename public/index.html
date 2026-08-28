@@ -94,9 +94,8 @@
   .icon-btn-right { right: 0; }
 
   .logo {
-    height: clamp(52px, 13vw, 72px);
-    width: clamp(190px, 48vw, 270px);
-    object-fit: contain;
+    height: clamp(48px, 12vw, 64px);
+    width: auto;
     margin: 4px 0 2px;
   }
 
@@ -502,6 +501,36 @@
     plAppsBand: "PL apps",
   };
 
+  // Common short forms fans actually use — keeps every Team tile the
+  // same compact size without truncating or shrinking text, since these
+  // are genuinely how the clubs are usually referred to, not an
+  // abbreviation invented for layout reasons.
+  const CLUB_SHORT_NAMES = {
+    "Manchester United": "Man Utd",
+    "Manchester City": "Man City",
+    "Nottingham Forest": "Nott'm Forest",
+    "Tottenham": "Spurs",
+    "Tottenham Hotspur": "Spurs",
+    "West Ham United": "West Ham",
+    "West Ham": "West Ham",
+    "Wolverhampton Wanderers": "Wolves",
+    "Newcastle United": "Newcastle",
+    "Leeds United": "Leeds",
+    "Crystal Palace": "Palace",
+    "Brighton & Hove Albion": "Brighton",
+    "Brighton and Hove Albion": "Brighton",
+    "Aston Villa": "Villa",
+  };
+
+  function shortClubName(name) {
+    return CLUB_SHORT_NAMES[name] || name;
+  }
+
+  // England, Scotland, and Wales don't have their own ISO country code
+  // (they're part of GB) — they use a different, longer Unicode "tag
+  // sequence" mechanism instead of the standard 2-letter regional
+  // indicator formula, so they can't be generated the same way as
+  // everything else and are hardcoded here as literal sequences.
   const SPECIAL_FLAGS = {
     "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
@@ -618,8 +647,7 @@
   function renderDebutClue() {
     const el = document.getElementById("debutClue");
     if (!el || !answer?.nationality) return;
-    const flag = flagForNationality(answer.nationality);
-    el.innerHTML = `Clue: born in <strong>${flag ? flag + " " : ""}${answer.nationality}</strong>.`;
+    el.innerHTML = `Clue: born in <strong>${answer.nationality}</strong>.`;
   }
 
   function freshState() {
@@ -824,10 +852,11 @@
     const guessesList = document.getElementById("guessesList");
     guessesList.innerHTML = state.guesses.map((g) => {
       const tiles = g.comparison.map((c) => {
+        const displayText = c.key === "currentClub" ? shortClubName(c.text) : c.text;
         return `
         <div class="tile ${c.status}" title="${tileTooltip(c, g.name).replace(/"/g, "&quot;")}">
           <span class="tile-label">${ATTRIBUTE_LABELS[c.key]}</span>
-          <span class="tile-value">${c.text}</span>
+          <span class="tile-value">${displayText}</span>
         </div>
       `;
       }).join("");
@@ -1039,7 +1068,6 @@
     });
     window.addEventListener("beforeunload", pauseTimer);
   }
-
 
   init();
 })();
