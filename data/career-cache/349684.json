@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Fulham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2026,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 48,
+      "appearances": 1
+    }
+  ]
+}

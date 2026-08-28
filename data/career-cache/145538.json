@@ -1,0 +1,78 @@
+{
+  "stints": [
+    {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2023,
+      "appearances": 75
+    },
+    {
+      "clubName": "Jamaica",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 14
+    },
+    {
+      "clubName": "Swansea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2020,
+      "appearances": 71
+    },
+    {
+      "clubName": "Twente",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2019,
+      "appearances": 5
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 33
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 41
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 34
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 29
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 8
+    },
+    {
+      "season": 2019,
+      "leagueId": 88,
+      "appearances": 5
+    }
+  ]
+}

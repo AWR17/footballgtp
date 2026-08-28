@@ -1,0 +1,50 @@
+{
+  "stints": [
+    {
+      "clubName": "Ecuador",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "appearances": 0
+    },
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 11
+    },
+    {
+      "clubName": "LDU de Quito",
+      "country": "Ecuador",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Ecuador",
+      "yearStart": 2021,
+      "appearances": 37
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 11
+    },
+    {
+      "season": 2023,
+      "leagueId": 242,
+      "appearances": 24
+    },
+    {
+      "season": 2022,
+      "leagueId": 242,
+      "appearances": 13
+    },
+    {
+      "season": 2021,
+      "leagueId": 242,
+      "appearances": 0
+    }
+  ]
+}

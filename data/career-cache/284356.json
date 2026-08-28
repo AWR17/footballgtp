@@ -1,0 +1,68 @@
+{
+  "stints": [
+    {
+      "clubName": "Fulham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Southampton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2023,
+      "appearances": 36
+    },
+    {
+      "clubName": "Northern Ireland",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 24
+    },
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2021,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 33
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 0
+    }
+  ]
+}

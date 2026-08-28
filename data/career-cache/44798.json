@@ -1,0 +1,68 @@
+{
+  "stints": [
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 14
+    },
+    {
+      "clubName": "Canada",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "appearances": 19
+    },
+    {
+      "clubName": "Preston",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2023,
+      "appearances": 35
+    },
+    {
+      "clubName": "FC Basel 1893",
+      "country": "Switzerland",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Switzerland",
+      "yearStart": 2021,
+      "appearances": 57
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 11
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 35
+    },
+    {
+      "season": 2022,
+      "leagueId": 207,
+      "appearances": 26
+    },
+    {
+      "season": 2021,
+      "leagueId": 207,
+      "appearances": 31
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "stints": [
+    {
+      "clubName": "Morocco",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "appearances": 18
+    },
+    {
+      "clubName": "Manchester United",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 41
+    },
+    {
+      "clubName": "Bayern München",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2022,
+      "appearances": 45
+    },
+    {
+      "clubName": "Ajax",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2017,
+      "appearances": 93
+    },
+    {
+      "clubName": "Jong Ajax",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Netherlands",
+      "yearStart": 2016,
+      "appearances": 33
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 1022,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 19
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 26
+    },
+    {
+      "season": 2021,
+      "leagueId": 88,
+      "appearances": 25
+    },
+    {
+      "season": 2020,
+      "leagueId": 88,
+      "appearances": 19
+    },
+    {
+      "season": 2019,
+      "leagueId": 88,
+      "appearances": 13
+    },
+    {
+      "season": 2018,
+      "leagueId": 88,
+      "appearances": 28
+    },
+    {
+      "season": 2017,
+      "leagueId": 88,
+      "appearances": 8
+    },
+    {
+      "season": 2016,
+      "leagueId": 89,
+      "appearances": 33
+    }
+  ]
+}

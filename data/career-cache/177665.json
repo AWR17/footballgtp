@@ -1,0 +1,89 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Germany",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 2
+    },
+    {
+      "clubName": "1899 Hoffenheim",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2023,
+      "appearances": 61
+    },
+    {
+      "clubName": "FSV Mainz 05",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2021,
+      "appearances": 59
+    },
+    {
+      "clubName": "SpVgg Greuther Fürth",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Germany",
+      "yearStart": 2020,
+      "appearances": 30
+    },
+    {
+      "clubName": "SSV Jeddeloh",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2017,
+      "appearances": 23
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 78,
+      "appearances": 30
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 31
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 30
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 29
+    },
+    {
+      "season": 2020,
+      "leagueId": 79,
+      "appearances": 30
+    }
+  ]
+}

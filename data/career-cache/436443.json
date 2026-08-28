@@ -1,0 +1,37 @@
+{
+  "stints": [
+    {
+      "clubName": "Bayern München",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2024,
+      "appearances": 13
+    },
+    {
+      "clubName": "AIK Stockholm",
+      "country": "Sweden",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Sweden",
+      "yearStart": 2023,
+      "appearances": 9
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 78,
+      "appearances": 10
+    },
+    {
+      "season": 2023,
+      "leagueId": 113,
+      "appearances": 9
+    }
+  ]
+}

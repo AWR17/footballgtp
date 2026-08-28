@@ -1,0 +1,72 @@
+{
+  "stints": [
+    {
+      "clubName": "Newcastle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 122
+    },
+    {
+      "clubName": "Arsenal",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2017,
+      "appearances": 33
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 9
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 14
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2018,
+      "leagueId": 39,
+      "appearances": 2
+    },
+    {
+      "season": 2017,
+      "leagueId": 39,
+      "appearances": 2
+    }
+  ]
+}

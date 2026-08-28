@@ -1,0 +1,32 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2025,
+      "appearances": 0
+    },
+    {
+      "clubName": "Wales",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2026,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 39,
+      "appearances": 0
+    }
+  ]
+}

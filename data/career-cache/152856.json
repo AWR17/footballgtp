@@ -1,0 +1,91 @@
+{
+  "stints": [
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 68
+    },
+    {
+      "clubName": "Brazil",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "appearances": 1
+    },
+    {
+      "clubName": "FC Porto",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2020,
+      "appearances": 43
+    },
+    {
+      "clubName": "Fluminense",
+      "country": "Brazil",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Brazil",
+      "yearStart": 2018,
+      "appearances": 4
+    },
+    {
+      "clubName": "Šamorín",
+      "country": "Slovakia",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Slovakia",
+      "yearStart": 2017,
+      "appearances": 3
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2023,
+      "leagueId": 94,
+      "appearances": 27
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2020,
+      "leagueId": 94,
+      "appearances": 15
+    },
+    {
+      "season": 2019,
+      "leagueId": 71,
+      "appearances": 3
+    },
+    {
+      "season": 2017,
+      "leagueId": 506,
+      "appearances": 3
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "stints": [
+    {
+      "clubName": "Chelsea",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2025,
+      "appearances": 5
+    },
+    {
+      "clubName": "Las Palmas",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Spain",
+      "yearStart": 2024,
+      "appearances": 0
+    },
+    {
+      "clubName": "Sporting CP",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2020,
+      "appearances": 5
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 5
+    },
+    {
+      "season": 2024,
+      "leagueId": 143,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 94,
+      "appearances": 4
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 97,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 94,
+      "appearances": 1
+    }
+  ]
+}

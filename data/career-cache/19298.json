@@ -1,0 +1,98 @@
+{
+  "stints": [
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 156
+    },
+    {
+      "clubName": "Poland",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "appearances": 15
+    },
+    {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2016,
+      "appearances": 129
+    },
+    {
+      "clubName": "Dagenham & Redbridge",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "4th tier, England",
+      "yearStart": 2015,
+      "appearances": 12
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 26
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 38
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 28
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 42
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 36
+    },
+    {
+      "season": 2017,
+      "leagueId": 40,
+      "appearances": 23
+    },
+    {
+      "season": 2016,
+      "leagueId": 40,
+      "appearances": 28
+    },
+    {
+      "season": 2015,
+      "leagueId": 42,
+      "appearances": 12
+    }
+  ]
+}

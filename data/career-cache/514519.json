@@ -1,0 +1,40 @@
+{
+  "stints": [
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Luxembourg",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2025,
+      "appearances": 3
+    },
+    {
+      "clubName": "Metz",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2025,
+      "appearances": 5
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 61,
+      "appearances": 5
+    }
+  ]
+}

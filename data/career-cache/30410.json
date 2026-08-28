@@ -1,0 +1,88 @@
+{
+  "stints": [
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2024,
+      "appearances": 4
+    },
+    {
+      "clubName": "Italy",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "appearances": 20
+    },
+    {
+      "clubName": "Juventus",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2020,
+      "appearances": 98
+    },
+    {
+      "clubName": "Fiorentina",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2016,
+      "appearances": 134
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 4
+    },
+    {
+      "season": 2023,
+      "leagueId": 135,
+      "appearances": 33
+    },
+    {
+      "season": 2022,
+      "leagueId": 135,
+      "appearances": 21
+    },
+    {
+      "season": 2021,
+      "leagueId": 135,
+      "appearances": 14
+    },
+    {
+      "season": 2020,
+      "leagueId": 135,
+      "appearances": 30
+    },
+    {
+      "season": 2019,
+      "leagueId": 135,
+      "appearances": 34
+    },
+    {
+      "season": 2018,
+      "leagueId": 135,
+      "appearances": 37
+    },
+    {
+      "season": 2017,
+      "leagueId": 135,
+      "appearances": 36
+    },
+    {
+      "season": 2016,
+      "leagueId": 135,
+      "appearances": 27
+    }
+  ]
+}

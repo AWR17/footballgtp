@@ -1,0 +1,124 @@
+{
+  "stints": [
+    {
+      "clubName": "Portugal",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "appearances": 41
+    },
+    {
+      "clubName": "Manchester United",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2019,
+      "appearances": 103
+    },
+    {
+      "clubName": "Sporting CP",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2017,
+      "appearances": 66
+    },
+    {
+      "clubName": "Sampdoria",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2016,
+      "appearances": 33
+    },
+    {
+      "clubName": "Udinese",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2013,
+      "appearances": 86
+    },
+    {
+      "clubName": "Novara",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2012,
+      "appearances": 21
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 5
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2023,
+      "leagueId": 667,
+      "appearances": 4
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 5
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 14
+    },
+    {
+      "season": 2018,
+      "leagueId": 94,
+      "appearances": 33
+    },
+    {
+      "season": 2017,
+      "leagueId": 94,
+      "appearances": 33
+    },
+    {
+      "season": 2016,
+      "leagueId": 135,
+      "appearances": 33
+    },
+    {
+      "season": 2015,
+      "leagueId": 135,
+      "appearances": 31
+    },
+    {
+      "season": 2014,
+      "leagueId": 135,
+      "appearances": 31
+    },
+    {
+      "season": 2013,
+      "leagueId": 135,
+      "appearances": 24
+    }
+  ]
+}

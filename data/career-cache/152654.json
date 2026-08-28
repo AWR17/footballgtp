@@ -1,0 +1,78 @@
+{
+  "stints": [
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 5
+    },
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2024,
+      "appearances": 5
+    },
+    {
+      "clubName": "Bayer Leverkusen",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2020,
+      "appearances": 100
+    },
+    {
+      "clubName": "Celtic",
+      "country": "Scotland",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Scotland",
+      "yearStart": 2019,
+      "appearances": 14
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 3
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 31
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 34
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 25
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 10
+    },
+    {
+      "season": 2019,
+      "leagueId": 179,
+      "appearances": 14
+    }
+  ]
+}

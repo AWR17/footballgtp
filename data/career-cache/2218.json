@@ -1,0 +1,104 @@
+{
+  "stints": [
+    {
+      "clubName": "Senegal",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "appearances": 37
+    },
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2024,
+      "appearances": 4
+    },
+    {
+      "clubName": "Marseille",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2023,
+      "appearances": 23
+    },
+    {
+      "clubName": "Watford",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2019,
+      "appearances": 126
+    },
+    {
+      "clubName": "Rennes",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2017,
+      "appearances": 59
+    },
+    {
+      "clubName": "Metz",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2016,
+      "appearances": 31
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 3
+    },
+    {
+      "season": 2023,
+      "leagueId": 61,
+      "appearances": 23
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 37
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 22
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 39
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 28
+    },
+    {
+      "season": 2018,
+      "leagueId": 61,
+      "appearances": 35
+    },
+    {
+      "season": 2017,
+      "leagueId": 61,
+      "appearances": 24
+    },
+    {
+      "season": 2016,
+      "leagueId": 61,
+      "appearances": 31
+    }
+  ]
+}

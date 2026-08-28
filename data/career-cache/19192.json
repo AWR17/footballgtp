@@ -1,0 +1,67 @@
+{
+  "stints": [
+    {
+      "clubName": "Newcastle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 48
+    },
+    {
+      "clubName": "Aston Villa",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2018,
+      "appearances": 93
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 16
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 34
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 22
+    },
+    {
+      "season": 2019,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 1
+    }
+  ]
+}

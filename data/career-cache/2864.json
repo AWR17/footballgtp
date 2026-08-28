@@ -1,0 +1,109 @@
+{
+  "stints": [
+    {
+      "clubName": "Sweden",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "appearances": 30
+    },
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Newcastle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 87
+    },
+    {
+      "clubName": "Real Sociedad",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2019,
+      "appearances": 103
+    },
+    {
+      "clubName": "Borussia Dortmund",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2016,
+      "appearances": 5
+    },
+    {
+      "clubName": "AIK Stockholm",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2015,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 22
+    },
+    {
+      "season": 2021,
+      "leagueId": 140,
+      "appearances": 32
+    },
+    {
+      "season": 2020,
+      "leagueId": 140,
+      "appearances": 34
+    },
+    {
+      "season": 2019,
+      "leagueId": 140,
+      "appearances": 37
+    },
+    {
+      "season": 2018,
+      "leagueId": 78,
+      "appearances": 0
+    },
+    {
+      "season": 2017,
+      "leagueId": 78,
+      "appearances": 5
+    },
+    {
+      "season": 2016,
+      "leagueId": 78,
+      "appearances": 0
+    }
+  ]
+}

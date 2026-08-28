@@ -1,0 +1,63 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 1
+    },
+    {
+      "clubName": "Swansea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "IFK Goteborg",
+      "country": "Sweden",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Sweden",
+      "yearStart": 2023,
+      "appearances": 3
+    },
+    {
+      "clubName": "ASEC Mimosas",
+      "country": "Ivory-Coast",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Ivory-Coast",
+      "yearStart": 2022,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 2
+    },
+    {
+      "season": 2023,
+      "leagueId": 115,
+      "appearances": 3
+    },
+    {
+      "season": 2022,
+      "leagueId": 386,
+      "appearances": 0
+    }
+  ]
+}

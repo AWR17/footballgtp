@@ -1,0 +1,86 @@
+{
+  "stints": [
+    {
+      "clubName": "Brentford",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Burnley",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 44
+    },
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2023,
+      "appearances": 34
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2020,
+      "appearances": 80
+    },
+    {
+      "clubName": "Weymouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2019,
+      "appearances": 5
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 43
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 34
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 30
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 45
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 5
+    },
+    {
+      "season": 2019,
+      "leagueId": 51,
+      "appearances": 5
+    }
+  ]
+}

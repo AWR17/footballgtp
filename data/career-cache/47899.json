@@ -1,0 +1,65 @@
+{
+  "stints": [
+    {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 28
+    },
+    {
+      "clubName": "Sweden",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2023,
+      "appearances": 1
+    },
+    {
+      "clubName": "Hammarby FF",
+      "country": "Sweden",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Sweden",
+      "yearStart": 2019,
+      "appearances": 55
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 40,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 28
+    },
+    {
+      "season": 2023,
+      "leagueId": 113,
+      "appearances": 29
+    },
+    {
+      "season": 2022,
+      "leagueId": 113,
+      "appearances": 17
+    },
+    {
+      "season": 2021,
+      "leagueId": 113,
+      "appearances": 8
+    },
+    {
+      "season": 2020,
+      "leagueId": 113,
+      "appearances": 1
+    },
+    {
+      "season": 2019,
+      "leagueId": 113,
+      "appearances": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "stints": [
+    {
+      "clubName": "Germany",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "appearances": 33
+    },
+    {
+      "clubName": "Arsenal",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 62
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 91
+    },
+    {
+      "clubName": "Bayer Leverkusen",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2016,
+      "appearances": 118
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 937,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 23
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 27
+    },
+    {
+      "season": 2019,
+      "leagueId": 78,
+      "appearances": 30
+    },
+    {
+      "season": 2018,
+      "leagueId": 78,
+      "appearances": 34
+    },
+    {
+      "season": 2017,
+      "leagueId": 78,
+      "appearances": 30
+    },
+    {
+      "season": 2016,
+      "leagueId": 78,
+      "appearances": 24
+    }
+  ]
+}

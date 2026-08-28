@@ -1,0 +1,37 @@
+{
+  "stints": [
+    {
+      "clubName": "Ghana",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2025,
+      "appearances": 8
+    },
+    {
+      "clubName": "FC Nordsjaelland",
+      "country": "Denmark",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Denmark",
+      "yearStart": 2024,
+      "appearances": 57
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 119,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 119,
+      "appearances": 30
+    },
+    {
+      "season": 2024,
+      "leagueId": 119,
+      "appearances": 25
+    }
+  ]
+}

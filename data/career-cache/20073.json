@@ -1,0 +1,98 @@
+{
+  "stints": [
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2020,
+      "appearances": 179
+    },
+    {
+      "clubName": "Fleetwood Town",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2017,
+      "appearances": 86
+    },
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2015,
+      "appearances": 15
+    },
+    {
+      "clubName": "Harrogate Town",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2014,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 44
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 40
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 41
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 23
+    },
+    {
+      "season": 2020,
+      "leagueId": 41,
+      "appearances": 28
+    },
+    {
+      "season": 2019,
+      "leagueId": 46,
+      "appearances": 3
+    },
+    {
+      "season": 2018,
+      "leagueId": 41,
+      "appearances": 41
+    },
+    {
+      "season": 2017,
+      "leagueId": 41,
+      "appearances": 42
+    },
+    {
+      "season": 2016,
+      "leagueId": 40,
+      "appearances": 4
+    },
+    {
+      "season": 2015,
+      "leagueId": 40,
+      "appearances": 11
+    }
+  ]
+}

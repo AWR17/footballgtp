@@ -1,0 +1,47 @@
+{
+  "stints": [
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "appearances": 9
+    },
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 13
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 9
+    },
+    {
+      "season": 2023,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 0
+    }
+  ]
+}

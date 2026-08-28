@@ -1,0 +1,96 @@
+{
+  "stints": [
+    {
+      "clubName": "Everton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 62
+    },
+    {
+      "clubName": "Guinea-Bissau",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 11
+    },
+    {
+      "clubName": "Udinese",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2021,
+      "appearances": 29
+    },
+    {
+      "clubName": "Portimonense",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Portugal",
+      "yearStart": 2019,
+      "appearances": 1
+    },
+    {
+      "clubName": "Olímpico do Montijo",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2018,
+      "appearances": 34
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 30
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 30
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 6
+    },
+    {
+      "season": 2023,
+      "leagueId": 29,
+      "appearances": 2
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 135,
+      "appearances": 29
+    },
+    {
+      "season": 2020,
+      "leagueId": 96,
+      "appearances": 1
+    },
+    {
+      "season": 2019,
+      "leagueId": 97,
+      "appearances": 0
+    }
+  ]
+}

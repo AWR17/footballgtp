@@ -1,0 +1,113 @@
+{
+  "stints": [
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2018,
+      "appearances": 174
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "appearances": 8
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2015,
+      "appearances": 12
+    },
+    {
+      "clubName": "Ipswich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2012,
+      "appearances": 59
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 14
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 18
+    },
+    {
+      "season": 2017,
+      "leagueId": 39,
+      "appearances": 4
+    },
+    {
+      "season": 2016,
+      "leagueId": 39,
+      "appearances": 7
+    },
+    {
+      "season": 2015,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2014,
+      "leagueId": 40,
+      "appearances": 42
+    },
+    {
+      "season": 2013,
+      "leagueId": 40,
+      "appearances": 16
+    },
+    {
+      "season": 2012,
+      "leagueId": 40,
+      "appearances": 1
+    }
+  ]
+}

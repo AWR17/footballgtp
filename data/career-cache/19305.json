@@ -1,0 +1,72 @@
+{
+  "stints": [
+    {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2016,
+      "appearances": 220
+    },
+    {
+      "clubName": "Notts County",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "4th tier, England",
+      "yearStart": 2017,
+      "appearances": 25
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 26
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 46
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 34
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 27
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 16
+    },
+    {
+      "season": 2016,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2017,
+      "leagueId": 42,
+      "appearances": 25
+    }
+  ]
+}

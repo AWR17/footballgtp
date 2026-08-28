@@ -1,0 +1,49 @@
+{
+  "stints": [
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2020,
+      "appearances": 11
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 8
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 45,
+      "appearances": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "stints": [
+    {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 63
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2017,
+      "appearances": 72
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "appearances": 3
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 30
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 15
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 23
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 22
+    },
+    {
+      "season": 2018,
+      "leagueId": 39,
+      "appearances": 10
+    },
+    {
+      "season": 2017,
+      "leagueId": 39,
+      "appearances": 2
+    }
+  ]
+}

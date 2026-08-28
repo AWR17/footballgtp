@@ -1,0 +1,50 @@
+{
+  "stints": [
+    {
+      "clubName": "Brazil",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2025,
+      "appearances": 11
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 4
+    },
+    {
+      "clubName": "Palmeiras",
+      "country": "Brazil",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Brazil",
+      "yearStart": 2023,
+      "appearances": 6
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 475,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 71,
+      "appearances": 1
+    }
+  ]
+}

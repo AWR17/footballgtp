@@ -1,0 +1,50 @@
+{
+  "stints": [
+    {
+      "clubName": "Everton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Bayern München",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2023,
+      "appearances": 1
+    },
+    {
+      "clubName": "Morocco",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2023,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 2,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 0
+    }
+  ]
+}

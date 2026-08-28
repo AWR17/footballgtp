@@ -1,0 +1,91 @@
+{
+  "stints": [
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 11
+    },
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 4
+    },
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2021,
+      "appearances": 103
+    },
+    {
+      "clubName": "Swansea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2019,
+      "appearances": 57
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2018,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 25
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 43
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 14
+    },
+    {
+      "season": 2018,
+      "leagueId": 39,
+      "appearances": 0
+    }
+  ]
+}

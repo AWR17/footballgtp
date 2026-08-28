@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Wigan",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 3
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 46,
+      "appearances": 3
+    }
+  ]
+}

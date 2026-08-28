@@ -1,0 +1,98 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 6
+    },
+    {
+      "clubName": "Leicester",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2019,
+      "appearances": 138
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 1
+    },
+    {
+      "clubName": "Luton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "4th tier, England",
+      "yearStart": 2015,
+      "appearances": 92
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 5
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 39
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 14
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 13
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 23
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 13
+    },
+    {
+      "season": 2018,
+      "leagueId": 41,
+      "appearances": 43
+    },
+    {
+      "season": 2017,
+      "leagueId": 42,
+      "appearances": 17
+    },
+    {
+      "season": 2016,
+      "leagueId": 42,
+      "appearances": 31
+    },
+    {
+      "season": 2015,
+      "leagueId": 42,
+      "appearances": 1
+    }
+  ]
+}

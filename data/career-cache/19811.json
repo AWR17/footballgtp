@@ -1,0 +1,124 @@
+{
+  "stints": [
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Rotherham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2023,
+      "appearances": 48
+    },
+    {
+      "clubName": "Oostende",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2022,
+      "appearances": 28
+    },
+    {
+      "clubName": "Cardiff",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2020,
+      "appearances": 33
+    },
+    {
+      "clubName": "Charlton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2013,
+      "appearances": 84
+    },
+    {
+      "clubName": "Cheltenham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2015,
+      "appearances": 36
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 41,
+      "appearances": 46
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 2
+    },
+    {
+      "season": 2022,
+      "leagueId": 144,
+      "appearances": 28
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 17
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 16
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 46
+    },
+    {
+      "season": 2018,
+      "leagueId": 41,
+      "appearances": 30
+    },
+    {
+      "season": 2017,
+      "leagueId": 41,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 41,
+      "appearances": 8
+    },
+    {
+      "season": 2014,
+      "leagueId": 40,
+      "appearances": 0
+    },
+    {
+      "season": 2013,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2015,
+      "leagueId": 43,
+      "appearances": 36
+    }
+  ]
+}

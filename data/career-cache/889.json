@@ -1,0 +1,91 @@
+{
+  "stints": [
+    {
+      "clubName": "Aston Villa",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 92
+    },
+    {
+      "clubName": "Sweden",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2016,
+      "appearances": 35
+    },
+    {
+      "clubName": "Manchester United",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2017,
+      "appearances": 38
+    },
+    {
+      "clubName": "Benfica",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2013,
+      "appearances": 34
+    },
+    {
+      "clubName": "Vasteras SK FK",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2010,
+      "appearances": 27
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 39,
+      "appearances": 17
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 23
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 21
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 30
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2019,
+      "leagueId": 26,
+      "appearances": 3
+    },
+    {
+      "season": 2016,
+      "leagueId": 94,
+      "appearances": 32
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "stints": [
+    {
+      "clubName": "France",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "appearances": 8
+    },
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Eintracht Frankfurt",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2023,
+      "appearances": 47
+    },
+    {
+      "clubName": "Paris Saint Germain",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2022,
+      "appearances": 25
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 78,
+      "appearances": 33
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 14
+    },
+    {
+      "season": 2022,
+      "leagueId": 61,
+      "appearances": 25
+    }
+  ]
+}

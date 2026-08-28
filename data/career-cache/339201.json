@@ -1,0 +1,39 @@
+{
+  "stints": [
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2022,
+      "appearances": 68
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 45
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 21
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 0
+    }
+  ]
+}

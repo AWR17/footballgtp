@@ -1,0 +1,65 @@
+{
+  "stints": [
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2022,
+      "appearances": 0
+    },
+    {
+      "clubName": "USA",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2021,
+      "appearances": 0
+    },
+    {
+      "clubName": "Chicago Fire",
+      "country": "USA",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, USA",
+      "yearStart": 2019,
+      "appearances": 11
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 253,
+      "appearances": 11
+    },
+    {
+      "season": 2020,
+      "leagueId": 253,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 253,
+      "appearances": 0
+    }
+  ]
+}

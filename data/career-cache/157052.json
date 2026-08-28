@@ -1,0 +1,86 @@
+{
+  "stints": [
+    {
+      "clubName": "Arsenal",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 24
+    },
+    {
+      "clubName": "Bologna",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2023,
+      "appearances": 30
+    },
+    {
+      "clubName": "Italy",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "appearances": 2
+    },
+    {
+      "clubName": "FC Basel 1893",
+      "country": "Switzerland",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Switzerland",
+      "yearStart": 2022,
+      "appearances": 21
+    },
+    {
+      "clubName": "AS Roma",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2019,
+      "appearances": 10
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 937,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 22
+    },
+    {
+      "season": 2023,
+      "leagueId": 135,
+      "appearances": 30
+    },
+    {
+      "season": 2022,
+      "leagueId": 207,
+      "appearances": 21
+    },
+    {
+      "season": 2021,
+      "leagueId": 135,
+      "appearances": 6
+    },
+    {
+      "season": 2020,
+      "leagueId": 135,
+      "appearances": 3
+    },
+    {
+      "season": 2019,
+      "leagueId": 135,
+      "appearances": 1
+    }
+  ]
+}

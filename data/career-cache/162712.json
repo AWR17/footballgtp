@@ -1,0 +1,83 @@
+{
+  "stints": [
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Celta Vigo",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2022,
+      "appearances": 101
+    },
+    {
+      "clubName": "Spain",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "appearances": 3
+    },
+    {
+      "clubName": "Barcelona",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Spain",
+      "yearStart": 2018,
+      "appearances": 48
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 143,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 140,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 140,
+      "appearances": 38
+    },
+    {
+      "season": 2022,
+      "leagueId": 140,
+      "appearances": 27
+    },
+    {
+      "season": 2021,
+      "leagueId": 140,
+      "appearances": 19
+    },
+    {
+      "season": 2020,
+      "leagueId": 140,
+      "appearances": 27
+    },
+    {
+      "season": 2019,
+      "leagueId": 2,
+      "appearances": 0
+    },
+    {
+      "season": 2018,
+      "leagueId": 26,
+      "appearances": 2
+    }
+  ]
+}

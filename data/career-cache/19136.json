@@ -1,0 +1,88 @@
+{
+  "stints": [
+    {
+      "clubName": "Ipswich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 37
+    },
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2021,
+      "appearances": 107
+    },
+    {
+      "clubName": "Tottenham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 0
+    },
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2017,
+      "appearances": 25
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 40
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 47
+    },
+    {
+      "season": 2021,
+      "leagueId": 41,
+      "appearances": 20
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 1
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 24
+    },
+    {
+      "season": 2017,
+      "leagueId": 40,
+      "appearances": 0
+    }
+  ]
+}

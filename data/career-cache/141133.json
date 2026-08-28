@@ -1,0 +1,73 @@
+{
+  "stints": [
+    {
+      "clubName": "Portsmouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2022,
+      "appearances": 41
+    },
+    {
+      "clubName": "West Ham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 0
+    },
+    {
+      "clubName": "Accrington ST",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2019,
+      "appearances": 10
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 40,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 12
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 8
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 21
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 41,
+      "appearances": 10
+    }
+  ]
+}

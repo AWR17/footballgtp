@@ -1,0 +1,62 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2019,
+      "appearances": 203
+    },
+    {
+      "clubName": "Lorient",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, France",
+      "yearStart": 2018,
+      "appearances": 28
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 39
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 47
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 34
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 38
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 10
+    },
+    {
+      "season": 2018,
+      "leagueId": 62,
+      "appearances": 28
+    }
+  ]
+}

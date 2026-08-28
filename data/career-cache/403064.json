@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Watford",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2022,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2022,
+      "leagueId": 45,
+      "appearances": 0
+    }
+  ]
+}

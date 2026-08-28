@@ -1,0 +1,135 @@
+{
+  "stints": [
+    {
+      "clubName": "Argentina",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2015,
+      "appearances": 4
+    },
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "European competition",
+      "yearStart": 2016,
+      "appearances": 0
+    },
+    {
+      "clubName": "Marseille",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2024,
+      "appearances": 35
+    },
+    {
+      "clubName": "Ajax",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2022,
+      "appearances": 26
+    },
+    {
+      "clubName": "Villarreal",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2020,
+      "appearances": 34
+    },
+    {
+      "clubName": "Montpellier",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2019,
+      "appearances": 25
+    },
+    {
+      "clubName": "Real Sociedad",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2014,
+      "appearances": 111
+    },
+    {
+      "clubName": "Estudiantes L.P.",
+      "country": null,
+      "isNationalTeam": false,
+      "tierLabel": "an unspecified league",
+      "yearStart": 2010,
+      "appearances": 50
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 2,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 526,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 61,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 88,
+      "appearances": 7
+    },
+    {
+      "season": 2022,
+      "leagueId": 88,
+      "appearances": 19
+    },
+    {
+      "season": 2021,
+      "leagueId": 140,
+      "appearances": 32
+    },
+    {
+      "season": 2020,
+      "leagueId": 140,
+      "appearances": 2
+    },
+    {
+      "season": 2019,
+      "leagueId": 61,
+      "appearances": 25
+    },
+    {
+      "season": 2018,
+      "leagueId": 140,
+      "appearances": 27
+    },
+    {
+      "season": 2017,
+      "leagueId": 140,
+      "appearances": 26
+    },
+    {
+      "season": 2015,
+      "leagueId": 140,
+      "appearances": 36
+    },
+    {
+      "season": 2014,
+      "leagueId": 140,
+      "appearances": 22
+    }
+  ]
+}

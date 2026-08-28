@@ -1,0 +1,24 @@
+{
+  "stints": [
+    {
+      "clubName": "AIK Stockholm",
+      "country": "Sweden",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Sweden",
+      "yearStart": 2025,
+      "appearances": 7
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 113,
+      "appearances": 7
+    },
+    {
+      "season": 2025,
+      "leagueId": 113,
+      "appearances": 0
+    }
+  ]
+}

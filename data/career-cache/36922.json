@@ -1,0 +1,75 @@
+{
+  "stints": [
+    {
+      "clubName": "Brentford",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 35
+    },
+    {
+      "clubName": "Liverpool",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2019,
+      "appearances": 3
+    },
+    {
+      "clubName": "PEC Zwolle",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2017,
+      "appearances": 22
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2023,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 48,
+      "appearances": 3
+    },
+    {
+      "season": 2018,
+      "leagueId": 88,
+      "appearances": 15
+    },
+    {
+      "season": 2017,
+      "leagueId": 88,
+      "appearances": 7
+    }
+  ]
+}

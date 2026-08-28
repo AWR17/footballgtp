@@ -1,0 +1,71 @@
+{
+  "stints": [
+    {
+      "clubName": "Tottenham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Portugal",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "West Ham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2025,
+      "appearances": 36
+    },
+    {
+      "clubName": "Southampton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 36
+    },
+    {
+      "clubName": "Sporting CP",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2022,
+      "appearances": 3
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2023,
+      "leagueId": 97,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 94,
+      "appearances": 3
+    }
+  ]
+}

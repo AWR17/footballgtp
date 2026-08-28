@@ -1,0 +1,113 @@
+{
+  "stints": [
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2021,
+      "appearances": 124
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "appearances": 17
+    },
+    {
+      "clubName": "Aston Villa",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2011,
+      "appearances": 190
+    },
+    {
+      "clubName": "Notts County",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2013,
+      "appearances": 37
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 26
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 26
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 34
+    },
+    {
+      "season": 2017,
+      "leagueId": 40,
+      "appearances": 30
+    },
+    {
+      "season": 2016,
+      "leagueId": 40,
+      "appearances": 31
+    },
+    {
+      "season": 2015,
+      "leagueId": 39,
+      "appearances": 16
+    },
+    {
+      "season": 2014,
+      "leagueId": 39,
+      "appearances": 17
+    },
+    {
+      "season": 2011,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2013,
+      "leagueId": 41,
+      "appearances": 37
+    }
+  ]
+}

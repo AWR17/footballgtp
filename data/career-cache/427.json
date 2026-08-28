@@ -1,0 +1,91 @@
+{
+  "stints": [
+    {
+      "clubName": "USA",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 4
+    },
+    {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2023,
+      "appearances": 46
+    },
+    {
+      "clubName": "Antalyaspor",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2021,
+      "appearances": 0
+    },
+    {
+      "clubName": "Sonderjyske",
+      "country": "Denmark",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Denmark",
+      "yearStart": 2020,
+      "appearances": 29
+    },
+    {
+      "clubName": "FC Schalke 04",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2016,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 44
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 119,
+      "appearances": 29
+    },
+    {
+      "season": 2019,
+      "leagueId": 78,
+      "appearances": 0
+    },
+    {
+      "season": 2018,
+      "leagueId": 81,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 78,
+      "appearances": 0
+    }
+  ]
+}

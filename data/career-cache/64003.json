@@ -1,0 +1,80 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Leeds",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2017,
+      "appearances": 153
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 5
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 35
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 23
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 27
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 5
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 0
+    },
+    {
+      "season": 2017,
+      "leagueId": 40,
+      "appearances": 0
+    }
+  ]
+}

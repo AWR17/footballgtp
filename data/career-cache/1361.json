@@ -1,0 +1,103 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2024,
+      "appearances": 4
+    },
+    {
+      "clubName": "Türkiye",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2022,
+      "appearances": 14
+    },
+    {
+      "clubName": "Fenerbahçe",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2018,
+      "appearances": 21
+    },
+    {
+      "clubName": "NEC Nijmegen",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Netherlands",
+      "yearStart": 2016,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 848,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2026,
+      "leagueId": 1,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 10,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 960,
+      "appearances": 7
+    },
+    {
+      "season": 2022,
+      "leagueId": 5,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 7
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 6
+    },
+    {
+      "season": 2020,
+      "leagueId": 667,
+      "appearances": 2
+    },
+    {
+      "season": 2018,
+      "leagueId": 203,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 90,
+      "appearances": 1
+    }
+  ]
+}

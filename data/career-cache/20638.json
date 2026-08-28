@@ -1,0 +1,75 @@
+{
+  "stints": [
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2024,
+      "appearances": 20
+    },
+    {
+      "clubName": "Rennes",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2023,
+      "appearances": 25
+    },
+    {
+      "clubName": "Lorient",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, France",
+      "yearStart": 2018,
+      "appearances": 135
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 18
+    },
+    {
+      "season": 2023,
+      "leagueId": 61,
+      "appearances": 25
+    },
+    {
+      "season": 2022,
+      "leagueId": 61,
+      "appearances": 35
+    },
+    {
+      "season": 2021,
+      "leagueId": 61,
+      "appearances": 36
+    },
+    {
+      "season": 2020,
+      "leagueId": 61,
+      "appearances": 36
+    },
+    {
+      "season": 2019,
+      "leagueId": 62,
+      "appearances": 26
+    },
+    {
+      "season": 2018,
+      "leagueId": 62,
+      "appearances": 2
+    }
+  ]
+}

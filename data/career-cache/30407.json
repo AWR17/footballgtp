@@ -1,0 +1,124 @@
+{
+  "stints": [
+    {
+      "clubName": "Arsenal",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2025,
+      "appearances": 1
+    },
+    {
+      "clubName": "Denmark",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "appearances": 17
+    },
+    {
+      "clubName": "Brentford",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2019,
+      "appearances": 185
+    },
+    {
+      "clubName": "Fiorentina",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2018,
+      "appearances": 6
+    },
+    {
+      "clubName": "Brondby",
+      "country": "Denmark",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Denmark",
+      "yearStart": 2013,
+      "appearances": 115
+    },
+    {
+      "clubName": "Hamburger SV",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2012,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 937,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 22
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2020,
+      "leagueId": 40,
+      "appearances": 18
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 45
+    },
+    {
+      "season": 2018,
+      "leagueId": 135,
+      "appearances": 6
+    },
+    {
+      "season": 2017,
+      "leagueId": 119,
+      "appearances": 34
+    },
+    {
+      "season": 2016,
+      "leagueId": 119,
+      "appearances": 31
+    },
+    {
+      "season": 2015,
+      "leagueId": 119,
+      "appearances": 16
+    },
+    {
+      "season": 2014,
+      "leagueId": 119,
+      "appearances": 21
+    },
+    {
+      "season": 2013,
+      "leagueId": 119,
+      "appearances": 13
+    },
+    {
+      "season": 2012,
+      "leagueId": 78,
+      "appearances": 0
+    }
+  ]
+}

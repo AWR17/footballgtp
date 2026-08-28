@@ -1,0 +1,96 @@
+{
+  "stints": [
+    {
+      "clubName": "Tottenham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 8
+    },
+    {
+      "clubName": "Czechia",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2024,
+      "appearances": 6
+    },
+    {
+      "clubName": "Slavia Praha",
+      "country": "Czech-Republic",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Czech-Republic",
+      "yearStart": 2021,
+      "appearances": 0
+    },
+    {
+      "clubName": "Vyškov",
+      "country": "Czech-Republic",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Czech-Republic",
+      "yearStart": 2022,
+      "appearances": 30
+    },
+    {
+      "clubName": "Dukla Praha",
+      "country": "Czech-Republic",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Czech-Republic",
+      "yearStart": 2019,
+      "appearances": 6
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 6
+    },
+    {
+      "season": 2025,
+      "leagueId": 10,
+      "appearances": 6
+    },
+    {
+      "season": 2024,
+      "leagueId": 5,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 345,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 345,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 346,
+      "appearances": 30
+    },
+    {
+      "season": 2020,
+      "leagueId": 346,
+      "appearances": 5
+    },
+    {
+      "season": 2019,
+      "leagueId": 346,
+      "appearances": 1
+    }
+  ]
+}

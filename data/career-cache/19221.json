@@ -1,0 +1,78 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Wales",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2014,
+      "appearances": 30
+    },
+    {
+      "clubName": "Fulham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2021,
+      "appearances": 137
+    },
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2015,
+      "appearances": 10
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 28
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 41
+    },
+    {
+      "season": 2020,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2016,
+      "leagueId": 39,
+      "appearances": 0
+    }
+  ]
+}

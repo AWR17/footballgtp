@@ -1,0 +1,129 @@
+{
+  "stints": [
+    {
+      "clubName": "Japan",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2015,
+      "appearances": 49
+    },
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 35
+    },
+    {
+      "clubName": "VfB Stuttgart",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Germany",
+      "yearStart": 2019,
+      "appearances": 120
+    },
+    {
+      "clubName": "St. Truiden",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2018,
+      "appearances": 17
+    },
+    {
+      "clubName": "Urawa",
+      "country": "Japan",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Japan",
+      "yearStart": 2016,
+      "appearances": 59
+    },
+    {
+      "clubName": "Shonan Bellmare",
+      "country": "Japan",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Japan",
+      "yearStart": 2010,
+      "appearances": 158
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 33
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 33
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 33
+    },
+    {
+      "season": 2019,
+      "leagueId": 79,
+      "appearances": 21
+    },
+    {
+      "season": 2018,
+      "leagueId": 144,
+      "appearances": 17
+    },
+    {
+      "season": 2017,
+      "leagueId": 98,
+      "appearances": 30
+    },
+    {
+      "season": 2016,
+      "leagueId": 98,
+      "appearances": 29
+    },
+    {
+      "season": 2015,
+      "leagueId": 98,
+      "appearances": 31
+    },
+    {
+      "season": 2014,
+      "leagueId": 99,
+      "appearances": 38
+    },
+    {
+      "season": 2013,
+      "leagueId": 98,
+      "appearances": 17
+    },
+    {
+      "season": 2012,
+      "leagueId": 99,
+      "appearances": 32
+    }
+  ]
+}

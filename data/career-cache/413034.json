@@ -1,0 +1,32 @@
+{
+  "stints": [
+    {
+      "clubName": "Northern Ireland",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Linfield",
+      "country": "Northern-Ireland",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Northern-Ireland",
+      "yearStart": 2022,
+      "appearances": 10
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2023,
+      "leagueId": 408,
+      "appearances": 9
+    },
+    {
+      "season": 2022,
+      "leagueId": 408,
+      "appearances": 1
+    }
+  ]
+}

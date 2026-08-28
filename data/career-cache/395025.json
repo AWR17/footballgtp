@@ -1,0 +1,29 @@
+{
+  "stints": [
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2023,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 40,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 0
+    }
+  ]
+}

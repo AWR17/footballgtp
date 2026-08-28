@@ -1,0 +1,93 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2023,
+      "appearances": 93
+    },
+    {
+      "clubName": "Wales",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "appearances": 29
+    },
+    {
+      "clubName": "Tottenham",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 16
+    },
+    {
+      "clubName": "Swansea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2015,
+      "appearances": 48
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 46
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 46
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 3
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 12
+    },
+    {
+      "season": 2019,
+      "leagueId": 40,
+      "appearances": 21
+    },
+    {
+      "season": 2018,
+      "leagueId": 40,
+      "appearances": 27
+    },
+    {
+      "season": 2017,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2015,
+      "leagueId": 39,
+      "appearances": 0
+    }
+  ]
+}

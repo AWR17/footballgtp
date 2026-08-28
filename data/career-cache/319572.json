@@ -1,0 +1,58 @@
+{
+  "stints": [
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Argentina",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "appearances": 1
+    },
+    {
+      "clubName": "Strasbourg",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2024,
+      "appearances": 18
+    },
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 6
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 66,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 61,
+      "appearances": 14
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 6
+    }
+  ]
+}

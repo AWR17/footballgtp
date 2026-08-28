@@ -1,0 +1,58 @@
+{
+  "stints": [
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Israel",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2023,
+      "appearances": 14
+    },
+    {
+      "clubName": "Union St. Gilloise",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2024,
+      "appearances": 72
+    },
+    {
+      "clubName": "Maccabi Haifa",
+      "country": "Israel",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Israel",
+      "yearStart": 2021,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 144,
+      "appearances": 36
+    },
+    {
+      "season": 2022,
+      "leagueId": 384,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 383,
+      "appearances": 0
+    }
+  ]
+}

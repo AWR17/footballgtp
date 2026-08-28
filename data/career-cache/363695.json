@@ -1,0 +1,55 @@
+{
+  "stints": [
+    {
+      "clubName": "Brazil",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 70
+    },
+    {
+      "clubName": "Corinthians",
+      "country": "Brazil",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Brazil",
+      "yearStart": 2022,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 36
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2022,
+      "leagueId": 73,
+      "appearances": 0
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stints": [
+    {
+      "clubName": "Aston Villa",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Atletico Madrid",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "European competition",
+      "yearStart": 2024,
+      "appearances": 9
+    },
+    {
+      "clubName": "Atalanta",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2020,
+      "appearances": 55
+    },
+    {
+      "clubName": "Italy",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "appearances": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 2,
+      "appearances": 8
+    },
+    {
+      "season": 2023,
+      "leagueId": 135,
+      "appearances": 34
+    },
+    {
+      "season": 2022,
+      "leagueId": 135,
+      "appearances": 15
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 135,
+      "appearances": 6
+    }
+  ]
+}

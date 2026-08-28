@@ -1,0 +1,50 @@
+{
+  "stints": [
+    {
+      "clubName": "Fulham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Spain",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Real Madrid",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2023,
+      "appearances": 18
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 6
+    },
+    {
+      "season": 2024,
+      "leagueId": 140,
+      "appearances": 6
+    },
+    {
+      "season": 2023,
+      "leagueId": 140,
+      "appearances": 6
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "stints": [
+    {
+      "clubName": "Rio Ave",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2024,
+      "appearances": 26
+    },
+    {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 0
+    },
+    {
+      "clubName": "Bayern München",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2021,
+      "appearances": 4
+    },
+    {
+      "clubName": "Reading",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2017,
+      "appearances": 15
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2024,
+      "leagueId": 94,
+      "appearances": 26
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 667,
+      "appearances": 4
+    },
+    {
+      "season": 2020,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2017,
+      "leagueId": 40,
+      "appearances": 13
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "stints": [
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 12
+    },
+    {
+      "clubName": "Al-Qadisiyah FC",
+      "country": "Saudi-Arabia",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Saudi-Arabia",
+      "yearStart": 2026,
+      "appearances": 2
+    },
+    {
+      "clubName": "Manchester City",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2025,
+      "appearances": 3
+    },
+    {
+      "clubName": "AC Milan",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2023,
+      "appearances": 73
+    },
+    {
+      "clubName": "AZ Alkmaar",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2017,
+      "appearances": 96
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 307,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 135,
+      "appearances": 37
+    },
+    {
+      "season": 2023,
+      "leagueId": 135,
+      "appearances": 36
+    },
+    {
+      "season": 2022,
+      "leagueId": 88,
+      "appearances": 34
+    },
+    {
+      "season": 2021,
+      "leagueId": 88,
+      "appearances": 36
+    },
+    {
+      "season": 2020,
+      "leagueId": 88,
+      "appearances": 22
+    },
+    {
+      "season": 2019,
+      "leagueId": 88,
+      "appearances": 3
+    },
+    {
+      "season": 2018,
+      "leagueId": 88,
+      "appearances": 0
+    },
+    {
+      "season": 2017,
+      "leagueId": 88,
+      "appearances": 1
+    }
+  ]
+}

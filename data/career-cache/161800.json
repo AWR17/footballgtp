@@ -1,0 +1,89 @@
+{
+  "stints": [
+    {
+      "clubName": "Greece",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "appearances": 21
+    },
+    {
+      "clubName": "Arsenal",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Club Brugge KV",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2024,
+      "appearances": 76
+    },
+    {
+      "clubName": "Fortuna Düsseldorf",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Germany",
+      "yearStart": 2023,
+      "appearances": 30
+    },
+    {
+      "clubName": "Norwich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2021,
+      "appearances": 27
+    },
+    {
+      "clubName": "PAOK",
+      "country": "Greece",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Greece",
+      "yearStart": 2019,
+      "appearances": 42
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 144,
+      "appearances": 38
+    },
+    {
+      "season": 2023,
+      "leagueId": 79,
+      "appearances": 30
+    },
+    {
+      "season": 2022,
+      "leagueId": 40,
+      "appearances": 13
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 14
+    },
+    {
+      "season": 2020,
+      "leagueId": 197,
+      "appearances": 33
+    },
+    {
+      "season": 2019,
+      "leagueId": 197,
+      "appearances": 9
+    }
+  ]
+}

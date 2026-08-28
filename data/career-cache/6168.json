@@ -1,0 +1,133 @@
+{
+  "stints": [
+    {
+      "clubName": "Paraguay",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "appearances": 30
+    },
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Getafe",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2022,
+      "appearances": 90
+    },
+    {
+      "clubName": "Valencia",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2021,
+      "appearances": 29
+    },
+    {
+      "clubName": "Hertha BSC",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2020,
+      "appearances": 17
+    },
+    {
+      "clubName": "FC Basel 1893",
+      "country": "Switzerland",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Switzerland",
+      "yearStart": 2019,
+      "appearances": 28
+    },
+    {
+      "clubName": "Huracan",
+      "country": "Argentina",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Argentina",
+      "yearStart": 2018,
+      "appearances": 8
+    },
+    {
+      "clubName": "Gimnasia L.P.",
+      "country": "Argentina",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Argentina",
+      "yearStart": 2017,
+      "appearances": 22
+    },
+    {
+      "clubName": "Cerro Porteno",
+      "country": "Paraguay",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Paraguay",
+      "yearStart": 2016,
+      "appearances": 8
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 140,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 140,
+      "appearances": 31
+    },
+    {
+      "season": 2022,
+      "leagueId": 140,
+      "appearances": 25
+    },
+    {
+      "season": 2021,
+      "leagueId": 140,
+      "appearances": 29
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 17
+    },
+    {
+      "season": 2019,
+      "leagueId": 207,
+      "appearances": 28
+    },
+    {
+      "season": 2018,
+      "leagueId": 128,
+      "appearances": 8
+    },
+    {
+      "season": 2017,
+      "leagueId": 128,
+      "appearances": 22
+    },
+    {
+      "season": 2016,
+      "leagueId": 252,
+      "appearances": 8
+    }
+  ]
+}

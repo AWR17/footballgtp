@@ -1,0 +1,88 @@
+{
+  "stints": [
+    {
+      "clubName": "Algeria",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2023,
+      "appearances": 15
+    },
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2022,
+      "appearances": 77
+    },
+    {
+      "clubName": "Wolves",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2020,
+      "appearances": 44
+    },
+    {
+      "clubName": "Angers",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2017,
+      "appearances": 20
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 528,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 37
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2022,
+      "leagueId": 48,
+      "appearances": 4
+    },
+    {
+      "season": 2021,
+      "leagueId": 39,
+      "appearances": 23
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 21
+    },
+    {
+      "season": 2019,
+      "leagueId": 61,
+      "appearances": 17
+    },
+    {
+      "season": 2018,
+      "leagueId": 61,
+      "appearances": 3
+    },
+    {
+      "season": 2017,
+      "leagueId": 61,
+      "appearances": 0
+    }
+  ]
+}

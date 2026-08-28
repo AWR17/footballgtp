@@ -1,0 +1,55 @@
+{
+  "stints": [
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "appearances": 0
+    },
+    {
+      "clubName": "Elche",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Spain",
+      "yearStart": 2023,
+      "appearances": 4
+    },
+    {
+      "clubName": "Real Madrid",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2022,
+      "appearances": 6
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 143,
+      "appearances": 2
+    },
+    {
+      "season": 2023,
+      "leagueId": 143,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 140,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 140,
+      "appearances": 6
+    }
+  ]
+}

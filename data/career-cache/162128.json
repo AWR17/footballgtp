@@ -1,0 +1,60 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 110
+    },
+    {
+      "clubName": "Italy",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 11
+    },
+    {
+      "clubName": "FC Zurich",
+      "country": "Switzerland",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Switzerland",
+      "yearStart": 2020,
+      "appearances": 59
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 4
+    },
+    {
+      "season": 2024,
+      "leagueId": 40,
+      "appearances": 43
+    },
+    {
+      "season": 2023,
+      "leagueId": 40,
+      "appearances": 39
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 24
+    },
+    {
+      "season": 2021,
+      "leagueId": 207,
+      "appearances": 33
+    },
+    {
+      "season": 2020,
+      "leagueId": 207,
+      "appearances": 26
+    }
+  ]
+}

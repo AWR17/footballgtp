@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "Salford City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "4th tier, England",
+      "yearStart": 2024,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2024,
+      "leagueId": 42,
+      "appearances": 2
+    }
+  ]
+}

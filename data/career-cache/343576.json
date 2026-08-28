@@ -1,0 +1,68 @@
+{
+  "stints": [
+    {
+      "clubName": "Scotland",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "appearances": 9
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 3
+    },
+    {
+      "clubName": "Celtic",
+      "country": "Scotland",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Scotland",
+      "yearStart": 2021,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 2
+    },
+    {
+      "season": 2021,
+      "leagueId": 179,
+      "appearances": 2
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "stints": [
+    {
+      "clubName": "West Ham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2026,
+      "appearances": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 40,
+      "appearances": 1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "stints": [
+    {
+      "clubName": "Uruguay",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "appearances": 26
+    },
+    {
+      "clubName": "Manchester United",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "appearances": 32
+    },
+    {
+      "clubName": "Paris Saint Germain",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2023,
+      "appearances": 5
+    },
+    {
+      "clubName": "Sporting CP",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2021,
+      "appearances": 26
+    },
+    {
+      "clubName": "Famalicao",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2020,
+      "appearances": 20
+    },
+    {
+      "clubName": "Fenix",
+      "country": "Uruguay",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Uruguay",
+      "yearStart": 2016,
+      "appearances": 37
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2023,
+      "leagueId": 667,
+      "appearances": 5
+    },
+    {
+      "season": 2022,
+      "leagueId": 667,
+      "appearances": 1
+    },
+    {
+      "season": 2021,
+      "leagueId": 94,
+      "appearances": 25
+    },
+    {
+      "season": 2020,
+      "leagueId": 94,
+      "appearances": 20
+    },
+    {
+      "season": 2019,
+      "leagueId": 270,
+      "appearances": 35
+    },
+    {
+      "season": 2018,
+      "leagueId": 270,
+      "appearances": 1
+    },
+    {
+      "season": 2017,
+      "leagueId": 270,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 270,
+      "appearances": 1
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "stints": [
+    {
+      "clubName": "USA",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "appearances": 25
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "appearances": 38
+    },
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "appearances": 24
+    },
+    {
+      "clubName": "RB Leipzig",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2018,
+      "appearances": 75
+    },
+    {
+      "clubName": "New York Red Bulls",
+      "country": "USA",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, USA",
+      "yearStart": 2015,
+      "appearances": 30
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 1022,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 5
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 24
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 24
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 27
+    },
+    {
+      "season": 2019,
+      "leagueId": 78,
+      "appearances": 14
+    },
+    {
+      "season": 2018,
+      "leagueId": 78,
+      "appearances": 10
+    },
+    {
+      "season": 2017,
+      "leagueId": 253,
+      "appearances": 27
+    },
+    {
+      "season": 2016,
+      "leagueId": 253,
+      "appearances": 1
+    }
+  ]
+}

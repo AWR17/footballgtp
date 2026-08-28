@@ -1,0 +1,101 @@
+{
+  "stints": [
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2024,
+      "appearances": 6
+    },
+    {
+      "clubName": "Ajax",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2023,
+      "appearances": 16
+    },
+    {
+      "clubName": "Croatia",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "appearances": 17
+    },
+    {
+      "clubName": "VfB Stuttgart",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2018,
+      "appearances": 103
+    },
+    {
+      "clubName": "Dinamo Zagreb",
+      "country": "Croatia",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Croatia",
+      "yearStart": 2014,
+      "appearances": 32
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 528,
+      "appearances": 5
+    },
+    {
+      "season": 2023,
+      "leagueId": 88,
+      "appearances": 16
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 25
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 28
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 26
+    },
+    {
+      "season": 2019,
+      "leagueId": 79,
+      "appearances": 12
+    },
+    {
+      "season": 2018,
+      "leagueId": 78,
+      "appearances": 12
+    },
+    {
+      "season": 2017,
+      "leagueId": 210,
+      "appearances": 21
+    },
+    {
+      "season": 2016,
+      "leagueId": 210,
+      "appearances": 8
+    }
+  ]
+}

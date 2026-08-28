@@ -1,0 +1,68 @@
+{
+  "stints": [
+    {
+      "clubName": "Ecuador",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2021,
+      "appearances": 9
+    },
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "domestic cup, England",
+      "yearStart": 2025,
+      "appearances": 2
+    },
+    {
+      "clubName": "Anderlecht",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2022,
+      "appearances": 84
+    },
+    {
+      "clubName": "LDU de Quito",
+      "country": "Ecuador",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Ecuador",
+      "yearStart": 2021,
+      "appearances": 11
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 45,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 144,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 144,
+      "appearances": 34
+    },
+    {
+      "season": 2022,
+      "leagueId": 144,
+      "appearances": 16
+    },
+    {
+      "season": 2021,
+      "leagueId": 242,
+      "appearances": 11
+    }
+  ]
+}

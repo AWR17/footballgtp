@@ -1,0 +1,95 @@
+{
+  "stints": [
+    {
+      "clubName": "Brighton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "appearances": 4
+    },
+    {
+      "clubName": "PSV Eindhoven",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2019,
+      "appearances": 140
+    },
+    {
+      "clubName": "Nice",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2014,
+      "appearances": 28
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 48,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 88,
+      "appearances": 30
+    },
+    {
+      "season": 2023,
+      "leagueId": 88,
+      "appearances": 33
+    },
+    {
+      "season": 2022,
+      "leagueId": 88,
+      "appearances": 7
+    },
+    {
+      "season": 2021,
+      "leagueId": 88,
+      "appearances": 28
+    },
+    {
+      "season": 2020,
+      "leagueId": 88,
+      "appearances": 30
+    },
+    {
+      "season": 2019,
+      "leagueId": 88,
+      "appearances": 12
+    },
+    {
+      "season": 2018,
+      "leagueId": 61,
+      "appearances": 14
+    },
+    {
+      "season": 2017,
+      "leagueId": 61,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 61,
+      "appearances": 1
+    },
+    {
+      "season": 2015,
+      "leagueId": 61,
+      "appearances": 11
+    },
+    {
+      "season": 2014,
+      "leagueId": 61,
+      "appearances": 2
+    }
+  ]
+}
