@@ -1,21 +1,19 @@
 // scripts/build-attributes.js
 //
 // PREMSTREAK ATTRIBUTE PIPELINE — precomputes 5 comparable attributes per
-// player: Position, Nation, Current club, Transfer fee (for the move to
-// that club), Career PL appearances. PL debut year is also computed but
-// used only as a free clue shown before any guess — it's never a
-// comparison attribute.
+// player: Team, Position, Age, PL debut year, Career PL appearances.
+// Nationality is also computed but used only as a free clue shown before
+// any guess — it's never a comparison attribute.
 //
-// SOURCE: data/pl-squad.json — the FULL current Premier League squad,
-// built by scripts/build-pl-squad.js. Run that first if this file
-// doesn't exist yet.
+// SOURCE: data/pl-squad.json — the CURRENT Premier League squad, built by
+// scripts/build-pl-squad.js. Run that first if this file doesn't exist yet.
 //
 // Usage: API_FOOTBALL_KEY=xxx node scripts/build-attributes.js
 
 const fs = require("fs");
 const path = require("path");
 
-const { getPlayerTeams, getPlayerSeasonStats, getPlayerSeasonAnyTeamLeague, getPlayerProfile, getPlayerTransfers, sleep } =
+const { getPlayerTeams, getPlayerSeasonStats, getPlayerSeasonAnyTeamLeague, getPlayerProfile, sleep } =
   require("../lib/api-football");
 const { tierFor } = require("../lib/league-tiers");
 
@@ -32,6 +30,31 @@ function isYouthOrReserveTeam(teamName) {
   const trimmed = teamName.trim();
   return /\sII$/.test(trimmed) || /\sB$/.test(trimmed);
 }
+
+const KNOWN_COUNTRY_NAMES = new Set([
+  "Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Argentina", "Armenia",
+  "Australia", "Austria", "Azerbaijan", "Bahrain", "Bangladesh", "Belarus", "Belgium",
+  "Benin", "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil", "Bulgaria",
+  "Burkina Faso", "Burundi", "Cambodia", "Cameroon", "Canada", "Cape Verde", "Chad",
+  "Chile", "China", "Colombia", "Congo", "Costa Rica", "Croatia", "Cuba", "Cyprus",
+  "Czech Republic", "DR Congo", "Denmark", "Ecuador", "Egypt", "El Salvador",
+  "England", "Equatorial Guinea", "Estonia", "Ethiopia", "Fiji", "Finland", "France",
+  "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Greece", "Guatemala", "Guinea",
+  "Haiti", "Honduras", "Hungary", "Iceland", "India", "Indonesia", "Iran", "Iraq",
+  "Ireland", "Israel", "Italy", "Ivory Coast", "Jamaica", "Japan", "Jordan",
+  "Kazakhstan", "Kenya", "Kosovo", "Kuwait", "Latvia", "Lebanon", "Liberia", "Libya",
+  "Lithuania", "Luxembourg", "Madagascar", "Malawi", "Malaysia", "Mali", "Malta",
+  "Mexico", "Moldova", "Mongolia", "Montenegro", "Morocco", "Mozambique", "Myanmar",
+  "Namibia", "Nepal", "Netherlands", "New Zealand", "Nicaragua", "Niger", "Nigeria",
+  "North Korea", "North Macedonia", "Northern Ireland", "Norway", "Oman", "Pakistan",
+  "Panama", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Qatar",
+  "Republic of Ireland", "Romania", "Russia", "Rwanda", "Saudi Arabia", "Scotland",
+  "Senegal", "Serbia", "Sierra Leone", "Singapore", "Slovakia", "Slovenia", "Somalia",
+  "South Africa", "South Korea", "Spain", "Sri Lanka", "Sudan", "Sweden",
+  "Switzerland", "Syria", "Tanzania", "Thailand", "Togo", "Trinidad and Tobago",
+  "Tunisia", "Turkey", "Uganda", "Ukraine", "United Arab Emirates", "United States",
+  "USA", "Uruguay", "Uzbekistan", "Venezuela", "Vietnam", "Wales", "Zambia", "Zimbabwe",
+]);
 
 function normalizeClubKey(name) {
   if (!name) return "";
@@ -73,7 +96,7 @@ async function getCareerData(playerId) {
     if (seasons.length === 0) continue;
     if (isYouthOrReserveTeam(t.team.name)) continue;
 
-    const isNationalTeam = t.team.name === t.team.country;
+    const isNationalTeam = t.team.name === t.team.country || KNOWN_COUNTRY_NAMES.has(t.team.name);
     const seasonLeagues = [];
     let seasonCountry = null;
     let totalApps = 0;
@@ -172,46 +195,17 @@ function getCurrentClub(stints) {
   return mostRecent.clubName;
 }
 
-function isAcademyGraduate(stints, currentClubName) {
-  const clubStints = stints.filter((s) => !s.isNationalTeam);
-  if (clubStints.length !== 1) return false;
-  const only = clubStints[0];
-  return normalizeClubKey(only.clubName) === normalizeClubKey(currentClubName);
-}
-
-async function getCurrentClubFee(playerId, currentClubName, stints) {
-  if (!currentClubName) return "Unknown";
-  if (isAcademyGraduate(stints, currentClubName)) return "Academy";
-
-  const transfers = await getPlayerTransfers(playerId);
-  const targetKey = normalizeClubKey(currentClubName);
-  const matches = transfers.filter((t) => normalizeClubKey(t.clubIn) === targetKey);
-  if (matches.length === 0) return "Unknown";
-
-  matches.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
-  const nonLoan = matches.find((m) => !/loan/i.test(m.fee || ""));
-  const chosen = nonLoan || matches[0];
-  return bandFeeString(chosen.fee);
-}
-
-function bandFeeString(feeStr) {
-  if (!feeStr) return "Undisclosed";
-  const cleaned = feeStr.trim();
-  if (/free/i.test(cleaned)) return "Free";
-  if (/loan/i.test(cleaned)) return "Loan";
-  if (/undisclosed/i.test(cleaned) || /n\/a/i.test(cleaned) || /^transfer$/i.test(cleaned)) return "Undisclosed";
-  const match = cleaned.match(/([\d.]+)\s*([MK])?/i);
-  if (!match) return "Undisclosed";
-  let value = parseFloat(match[1]);
-  if (Number.isNaN(value)) return "Undisclosed";
-  const suffix = match[2]?.toUpperCase();
-  if (suffix === "M") value *= 1_000_000;
-  else if (suffix === "K") value *= 1_000;
-  if (value === 0) return "Free";
-  if (value < 5_000_000) return "<5M";
-  if (value < 20_000_000) return "5-20M";
-  if (value < 50_000_000) return "20-50M";
-  return "50M+";
+function computeAge(birthDateStr) {
+  if (!birthDateStr) return null;
+  const birthDate = new Date(birthDateStr);
+  if (Number.isNaN(birthDate.getTime())) return null;
+  const today = new Date();
+  let age = today.getFullYear() - birthDate.getFullYear();
+  const hasHadBirthdayThisYear =
+    today.getMonth() > birthDate.getMonth() ||
+    (today.getMonth() === birthDate.getMonth() && today.getDate() >= birthDate.getDate());
+  if (!hasHadBirthdayThisYear) age--;
+  return age;
 }
 
 function normalizeNameForDedup(name) {
@@ -251,12 +245,14 @@ async function run() {
 
       let position = null;
       let nationality = null;
+      let age = null;
       let displayName = candidate.name;
       try {
         const lastKnownSeason = stints[stints.length - 1]?.yearStart ?? new Date().getFullYear();
         const profile = await getPlayerProfile(candidate.id, lastKnownSeason);
         position = profile.position;
         nationality = profile.nationality;
+        age = computeAge(profile.birthDate);
         const looksAbbreviated = /^[A-Z]\.\s?[A-Z]/.test(candidate.name);
         if (looksAbbreviated && profile.firstname && profile.lastname) {
           const firstGivenName = profile.firstname.trim().split(/\s+/)[0];
@@ -268,14 +264,6 @@ async function run() {
 
       const currentClub = getCurrentClub(stints);
 
-      let transferFeeBand = "Unknown";
-      try {
-        transferFeeBand = await getCurrentClubFee(candidate.id, currentClub, stints);
-        await sleep(REQUEST_PAUSE_MS);
-      } catch (err) {
-        console.warn(`[build-attributes] transfer fee lookup failed for ${candidate.name}: ${err.message}`);
-      }
-
       const nameKey = normalizeNameForDedup(displayName);
       if (usedNames.has(nameKey)) {
         console.warn(`[build-attributes] skipping "${displayName}" (id ${candidate.id}) — name collides with an already-added player.`);
@@ -286,11 +274,11 @@ async function run() {
       attributesById[candidate.id] = {
         name: displayName,
         position,
-        nationality,
+        age,
         currentClub,
-        transferFeeBand,
-        plAppsBand: bandPlApps(totalPlApps),
         plDebutYear,
+        plAppsBand: bandPlApps(totalPlApps),
+        nationality,
       };
       usedNames.add(nameKey);
 

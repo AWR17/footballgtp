@@ -94,8 +94,9 @@
   .icon-btn-right { right: 0; }
 
   .logo {
-    height: clamp(36px, 9vw, 48px);
-    width: auto;
+    height: clamp(52px, 13vw, 72px);
+    width: clamp(190px, 48vw, 270px);
+    object-fit: contain;
     margin: 4px 0 2px;
   }
 
@@ -284,7 +285,8 @@
   .tile.match .tile-label, .tile.match .tile-value { color: #fff; }
   .tile.close { background: var(--yellow); }
   .tile.close .tile-label, .tile.close .tile-value { color: #221C0A; }
-  .tile.miss .tile-value { color: var(--text-muted); }
+  .tile.miss { background: var(--red); }
+  .tile.miss .tile-label, .tile.miss .tile-value { color: #fff; }
 
   .ad-slot {
     max-width: 560px;
@@ -452,14 +454,14 @@
     <button class="modal-close" id="howToClose" aria-label="Close">×</button>
     <div class="result-name">How to play</div>
     <div style="font-size:13px; line-height:1.6; margin-top:14px;">
-      <p><strong>Guess the mystery current Premier League player in 6 tries.</strong> You start with one free clue — their PL debut year, shown at the top. Every guess after that compares 5 attributes: Position, Nation, Current club, Transfer fee (for the move to that club), Career PL appearances.</p>
+      <p><strong>Guess the mystery current Premier League player in 7 tries.</strong> You start with one free clue — their nationality, shown at the top. Every guess after that compares 5 attributes: Team, Position, Age, PL debut year, Career PL appearances.</p>
 
-      <p><strong>The number or word shown is always YOUR GUESS's value</strong> — not the answer's. Colour tells you how close it is:</p>
-      <p>🟢 <strong style="color:var(--green)">Green</strong> = exact match &nbsp; 🟡 <strong style="color:var(--yellow)">Yellow</strong> = close &nbsp; ⚪ <strong>Grey</strong> = not close</p>
+      <p><strong>The number or word shown is always YOUR GUESS's value</strong> — not the answer's. The icon tells you how close it is:</p>
+      <p>⚽ <strong>Football</strong> = exact match &nbsp; 🟨 <strong style="color:var(--yellow)">Yellow card</strong> = close &nbsp; 🟥 <strong style="color:var(--red)">Red card</strong> = not close</p>
 
-      <p><strong>Arrows point toward the real answer.</strong> ↑ means the answer's value is higher than what's shown, ↓ means lower — applies to Fee and PL apps when both are on the same numeric scale. Position, Nation, and Current club are just a match or a miss, no arrow — and "Free", "Loan", or "Undisclosed" fees also show as plain match/miss, since they're not part of the numeric scale.</p>
+      <p><strong>Arrows point toward the real answer.</strong> ↑ means the answer's value is higher than what's shown, ↓ means lower — applies to Age, Debut year, and PL apps. Team and Position are just a match or a miss, no arrow.</p>
 
-      <p><strong>Worked example:</strong> you guess a player and see "Clubs: 2 ↑" in yellow. That means your guess played for 2 clubs, but the real answer has played for <em>more</em> than 2 — so try someone with a longer club history next.</p>
+      <p><strong>Worked example:</strong> you guess a player and see "Age: 24 ↑" as a yellow card. That means your guess is 24, but the real answer is <em>older</em> — so try someone a bit older next.</p>
 
       <p><strong>Tap or hold any tile</strong> to see a plain-English explanation of what it means.</p>
 
@@ -488,15 +490,15 @@
 <script>
 (function () {
   const STORAGE_PREFIX = "premstreak:";
-  const MAX_GUESSES = 6;
-  const SCORE_BY_GUESS = [100, 85, 70, 55, 40, 25];
+  const MAX_GUESSES = 7;
+  const SCORE_BY_GUESS = [100, 85, 70, 55, 40, 25, 15];
 
-  const ATTRIBUTE_ORDER = ["position", "nationality", "currentClub", "transferFeeBand", "plAppsBand"];
+  const ATTRIBUTE_ORDER = ["currentClub", "position", "age", "plDebutYear", "plAppsBand"];
   const ATTRIBUTE_LABELS = {
+    currentClub: "Team",
     position: "Position",
-    nationality: "Nation",
-    transferFeeBand: "Fee",
-    currentClub: "Club",
+    age: "Age",
+    plDebutYear: "Debut",
     plAppsBand: "PL apps",
   };
 
@@ -542,11 +544,11 @@
   }
 
   const DEMO_ATTRIBUTES = {
-    "1": { name: "Erling Haaland", position: "Attacker", nationality: "Norway", currentClub: "Manchester City", transferFeeBand: "50M+", plAppsBand: "50-150", plDebutYear: 2022 },
-    "2": { name: "Bukayo Saka", position: "Attacker", nationality: "England", currentClub: "Arsenal", transferFeeBand: "Free", plAppsBand: "150-300", plDebutYear: 2019 },
-    "3": { name: "Kevin De Bruyne", position: "Midfielder", nationality: "Belgium", currentClub: "Manchester City", transferFeeBand: "50M+", plAppsBand: "300+", plDebutYear: 2015 },
-    "4": { name: "Declan Rice", position: "Midfielder", nationality: "England", currentClub: "Arsenal", transferFeeBand: "50M+", plAppsBand: "150-300", plDebutYear: 2017 },
-    "5": { name: "Virgil van Dijk", position: "Defender", nationality: "Netherlands", currentClub: "Liverpool", transferFeeBand: "50M+", plAppsBand: "150-300", plDebutYear: 2015 },
+    "1": { name: "Erling Haaland", position: "Attacker", nationality: "Norway", currentClub: "Manchester City", age: 26, plAppsBand: "50-150", plDebutYear: 2022 },
+    "2": { name: "Bukayo Saka", position: "Attacker", nationality: "England", currentClub: "Arsenal", age: 24, plAppsBand: "150-300", plDebutYear: 2019 },
+    "3": { name: "Kevin De Bruyne", position: "Midfielder", nationality: "Belgium", currentClub: "Manchester City", age: 35, plAppsBand: "300+", plDebutYear: 2015 },
+    "4": { name: "Declan Rice", position: "Midfielder", nationality: "England", currentClub: "Arsenal", age: 27, plAppsBand: "150-300", plDebutYear: 2017 },
+    "5": { name: "Virgil van Dijk", position: "Defender", nationality: "Netherlands", currentClub: "Liverpool", age: 35, plAppsBand: "150-300", plDebutYear: 2015 },
   };
 
   let attributesById = null;
@@ -615,8 +617,9 @@
 
   function renderDebutClue() {
     const el = document.getElementById("debutClue");
-    if (!el || !answer?.plDebutYear) return;
-    el.innerHTML = `Clue: made their Premier League debut in <strong>${answer.plDebutYear}</strong>.`;
+    if (!el || !answer?.nationality) return;
+    const flag = flagForNationality(answer.nationality);
+    el.innerHTML = `Clue: born in <strong>${flag ? flag + " " : ""}${answer.nationality}</strong>.`;
   }
 
   function freshState() {
@@ -736,30 +739,26 @@
         : { status: "miss", text: guessVal };
     }
 
-    if (key === "nationality") {
-      return guessVal === answerVal
-        ? { status: "match", text: guessVal }
-        : { status: "miss", text: guessVal };
-    }
-
     if (key === "currentClub") {
       return guessVal === answerVal
         ? { status: "match", text: guessVal }
         : { status: "miss", text: guessVal };
     }
 
-    if (key === "transferFeeBand") {
-      const bands = ["Free", "<5M", "5-20M", "20-50M", "50M+"];
-      const gi = bands.indexOf(guessVal);
-      const ai = bands.indexOf(answerVal);
-      if (gi === -1 || ai === -1) {
-        return guessVal === answerVal
-          ? { status: "match", text: guessVal }
-          : { status: "miss", text: guessVal };
-      }
-      if (gi === ai) return { status: "match", text: guessVal };
-      const arrow = gi < ai ? "↑" : "↓";
-      return Math.abs(gi - ai) <= 1
+    if (key === "age") {
+      if (guessVal === answerVal) return { status: "match", text: String(guessVal) };
+      const diff = Math.abs(guessVal - answerVal);
+      const arrow = guessVal < answerVal ? "↑" : "↓";
+      return diff <= 2
+        ? { status: "close", text: `${guessVal} ${arrow}` }
+        : { status: "miss", text: `${guessVal} ${arrow}` };
+    }
+
+    if (key === "plDebutYear") {
+      if (guessVal === answerVal) return { status: "match", text: String(guessVal) };
+      const diff = Math.abs(guessVal - answerVal);
+      const arrow = guessVal < answerVal ? "↑" : "↓";
+      return diff <= 2
         ? { status: "close", text: `${guessVal} ${arrow}` }
         : { status: "miss", text: `${guessVal} ${arrow}` };
     }
@@ -794,18 +793,16 @@
     if (c.key === "position") {
       return `${label}: ${guessName} plays ${c.text}. The real answer plays a different position.`;
     }
-    if (c.key === "nationality") {
-      return `${label}: ${guessName} is from ${c.text}. The real answer isn't from ${c.text} — you can rule that out.`;
-    }
     if (c.key === "currentClub") {
       return `${label}: ${guessName} plays for ${c.text}. The real answer plays for a different club.`;
     }
-    if (c.key === "transferFeeBand") {
-      if (!c.text.includes("↑") && !c.text.includes("↓")) {
-        return `${label}: ${guessName}'s fee for this move was ${c.text}. The real answer's fee band is different.`;
-      }
-      const direction = c.text.includes("↑") ? "higher" : "lower";
-      return `${label}: ${guessName}'s fee for this move was ${c.text.replace(/[↑↓]/, "").trim()}. The real answer's fee is ${direction}.`;
+    if (c.key === "age") {
+      const direction = c.text.includes("↑") ? "older" : "younger";
+      return `${label}: ${guessName} is ${c.text.replace(/[↑↓]/, "").trim()}. The real answer is ${direction}.`;
+    }
+    if (c.key === "plDebutYear") {
+      const direction = c.text.includes("↑") ? "more recently" : "earlier";
+      return `${label}: ${guessName} debuted in ${c.text.replace(/[↑↓]/, "").trim()}. The real answer debuted ${direction}.`;
     }
     const direction = c.text.includes("↑") ? "higher" : "lower";
     return `${label}: ${guessName}'s value is ${c.text.replace(/[↑↓]/, "").trim()}. The real answer is ${direction} than this.`;
@@ -827,13 +824,10 @@
     const guessesList = document.getElementById("guessesList");
     guessesList.innerHTML = state.guesses.map((g) => {
       const tiles = g.comparison.map((c) => {
-        const displayText = c.key === "nationality"
-          ? `${flagForNationality(c.text)} ${c.text}`.trim()
-          : c.text;
         return `
         <div class="tile ${c.status}" title="${tileTooltip(c, g.name).replace(/"/g, "&quot;")}">
           <span class="tile-label">${ATTRIBUTE_LABELS[c.key]}</span>
-          <span class="tile-value">${displayText}</span>
+          <span class="tile-value">${c.text}</span>
         </div>
       `;
       }).join("");
@@ -937,7 +931,7 @@
 
   function shareGrid() {
     return state.guesses.map((g) =>
-      g.comparison.map((c) => c.status === "match" ? "🟢" : c.status === "close" ? "🟡" : "⚪").join("")
+      g.comparison.map((c) => c.status === "match" ? "⚽" : c.status === "close" ? "🟨" : "🟥").join("")
     ).join("\n");
   }
 
@@ -1045,6 +1039,7 @@
     });
     window.addEventListener("beforeunload", pauseTimer);
   }
+
 
   init();
 })();
