@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Spain",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2020,
-      "appearances": 11
-    },
-    {
       "clubName": "Crystal Palace",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
-      "appearances": 4
+      "yearEnd": 2026,
+      "appearances": 5
+    },
+    {
+      "clubName": "Spain",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2026,
+      "appearances": 11
     },
     {
       "clubName": "Villarreal",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Spain",
       "yearStart": 2020,
+      "yearEnd": 2024,
       "appearances": 135
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Spain",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 20
     }
   ],
@@ -37,7 +41,7 @@
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

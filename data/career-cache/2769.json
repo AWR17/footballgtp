@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Nigeria",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2018,
-      "appearances": 22
-    },
-    {
       "clubName": "Hull City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 25
+    },
+    {
+      "clubName": "Nigeria",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "yearEnd": 2026,
+      "appearances": 22
     },
     {
       "clubName": "West Brom",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
+      "yearEnd": 2023,
       "appearances": 156
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
+      "yearEnd": 2018,
       "appearances": 101
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2014,
+      "yearEnd": 2015,
       "appearances": 0
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2012,
+      "yearEnd": 2012,
       "appearances": 3
     }
   ],

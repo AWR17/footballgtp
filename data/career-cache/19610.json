@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2024,
+      "yearEnd": 2024,
       "appearances": 26
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
+      "yearEnd": 2023,
       "appearances": 0
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2021,
+      "yearEnd": 2021,
       "appearances": 4
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
+      "yearEnd": 2020,
       "appearances": 15
     }
   ],

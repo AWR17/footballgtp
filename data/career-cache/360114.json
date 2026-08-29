@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Uzbekistan",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2023,
-      "appearances": 17
-    },
-    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 15
+    },
+    {
+      "clubName": "Uzbekistan",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2023,
+      "yearEnd": 2026,
+      "appearances": 17
     },
     {
       "clubName": "Lens",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 11
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belarus",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 27
     }
   ],

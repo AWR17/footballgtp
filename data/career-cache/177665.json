@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2022,
+      "yearEnd": 2026,
       "appearances": 2
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 61
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 59
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2020,
+      "yearEnd": 2020,
       "appearances": 30
     },
     {
@@ -46,13 +51,14 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 23
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

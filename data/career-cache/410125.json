@@ -2,11 +2,12 @@
   "stints": [
     {
       "clubName": "Brighton",
-      "country": "England",
+      "country": "World",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
-      "appearances": 1
+      "yearEnd": 2026,
+      "appearances": 2
     },
     {
       "clubName": "Swansea",
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 2
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Sweden",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 3
     },
     {
@@ -30,14 +33,15 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Ivory-Coast",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 848,
+      "appearances": 2
     },
     {
       "season": 2024,

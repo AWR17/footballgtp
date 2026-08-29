@@ -1,20 +1,13 @@
 {
   "stints": [
     {
-      "clubName": "Newcastle",
-      "country": "England",
-      "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
-      "yearStart": 2026,
-      "appearances": 1
-    },
-    {
       "clubName": "Benfica",
-      "country": "Portugal",
+      "country": "World",
       "isNationalTeam": false,
-      "tierLabel": "a club in Portugal",
+      "tierLabel": "a club in World",
       "yearStart": 2024,
-      "appearances": 37
+      "yearEnd": 2026,
+      "appearances": 39
     },
     {
       "clubName": "Bosnia & Herzegovina",
@@ -22,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2020,
+      "yearEnd": 2026,
       "appearances": 16
     },
     {
@@ -30,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2020,
+      "yearEnd": 2023,
       "appearances": 6
     },
     {
@@ -38,14 +33,15 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Austria",
       "yearStart": 2018,
+      "yearEnd": 2019,
       "appearances": 24
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 3,
+      "appearances": 2
     },
     {
       "season": 2025,

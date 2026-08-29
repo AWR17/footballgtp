@@ -1,19 +1,21 @@
 {
   "stints": [
     {
-      "clubName": "Liverpool",
-      "country": "England",
-      "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
-      "yearStart": 2024,
-      "appearances": 1
-    },
-    {
       "clubName": "England",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Liverpool",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 1
     }
   ],

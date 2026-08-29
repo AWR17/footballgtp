@@ -4,9 +4,10 @@
       "clubName": "Newcastle",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
-      "appearances": 1
+      "yearEnd": 2026,
+      "appearances": 0
     },
     {
       "clubName": "Monaco",
@@ -14,14 +15,15 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2024,
+      "yearEnd": 2025,
       "appearances": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 48,
+      "appearances": 0
     },
     {
       "season": 2025,

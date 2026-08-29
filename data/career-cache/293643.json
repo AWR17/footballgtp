@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Brighton",
-      "country": "England",
-      "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
-      "yearStart": 2024,
-      "appearances": 1
-    },
-    {
       "clubName": "Ghana",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 3
+    },
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 2
     },
     {
       "clubName": "Birmingham",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 1
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Denmark",
       "yearStart": 2022,
+      "yearEnd": 2023,
       "appearances": 43
     },
     {
@@ -38,14 +42,15 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2020,
+      "yearEnd": 2020,
       "appearances": 3
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 848,
+      "appearances": 2
     },
     {
       "season": 2024,

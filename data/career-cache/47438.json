@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
-      "appearances": 218
+      "yearEnd": 2026,
+      "appearances": 217
     },
     {
       "clubName": "Denmark",
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2020,
+      "yearEnd": 2024,
       "appearances": 19
     },
     {
@@ -22,14 +24,15 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Denmark",
       "yearStart": 2015,
+      "yearEnd": 2018,
       "appearances": 63
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 48,
+      "appearances": 0
     },
     {
       "season": 2025,

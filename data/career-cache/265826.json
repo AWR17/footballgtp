@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 8
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2024,
+      "yearEnd": 2025,
       "appearances": 6
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Czech-Republic",
       "yearStart": 2021,
+      "yearEnd": 2023,
       "appearances": 0
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Czech-Republic",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 30
     },
     {
@@ -38,13 +42,14 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Czech-Republic",
       "yearStart": 2019,
+      "yearEnd": 2020,
       "appearances": 6
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

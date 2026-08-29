@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Argentina",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2022,
-      "appearances": 2
-    },
-    {
       "clubName": "Tottenham",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
+    },
+    {
+      "clubName": "Argentina",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "yearEnd": 2026,
+      "appearances": 2
     },
     {
       "clubName": "Bournemouth",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
+      "yearEnd": 2025,
       "appearances": 85
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2019,
+      "yearEnd": 2021,
       "appearances": 82
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Argentina",
       "yearStart": 2016,
+      "yearEnd": 2018,
       "appearances": 36
     }
   ],

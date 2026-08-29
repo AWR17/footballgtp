@@ -4,8 +4,9 @@
       "clubName": "Tottenham",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 0
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2024,
+      "yearEnd": 2025,
       "appearances": 38
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2014,
+      "yearEnd": 2025,
       "appearances": 24
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
+      "yearEnd": 2023,
       "appearances": 150
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2016,
+      "yearEnd": 2016,
       "appearances": 28
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Denmark",
       "yearStart": 2013,
+      "yearEnd": 2015,
       "appearances": 66
     },
     {
@@ -54,13 +60,14 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2009,
+      "yearEnd": 2012,
       "appearances": 84
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 0
     },
     {

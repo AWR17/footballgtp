@@ -4,8 +4,9 @@
       "clubName": "Ipswich",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -14,13 +15,14 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2021,
+      "yearEnd": 2025,
       "appearances": 28
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

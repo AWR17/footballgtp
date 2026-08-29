@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Hull City",
-      "country": "England",
-      "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
-      "yearStart": 2026,
-      "appearances": 1
-    },
-    {
       "clubName": "Senegal",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
+    },
+    {
+      "clubName": "Hull City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0
     },
     {
       "clubName": "Rayo Vallecano",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Spain",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 1
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Spain",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 13
     },
     {
@@ -38,14 +42,15 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, France",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 2
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 48,
+      "appearances": 0
     },
     {
       "season": 2025,

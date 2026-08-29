@@ -2,11 +2,12 @@
   "stints": [
     {
       "clubName": "Brighton",
-      "country": "England",
+      "country": "World",
       "isNationalTeam": false,
-      "tierLabel": "a club in England",
+      "tierLabel": "a club in World",
       "yearStart": 2025,
-      "appearances": 4
+      "yearEnd": 2026,
+      "appearances": 5
     },
     {
       "clubName": "PSV Eindhoven",
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2019,
+      "yearEnd": 2024,
       "appearances": 140
     },
     {
@@ -22,14 +24,15 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2014,
+      "yearEnd": 2018,
       "appearances": 28
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 848,
+      "appearances": 2
     },
     {
       "season": 2025,

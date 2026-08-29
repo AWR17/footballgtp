@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Wales",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2017,
-      "appearances": 24
-    },
-    {
       "clubName": "Bournemouth",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
+      "yearEnd": 2026,
       "appearances": 129
+    },
+    {
+      "clubName": "Wales",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "yearEnd": 2026,
+      "appearances": 24
     },
     {
       "clubName": "Sheffield Utd",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "3rd tier, England",
       "yearStart": 2015,
+      "yearEnd": 2017,
       "appearances": 30
     }
   ],

@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Norway",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2017,
-      "appearances": 26
-    },
-    {
       "clubName": "Fulham",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 34
+    },
+    {
+      "clubName": "Norway",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "yearEnd": 2026,
+      "appearances": 26
     },
     {
       "clubName": "Burnley",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 37
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
+      "yearEnd": 2022,
       "appearances": 98
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2016,
+      "yearEnd": 2018,
       "appearances": 50
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2015,
+      "yearEnd": 2015,
       "appearances": 11
     }
   ],

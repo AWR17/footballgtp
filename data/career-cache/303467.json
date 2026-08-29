@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Ghana",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2021,
-      "appearances": 11
-    },
-    {
       "clubName": "Ipswich",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
+    },
+    {
+      "clubName": "Ghana",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2021,
+      "yearEnd": 2026,
+      "appearances": 11
     },
     {
       "clubName": "Leicester",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
+      "yearEnd": 2025,
       "appearances": 82
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 6
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Ghana",
       "yearStart": 2021,
+      "yearEnd": 2021,
       "appearances": 7
     }
   ],

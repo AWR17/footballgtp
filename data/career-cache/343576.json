@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Scotland",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2024,
-      "appearances": 9
-    },
-    {
       "clubName": "Bournemouth",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 2
+    },
+    {
+      "clubName": "Scotland",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 9
     },
     {
       "clubName": "Liverpool",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
+      "yearEnd": 2024,
       "appearances": 3
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2021,
+      "yearEnd": 2021,
       "appearances": 2
     }
   ],

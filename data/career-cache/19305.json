@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2016,
+      "yearEnd": 2025,
       "appearances": 220
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "4th tier, England",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 25
     }
   ],

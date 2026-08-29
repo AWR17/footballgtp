@@ -1,0 +1,101 @@
+{
+  "stints": [
+    {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 43
+    },
+    {
+      "clubName": "Portugal",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2026,
+      "appearances": 13
+    },
+    {
+      "clubName": "Wolves",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2019,
+      "yearEnd": 2023,
+      "appearances": 60
+    },
+    {
+      "clubName": "Lazio",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2017,
+      "yearEnd": 2018,
+      "appearances": 1
+    },
+    {
+      "clubName": "SC Braga",
+      "country": "Portugal",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2016,
+      "yearEnd": 2016,
+      "appearances": 2
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 48,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 667,
+      "appearances": 7
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2023,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2022,
+      "leagueId": 45,
+      "appearances": 0
+    },
+    {
+      "season": 2021,
+      "leagueId": 48,
+      "appearances": 0
+    },
+    {
+      "season": 2020,
+      "leagueId": 39,
+      "appearances": 31
+    },
+    {
+      "season": 2019,
+      "leagueId": 39,
+      "appearances": 29
+    },
+    {
+      "season": 2017,
+      "leagueId": 135,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 94,
+      "appearances": 2
+    }
+  ]
+}

@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "England",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2022,
-      "appearances": 11
-    },
-    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 4
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "yearEnd": 2026,
+      "appearances": 11
     },
     {
       "clubName": "Crystal Palace",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
+      "yearEnd": 2024,
       "appearances": 103
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
+      "yearEnd": 2020,
       "appearances": 57
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
+      "yearEnd": 2018,
       "appearances": 0
     }
   ],

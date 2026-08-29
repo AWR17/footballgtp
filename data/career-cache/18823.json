@@ -4,8 +4,9 @@
       "clubName": "Stoke City",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "2nd tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
+      "yearEnd": 2025,
       "appearances": 33
     },
     {
@@ -22,13 +24,14 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
+      "yearEnd": 2023,
       "appearances": 80
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 40,
+      "leagueId": 48,
       "appearances": 1
     },
     {

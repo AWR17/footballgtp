@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 2
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Spain",
       "yearStart": 2021,
+      "yearEnd": 2024,
       "appearances": 27
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Spain",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 31
     }
   ],

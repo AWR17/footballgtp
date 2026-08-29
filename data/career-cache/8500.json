@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Japan",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2015,
-      "appearances": 49
-    },
-    {
       "clubName": "Liverpool",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 35
+    },
+    {
+      "clubName": "Japan",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2015,
+      "yearEnd": 2026,
+      "appearances": 49
     },
     {
       "clubName": "VfB Stuttgart",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2019,
+      "yearEnd": 2022,
       "appearances": 120
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2018,
+      "yearEnd": 2018,
       "appearances": 17
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Japan",
       "yearStart": 2016,
+      "yearEnd": 2017,
       "appearances": 59
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Japan",
       "yearStart": 2010,
+      "yearEnd": 2015,
       "appearances": 158
     }
   ],

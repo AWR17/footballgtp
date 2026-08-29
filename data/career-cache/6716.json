@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Argentina",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2019,
-      "appearances": 30
-    },
-    {
       "clubName": "Liverpool",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 39
+    },
+    {
+      "clubName": "Argentina",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2019,
+      "yearEnd": 2026,
+      "appearances": 30
     },
     {
       "clubName": "Brighton",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
+      "yearEnd": 2022,
       "appearances": 98
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Argentina",
       "yearStart": 2016,
+      "yearEnd": 2018,
       "appearances": 50
     }
   ],

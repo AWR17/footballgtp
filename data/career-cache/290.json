@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Netherlands",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2014,
-      "appearances": 38
-    },
-    {
       "clubName": "Liverpool",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
+      "yearEnd": 2026,
       "appearances": 205
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2014,
+      "yearEnd": 2026,
+      "appearances": 38
     },
     {
       "clubName": "Southampton",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
+      "yearEnd": 2016,
       "appearances": 55
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2013,
+      "yearEnd": 2014,
       "appearances": 71
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2010,
+      "yearEnd": 2012,
       "appearances": 62
     }
   ],

@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Portugal",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2020,
-      "appearances": 6
-    },
-    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2022,
+      "yearEnd": 2026,
       "appearances": 35
+    },
+    {
+      "clubName": "Portugal",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2026,
+      "appearances": 6
     },
     {
       "clubName": "Sporting CP",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2019,
+      "yearEnd": 2021,
       "appearances": 74
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 0
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Portugal",
       "yearStart": 2018,
+      "yearEnd": 2018,
       "appearances": 6
     }
   ],

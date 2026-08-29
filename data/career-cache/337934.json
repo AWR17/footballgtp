@@ -6,13 +6,14 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 0
     },
     {

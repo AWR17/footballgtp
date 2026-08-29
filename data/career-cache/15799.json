@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Nigeria",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2020,
-      "appearances": 24
-    },
-    {
       "clubName": "Coventry",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 15
+    },
+    {
+      "clubName": "Nigeria",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2026,
+      "appearances": 24
     },
     {
       "clubName": "Brentford",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
+      "yearEnd": 2024,
       "appearances": 69
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Denmark",
       "yearStart": 2017,
+      "yearEnd": 2020,
       "appearances": 95
     }
   ],

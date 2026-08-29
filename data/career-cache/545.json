@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Morocco",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2018,
-      "appearances": 18
-    },
-    {
       "clubName": "Manchester United",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 41
+    },
+    {
+      "clubName": "Morocco",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "yearEnd": 2026,
+      "appearances": 18
     },
     {
       "clubName": "Bayern München",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2022,
+      "yearEnd": 2023,
       "appearances": 45
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2017,
+      "yearEnd": 2021,
       "appearances": 93
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Netherlands",
       "yearStart": 2016,
+      "yearEnd": 2016,
       "appearances": 33
     }
   ],

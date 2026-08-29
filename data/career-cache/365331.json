@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 8
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 3
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 76
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 13
     }
   ],

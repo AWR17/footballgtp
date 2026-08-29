@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Croatia",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2020,
-      "appearances": 22
-    },
-    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 77
+    },
+    {
+      "clubName": "Croatia",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2026,
+      "appearances": 22
     },
     {
       "clubName": "RB Leipzig",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 61
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Croatia",
       "yearStart": 2019,
+      "yearEnd": 2020,
       "appearances": 36
     }
   ],

@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "France",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2024,
-      "appearances": 8
-    },
-    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 4
+    },
+    {
+      "clubName": "France",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 8
     },
     {
       "clubName": "Lyon",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2019,
+      "yearEnd": 2024,
       "appearances": 150
     }
   ],

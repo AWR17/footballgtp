@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Morocco",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2023,
-      "appearances": 7
-    },
-    {
       "clubName": "Sunderland",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 3
+    },
+    {
+      "clubName": "Morocco",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2023,
+      "yearEnd": 2026,
+      "appearances": 7
     },
     {
       "clubName": "Club Brugge KV",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "European competition",
       "yearStart": 2022,
+      "yearEnd": 2024,
       "appearances": 0
     }
   ],

@@ -1,11 +1,21 @@
 {
   "stints": [
     {
+      "clubName": "Lille",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1
+    },
+    {
       "clubName": "Nottingham Forest",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 1
     },
     {
@@ -14,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 61
     },
     {
@@ -22,10 +33,16 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2019,
+      "yearEnd": 2022,
       "appearances": 49
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 61,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 48,

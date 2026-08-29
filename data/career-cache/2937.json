@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "England",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2018,
-      "appearances": 28
-    },
-    {
       "clubName": "Arsenal",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 75
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "yearEnd": 2026,
+      "appearances": 28
     },
     {
       "clubName": "West Ham",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2016,
+      "yearEnd": 2022,
       "appearances": 204
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2017,
+      "yearEnd": 2018,
       "appearances": 0
     }
   ],

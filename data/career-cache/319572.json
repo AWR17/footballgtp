@@ -4,9 +4,10 @@
       "clubName": "Chelsea",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
-      "appearances": 0
+      "yearEnd": 2026,
+      "appearances": 1
     },
     {
       "clubName": "Argentina",
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2024,
+      "yearEnd": 2025,
       "appearances": 18
     },
     {
@@ -30,14 +33,15 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 6
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

@@ -6,6 +6,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 0
     },
     {
@@ -14,7 +15,8 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
-      "appearances": 5
+      "yearEnd": 2026,
+      "appearances": 6
     },
     {
       "clubName": "Genk",
@@ -22,14 +24,15 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2021,
+      "yearEnd": 2024,
       "appearances": 5
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

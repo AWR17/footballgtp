@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "France",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2024,
-      "appearances": 6
-    },
-    {
       "clubName": "Crystal Palace",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
+      "yearEnd": 2026,
       "appearances": 111
+    },
+    {
+      "clubName": "France",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 6
     },
     {
       "clubName": "FSV Mainz 05",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2018,
+      "yearEnd": 2019,
       "appearances": 52
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, France",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 37
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2016,
+      "yearEnd": 2016,
       "appearances": 2
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in France",
       "yearStart": 2015,
+      "yearEnd": 2015,
       "appearances": 22
     }
   ],

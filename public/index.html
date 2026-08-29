@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 <meta name="theme-color" id="themeColorMeta" content="#F2F2EB" />
 <title>PremStreak</title>
-<meta name="description" content="PremStreak. Guess today's mystery Premier League player in 6 tries — every guess tells you how close you are." />
+<meta name="description" content="PremStreak. Guess today's mystery 26/27 Premier League player in 7 tries — every guess tells you how close you are." />
 <link rel="icon" type="image/jpeg" href="./assets/favicon.jpg" />
 <link rel="apple-touch-icon" href="./assets/favicon.jpg" />
 <meta property="og:image" content="./assets/favicon.jpg" />
@@ -420,7 +420,7 @@
     <button class="icon-btn icon-btn-left" id="helpToggle" aria-label="How to play">?</button>
     <button class="icon-btn icon-btn-right" id="themeToggle" aria-label="Toggle theme">☾</button>
     <img src="./assets/logo-light.png" alt="PremStreak" class="logo" id="logoImg" />
-    <div class="subhead">Guess the player. <em>Keep the streak.</em></div>
+    <div class="subhead">Guess the 26/27 Premier League player. <em>Keep the streak.</em></div>
   </header>
 
   <div class="stale-banner" id="staleBanner">
@@ -457,7 +457,7 @@
     <button class="modal-close" id="howToClose" aria-label="Close">×</button>
     <div class="result-name">How to play</div>
     <div style="font-size:13px; line-height:1.6; margin-top:14px;">
-      <p><strong>Guess the mystery current Premier League player in 7 tries.</strong> You start with one free clue — their nationality, shown at the top. Every guess after that compares 5 attributes: Team, Position, Age, PL debut year, Career PL appearances.</p>
+      <p><strong>Guess the mystery 26/27 Premier League player in 7 tries.</strong> You start with one free clue — their nationality, shown at the top. Every guess after that compares 5 attributes: Team, Position, Age, PL debut year, Career PL appearances.</p>
 
       <p><strong>The number or word shown is always YOUR GUESS's value</strong> — not the answer's. The icon tells you how close it is:</p>
       <p>⚽ <strong>Football</strong> = exact match &nbsp; 🟨 <strong style="color:var(--yellow)">Yellow card</strong> = close &nbsp; 🟥 <strong style="color:var(--red)">Red card</strong> = not close</p>
@@ -666,7 +666,7 @@
 
     const parsed = JSON.parse(saved);
     if (!stateMatchesCurrentAttributes(parsed)) {
-      console.warn("[premstreak] saved state used a different attribute set — starting today's puzzle fresh.");
+      console.warn("[footballgtp] saved state used a different attribute set (likely from before a game update) — starting today's puzzle fresh.");
       return freshState();
     }
     return parsed;
@@ -751,13 +751,25 @@
     applyTheme(saved || (prefersDark ? "dark" : "light"));
   }
 
+  function normalizePositionForComparison(rawPosition) {
+    if (!rawPosition) return null;
+    const p = rawPosition.trim().toLowerCase();
+    if (p === "gk" || p.includes("keeper")) return "Goalkeeper";
+    if (p.includes("midfield")) return "Midfielder";
+    if (p.includes("back") || p.includes("defen")) return "Defender";
+    if (p.includes("forward") || p.includes("attack") || p.includes("striker") || p.includes("winger")) return "Attacker";
+    return rawPosition;
+  }
+
   function compareAttribute(key, guessVal, answerVal) {
     if (guessVal === null || guessVal === undefined || answerVal === null || answerVal === undefined) {
       return { status: "miss", text: "?" };
     }
 
     if (key === "position") {
-      return guessVal === answerVal
+      const normGuess = normalizePositionForComparison(guessVal);
+      const normAnswer = normalizePositionForComparison(answerVal);
+      return normGuess === normAnswer
         ? { status: "match", text: guessVal }
         : { status: "miss", text: guessVal };
     }

@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
+      "yearEnd": 2025,
       "appearances": 146
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2017,
+      "yearEnd": 2024,
       "appearances": 12
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2014,
+      "yearEnd": 2014,
       "appearances": 21
     }
   ],

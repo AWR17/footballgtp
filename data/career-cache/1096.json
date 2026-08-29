@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Hungary",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2024,
-      "appearances": 8
-    },
-    {
       "clubName": "Liverpool",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "European competition",
       "yearStart": 2022,
+      "yearEnd": 2026,
       "appearances": 48
+    },
+    {
+      "clubName": "Hungary",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 8
     },
     {
       "clubName": "RB Leipzig",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
+      "yearEnd": 2021,
       "appearances": 31
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Austria",
       "yearStart": 2017,
+      "yearEnd": 2020,
       "appearances": 56
     }
   ],

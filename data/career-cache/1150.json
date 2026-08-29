@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "USA",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2017,
-      "appearances": 25
-    },
-    {
       "clubName": "Bournemouth",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 38
+    },
+    {
+      "clubName": "USA",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "yearEnd": 2026,
+      "appearances": 25
     },
     {
       "clubName": "Leeds",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 24
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2018,
+      "yearEnd": 2021,
       "appearances": 75
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, USA",
       "yearStart": 2015,
+      "yearEnd": 2017,
       "appearances": 30
     }
   ],

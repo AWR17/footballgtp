@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
+      "yearEnd": 2026,
       "appearances": 184
     },
     {
@@ -14,13 +15,14 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2016,
+      "yearEnd": 2019,
       "appearances": 53
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

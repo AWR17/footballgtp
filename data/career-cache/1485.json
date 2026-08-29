@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Portugal",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2017,
-      "appearances": 41
-    },
-    {
       "clubName": "Manchester United",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
+      "yearEnd": 2026,
       "appearances": 103
+    },
+    {
+      "clubName": "Portugal",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "yearEnd": 2026,
+      "appearances": 41
     },
     {
       "clubName": "Sporting CP",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2017,
+      "yearEnd": 2018,
       "appearances": 66
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2016,
+      "yearEnd": 2016,
       "appearances": 33
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2013,
+      "yearEnd": 2015,
       "appearances": 86
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2012,
+      "yearEnd": 2012,
       "appearances": 21
     }
   ],

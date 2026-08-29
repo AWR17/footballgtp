@@ -4,8 +4,9 @@
       "clubName": "Ipswich",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2019,
+      "yearEnd": 2026,
       "appearances": 16
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2021,
+      "yearEnd": 2025,
       "appearances": 147
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Japan",
       "yearStart": 2020,
+      "yearEnd": 2020,
       "appearances": 23
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Portugal",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 0
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Japan",
       "yearStart": 2016,
+      "yearEnd": 2018,
       "appearances": 38
     },
     {
@@ -54,13 +60,14 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Japan",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 36
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

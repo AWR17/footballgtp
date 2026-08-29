@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "England",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2017,
-      "appearances": 30
-    },
-    {
       "clubName": "Manchester United",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
+      "yearEnd": 2026,
       "appearances": 193
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "yearEnd": 2026,
+      "appearances": 30
     },
     {
       "clubName": "Leicester",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
+      "yearEnd": 2018,
       "appearances": 69
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
+      "yearEnd": 2016,
       "appearances": 56
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "3rd tier, England",
       "yearStart": 2010,
+      "yearEnd": 2013,
       "appearances": 139
     }
   ],

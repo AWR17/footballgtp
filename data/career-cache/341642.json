@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 5
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 2
     },
     {
@@ -22,13 +24,14 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2022,
+      "yearEnd": 2024,
       "appearances": 75
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

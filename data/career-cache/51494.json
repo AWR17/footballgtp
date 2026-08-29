@@ -6,6 +6,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2022,
+      "yearEnd": 2026,
       "appearances": 26
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
+      "yearEnd": 2025,
       "appearances": 32
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 5
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 26
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2020,
+      "yearEnd": 2020,
       "appearances": 20
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Uruguay",
       "yearStart": 2016,
+      "yearEnd": 2019,
       "appearances": 37
     }
   ],

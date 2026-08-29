@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Germany",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2020,
-      "appearances": 22
-    },
-    {
       "clubName": "Liverpool",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 7
+    },
+    {
+      "clubName": "Germany",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2026,
+      "appearances": 22
     },
     {
       "clubName": "Bayer Leverkusen",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2019,
+      "yearEnd": 2023,
       "appearances": 109
     }
   ],

@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2024,
-      "appearances": 5
+      "yearEnd": 2026,
+      "appearances": 4
     },
     {
       "clubName": "Manchester City",
@@ -14,14 +15,15 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
+      "yearEnd": 2023,
       "appearances": 4
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 48,
+      "appearances": 0
     },
     {
       "season": 2025,

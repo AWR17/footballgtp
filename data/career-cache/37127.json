@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Norway",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2014,
-      "appearances": 43
-    },
-    {
       "clubName": "Arsenal",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
+      "yearEnd": 2026,
       "appearances": 157
+    },
+    {
+      "clubName": "Norway",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2014,
+      "yearEnd": 2026,
+      "appearances": 43
     },
     {
       "clubName": "Real Madrid",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Spain",
       "yearStart": 2014,
+      "yearEnd": 2018,
       "appearances": 5
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Spain",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 31
     }
   ],

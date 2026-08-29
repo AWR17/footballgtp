@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
-      "appearances": 29
+      "yearEnd": 2026,
+      "appearances": 28
     },
     {
       "clubName": "Hull City",
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "3rd tier, England",
       "yearStart": 2020,
+      "yearEnd": 2023,
       "appearances": 172
     },
     {
@@ -22,14 +24,15 @@
       "isNationalTeam": false,
       "tierLabel": "4th tier, England",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 29
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 48,
+      "appearances": 0
     },
     {
       "season": 2025,

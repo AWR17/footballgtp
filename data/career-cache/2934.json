@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
-      "appearances": 197
+      "yearEnd": 2026,
+      "appearances": 198
     },
     {
       "clubName": "England",
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2016,
+      "yearEnd": 2021,
       "appearances": 1
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
+      "yearEnd": 2016,
       "appearances": 100
     },
     {
@@ -30,14 +33,15 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2011,
+      "yearEnd": 2013,
       "appearances": 2
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
-      "appearances": 2
+      "yearEnd": 2026,
+      "appearances": 3
     },
     {
       "clubName": "Southampton",
@@ -14,14 +15,15 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
+      "yearEnd": 2024,
       "appearances": 34
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

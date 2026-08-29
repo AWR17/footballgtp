@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
-      "appearances": 1
+      "yearEnd": 2026,
+      "appearances": 2
     },
     {
       "clubName": "Rangers",
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 24
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
+      "yearEnd": 2022,
       "appearances": 66
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 10
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
+      "yearEnd": 2018,
       "appearances": 16
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
+      "yearEnd": 2015,
       "appearances": 2
     },
     {
@@ -54,14 +60,15 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 38
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

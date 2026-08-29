@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Netherlands",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2022,
-      "appearances": 6
-    },
-    {
       "clubName": "Sunderland",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 2
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "yearEnd": 2026,
+      "appearances": 6
     },
     {
       "clubName": "Ajax",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2019,
+      "yearEnd": 2024,
       "appearances": 116
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Netherlands",
       "yearStart": 2018,
+      "yearEnd": 2018,
       "appearances": 2
     }
   ],

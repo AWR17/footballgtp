@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Ecuador",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2021,
-      "appearances": 9
-    },
-    {
       "clubName": "Sunderland",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 2
+    },
+    {
+      "clubName": "Ecuador",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2021,
+      "yearEnd": 2026,
+      "appearances": 9
     },
     {
       "clubName": "Anderlecht",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2022,
+      "yearEnd": 2024,
       "appearances": 84
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Ecuador",
       "yearStart": 2021,
+      "yearEnd": 2021,
       "appearances": 11
     }
   ],

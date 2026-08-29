@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Netherlands",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2018,
-      "appearances": 5
-    },
-    {
       "clubName": "Bournemouth",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 74
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "yearEnd": 2026,
+      "appearances": 5
     },
     {
       "clubName": "Valencia",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Spain",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 27
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2021,
+      "yearEnd": 2021,
       "appearances": 27
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2018,
+      "yearEnd": 2020,
       "appearances": 53
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2016,
+      "yearEnd": 2017,
       "appearances": 44
     }
   ],

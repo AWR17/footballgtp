@@ -83,7 +83,9 @@ function saveJSON(filePath, data) {
 async function getCareerData(playerId) {
   const cachePath = path.join(CACHE_DIR, `${playerId}.json`);
   const cached = loadJSON(cachePath, null);
-  if (cached && cached.stints && cached.seasonRecords) return cached;
+  const isValidCache = cached && cached.stints && cached.seasonRecords &&
+    cached.stints.every((s) => s.isNationalTeam || typeof s.yearEnd === "number");
+  if (isValidCache) return cached;
 
   const teams = await getPlayerTeams(playerId);
   await sleep(REQUEST_PAUSE_MS);
@@ -141,6 +143,7 @@ async function getCareerData(playerId) {
       isNationalTeam,
       tierLabel: tier.label,
       yearStart: Math.min(...seasons),
+      yearEnd: Math.max(...seasons),
       appearances: totalApps,
     });
   }
@@ -164,6 +167,7 @@ async function getCareerData(playerId) {
       country: existing.country || s.country,
       tierLabel: moreRepresentative.tierLabel,
       yearStart: Math.min(existing.yearStart, s.yearStart),
+      yearEnd: Math.max(existing.yearEnd, s.yearEnd),
       appearances: existing.appearances + s.appearances,
     });
   }
@@ -188,10 +192,24 @@ function bandPlApps(totalPlApps) {
   return "<50";
 }
 
+function normalizePosition(rawPosition) {
+  if (!rawPosition) return null;
+  const p = rawPosition.trim().toLowerCase();
+  if (p === "gk" || p.includes("keeper")) return "Goalkeeper";
+  if (p.includes("midfield")) return "Midfielder";
+  if (p.includes("back") || p.includes("defen")) return "Defender";
+  if (p.includes("forward") || p.includes("attack") || p.includes("striker") || p.includes("winger")) return "Attacker";
+  return rawPosition;
+}
+
 function getCurrentClub(stints) {
   const clubStints = stints.filter((s) => !s.isNationalTeam);
   if (clubStints.length === 0) return null;
-  const mostRecent = clubStints.reduce((latest, s) => (s.yearStart > latest.yearStart ? s : latest));
+  const mostRecent = clubStints.reduce((latest, s) => {
+    if (s.yearEnd > latest.yearEnd) return s;
+    if (s.yearEnd === latest.yearEnd && s.yearStart > latest.yearStart) return s;
+    return latest;
+  });
   return mostRecent.clubName;
 }
 
@@ -250,7 +268,7 @@ async function run() {
       try {
         const lastKnownSeason = stints[stints.length - 1]?.yearStart ?? new Date().getFullYear();
         const profile = await getPlayerProfile(candidate.id, lastKnownSeason);
-        position = profile.position;
+        position = normalizePosition(profile.position);
         nationality = profile.nationality;
         age = computeAge(profile.birthDate);
         const looksAbbreviated = /^[A-Z]\.\s?[A-Z]/.test(candidate.name);

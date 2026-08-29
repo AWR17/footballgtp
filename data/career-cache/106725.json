@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
+      "yearEnd": 2026,
       "appearances": 81
     },
     {
@@ -14,13 +15,14 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
+      "yearEnd": 2021,
       "appearances": 110
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

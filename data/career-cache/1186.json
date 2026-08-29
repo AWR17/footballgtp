@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 2
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Turkey",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 44
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 2
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Denmark",
       "yearStart": 2015,
+      "yearEnd": 2020,
       "appearances": 0
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Norway",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 20
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Norway",
       "yearStart": 2018,
+      "yearEnd": 2018,
       "appearances": 30
     },
     {
@@ -54,6 +60,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Norway",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 25
     }
   ],

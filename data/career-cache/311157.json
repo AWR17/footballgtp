@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Brazil",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 16
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 19
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Brazil",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 5
     }
   ],

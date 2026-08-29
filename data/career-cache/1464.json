@@ -6,6 +6,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2011,
+      "yearEnd": 2026,
       "appearances": 58
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 3
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 66
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2016,
+      "yearEnd": 2022,
       "appearances": 225
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2012,
+      "yearEnd": 2015,
       "appearances": 108
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2010,
+      "yearEnd": 2011,
       "appearances": 44
     }
   ],

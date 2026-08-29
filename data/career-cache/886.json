@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Portugal",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2020,
-      "appearances": 14
-    },
-    {
       "clubName": "Manchester United",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
+      "yearEnd": 2026,
       "appearances": 95
+    },
+    {
+      "clubName": "Portugal",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2026,
+      "appearances": 14
     },
     {
       "clubName": "FC Porto",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 6
     }
   ],

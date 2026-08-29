@@ -4,9 +4,10 @@
       "clubName": "Newcastle",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
-      "appearances": 0
+      "yearEnd": 2026,
+      "appearances": 1
     },
     {
       "clubName": "Reims",
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in France",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 0
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, France",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 8
     },
     {
@@ -30,14 +33,15 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, France",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

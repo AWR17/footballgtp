@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Colombia",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2017,
-      "appearances": 44
-    },
-    {
       "clubName": "Crystal Palace",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 34
+    },
+    {
+      "clubName": "Colombia",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2017,
+      "yearEnd": 2026,
+      "appearances": 44
     },
     {
       "clubName": "Bournemouth",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
+      "yearEnd": 2022,
       "appearances": 178
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Spain",
       "yearStart": 2015,
+      "yearEnd": 2017,
       "appearances": 89
     },
     {
@@ -38,10 +42,16 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2013,
+      "yearEnd": 2014,
       "appearances": 61
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
     {
       "season": 2025,
       "leagueId": 528,

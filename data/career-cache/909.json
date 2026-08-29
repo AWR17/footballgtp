@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "England",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2016,
-      "appearances": 26
-    },
-    {
       "clubName": "Manchester United",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
+      "yearEnd": 2026,
       "appearances": 289
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2016,
+      "yearEnd": 2026,
+      "appearances": 26
     }
   ],
   "seasonRecords": [

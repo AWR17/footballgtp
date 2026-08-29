@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Belgium",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2024,
-      "appearances": 1
-    },
-    {
       "clubName": "Manchester United",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 2
+    },
+    {
+      "clubName": "Belgium",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 1
     },
     {
       "clubName": "Antwerp",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 74
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2020,
+      "yearEnd": 2022,
       "appearances": 2
     }
   ],

@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "England",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2024,
-      "appearances": 14
-    },
-    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
+    },
+    {
+      "clubName": "England",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 14
     },
     {
       "clubName": "Nottingham Forest",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2022,
+      "yearEnd": 2025,
       "appearances": 76
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
+      "yearEnd": 2021,
       "appearances": 1
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 0
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2015,
+      "yearEnd": 2015,
       "appearances": 1
     }
   ],

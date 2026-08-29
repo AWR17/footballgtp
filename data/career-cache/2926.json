@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Belgium",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2015,
-      "appearances": 32
-    },
-    {
       "clubName": "Manchester United",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
+    },
+    {
+      "clubName": "Belgium",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2015,
+      "yearEnd": 2026,
+      "appearances": 32
     },
     {
       "clubName": "Aston Villa",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2025,
       "appearances": 73
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
+      "yearEnd": 2022,
       "appearances": 151
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 27
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2013,
+      "yearEnd": 2016,
       "appearances": 139
     }
   ],

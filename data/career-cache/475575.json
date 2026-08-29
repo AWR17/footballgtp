@@ -6,7 +6,17 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 8
+    },
+    {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1
     },
     {
       "clubName": "FC Nordsjaelland",
@@ -14,14 +24,15 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Denmark",
       "yearStart": 2024,
-      "appearances": 57
+      "yearEnd": 2025,
+      "appearances": 55
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 119,
-      "appearances": 2
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

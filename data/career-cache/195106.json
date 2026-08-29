@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
+      "yearEnd": 2026,
       "appearances": 85
     },
     {
@@ -14,13 +15,14 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Brazil",
       "yearStart": 2020,
+      "yearEnd": 2020,
       "appearances": 4
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

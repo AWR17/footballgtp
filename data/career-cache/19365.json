@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 2
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2020,
+      "yearEnd": 2026,
       "appearances": 19
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 30
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "3rd tier, England",
       "yearStart": 2019,
+      "yearEnd": 2022,
       "appearances": 120
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
+      "yearEnd": 2018,
       "appearances": 6
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2015,
+      "yearEnd": 2016,
       "appearances": 9
     }
   ],

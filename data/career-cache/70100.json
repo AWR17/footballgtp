@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 35
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2022,
+      "yearEnd": 2023,
       "appearances": 63
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2024,
+      "yearEnd": 2024,
       "appearances": 0
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Germany",
       "yearStart": 2018,
+      "yearEnd": 2021,
       "appearances": 14
     }
   ],

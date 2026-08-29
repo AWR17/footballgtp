@@ -4,8 +4,9 @@
       "clubName": "Chelsea",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 6
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2025,
       "appearances": 56
     },
     {
@@ -30,13 +33,14 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 4
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Nigeria",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2015,
-      "appearances": 39
-    },
-    {
       "clubName": "Fulham",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 71
+    },
+    {
+      "clubName": "Nigeria",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2015,
+      "yearEnd": 2026,
+      "appearances": 39
     },
     {
       "clubName": "Everton",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
+      "yearEnd": 2022,
       "appearances": 121
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2013,
+      "yearEnd": 2018,
       "appearances": 100
     }
   ],

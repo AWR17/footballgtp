@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
+      "yearEnd": 2026,
       "appearances": 62
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2019,
+      "yearEnd": 2026,
       "appearances": 28
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
+      "yearEnd": 2023,
       "appearances": 104
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 18
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2017,
+      "yearEnd": 2018,
       "appearances": 39
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2014,
+      "yearEnd": 2016,
       "appearances": 47
     },
     {
@@ -54,6 +60,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2013,
+      "yearEnd": 2013,
       "appearances": 21
     }
   ],

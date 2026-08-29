@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Sweden",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2019,
-      "appearances": 27
-    },
-    {
       "clubName": "Arsenal",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 2
+    },
+    {
+      "clubName": "Sweden",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2019,
+      "yearEnd": 2026,
+      "appearances": 27
     },
     {
       "clubName": "Sporting CP",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 66
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
+      "yearEnd": 2022,
       "appearances": 19
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
+      "yearEnd": 2018,
       "appearances": 0
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 24
     },
     {
@@ -54,6 +60,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Sweden",
       "yearStart": 2015,
+      "yearEnd": 2017,
       "appearances": 28
     }
   ],

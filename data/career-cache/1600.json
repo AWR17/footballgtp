@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Greece",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2018,
-      "appearances": 36
-    },
-    {
       "clubName": "Liverpool",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
+      "yearEnd": 2026,
       "appearances": 50
+    },
+    {
+      "clubName": "Greece",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "yearEnd": 2026,
+      "appearances": 36
     },
     {
       "clubName": "AS Roma",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 2
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Greece",
       "yearStart": 2014,
+      "yearEnd": 2019,
       "appearances": 46
     }
   ],

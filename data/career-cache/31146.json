@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2025,
       "appearances": 46
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2018,
+      "yearEnd": 2024,
       "appearances": 16
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2020,
+      "yearEnd": 2022,
       "appearances": 95
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, Italy",
       "yearStart": 2017,
+      "yearEnd": 2019,
       "appearances": 88
     }
   ],

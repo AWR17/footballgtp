@@ -2,11 +2,12 @@
   "stints": [
     {
       "clubName": "Brighton",
-      "country": "England",
+      "country": "World",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
-      "appearances": 231
+      "yearEnd": 2026,
+      "appearances": 232
     },
     {
       "clubName": "Germany",
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 8
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2012,
+      "yearEnd": 2016,
       "appearances": 158
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2010,
+      "yearEnd": 2011,
       "appearances": 25
     },
     {
@@ -38,14 +42,15 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2008,
+      "yearEnd": 2009,
       "appearances": 5
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 848,
+      "appearances": 2
     },
     {
       "season": 2025,

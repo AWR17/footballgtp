@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
-      "appearances": 139
+      "yearEnd": 2026,
+      "appearances": 140
     },
     {
       "clubName": "England",
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 2
     }
   ],
@@ -21,7 +23,7 @@
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

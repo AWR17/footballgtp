@@ -197,15 +197,6 @@
     "plAppsBand": "50-150",
     "nationality": "Netherlands"
   },
-  "833": {
-    "name": "Jaka Bijol",
-    "position": "Defender",
-    "age": 27,
-    "currentClub": "Leeds",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Slovenia"
-  },
   "863": {
     "name": "Rodrigo Bentancur Colmán",
     "position": "Midfielder",
@@ -277,15 +268,6 @@
     "plDebutYear": 2021,
     "plAppsBand": "50-150",
     "nationality": "Jamaica"
-  },
-  "1095": {
-    "name": "Xaver Schlager",
-    "position": "Midfielder",
-    "age": 28,
-    "currentClub": "Nottingham Forest",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Austria"
   },
   "1096": {
     "name": "Dominik Szoboszlai",
@@ -440,23 +422,23 @@
     "plAppsBand": "50-150",
     "nationality": "Portugal"
   },
-  "1591": {
-    "name": "Konstantinos Tzolakis",
-    "position": "Goalkeeper",
-    "age": 23,
-    "currentClub": "Hull City",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Greece"
-  },
   "1600": {
     "name": "Konstantinos Tsimikas",
     "position": "Defender",
     "age": 30,
-    "currentClub": "AS Roma",
+    "currentClub": "Liverpool",
     "plDebutYear": 2020,
     "plAppsBand": "<50",
     "nationality": "Greece"
+  },
+  "1864": {
+    "name": "Pedro Neto",
+    "position": "Attacker",
+    "age": 26,
+    "currentClub": "Chelsea",
+    "plDebutYear": 2019,
+    "plAppsBand": "50-150",
+    "nationality": "Portugal"
   },
   "1904": {
     "name": "Boubacar Kamara",
@@ -525,7 +507,7 @@
     "name": "Ross Barkley",
     "position": "Midfielder",
     "age": 32,
-    "currentClub": "Luton",
+    "currentClub": "Aston Villa",
     "plDebutYear": 2010,
     "plAppsBand": "150-300",
     "nationality": "England"
@@ -606,7 +588,7 @@
     "name": "Joachim Andersen",
     "position": "Defender",
     "age": 30,
-    "currentClub": "Crystal Palace",
+    "currentClub": "Fulham",
     "plDebutYear": 2020,
     "plAppsBand": "150-300",
     "nationality": "Denmark"
@@ -705,7 +687,7 @@
     "name": "Thomas Heaton",
     "position": "Goalkeeper",
     "age": 40,
-    "currentClub": "Aston Villa",
+    "currentClub": "Manchester United",
     "plDebutYear": 2014,
     "plAppsBand": "50-150",
     "nationality": "England"
@@ -818,24 +800,6 @@
     "plAppsBand": "50-150",
     "nationality": "Argentina"
   },
-  "7090": {
-    "name": "Michael Svoboda",
-    "position": "Defender",
-    "age": 27,
-    "currentClub": "Brighton",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Austria"
-  },
-  "7318": {
-    "name": "Amar Dedić",
-    "position": "Defender",
-    "age": 24,
-    "currentClub": "Newcastle",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Bosnia and Herzegovina"
-  },
   "7600": {
     "name": "Igor",
     "position": "Defender",
@@ -871,15 +835,6 @@
     "plDebutYear": 2019,
     "plAppsBand": "<50",
     "nationality": "England"
-  },
-  "9366": {
-    "name": "Igor Jesus",
-    "position": "Attacker",
-    "age": 25,
-    "currentClub": "Nottingham Forest",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Brazil"
   },
   "10135": {
     "name": "Bruno Guimarães",
@@ -926,15 +881,6 @@
     "plAppsBand": "50-150",
     "nationality": "Denmark"
   },
-  "16046": {
-    "name": "Victor Torp Overgaard",
-    "position": "Midfielder",
-    "age": 27,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Denmark"
-  },
   "17597": {
     "name": "Dara O'Shea",
     "position": "Defender",
@@ -953,30 +899,12 @@
     "plAppsBand": "50-150",
     "nationality": "England"
   },
-  "17670": {
-    "name": "Regan Slater",
-    "position": "Midfielder",
-    "age": 26,
-    "currentClub": "Hull City",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "England"
-  },
   "17714": {
     "name": "Luke Woolfenden",
     "position": "Defender",
     "age": 27,
     "currentClub": "Coventry",
     "plDebutYear": 2024,
-    "plAppsBand": "<50",
-    "nationality": "England"
-  },
-  "18202": {
-    "name": "Liam Kitching",
-    "position": "Defender",
-    "age": 26,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
     "plAppsBand": "<50",
     "nationality": "England"
   },
@@ -1092,7 +1020,7 @@
     "name": "Adam Smith",
     "position": "Defender",
     "age": 35,
-    "currentClub": "Millwall",
+    "currentClub": "Bournemouth",
     "plDebutYear": 2011,
     "plAppsBand": "150-300",
     "nationality": "England"
@@ -1252,7 +1180,7 @@
   },
   "18979": {
     "name": "Viktor Gyökeres",
-    "position": "Forward",
+    "position": "Attacker",
     "age": 28,
     "currentClub": "Arsenal",
     "plDebutYear": 2018,
@@ -1290,7 +1218,7 @@
     "name": "Kouassi Sessegnon",
     "position": "Midfielder",
     "age": 26,
-    "currentClub": "Tottenham",
+    "currentClub": "Fulham",
     "plDebutYear": 2018,
     "plAppsBand": "50-150",
     "nationality": "England"
@@ -1441,9 +1369,9 @@
   },
   "19194": {
     "name": "Tammy Bakumo-Abraham",
-    "position": "Forward",
+    "position": "Attacker",
     "age": 28,
-    "currentClub": "AC Milan",
+    "currentClub": "Aston Villa",
     "plDebutYear": 2015,
     "plAppsBand": "<50",
     "nationality": "England"
@@ -1515,7 +1443,7 @@
     "name": "Samuel Byram",
     "position": "Defender",
     "age": 32,
-    "currentClub": "Norwich",
+    "currentClub": "Leeds",
     "plDebutYear": 2016,
     "plAppsBand": "50-150",
     "nationality": "England"
@@ -1533,7 +1461,7 @@
     "name": "Ryan Yates",
     "position": "Midfielder",
     "age": 28,
-    "currentClub": "Notts County",
+    "currentClub": "Nottingham Forest",
     "plDebutYear": 2022,
     "plAppsBand": "50-150",
     "nationality": "England"
@@ -1587,7 +1515,7 @@
     "name": "Ellery Balcombe",
     "position": "Goalkeeper",
     "age": 26,
-    "currentClub": "Crawley Town",
+    "currentClub": "Brentford",
     "plDebutYear": 2023,
     "plAppsBand": "<50",
     "nationality": "England"
@@ -1790,15 +1718,6 @@
     "plAppsBand": "50-150",
     "nationality": "Jamaica"
   },
-  "19811": {
-    "name": "Dillon Phillips",
-    "position": "Goalkeeper",
-    "age": 31,
-    "currentClub": "Hull City",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "England"
-  },
   "19911": {
     "name": "Luke O'Nien",
     "position": "Midfielder",
@@ -1817,15 +1736,6 @@
     "plAppsBand": "150-300",
     "nationality": "England"
   },
-  "19984": {
-    "name": "Joshua Eccles",
-    "position": "Midfielder",
-    "age": 26,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "England"
-  },
   "20073": {
     "name": "Lewie Coyle",
     "position": "Defender",
@@ -1841,24 +1751,6 @@
     "age": 24,
     "currentClub": "Bournemouth",
     "plDebutYear": 2022,
-    "plAppsBand": "<50",
-    "nationality": "England"
-  },
-  "20372": {
-    "name": "Jack Rudoni",
-    "position": "Midfielder",
-    "age": 25,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "England"
-  },
-  "20484": {
-    "name": "Ben Wilson",
-    "position": "Goalkeeper",
-    "age": 34,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
     "plAppsBand": "<50",
     "nationality": "England"
   },
@@ -1898,15 +1790,6 @@
     "plAppsBand": "50-150",
     "nationality": "Congo DR"
   },
-  "20995": {
-    "name": "Maxence Lacroix",
-    "position": "Defender",
-    "age": 26,
-    "currentClub": "Chelsea",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
-  },
   "21138": {
     "name": "Rayan Aït-Nouri",
     "position": "Defender",
@@ -1915,15 +1798,6 @@
     "plDebutYear": 2020,
     "plAppsBand": "50-150",
     "nationality": "Algeria"
-  },
-  "21566": {
-    "name": "Benjamin Lecomte",
-    "position": "Goalkeeper",
-    "age": 35,
-    "currentClub": "Fulham",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
   },
   "22090": {
     "name": "William Saliba",
@@ -1969,15 +1843,6 @@
     "plDebutYear": 2026,
     "plAppsBand": "<50",
     "nationality": "Argentina"
-  },
-  "22160": {
-    "name": "Olivier Boscagli",
-    "position": "Defender",
-    "age": 28,
-    "currentClub": "Brighton",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
   },
   "22224": {
     "name": "Gabriel Magalhães",
@@ -2060,48 +1925,12 @@
     "plAppsBand": "<50",
     "nationality": "Italy"
   },
-  "32966": {
-    "name": "Ao Tanaka",
-    "position": "Midfielder",
-    "age": 27,
-    "currentClub": "Leeds",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Japan"
-  },
-  "33224": {
-    "name": "Daizen Maeda",
-    "position": "Forward",
-    "age": 28,
-    "currentClub": "Ipswich",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Japan"
-  },
-  "33462": {
-    "name": "Tatsuhiro Sakamoto",
-    "position": "Midfielder",
-    "age": 29,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Japan"
-  },
   "36922": {
     "name": "S. van den Berg",
     "position": "Defender",
     "age": 24,
     "currentClub": "Brentford",
     "plDebutYear": 2020,
-    "plAppsBand": "<50",
-    "nationality": "Netherlands"
-  },
-  "36929": {
-    "name": "Gustavo Hamer",
-    "position": "Midfielder",
-    "age": 29,
-    "currentClub": "Sheffield Utd",
-    "plDebutYear": 2026,
     "plAppsBand": "<50",
     "nationality": "Netherlands"
   },
@@ -2120,15 +1949,6 @@
     "age": 26,
     "currentClub": "Ipswich",
     "plDebutYear": 2021,
-    "plAppsBand": "<50",
-    "nationality": "Netherlands"
-  },
-  "37961": {
-    "name": "M. van Ewijk",
-    "position": "Defender",
-    "age": 25,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
     "plAppsBand": "<50",
     "nationality": "Netherlands"
   },
@@ -2176,15 +1996,6 @@
     "plDebutYear": 2024,
     "plAppsBand": "<50",
     "nationality": "Portugal"
-  },
-  "44798": {
-    "name": "Liam Millar",
-    "position": "Attacker",
-    "age": 26,
-    "currentClub": "Hull City",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Canada"
   },
   "44871": {
     "name": "Aaron Buchanan Hickey",
@@ -2240,24 +2051,6 @@
     "plAppsBand": "<50",
     "nationality": "Spain"
   },
-  "48389": {
-    "name": "Noah Okafor",
-    "position": "Attacker",
-    "age": 26,
-    "currentClub": "Leeds",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Switzerland"
-  },
-  "48648": {
-    "name": "Dan Ndoye",
-    "position": "Attacker",
-    "age": 25,
-    "currentClub": "Nottingham Forest",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Switzerland"
-  },
   "50739": {
     "name": "Brenden Aaronson",
     "position": "Midfielder",
@@ -2293,6 +2086,15 @@
     "plDebutYear": 2023,
     "plAppsBand": "<50",
     "nationality": "Iceland"
+  },
+  "63577": {
+    "name": "Mykhailo Mudryk",
+    "position": "Midfielder",
+    "age": 25,
+    "currentClub": "Chelsea",
+    "plDebutYear": 2022,
+    "plAppsBand": "50-150",
+    "nationality": "Ukraine"
   },
   "64003": {
     "name": "Pascal Struijk",
@@ -2348,32 +2150,14 @@
     "plAppsBand": "<50",
     "nationality": "Netherlands"
   },
-  "70366": {
-    "name": "John",
-    "position": "Goalkeeper",
-    "age": 30,
-    "currentClub": "Nottingham Forest",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Brazil"
-  },
   "70747": {
     "name": "Julio Enciso Espínola",
     "position": "Midfielder",
     "age": 22,
-    "currentClub": "Strasbourg",
+    "currentClub": "Ipswich",
     "plDebutYear": 2023,
     "plAppsBand": "<50",
     "nationality": "Paraguay"
-  },
-  "80296": {
-    "name": "Lucas Perri",
-    "position": "Goalkeeper",
-    "age": 28,
-    "currentClub": "Leeds",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Brazil"
   },
   "81573": {
     "name": "Omar Marmoush",
@@ -2383,15 +2167,6 @@
     "plDebutYear": 2024,
     "plAppsBand": "<50",
     "nationality": "Egypt"
-  },
-  "82090": {
-    "name": "Solomon Thomas-Asante",
-    "position": "Attacker",
-    "age": 27,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "England"
   },
   "82097": {
     "name": "Alexander Palmer",
@@ -2503,7 +2278,7 @@
   },
   "125743": {
     "name": "Beto",
-    "position": "Forward",
+    "position": "Attacker",
     "age": 28,
     "currentClub": "Everton",
     "plDebutYear": 2023,
@@ -2654,24 +2429,6 @@
     "plAppsBand": "<50",
     "nationality": "England"
   },
-  "145538": {
-    "name": "Joel Latibeaudiere",
-    "position": "Defender",
-    "age": 26,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Jamaica"
-  },
-  "147831": {
-    "name": "Arnaud Kalimuendo-Muinga",
-    "position": "Attacker",
-    "age": 24,
-    "currentClub": "Nottingham Forest",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
-  },
   "148099": {
     "name": "Kiernan Dewsbury-Hall",
     "position": "Midfielder",
@@ -2710,7 +2467,7 @@
   },
   "152856": {
     "name": "Evanilson",
-    "position": "Forward",
+    "position": "Attacker",
     "age": 26,
     "currentClub": "Bournemouth",
     "plDebutYear": 2024,
@@ -2798,15 +2555,6 @@
     "plAppsBand": "<50",
     "nationality": "Côte d'Ivoire"
   },
-  "158054": {
-    "name": "Nick Woltemade",
-    "position": "Attacker",
-    "age": 24,
-    "currentClub": "Newcastle",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Germany"
-  },
   "158694": {
     "name": "Valentino Livramento",
     "position": "Defender",
@@ -2824,15 +2572,6 @@
     "plDebutYear": 2021,
     "plAppsBand": "<50",
     "nationality": "England"
-  },
-  "161621": {
-    "name": "Loum Tchaouna",
-    "position": "Attacker",
-    "age": 22,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
   },
   "161800": {
     "name": "Christos Tzolis",
@@ -2870,15 +2609,6 @@
     "plAppsBand": "<50",
     "nationality": "England"
   },
-  "162007": {
-    "name": "Maxim De Cuyper",
-    "position": "Defender",
-    "age": 25,
-    "currentClub": "Brighton",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Belgium"
-  },
   "162012": {
     "name": "Matteo Ruggeri",
     "position": "Defender",
@@ -2905,15 +2635,6 @@
     "plDebutYear": 2026,
     "plAppsBand": "<50",
     "nationality": "France"
-  },
-  "162414": {
-    "name": "Aurèle Amenda",
-    "position": "Defender",
-    "age": 23,
-    "currentClub": "Coventry",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Switzerland"
   },
   "162489": {
     "name": "James Trafford",
@@ -2969,15 +2690,6 @@
     "plAppsBand": "<50",
     "nationality": "Germany"
   },
-  "163189": {
-    "name": "Malick Thiaw",
-    "position": "Defender",
-    "age": 25,
-    "currentClub": "Newcastle",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Germany"
-  },
   "167663": {
     "name": "Thomas Wayne McGill",
     "position": "Goalkeeper",
@@ -2986,15 +2698,6 @@
     "plDebutYear": 2020,
     "plAppsBand": "<50",
     "nationality": "Canada"
-  },
-  "177665": {
-    "name": "Anton Stach",
-    "position": "Midfielder",
-    "age": 27,
-    "currentClub": "Leeds",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Germany"
   },
   "178077": {
     "name": "Kevin Schade",
@@ -3014,32 +2717,14 @@
     "plAppsBand": "<50",
     "nationality": "Scotland"
   },
-  "179843": {
-    "name": "Lucas Gourna-Douath",
-    "position": "Midfielder",
-    "age": 23,
-    "currentClub": "Hull City",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
-  },
   "180940": {
     "name": "Teddy Sharman-Lowe",
     "position": "Goalkeeper",
     "age": 23,
-    "currentClub": "Doncaster",
+    "currentClub": "Chelsea",
     "plDebutYear": 2021,
     "plAppsBand": "<50",
     "nationality": "England"
-  },
-  "181734": {
-    "name": "Pep Chavarría",
-    "position": "Defender",
-    "age": 28,
-    "currentClub": "Chelsea",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Spain"
   },
   "182201": {
     "name": "Tyrick Mitchell",
@@ -3095,15 +2780,6 @@
     "plAppsBand": "50-150",
     "nationality": "Brazil"
   },
-  "195121": {
-    "name": "Marcelino Núñez Espinoza",
-    "position": "Midfielder",
-    "age": 26,
-    "currentClub": "Ipswich",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Chile"
-  },
   "195993": {
     "name": "Carlos Alcaraz Duran",
     "position": "Midfielder",
@@ -3140,15 +2816,6 @@
     "plAppsBand": "<50",
     "nationality": "Japan"
   },
-  "202854": {
-    "name": "Merlin Röhl",
-    "position": "Midfielder",
-    "age": 24,
-    "currentClub": "Everton",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Germany"
-  },
   "203224": {
     "name": "Florian Wirtz",
     "position": "Midfielder",
@@ -3157,15 +2824,6 @@
     "plDebutYear": 2026,
     "plAppsBand": "<50",
     "nationality": "Germany"
-  },
-  "204037": {
-    "name": "Costinha",
-    "position": "Defender",
-    "age": 26,
-    "currentClub": "Brighton",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Portugal"
   },
   "204039": {
     "name": "Iyenoma Udogie",
@@ -3193,15 +2851,6 @@
     "plDebutYear": 2022,
     "plAppsBand": "50-150",
     "nationality": "Senegal"
-  },
-  "237819": {
-    "name": "Kevin",
-    "position": "Attacker",
-    "age": 23,
-    "currentClub": "Fulham",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Brazil"
   },
   "263538": {
     "name": "Yehor Yarmolyuk",
@@ -3248,15 +2897,6 @@
     "plAppsBand": "<50",
     "nationality": "Brazil"
   },
-  "269349": {
-    "name": "Lukáš Horníček",
-    "position": "Goalkeeper",
-    "age": 24,
-    "currentClub": "Newcastle",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Czechia"
-  },
   "270139": {
     "name": "Jake O'Brien",
     "position": "Defender",
@@ -3274,24 +2914,6 @@
     "plDebutYear": 2024,
     "plAppsBand": "<50",
     "nationality": "France"
-  },
-  "271350": {
-    "name": "Tarik Muharemović",
-    "position": "Defender",
-    "age": 23,
-    "currentClub": "Leeds",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Bosnia and Herzegovina"
-  },
-  "277306": {
-    "name": "Mamadou Sangaré",
-    "position": "Midfielder",
-    "age": 24,
-    "currentClub": "Brentford",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Mali"
   },
   "278088": {
     "name": "Carl Rushworth",
@@ -3536,15 +3158,6 @@
     "plAppsBand": "<50",
     "nationality": "Scotland"
   },
-  "286894": {
-    "name": "Jamie Bynoe-Gittens",
-    "position": "Attacker",
-    "age": 22,
-    "currentClub": "Chelsea",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "England"
-  },
   "287109": {
     "name": "James McConnell",
     "position": "Midfielder",
@@ -3576,7 +3189,7 @@
     "name": "Ibrahim Osman",
     "position": "Attacker",
     "age": 21,
-    "currentClub": "Birmingham",
+    "currentClub": "Brighton",
     "plDebutYear": 2024,
     "plAppsBand": "<50",
     "nationality": "Ghana"
@@ -3585,7 +3198,7 @@
     "name": "Daniel Jebbison",
     "position": "Attacker",
     "age": 23,
-    "currentClub": "Preston",
+    "currentClub": "Bournemouth",
     "plDebutYear": 2020,
     "plAppsBand": "<50",
     "nationality": "Canada"
@@ -3608,15 +3221,6 @@
     "plAppsBand": "<50",
     "nationality": "England"
   },
-  "299923": {
-    "name": "Mohamed Belloumi",
-    "position": "Forward",
-    "age": 24,
-    "currentClub": "Hull City",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Algeria"
-  },
   "301771": {
     "name": "Simon Adingra",
     "position": "Attacker",
@@ -3637,7 +3241,7 @@
   },
   "303467": {
     "name": "Issahaku Fatawu",
-    "position": "Forward",
+    "position": "Attacker",
     "age": 22,
     "currentClub": "Ipswich",
     "plDebutYear": 2026,
@@ -3702,7 +3306,7 @@
     "name": "Amario Cozier-Duberry",
     "position": "Midfielder",
     "age": 21,
-    "currentClub": "Bolton",
+    "currentClub": "Brighton",
     "plDebutYear": 2022,
     "plAppsBand": "<50",
     "nationality": "England"
@@ -3763,7 +3367,7 @@
   },
   "321648": {
     "name": "Emersonn",
-    "position": "Forward",
+    "position": "Attacker",
     "age": 22,
     "currentClub": "Ipswich",
     "plDebutYear": 2026,
@@ -3819,7 +3423,7 @@
     "name": "Lewis Koumas",
     "position": "Attacker",
     "age": 20,
-    "currentClub": "Hull City",
+    "currentClub": "Liverpool",
     "plDebutYear": 2023,
     "plAppsBand": "<50",
     "nationality": "England"
@@ -3832,15 +3436,6 @@
     "plDebutYear": 2023,
     "plAppsBand": "<50",
     "nationality": "England"
-  },
-  "329640": {
-    "name": "Ewen Jaouen",
-    "position": "Goalkeeper",
-    "age": 20,
-    "currentClub": "Newcastle",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
   },
   "331832": {
     "name": "António Silva",
@@ -3871,21 +3466,12 @@
   },
   "336659": {
     "name": "Chemsdine Talbi",
-    "position": "Forward",
+    "position": "Attacker",
     "age": 21,
     "currentClub": "Sunderland",
     "plDebutYear": 2026,
     "plAppsBand": "<50",
     "nationality": "Morocco"
-  },
-  "336711": {
-    "name": "Gonzalo García",
-    "position": "Attacker",
-    "age": 22,
-    "currentClub": "Fulham",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Spain"
   },
   "337934": {
     "name": "Leo Shahar",
@@ -3923,24 +3509,6 @@
     "plAppsBand": "<50",
     "nationality": "England"
   },
-  "340151": {
-    "name": "Mike Penders",
-    "position": "Goalkeeper",
-    "age": 21,
-    "currentClub": "Chelsea",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Belgium"
-  },
-  "341642": {
-    "name": "Jorrel Hato",
-    "position": "Defender",
-    "age": 20,
-    "currentClub": "Chelsea",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Netherlands"
-  },
   "342022": {
     "name": "Michael Kayode",
     "position": "Defender",
@@ -3958,15 +3526,6 @@
     "plDebutYear": 2024,
     "plAppsBand": "<50",
     "nationality": "England"
-  },
-  "342654": {
-    "name": "Sindre Egeli",
-    "position": "Attacker",
-    "age": 20,
-    "currentClub": "Ipswich",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Norway"
   },
   "342970": {
     "name": "Leny Yoro",
@@ -3995,15 +3554,6 @@
     "plAppsBand": "<50",
     "nationality": "Scotland"
   },
-  "343684": {
-    "name": "Thierno Barry",
-    "position": "Attacker",
-    "age": 23,
-    "currentClub": "Everton",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
-  },
   "344229": {
     "name": "Jack Moorhouse",
     "position": "Midfielder",
@@ -4031,15 +3581,6 @@
     "plAppsBand": "<50",
     "nationality": "England"
   },
-  "354753": {
-    "name": "Ousmane Diomande",
-    "position": "Defender",
-    "age": 22,
-    "currentClub": "Nottingham Forest",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Côte d'Ivoire"
-  },
   "356041": {
     "name": "Carlos Quomah Baleba",
     "position": "Midfielder",
@@ -4048,24 +3589,6 @@
     "plDebutYear": 2023,
     "plAppsBand": "50-150",
     "nationality": "Cameroon"
-  },
-  "358166": {
-    "name": "Abdoul Ouattara",
-    "position": "Midfielder",
-    "age": 20,
-    "currentClub": "Ipswich",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
-  },
-  "358431": {
-    "name": "Nobel Mendy",
-    "position": "Defender",
-    "age": 22,
-    "currentClub": "Hull City",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
   },
   "360114": {
     "name": "Abduqodir Khusanov",
@@ -4093,15 +3616,6 @@
     "plDebutYear": 2023,
     "plAppsBand": "<50",
     "nationality": "England"
-  },
-  "362711": {
-    "name": "Jair",
-    "position": "Defender",
-    "age": 21,
-    "currentClub": "Nottingham Forest",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Brazil"
   },
   "363695": {
     "name": "Murillo",
@@ -4193,33 +3707,6 @@
     "plAppsBand": "<50",
     "nationality": "England"
   },
-  "386306": {
-    "name": "César Palacios",
-    "position": "Midfielder",
-    "age": 21,
-    "currentClub": "Fulham",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Spain"
-  },
-  "387521": {
-    "name": "Luka Vušković",
-    "position": "Defender",
-    "age": 19,
-    "currentClub": "Brighton",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Croatia"
-  },
-  "387643": {
-    "name": "Bazoumana Touré",
-    "position": "Attacker",
-    "age": 20,
-    "currentClub": "Newcastle",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Côte d'Ivoire"
-  },
   "389032": {
     "name": "Kieran Morrison",
     "position": "Midfielder",
@@ -4255,15 +3742,6 @@
     "plDebutYear": 2024,
     "plAppsBand": "<50",
     "nationality": "Spain"
-  },
-  "392482": {
-    "name": "Charalampos Kostoulas",
-    "position": "Attacker",
-    "age": 19,
-    "currentClub": "Brighton",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Greece"
   },
   "394165": {
     "name": "Sean Neave",
@@ -4323,7 +3801,7 @@
     "name": "Malick Yalcouyé",
     "position": "Midfielder",
     "age": 20,
-    "currentClub": "Swansea",
+    "currentClub": "Brighton",
     "plDebutYear": 2024,
     "plAppsBand": "<50",
     "nationality": "Mali"
@@ -4346,9 +3824,18 @@
     "plAppsBand": "<50",
     "nationality": "Brazil"
   },
+  "414385": {
+    "name": "Claudio Echeverri",
+    "position": "Midfielder",
+    "age": 20,
+    "currentClub": "Manchester City",
+    "plDebutYear": 2024,
+    "plAppsBand": "<50",
+    "nationality": "Argentina"
+  },
   "419582": {
     "name": "Geovany Tcherno Quenda",
-    "position": "Forward",
+    "position": "Attacker",
     "age": 19,
     "currentClub": "Chelsea",
     "plDebutYear": 2026,
@@ -4364,15 +3851,6 @@
     "plAppsBand": "<50",
     "nationality": "Argentina"
   },
-  "425733": {
-    "name": "Estêvão",
-    "position": "Attacker",
-    "age": 19,
-    "currentClub": "Chelsea",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Brazil"
-  },
   "427736": {
     "name": "Gustavo Gomes",
     "position": "Attacker",
@@ -4382,19 +3860,10 @@
     "plAppsBand": "<50",
     "nationality": "Brazil"
   },
-  "441271": {
-    "name": "Jannik Schuster",
-    "position": "Defender",
-    "age": 20,
-    "currentClub": "Brentford",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Austria"
-  },
   "452685": {
     "name": "Rio Ngumoha",
-    "position": "Midfielder",
-    "age": 17,
+    "position": "Attacker",
+    "age": 18,
     "currentClub": "Liverpool",
     "plDebutYear": 2024,
     "plAppsBand": "<50",
@@ -4408,15 +3877,6 @@
     "plDebutYear": 2024,
     "plAppsBand": "<50",
     "nationality": "England"
-  },
-  "453792": {
-    "name": "Aladji Bamba",
-    "position": "Midfielder",
-    "age": 20,
-    "currentClub": "Newcastle",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "France"
   },
   "460853": {
     "name": "Jeremy Monga",
@@ -4444,15 +3904,6 @@
     "plDebutYear": 2024,
     "plAppsBand": "<50",
     "nationality": "England"
-  },
-  "469321": {
-    "name": "Sean Steur",
-    "position": "Midfielder",
-    "age": 18,
-    "currentClub": "Newcastle",
-    "plDebutYear": 2026,
-    "plAppsBand": "<50",
-    "nationality": "Netherlands"
   },
   "545996": {
     "name": "J. Lienou",

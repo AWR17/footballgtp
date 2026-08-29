@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Italy",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2016,
-      "appearances": 37
-    },
-    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 1
+    },
+    {
+      "clubName": "Italy",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2016,
+      "yearEnd": 2026,
+      "appearances": 37
     },
     {
       "clubName": "Paris Saint Germain",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2021,
+      "yearEnd": 2024,
       "appearances": 104
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2014,
+      "yearEnd": 2020,
       "appearances": 215
     }
   ],

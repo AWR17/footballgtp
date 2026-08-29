@@ -1,0 +1,73 @@
+{
+  "stints": [
+    {
+      "clubName": "Chelsea",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "yearEnd": 2025,
+      "appearances": 68
+    },
+    {
+      "clubName": "Ukraine",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2024,
+      "appearances": 20
+    },
+    {
+      "clubName": "Shakhtar Donetsk",
+      "country": "Ukraine",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Ukraine",
+      "yearStart": 2018,
+      "yearEnd": 2021,
+      "appearances": 17
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 12
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 35
+    },
+    {
+      "season": 2022,
+      "leagueId": 39,
+      "appearances": 19
+    },
+    {
+      "season": 2021,
+      "leagueId": 333,
+      "appearances": 11
+    },
+    {
+      "season": 2020,
+      "leagueId": 333,
+      "appearances": 3
+    },
+    {
+      "season": 2019,
+      "leagueId": 333,
+      "appearances": 3
+    },
+    {
+      "season": 2018,
+      "leagueId": 333,
+      "appearances": 0
+    }
+  ]
+}

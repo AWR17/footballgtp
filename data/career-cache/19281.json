@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Ghana",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2022,
-      "appearances": 16
-    },
-    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 3
+    },
+    {
+      "clubName": "Ghana",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "yearEnd": 2026,
+      "appearances": 16
     },
     {
       "clubName": "Bournemouth",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
+      "yearEnd": 2024,
       "appearances": 84
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
+      "yearEnd": 2021,
       "appearances": 81
     }
   ],

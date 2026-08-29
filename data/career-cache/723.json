@@ -6,6 +6,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 8
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
+      "yearEnd": 2025,
       "appearances": 186
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2015,
+      "yearEnd": 2018,
       "appearances": 29
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Austria",
       "yearStart": 2016,
+      "yearEnd": 2017,
       "appearances": 60
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2014,
+      "yearEnd": 2014,
       "appearances": 1
     }
   ],

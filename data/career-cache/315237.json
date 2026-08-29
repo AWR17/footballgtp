@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Denmark",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2024,
-      "appearances": 2
-    },
-    {
       "clubName": "Newcastle",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 70
+    },
+    {
+      "clubName": "Denmark",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 2
     },
     {
       "clubName": "Sheffield Utd",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
+      "yearEnd": 2022,
       "appearances": 9
     }
   ],

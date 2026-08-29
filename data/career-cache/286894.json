@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "European competition",
       "yearStart": 2022,
-      "appearances": 4
+      "yearEnd": 2026,
+      "appearances": 5
     },
     {
       "clubName": "Borussia Dortmund",
@@ -14,14 +15,15 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
+      "yearEnd": 2024,
       "appearances": 63
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

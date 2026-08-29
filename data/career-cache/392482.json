@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Brighton",
-      "country": "England",
-      "isNationalTeam": false,
-      "tierLabel": "a club in England",
-      "yearStart": 2025,
-      "appearances": 4
-    },
-    {
       "clubName": "Greece",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 4
+    },
+    {
+      "clubName": "Brighton",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2025,
+      "yearEnd": 2026,
+      "appearances": 5
     },
     {
       "clubName": "Olympiakos Piraeus",
@@ -22,14 +24,15 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Greece",
       "yearStart": 2024,
+      "yearEnd": 2024,
       "appearances": 12
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 848,
+      "appearances": 2
     },
     {
       "season": 2025,

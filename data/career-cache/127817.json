@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Ecuador",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2021,
-      "appearances": 39
-    },
-    {
       "clubName": "Arsenal",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 3
+    },
+    {
+      "clubName": "Ecuador",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2021,
+      "yearEnd": 2026,
+      "appearances": 39
     },
     {
       "clubName": "Bayer Leverkusen",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
+      "yearEnd": 2024,
       "appearances": 116
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Argentina",
       "yearStart": 2020,
+      "yearEnd": 2020,
       "appearances": 1
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Ecuador",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 1
     }
   ],

@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
-      "appearances": 1
+      "yearEnd": 2026,
+      "appearances": 2
     },
     {
       "clubName": "Israel",
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 14
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2024,
+      "yearEnd": 2025,
       "appearances": 72
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Israel",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 0
     }
   ],
@@ -37,7 +41,7 @@
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2024,

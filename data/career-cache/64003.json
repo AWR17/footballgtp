@@ -2,11 +2,12 @@
   "stints": [
     {
       "clubName": "Brighton",
-      "country": "England",
+      "country": "World",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in World",
       "yearStart": 2026,
-      "appearances": 0
+      "yearEnd": 2026,
+      "appearances": 1
     },
     {
       "clubName": "Leeds",
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
+      "yearEnd": 2025,
       "appearances": 153
     },
     {
@@ -22,14 +24,15 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 848,
+      "appearances": 1
     },
     {
       "season": 2025,

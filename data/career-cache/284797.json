@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
+      "yearEnd": 2026,
       "appearances": 87
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2021,
+      "yearEnd": 2026,
       "appearances": 9
     },
     {
@@ -22,13 +24,14 @@
       "isNationalTeam": false,
       "tierLabel": "a club in France",
       "yearStart": 2020,
+      "yearEnd": 2021,
       "appearances": 25
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

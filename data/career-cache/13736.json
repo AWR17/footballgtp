@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Colombia",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2021,
-      "appearances": 35
-    },
-    {
       "clubName": "Crystal Palace",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 23
+    },
+    {
+      "clubName": "Colombia",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2021,
+      "yearEnd": 2026,
+      "appearances": 35
     },
     {
       "clubName": "Genk",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2020,
+      "yearEnd": 2022,
       "appearances": 105
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Colombia",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 20
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Colombia",
       "yearStart": 2017,
+      "yearEnd": 2018,
       "appearances": 62
     }
   ],

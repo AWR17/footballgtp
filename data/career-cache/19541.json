@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2021,
-      "appearances": 55
+      "yearEnd": 2026,
+      "appearances": 56
     },
     {
       "clubName": "Brighton",
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2013,
+      "yearEnd": 2020,
       "appearances": 3
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 46
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2017,
+      "yearEnd": 2018,
       "appearances": 34
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "3rd tier, England",
       "yearStart": 2015,
+      "yearEnd": 2015,
       "appearances": 4
     },
     {
@@ -46,14 +51,15 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2011,
+      "yearEnd": 2011,
       "appearances": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

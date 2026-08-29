@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Serbia",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2020,
-      "appearances": 3
-    },
-    {
       "clubName": "Bournemouth",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 2
+    },
+    {
+      "clubName": "Serbia",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2026,
+      "appearances": 3
     },
     {
       "clubName": "Strasbourg",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2024,
+      "yearEnd": 2024,
       "appearances": 31
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 23
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, USA",
       "yearStart": 2022,
+      "yearEnd": 2022,
       "appearances": 21
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Serbia",
       "yearStart": 2019,
+      "yearEnd": 2021,
       "appearances": 78
     }
   ],

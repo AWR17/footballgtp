@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Argentina",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2015,
-      "appearances": 4
-    },
-    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "European competition",
       "yearStart": 2016,
+      "yearEnd": 2026,
       "appearances": 0
+    },
+    {
+      "clubName": "Argentina",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2015,
+      "yearEnd": 2026,
+      "appearances": 4
     },
     {
       "clubName": "Marseille",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2024,
+      "yearEnd": 2025,
       "appearances": 35
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2022,
+      "yearEnd": 2023,
       "appearances": 26
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Spain",
       "yearStart": 2020,
+      "yearEnd": 2021,
       "appearances": 34
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 25
     },
     {
@@ -54,6 +60,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Spain",
       "yearStart": 2014,
+      "yearEnd": 2018,
       "appearances": 111
     },
     {
@@ -62,6 +69,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2010,
+      "yearEnd": 2013,
       "appearances": 50
     }
   ],

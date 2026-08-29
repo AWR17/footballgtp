@@ -6,7 +6,17 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 0
+    },
+    {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 2
     },
     {
       "clubName": "River Plate",
@@ -14,19 +24,25 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Argentina",
       "yearStart": 2023,
-      "appearances": 35
+      "yearEnd": 2023,
+      "appearances": 5
     }
   ],
   "seasonRecords": [
     {
-      "season": 2025,
-      "leagueId": 128,
+      "season": 2026,
+      "leagueId": 39,
       "appearances": 0
     },
     {
+      "season": 2025,
+      "leagueId": 15,
+      "appearances": 1
+    },
+    {
       "season": 2024,
-      "leagueId": 128,
-      "appearances": 30
+      "leagueId": 39,
+      "appearances": 1
     },
     {
       "season": 2023,

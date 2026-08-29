@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Japan",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2018,
-      "appearances": 27
-    },
-    {
       "clubName": "Crystal Palace",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
-      "appearances": 1
+      "yearEnd": 2026,
+      "appearances": 2
+    },
+    {
+      "clubName": "Japan",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "yearEnd": 2026,
+      "appearances": 27
     },
     {
       "clubName": "Ajax",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 9
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
+      "yearEnd": 2024,
       "appearances": 66
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2019,
+      "yearEnd": 2020,
       "appearances": 60
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2017,
+      "yearEnd": 2018,
       "appearances": 27
     },
     {
@@ -54,6 +60,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Japan",
       "yearStart": 2015,
+      "yearEnd": 2016,
       "appearances": 10
     }
   ],
@@ -61,7 +68,7 @@
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

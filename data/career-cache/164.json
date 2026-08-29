@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
-      "appearances": 263
+      "yearEnd": 2026,
+      "appearances": 264
     },
     {
       "clubName": "Wales",
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2013,
+      "yearEnd": 2026,
       "appearances": 44
     },
     {
@@ -22,14 +24,15 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2012,
+      "yearEnd": 2013,
       "appearances": 71
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

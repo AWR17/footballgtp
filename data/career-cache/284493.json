@@ -1,19 +1,21 @@
 {
   "stints": [
     {
-      "clubName": "Rep. Of Ireland",
-      "country": "World",
-      "isNationalTeam": false,
-      "tierLabel": "a club in World",
-      "yearStart": 2026,
-      "appearances": 1
-    },
-    {
       "clubName": "Cercle Brugge",
       "country": "Belgium",
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1
+    },
+    {
+      "clubName": "Rep. Of Ireland",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -22,18 +24,19 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 10,
+      "leagueId": 144,
       "appearances": 1
     },
     {
       "season": 2026,
-      "leagueId": 144,
+      "leagueId": 10,
       "appearances": 1
     },
     {

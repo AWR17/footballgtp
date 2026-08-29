@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 2
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2025,
+      "yearEnd": 2026,
       "appearances": 5
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Brazil",
       "yearStart": 2024,
+      "yearEnd": 2024,
       "appearances": 22
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in United-Arab-Emirates",
       "yearStart": 2020,
+      "yearEnd": 2023,
       "appearances": 66
     },
     {
@@ -38,13 +42,14 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 8
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

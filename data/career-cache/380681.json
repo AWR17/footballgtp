@@ -4,15 +4,16 @@
       "clubName": "West Ham",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "2nd tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 40,
+      "leagueId": 48,
       "appearances": 1
     }
   ]

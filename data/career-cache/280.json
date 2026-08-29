@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Brazil",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2015,
-      "appearances": 39
-    },
-    {
       "clubName": "Liverpool",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
+      "yearEnd": 2026,
       "appearances": 208
+    },
+    {
+      "clubName": "Brazil",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2015,
+      "yearEnd": 2026,
+      "appearances": 39
     },
     {
       "clubName": "AS Roma",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2016,
+      "yearEnd": 2017,
       "appearances": 37
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Brazil",
       "yearStart": 2013,
+      "yearEnd": 2015,
       "appearances": 24
     }
   ],

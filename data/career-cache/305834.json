@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Brazil",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2023,
-      "appearances": 4
-    },
-    {
       "clubName": "Manchester United",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
+    },
+    {
+      "clubName": "Brazil",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2023,
+      "yearEnd": 2026,
+      "appearances": 4
     },
     {
       "clubName": "Chelsea",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2025,
       "appearances": 4
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Brazil",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 3
     }
   ],

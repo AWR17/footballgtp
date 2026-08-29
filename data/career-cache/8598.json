@@ -4,8 +4,9 @@
       "clubName": "Coventry",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
+      "yearEnd": 2025,
       "appearances": 82
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2021,
+      "yearEnd": 2025,
       "appearances": 7
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2020,
+      "yearEnd": 2021,
       "appearances": 52
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 12
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2018,
+      "yearEnd": 2018,
       "appearances": 16
     },
     {
@@ -54,6 +60,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 27
     },
     {
@@ -62,6 +69,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2016,
+      "yearEnd": 2016,
       "appearances": 18
     },
     {
@@ -70,13 +78,14 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2015,
+      "yearEnd": 2015,
       "appearances": 13
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

@@ -6,14 +6,16 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 2
     },
     {
       "clubName": "Brighton",
-      "country": "England",
+      "country": "World",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
+      "tierLabel": "a club in World",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 0
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, Italy",
       "yearStart": 2020,
+      "yearEnd": 2025,
       "appearances": 116
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Austria",
       "yearStart": 2018,
+      "yearEnd": 2019,
       "appearances": 57
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Austria",
       "yearStart": 2016,
+      "yearEnd": 2017,
       "appearances": 34
     },
     {
@@ -46,13 +51,14 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Austria",
       "yearStart": 2015,
+      "yearEnd": 2015,
       "appearances": 3
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 848,
       "appearances": 0
     },
     {

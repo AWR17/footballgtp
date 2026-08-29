@@ -6,7 +6,8 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
-      "appearances": 14
+      "yearEnd": 2026,
+      "appearances": 13
     },
     {
       "clubName": "Paraguay",
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2021,
+      "yearEnd": 2026,
       "appearances": 23
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in France",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 5
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 12
     },
     {
@@ -38,14 +42,15 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Paraguay",
       "yearStart": 2019,
+      "yearEnd": 2021,
       "appearances": 41
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 1
+      "leagueId": 48,
+      "appearances": 0
     },
     {
       "season": 2024,

@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Bournemouth",
-      "country": "England",
-      "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
-      "yearStart": 2023,
-      "appearances": 48
-    },
-    {
       "clubName": "England",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2024,
+      "yearEnd": 2026,
       "appearances": 0
+    },
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "yearEnd": 2026,
+      "appearances": 48
     },
     {
       "clubName": "Bristol City",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
+      "yearEnd": 2022,
       "appearances": 83
     }
   ],

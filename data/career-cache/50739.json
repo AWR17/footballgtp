@@ -6,6 +6,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
+      "yearEnd": 2026,
       "appearances": 84
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2019,
+      "yearEnd": 2026,
       "appearances": 24
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Austria",
       "yearStart": 2020,
+      "yearEnd": 2021,
       "appearances": 46
     },
     {
@@ -30,13 +33,14 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, USA",
       "yearStart": 2019,
+      "yearEnd": 2019,
       "appearances": 30
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 48,
       "appearances": 1
     },
     {

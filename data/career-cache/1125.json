@@ -6,6 +6,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2017,
+      "yearEnd": 2026,
       "appearances": 40
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
+      "yearEnd": 2025,
       "appearances": 137
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2015,
+      "yearEnd": 2020,
       "appearances": 91
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2017,
+      "yearEnd": 2017,
       "appearances": 32
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2012,
+      "yearEnd": 2014,
       "appearances": 50
     }
   ],

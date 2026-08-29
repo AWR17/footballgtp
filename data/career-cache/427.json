@@ -6,6 +6,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2022,
+      "yearEnd": 2026,
       "appearances": 4
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
+      "yearEnd": 2025,
       "appearances": 46
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2021,
+      "yearEnd": 2022,
       "appearances": 0
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Denmark",
       "yearStart": 2020,
+      "yearEnd": 2020,
       "appearances": 29
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2016,
+      "yearEnd": 2019,
       "appearances": 1
     }
   ],

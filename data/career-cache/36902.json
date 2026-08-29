@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Netherlands",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2022,
-      "appearances": 12
-    },
-    {
       "clubName": "Al-Qadisiyah FC",
       "country": "Saudi-Arabia",
       "isNationalTeam": false,
       "tierLabel": "a club in Saudi-Arabia",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 2
+    },
+    {
+      "clubName": "Netherlands",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "yearEnd": 2026,
+      "appearances": 12
     },
     {
       "clubName": "Manchester City",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2025,
+      "yearEnd": 2025,
       "appearances": 3
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2023,
+      "yearEnd": 2024,
       "appearances": 73
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2017,
+      "yearEnd": 2022,
       "appearances": 96
     }
   ],

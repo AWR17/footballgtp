@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Scotland",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2016,
-      "appearances": 39
-    },
-    {
       "clubName": "Aston Villa",
       "country": "World",
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
+      "yearEnd": 2026,
       "appearances": 249
+    },
+    {
+      "clubName": "Scotland",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2016,
+      "yearEnd": 2026,
+      "appearances": 39
     },
     {
       "clubName": "Hibernian",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Scotland",
       "yearStart": 2015,
+      "yearEnd": 2017,
       "appearances": 100
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2012,
+      "yearEnd": 2014,
       "appearances": 87
     }
   ],

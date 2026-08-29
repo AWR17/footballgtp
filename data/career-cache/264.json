@@ -6,6 +6,7 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2013,
+      "yearEnd": 2026,
       "appearances": 26
     },
     {
@@ -14,6 +15,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
+      "yearEnd": 2026,
       "appearances": 1
     },
     {
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, France",
       "yearStart": 2024,
+      "yearEnd": 2025,
       "appearances": 32
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Turkey",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 14
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2020,
+      "yearEnd": 2022,
       "appearances": 4
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in France",
       "yearStart": 2016,
+      "yearEnd": 2019,
       "appearances": 30
     },
     {
@@ -54,6 +60,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2011,
+      "yearEnd": 2015,
       "appearances": 149
     },
     {
@@ -62,6 +69,7 @@
       "isNationalTeam": false,
       "tierLabel": "an unspecified league",
       "yearStart": 2010,
+      "yearEnd": 2010,
       "appearances": 28
     }
   ],

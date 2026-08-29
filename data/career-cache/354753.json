@@ -1,12 +1,13 @@
 {
   "stints": [
     {
-      "clubName": "Nottingham Forest",
-      "country": "England",
+      "clubName": "Sporting CP",
+      "country": "Portugal",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
-      "yearStart": 2026,
-      "appearances": 0
+      "tierLabel": "1st tier, Portugal",
+      "yearStart": 2022,
+      "yearEnd": 2026,
+      "appearances": 86
     },
     {
       "clubName": "Ivory Coast",
@@ -14,21 +15,14 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2023,
+      "yearEnd": 2026,
       "appearances": 6
-    },
-    {
-      "clubName": "Sporting CP",
-      "country": "Portugal",
-      "isNationalTeam": false,
-      "tierLabel": "1st tier, Portugal",
-      "yearStart": 2022,
-      "appearances": 86
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 94,
       "appearances": 0
     },
     {

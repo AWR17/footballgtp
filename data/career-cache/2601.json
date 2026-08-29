@@ -1,20 +1,22 @@
 {
   "stints": [
     {
-      "clubName": "Japan",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2019,
-      "appearances": 37
-    },
-    {
       "clubName": "Crystal Palace",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2024,
-      "appearances": 5
+      "yearEnd": 2026,
+      "appearances": 6
+    },
+    {
+      "clubName": "Japan",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2019,
+      "yearEnd": 2026,
+      "appearances": 37
     },
     {
       "clubName": "Lazio",
@@ -22,6 +24,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Italy",
       "yearStart": 2023,
+      "yearEnd": 2023,
       "appearances": 29
     },
     {
@@ -30,6 +33,7 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, Germany",
       "yearStart": 2017,
+      "yearEnd": 2022,
       "appearances": 127
     },
     {
@@ -38,6 +42,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Belgium",
       "yearStart": 2018,
+      "yearEnd": 2018,
       "appearances": 24
     },
     {
@@ -46,6 +51,7 @@
       "isNationalTeam": false,
       "tierLabel": "a club in Japan",
       "yearStart": 2015,
+      "yearEnd": 2016,
       "appearances": 49
     }
   ],
@@ -53,7 +59,7 @@
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,
