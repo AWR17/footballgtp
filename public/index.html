@@ -647,6 +647,7 @@
 
   function freshState() {
     return {
+      answerId: todayId,
       guesses: [], solved: false, gaveUp: false, score: 0,
       accumulatedMs: 0, sessionStartTimestamp: null, elapsedSeconds: null,
     };
@@ -665,6 +666,12 @@
     if (!saved) return freshState();
 
     const parsed = JSON.parse(saved);
+
+    if (parsed.answerId !== undefined && parsed.answerId !== todayId) {
+      console.warn("[premstreak] saved state was for a different daily answer — starting today's puzzle fresh.");
+      return freshState();
+    }
+
     if (!stateMatchesCurrentAttributes(parsed)) {
       console.warn("[footballgtp] saved state used a different attribute set (likely from before a game update) — starting today's puzzle fresh.");
       return freshState();
