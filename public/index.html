@@ -280,6 +280,10 @@
     display: block;
   }
 
+  .tile-long .tile-value {
+    font-size: 9px;
+  }
+
   .tile.match { background: var(--green); }
   .tile.match .tile-label, .tile.match .tile-value { color: #fff; }
   .tile.close { background: var(--yellow); }
@@ -501,10 +505,6 @@
     plAppsBand: "PL apps",
   };
 
-  // Common short forms fans actually use — keeps every Team tile the
-  // same compact size without truncating or shrinking text, since these
-  // are genuinely how the clubs are usually referred to, not an
-  // abbreviation invented for layout reasons.
   const CLUB_SHORT_NAMES = {
     "Manchester United": "Man Utd",
     "Manchester City": "Man City",
@@ -526,11 +526,6 @@
     return CLUB_SHORT_NAMES[name] || name;
   }
 
-  // England, Scotland, and Wales don't have their own ISO country code
-  // (they're part of GB) — they use a different, longer Unicode "tag
-  // sequence" mechanism instead of the standard 2-letter regional
-  // indicator formula, so they can't be generated the same way as
-  // everything else and are hardcoded here as literal sequences.
   const SPECIAL_FLAGS = {
     "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
@@ -853,8 +848,9 @@
     guessesList.innerHTML = state.guesses.map((g) => {
       const tiles = g.comparison.map((c) => {
         const displayText = c.key === "currentClub" ? shortClubName(c.text) : c.text;
+        const isLong = displayText.length > 10;
         return `
-        <div class="tile ${c.status}" title="${tileTooltip(c, g.name).replace(/"/g, "&quot;")}">
+        <div class="tile ${c.status}${isLong ? " tile-long" : ""}" title="${tileTooltip(c, g.name).replace(/"/g, "&quot;")}">
           <span class="tile-label">${ATTRIBUTE_LABELS[c.key]}</span>
           <span class="tile-value">${displayText}</span>
         </div>
