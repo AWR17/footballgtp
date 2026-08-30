@@ -1079,9 +1079,24 @@
         pauseTimer();
       } else {
         startTimerIfNeeded();
+        checkForNewAnswer();
       }
     });
     window.addEventListener("beforeunload", pauseTimer);
+  }
+
+  async function checkForNewAnswer() {
+    if (isDemoMode) return;
+    try {
+      const res = await fetch("./daily-answer.json", { cache: "no-store" });
+      if (!res.ok) return;
+      const fresh = await res.json();
+      if (String(fresh.playerId) !== todayId) {
+        window.location.reload();
+      }
+    } catch (e) {
+      // Network hiccup — next visibility change will just try again.
+    }
   }
 
   init();
