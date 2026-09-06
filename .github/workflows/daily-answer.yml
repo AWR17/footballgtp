@@ -2,7 +2,7 @@ name: Pick daily answer
 
 on:
   schedule:
-    - cron: "0 5 * * *"
+      - cron: "1 23 * * *"
   workflow_dispatch: {}
 
 jobs:
