@@ -525,6 +525,16 @@
 
 <script>
 (function () {
+  // Browsers often restore the previous scroll position automatically on
+  // reload, rather than starting fresh at the top — this was making the
+  // page appear to "load halfway down" whenever a reload happened while
+  // scrolled through guess history (most commonly the automatic reload
+  // in checkForNewAnswer, below). Disabling this guarantees every reload
+  // genuinely starts at the top, regardless of scroll position beforehand.
+  if ("scrollRestoration" in history) {
+    history.scrollRestoration = "manual";
+  }
+
   const STORAGE_PREFIX = "premstreak:";
   const MAX_GUESSES = 7;
   const SCORE_BY_GUESS = [100, 85, 70, 55, 40, 25, 15];
@@ -1048,7 +1058,7 @@
     const label = todayId ? todayDateStr() : "Demo";
     const result = state.solved ? `Solved in ${state.guesses.length}/${MAX_GUESSES}` : `X/${MAX_GUESSES}`;
     const timeLine = state.solved ? ` in ${formatElapsed(state.elapsedSeconds ?? 0)}` : "";
-    return `PremStreak — ${label}\n${shareGrid()}\n${result}${timeLine} · Score: ${state.score}\n🔥 ${getStreak()} day streak`;
+    return `PremStreak\n${label}\n${shareGrid()}\n${result}${timeLine}\nScore: ${state.score}\n🔥 ${getStreak()} day streak`;
   }
 
   function openResultModal() {
@@ -1080,15 +1090,15 @@
   }
 
   function handleXShare() {
-    window.open("https://twitter.com/intent/tweet?text=" + encodeURIComponent(shareText()), "_blank", "noopener,noreferrer");
+    window.location.href = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(shareText());
   }
 
   function handleWaShare() {
-    window.open("https://wa.me/?text=" + encodeURIComponent(shareText()), "_blank", "noopener,noreferrer");
+    window.location.href = "https://wa.me/?text=" + encodeURIComponent(shareText());
   }
 
   function handleFbShare() {
-    window.open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href), "_blank", "noopener,noreferrer");
+    window.location.href = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href);
   }
 
   async function init() {
@@ -1157,6 +1167,7 @@
       if (!res.ok) return;
       const fresh = await res.json();
       if (String(fresh.playerId) !== todayId) {
+        window.scrollTo(0, 0);
         window.location.reload();
       }
     } catch (e) {
