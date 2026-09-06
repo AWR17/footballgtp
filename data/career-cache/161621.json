@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Burnley",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Lazio",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 1
     },
     {
       "clubName": "Salernitana",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 33
+      "appearances": 33,
+      "goals": 4
     },
     {
       "clubName": "Rennes",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 0
     }
   ],
   "seasonRecords": [

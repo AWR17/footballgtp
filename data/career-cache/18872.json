@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2016,
       "yearEnd": 2026,
-      "appearances": 233
+      "appearances": 235,
+      "goals": 3
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Leeds",
@@ -25,14 +27,15 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2014,
       "yearEnd": 2015,
-      "appearances": 80
+      "appearances": 80,
+      "goals": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

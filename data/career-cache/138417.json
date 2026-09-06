@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 52
+      "appearances": 52,
+      "goals": 0
     },
     {
       "clubName": "Scotland",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 0
     },
     {
       "clubName": "Rangers",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 0
     }
   ],
   "seasonRecords": [

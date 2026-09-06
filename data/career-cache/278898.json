@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 0
     },
     {
       "clubName": "Morocco",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 1
     },
     {
       "clubName": "Real Betis",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 0
     },
     {
       "clubName": "Barcelona",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Sabadell",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, Spain",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

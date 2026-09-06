@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 104
+      "appearances": 104,
+      "goals": 87
     },
     {
       "clubName": "Norway",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 25
     },
     {
       "clubName": "Borussia Dortmund",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 67
+      "appearances": 67,
+      "goals": 62
     },
     {
       "clubName": "Red Bull Salzburg",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 1
     },
     {
       "clubName": "Molde",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Norway",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 2
     },
     {
       "clubName": "Bryne",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in Norway",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 16
+      "appearances": 16,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 117
+      "appearances": 117,
+      "goals": 30
     },
     {
       "clubName": "Wales",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 6
     },
     {
       "clubName": "Manchester United",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 48
+      "appearances": 48,
+      "goals": 6
     },
     {
       "clubName": "Swansea",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
       "yearEnd": 2018,
-      "appearances": 33
+      "appearances": 33,
+      "goals": 4
     }
   ],
   "seasonRecords": [

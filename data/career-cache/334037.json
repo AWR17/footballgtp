@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 0
     },
     {
       "clubName": "Chelsea",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 1
     }
   ],
   "seasonRecords": [

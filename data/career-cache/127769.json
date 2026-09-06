@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Al-Hilal Saudi FC",
+      "country": "Saudi-Arabia",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Saudi-Arabia",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Brazil",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 16
+      "appearances": 16,
+      "goals": 2
     },
     {
       "clubName": "Arsenal",
@@ -16,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2025,
-      "appearances": 162
+      "appearances": 162,
+      "goals": 41
     },
     {
       "clubName": "Ituano",
@@ -25,10 +37,16 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 307,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 937,

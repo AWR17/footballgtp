@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2026,
-      "appearances": 264
+      "appearances": 264,
+      "goals": 8
     },
     {
       "clubName": "Wales",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2013,
       "yearEnd": 2026,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 2
     },
     {
       "clubName": "Swansea",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2012,
       "yearEnd": 2013,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 3
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 23
+      "appearances": 24,
+      "goals": 0
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Blackburn",
@@ -25,14 +27,15 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 23
+      "appearances": 23,
+      "goals": 2
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 2
+      "appearances": 3
     },
     {
       "season": 2025,

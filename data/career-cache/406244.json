@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 6
     },
     {
       "clubName": "SC Freiburg",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 4
     }
   ],
   "seasonRecords": [

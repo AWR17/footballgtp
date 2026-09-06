@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 103
+      "appearances": 103,
+      "goals": 11
     },
     {
       "clubName": "Sweden",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 5
     },
     {
       "clubName": "Manchester United",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 23
+      "appearances": 23,
+      "goals": 3
     }
   ],
   "seasonRecords": [

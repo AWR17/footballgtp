@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2010,
       "yearEnd": 2026,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 1
     },
     {
       "clubName": "Ajax",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 42
+      "appearances": 42,
+      "goals": 1
     },
     {
       "clubName": "Liverpool",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2011,
       "yearEnd": 2022,
-      "appearances": 360
+      "appearances": 360,
+      "goals": 29
     },
     {
       "clubName": "Sunderland",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2008,
       "yearEnd": 2010,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 4
     }
   ],
   "seasonRecords": [

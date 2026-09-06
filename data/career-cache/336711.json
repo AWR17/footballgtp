@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Fulham",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 1
     },
     {
       "clubName": "Real Madrid",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 4
     }
   ],
   "seasonRecords": [

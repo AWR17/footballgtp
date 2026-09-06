@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 4
     },
     {
       "clubName": "Liverpool",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 2
     },
     {
       "clubName": "Fulham",
@@ -24,8 +26,9 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
-      "yearEnd": 2020,
-      "appearances": 4
+      "yearEnd": 2021,
+      "appearances": 40,
+      "goals": 11
     }
   ],
   "seasonRecords": [
@@ -53,6 +56,11 @@
       "season": 2022,
       "leagueId": 39,
       "appearances": 13
+    },
+    {
+      "season": 2021,
+      "leagueId": 40,
+      "appearances": 36
     },
     {
       "season": 2020,

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 38
+      "appearances": 38,
+      "goals": 5
     },
     {
       "clubName": "Serbia",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 2
     },
     {
       "clubName": "Fiorentina",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2017,
       "yearEnd": 2023,
-      "appearances": 225
+      "appearances": 225,
+      "goals": 14
     },
     {
       "clubName": "FK Partizan",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Serbia",
       "yearStart": 2015,
       "yearEnd": 2016,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 3
     }
   ],
   "seasonRecords": [

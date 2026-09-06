@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Borussia Dortmund",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Arsenal",
-      "country": "England",
+      "country": "World",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
-      "yearEnd": 2026,
-      "appearances": 40
+      "yearEnd": 2025,
+      "appearances": 40,
+      "goals": 4
     },
     {
       "clubName": "England",
@@ -16,14 +27,15 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
-      "appearances": 0
+      "leagueId": 78,
+      "appearances": 1
     },
     {
       "season": 2025,

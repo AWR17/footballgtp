@@ -7,7 +7,8 @@
       "tierLabel": "European competition",
       "yearStart": 2016,
       "yearEnd": 2026,
-      "appearances": 204
+      "appearances": 204,
+      "goals": 64
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 1
     }
   ],
   "seasonRecords": [

@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Ipswich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
       "clubName": "Benfica",
       "country": "Portugal",
       "isNationalTeam": false,
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2018,
       "yearEnd": 2025,
-      "appearances": 48
+      "appearances": 48,
+      "goals": 0
     },
     {
       "clubName": "Monaco",
@@ -16,10 +27,16 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
     {
       "season": 2025,
       "leagueId": 94,

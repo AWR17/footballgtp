@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Chelsea",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Genk",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     }
   ],
   "seasonRecords": [

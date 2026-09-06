@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 1
     },
     {
       "clubName": "Nottingham Forest",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 82
+      "appearances": 82,
+      "goals": 17
     },
     {
       "clubName": "Nigeria",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2025,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 1
     },
     {
       "clubName": "Union Berlin",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 52
+      "appearances": 52,
+      "goals": 20
     },
     {
       "clubName": "FSV Mainz 05",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 1
     },
     {
       "clubName": "Gent",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 16
+      "appearances": 16,
+      "goals": 0
     },
     {
       "clubName": "Royal Excel Mouscron",
@@ -61,7 +67,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 7
     },
     {
       "clubName": "NEC Nijmegen",
@@ -70,7 +77,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 2
     },
     {
       "clubName": "FSV Frankfurt",
@@ -79,7 +87,8 @@
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 1
     }
   ],
   "seasonRecords": [

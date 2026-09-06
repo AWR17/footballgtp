@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Leicester",
@@ -16,7 +17,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2019,
       "yearEnd": 2024,
-      "appearances": 104
+      "appearances": 104,
+      "goals": 15
     }
   ],
   "seasonRecords": [

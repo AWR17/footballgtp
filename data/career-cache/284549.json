@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Wigan",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 2,
+      "goals": 0
+    },
+    {
       "clubName": "Exeter City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "3rd tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 47
+      "appearances": 47,
+      "goals": 0
     },
     {
       "clubName": "Crystal Palace",
@@ -16,10 +27,16 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 41,
+      "appearances": 2
+    },
     {
       "season": 2025,
       "leagueId": 48,

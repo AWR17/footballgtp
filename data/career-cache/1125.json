@@ -1,22 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2021,
+      "yearEnd": 2026,
+      "appearances": 139,
+      "goals": 6
+    },
+    {
       "clubName": "Scotland",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 40
-    },
-    {
-      "clubName": "Bournemouth",
-      "country": "England",
-      "isNationalTeam": false,
-      "tierLabel": "2nd tier, England",
-      "yearStart": 2021,
-      "yearEnd": 2025,
-      "appearances": 137
+      "appearances": 40,
+      "goals": 3
     },
     {
       "clubName": "Celtic",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2015,
       "yearEnd": 2020,
-      "appearances": 91
+      "appearances": 91,
+      "goals": 27
     },
     {
       "clubName": "Aberdeen",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 4
     },
     {
       "clubName": "Inverness CT",
@@ -43,10 +47,16 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2012,
       "yearEnd": 2014,
-      "appearances": 50
+      "appearances": 50,
+      "goals": 7
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 2
+    },
     {
       "season": 2025,
       "leagueId": 1022,

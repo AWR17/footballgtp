@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 0
     },
     {
       "clubName": "Tottenham",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 0
     },
     {
       "clubName": "Djurgardens IF",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Qatar",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 1
     },
     {
       "clubName": "IF Brommapojkarna",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Sweden",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

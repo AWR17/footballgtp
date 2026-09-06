@@ -7,7 +7,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Las Palmas",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in Spain",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Sporting CP",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2020,
       "yearEnd": 2023,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     }
   ],
   "seasonRecords": [

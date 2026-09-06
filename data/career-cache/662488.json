@@ -1,0 +1,36 @@
+{
+  "stints": [
+    {
+      "clubName": "Sunderland",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
+      "clubName": "Antwerp",
+      "country": "Belgium",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Belgium",
+      "yearStart": 2025,
+      "yearEnd": 2025,
+      "appearances": 2,
+      "goals": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 144,
+      "appearances": 2
+    }
+  ]
+}

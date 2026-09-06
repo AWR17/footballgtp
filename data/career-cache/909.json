@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
       "yearEnd": 2026,
-      "appearances": 289
+      "appearances": 290,
+      "goals": 89
     },
     {
       "clubName": "England",
@@ -16,14 +17,15 @@
       "tierLabel": "national team",
       "yearStart": 2016,
       "yearEnd": 2026,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 9
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

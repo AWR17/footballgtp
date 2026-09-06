@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Tottenham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Chelsea",
       "country": "World",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 68
+      "appearances": 68,
+      "goals": 5
     },
     {
       "clubName": "Ukraine",
@@ -16,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 2
     },
     {
       "clubName": "Shakhtar Donetsk",
@@ -25,10 +37,16 @@
       "tierLabel": "a club in Ukraine",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 2
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 15,

@@ -7,7 +7,8 @@
       "tierLabel": "European competition",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Borussia Dortmund",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 63
+      "appearances": 63,
+      "goals": 9
     }
   ],
   "seasonRecords": [

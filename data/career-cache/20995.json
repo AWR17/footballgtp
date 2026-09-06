@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "France",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Crystal Palace",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "VfL Wolfsburg",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2020,
       "yearEnd": 2023,
-      "appearances": 117
+      "appearances": 117,
+      "goals": 6
     },
     {
       "clubName": "Sochaux",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, France",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 0
     }
   ],
   "seasonRecords": [

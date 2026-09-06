@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 60
+      "appearances": 60,
+      "goals": 1
     },
     {
       "clubName": "Netherlands",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Chelsea",
@@ -25,7 +27,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Coventry",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 40
+      "appearances": 40,
+      "goals": 3
     }
   ],
   "seasonRecords": [

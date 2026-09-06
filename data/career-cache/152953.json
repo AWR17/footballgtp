@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 65
+      "appearances": 66,
+      "goals": 3
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Huddersfield",
@@ -25,14 +27,15 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 2
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

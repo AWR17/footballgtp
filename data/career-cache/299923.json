@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 2
     },
     {
       "clubName": "Algeria",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2025,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 7
     },
     {
       "clubName": "Farense",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Portugal",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "MC Oran",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Algeria",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

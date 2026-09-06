@@ -1,16 +1,32 @@
 {
   "stints": [
     {
+      "clubName": "Barnet",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "4th tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
       "clubName": "Doncaster",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 1
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 42,
+      "appearances": 0
+    },
     {
       "season": 2025,
       "leagueId": 48,

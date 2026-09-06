@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 25
+      "appearances": 27,
+      "goals": 2
     },
     {
       "clubName": "Nigeria",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 0
     },
     {
       "clubName": "West Brom",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2023,
-      "appearances": 156
+      "appearances": 156,
+      "goals": 12
     },
     {
       "clubName": "Rotherham",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2018,
-      "appearances": 101
+      "appearances": 101,
+      "goals": 12
     },
     {
       "clubName": "Cardiff",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2014,
       "yearEnd": 2015,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Dartford",
@@ -52,14 +57,15 @@
       "tierLabel": "a club in England",
       "yearStart": 2012,
       "yearEnd": 2012,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

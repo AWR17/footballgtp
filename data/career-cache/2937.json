@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 75
+      "appearances": 75,
+      "goals": 11
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 2
     },
     {
       "clubName": "West Ham",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2016,
       "yearEnd": 2022,
-      "appearances": 204
+      "appearances": 204,
+      "goals": 10
     },
     {
       "clubName": "Rep. Of Ireland",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 75
+      "appearances": 75,
+      "goals": 11
     },
     {
       "clubName": "Oostende",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 42
+      "appearances": 42,
+      "goals": 0
     },
     {
       "clubName": "Japan",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Cerezo Osaka",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Japan",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 33
+      "appearances": 33,
+      "goals": 2
     },
     {
       "clubName": "Montedio Yamagata",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Japan",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 7
     }
   ],
   "seasonRecords": [

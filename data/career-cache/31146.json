@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Newcastle",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 5
     },
     {
       "clubName": "Italy",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2024,
-      "appearances": 16
+      "appearances": 16,
+      "goals": 2
     },
     {
       "clubName": "AC Milan",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 95
+      "appearances": 95,
+      "goals": 7
     },
     {
       "clubName": "Brescia",
@@ -43,14 +47,15 @@
       "tierLabel": "2nd tier, Italy",
       "yearStart": 2017,
       "yearEnd": 2019,
-      "appearances": 88
+      "appearances": 88,
+      "goals": 6
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

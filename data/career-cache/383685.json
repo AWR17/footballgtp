@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 4
     },
     {
       "clubName": "Brighton",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 6
     },
     {
       "clubName": "Feyenoord",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 10
     },
     {
       "clubName": "Odense",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 4
     }
   ],
   "seasonRecords": [

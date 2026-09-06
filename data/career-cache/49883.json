@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 0
     },
     {
       "clubName": "Antalyaspor",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in Turkey",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Türkiye",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2018,
       "yearEnd": 2024,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     },
     {
       "clubName": "Trabzonspor",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2015,
       "yearEnd": 2022,
-      "appearances": 43
+      "appearances": 43,
+      "goals": 3
     }
   ],
   "seasonRecords": [

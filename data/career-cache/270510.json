@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 2
     },
     {
       "clubName": "Bayern München",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 52
+      "appearances": 52,
+      "goals": 12
     },
     {
       "clubName": "Rennes",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 0
     }
   ],
   "seasonRecords": [

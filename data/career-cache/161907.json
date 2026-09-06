@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 67
+      "appearances": 67,
+      "goals": 0
     },
     {
       "clubName": "France",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 0
     },
     {
       "clubName": "Lyon",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 0
     }
   ],
   "seasonRecords": [

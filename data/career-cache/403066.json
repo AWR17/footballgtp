@@ -1,0 +1,26 @@
+{
+  "stints": [
+    {
+      "clubName": "Burton Albion",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2022,
+      "yearEnd": 2023,
+      "appearances": 1,
+      "goals": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2023,
+      "leagueId": 41,
+      "appearances": 1
+    },
+    {
+      "season": 2022,
+      "leagueId": 41,
+      "appearances": 0
+    }
+  ]
+}

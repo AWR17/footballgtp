@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 91
+      "appearances": 91,
+      "goals": 3
     },
     {
       "clubName": "Norway",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 1
     },
     {
       "clubName": "Celtic",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2016,
       "yearEnd": 2020,
-      "appearances": 115
+      "appearances": 115,
+      "goals": 5
     },
     {
       "clubName": "Start",
@@ -34,7 +37,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2014,
       "yearEnd": 2015,
-      "appearances": 43
+      "appearances": 43,
+      "goals": 9
     }
   ],
   "seasonRecords": [

@@ -1,0 +1,36 @@
+{
+  "stints": [
+    {
+      "clubName": "Real Salt Lake",
+      "country": "USA",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, USA",
+      "yearStart": 2023,
+      "yearEnd": 2026,
+      "appearances": 22,
+      "goals": 6
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 253,
+      "appearances": 16
+    },
+    {
+      "season": 2025,
+      "leagueId": 772,
+      "appearances": 3
+    },
+    {
+      "season": 2024,
+      "leagueId": 253,
+      "appearances": 1
+    },
+    {
+      "season": 2023,
+      "leagueId": 253,
+      "appearances": 2
+    }
+  ]
+}

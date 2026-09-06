@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 1
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 0
     },
     {
       "clubName": "Crystal Palace",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 103
+      "appearances": 103,
+      "goals": 4
     },
     {
       "clubName": "Swansea",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 57
+      "appearances": 57,
+      "goals": 0
     },
     {
       "clubName": "Chelsea",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

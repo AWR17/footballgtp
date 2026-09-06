@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 90
+      "appearances": 90,
+      "goals": 3
     },
     {
       "clubName": "Denmark",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2025,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 2
     },
     {
       "clubName": "Sampdoria",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 2
     },
     {
       "clubName": "FC Nordsjaelland",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2017,
       "yearEnd": 2019,
-      "appearances": 84
+      "appearances": 84,
+      "goals": 12
     }
   ],
   "seasonRecords": [

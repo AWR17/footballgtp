@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 1
     },
     {
       "clubName": "Canada",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 19
+      "appearances": 19,
+      "goals": 0
     },
     {
       "clubName": "Preston",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 5
     },
     {
       "clubName": "FC Basel 1893",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Switzerland",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 57
+      "appearances": 57,
+      "goals": 7
     }
   ],
   "seasonRecords": [

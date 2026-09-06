@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 10
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 16
+      "appearances": 16,
+      "goals": 5
     },
     {
       "clubName": "Bournemouth",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2023,
-      "appearances": 201
+      "appearances": 201,
+      "goals": 72
     },
     {
       "clubName": "Liverpool",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 21
+      "appearances": 21,
+      "goals": 1
     },
     {
       "clubName": "Chelsea",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2016,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 7
+      "appearances": 9,
+      "goals": 0
     },
     {
       "clubName": "Germany",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 1
     },
     {
       "clubName": "Bayer Leverkusen",
@@ -25,14 +27,15 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2019,
       "yearEnd": 2023,
-      "appearances": 109
+      "appearances": 109,
+      "goals": 25
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

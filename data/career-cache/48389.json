@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Switzerland",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 2
     },
     {
       "clubName": "AC Milan",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 7
     },
     {
       "clubName": "Red Bull Salzburg",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 25
     },
     {
       "clubName": "FC Basel 1893",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Switzerland",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 3
     }
   ],
   "seasonRecords": [

@@ -1,0 +1,71 @@
+{
+  "stints": [
+    {
+      "clubName": "Nice",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2023,
+      "yearEnd": 2026,
+      "appearances": 54,
+      "goals": 5
+    },
+    {
+      "clubName": "Real Sociedad",
+      "country": "Spain",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Spain",
+      "yearStart": 2022,
+      "yearEnd": 2022,
+      "appearances": 24,
+      "goals": 1
+    },
+    {
+      "clubName": "Angers",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, France",
+      "yearStart": 2020,
+      "yearEnd": 2021,
+      "appearances": 53,
+      "goals": 4
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 61,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 3,
+      "appearances": 7
+    },
+    {
+      "season": 2024,
+      "leagueId": 61,
+      "appearances": 29
+    },
+    {
+      "season": 2023,
+      "leagueId": 61,
+      "appearances": 17
+    },
+    {
+      "season": 2022,
+      "leagueId": 140,
+      "appearances": 24
+    },
+    {
+      "season": 2021,
+      "leagueId": 61,
+      "appearances": 32
+    },
+    {
+      "season": 2020,
+      "leagueId": 61,
+      "appearances": 21
+    }
+  ]
+}

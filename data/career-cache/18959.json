@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 55
+      "appearances": 55,
+      "goals": 0
     },
     {
       "clubName": "Spain",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Brighton",
@@ -25,7 +27,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2018,
       "yearEnd": 2022,
-      "appearances": 87
+      "appearances": 87,
+      "goals": 0
     },
     {
       "clubName": "Rochdale",
@@ -34,7 +37,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 0
     }
   ],
   "seasonRecords": [

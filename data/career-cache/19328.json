@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 2
     },
     {
       "clubName": "Swansea",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2023,
-      "appearances": 281
+      "appearances": 281,
+      "goals": 9
     },
     {
       "clubName": "Leeds",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 0
     },
     {
       "clubName": "Exeter City",
@@ -34,7 +37,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2013,
       "yearEnd": 2013,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 1
     }
   ],
   "seasonRecords": [

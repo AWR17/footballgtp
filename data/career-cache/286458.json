@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Stoke City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 2
+    },
+    {
       "clubName": "Northern Ireland",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     },
     {
       "clubName": "Crystal Palace",
@@ -16,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 1
     },
     {
       "clubName": "Airdrie United",
@@ -25,7 +37,8 @@
       "tierLabel": "a club in Scotland",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 41
+      "appearances": 41,
+      "goals": 1
     },
     {
       "clubName": "Kilmarnock",
@@ -34,10 +47,16 @@
       "tierLabel": "a club in Scotland",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 40,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 528,

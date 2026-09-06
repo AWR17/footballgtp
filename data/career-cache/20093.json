@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 13
+      "appearances": 15,
+      "goals": 0
     },
     {
       "clubName": "Fleetwood Town",
@@ -16,14 +17,15 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2018,
       "yearEnd": 2020,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

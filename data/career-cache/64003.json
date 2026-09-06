@@ -7,7 +7,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Leeds",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
       "yearEnd": 2025,
-      "appearances": 153
+      "appearances": 153,
+      "goals": 12
     },
     {
       "clubName": "Netherlands",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

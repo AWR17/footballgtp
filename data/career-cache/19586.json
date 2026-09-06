@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 1
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 1
     },
     {
       "clubName": "Crystal Palace",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 146
+      "appearances": 146,
+      "goals": 34
     },
     {
       "clubName": "QPR",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2019,
-      "appearances": 104
+      "appearances": 104,
+      "goals": 20
     }
   ],
   "seasonRecords": [

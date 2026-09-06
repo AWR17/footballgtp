@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Rizespor",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in Turkey",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 5
     },
     {
       "clubName": "Adana Demirspor",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 1
     },
     {
       "clubName": "FC Midtjylland",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2015,
       "yearEnd": 2020,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Rosenborg",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Norway",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 4
     },
     {
       "clubName": "Haugesund",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in Norway",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 9
     },
     {
       "clubName": "jerv",
@@ -61,7 +67,8 @@
       "tierLabel": "a club in Norway",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 8
     }
   ],
   "seasonRecords": [

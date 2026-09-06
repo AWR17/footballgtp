@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 157
+      "appearances": 157,
+      "goals": 35
     },
     {
       "clubName": "Norway",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2014,
       "yearEnd": 2026,
-      "appearances": 43
+      "appearances": 43,
+      "goals": 1
     },
     {
       "clubName": "Real Madrid",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2014,
       "yearEnd": 2018,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Real Sociedad",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 4
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 70
+      "appearances": 70,
+      "goals": 1
     },
     {
       "clubName": "Denmark",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Sheffield Utd",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 0
     }
   ],
   "seasonRecords": [

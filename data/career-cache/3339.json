@@ -6,8 +6,9 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
-      "yearEnd": 2024,
-      "appearances": 46
+      "yearEnd": 2026,
+      "appearances": 46,
+      "goals": 0
     },
     {
       "clubName": "Mali",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2019,
       "yearEnd": 2023,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Lens",
@@ -25,10 +27,16 @@
       "tierLabel": "2nd tier, France",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 117
+      "appearances": 117,
+      "goals": 6
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
     {
       "season": 2024,
       "leagueId": 528,

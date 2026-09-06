@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Everton",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Wolves",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Salford City",
@@ -34,7 +37,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 55
+      "appearances": 55,
+      "goals": 0
     },
     {
       "clubName": "Newport County",
@@ -43,7 +47,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 43
+      "appearances": 43,
+      "goals": 1
     },
     {
       "clubName": "AFC Wimbledon",
@@ -52,7 +57,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 0
     },
     {
       "clubName": "Stevenage",
@@ -61,7 +67,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 0
     },
     {
       "clubName": "Millwall",
@@ -70,7 +77,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2014,
       "yearEnd": 2016,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 80
+      "appearances": 81,
+      "goals": 1
     },
     {
       "clubName": "Watford",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2020,
-      "appearances": 107
+      "appearances": 107,
+      "goals": 7
     },
     {
       "clubName": "Derby",
@@ -25,14 +27,15 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2011,
       "yearEnd": 2016,
-      "appearances": 170
+      "appearances": 170,
+      "goals": 10
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 0
+      "appearances": 1
     },
     {
       "season": 2025,

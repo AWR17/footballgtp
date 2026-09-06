@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Ipswich",
@@ -16,7 +17,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Bristol City",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 97
+      "appearances": 97,
+      "goals": 17
     },
     {
       "clubName": "Wycombe",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 61
+      "appearances": 61,
+      "goals": 10
     }
   ],
   "seasonRecords": [

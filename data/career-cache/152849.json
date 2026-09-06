@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 49
+      "appearances": 49,
+      "goals": 3
     },
     {
       "clubName": "Netherlands",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 0
     },
     {
       "clubName": "VfL Wolfsburg",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 38
+      "appearances": 38,
+      "goals": 1
     },
     {
       "clubName": "FC Volendam",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Netherlands",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 45
+      "appearances": 45,
+      "goals": 2
     }
   ],
   "seasonRecords": [

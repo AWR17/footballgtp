@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 197
+      "appearances": 197,
+      "goals": 18
     },
     {
       "clubName": "Switzerland",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2013,
       "yearEnd": 2024,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 5
     },
     {
       "clubName": "Deportivo La Coruna",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 2
     },
     {
       "clubName": "1899 Hoffenheim",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2015,
       "yearEnd": 2016,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 1
     },
     {
       "clubName": "FC Basel 1893",
@@ -43,7 +47,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2012,
       "yearEnd": 2014,
-      "appearances": 73
+      "appearances": 73,
+      "goals": 9
     },
     {
       "clubName": "FC WIL 1900",
@@ -52,7 +57,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2009,
       "yearEnd": 2011,
-      "appearances": 52
+      "appearances": 52,
+      "goals": 9
     }
   ],
   "seasonRecords": [

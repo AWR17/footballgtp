@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 0
     },
     {
       "clubName": "Bournemouth",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Bayer Leverkusen",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 94
+      "appearances": 94,
+      "goals": 14
     },
     {
       "clubName": "Toulouse",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 38
+      "appearances": 38,
+      "goals": 8
     }
   ],
   "seasonRecords": [

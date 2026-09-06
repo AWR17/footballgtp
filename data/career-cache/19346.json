@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2026,
-      "appearances": 200
+      "appearances": 200,
+      "goals": 5
     },
     {
       "clubName": "Jamaica",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Walsall",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2014,
       "yearEnd": 2015,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 2
     }
   ],
   "seasonRecords": [

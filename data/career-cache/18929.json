@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Everton",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 94
+      "appearances": 94,
+      "goals": 15
     },
     {
       "clubName": "Burnley",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2021,
-      "appearances": 134
+      "appearances": 134,
+      "goals": 7
     }
   ],
   "seasonRecords": [

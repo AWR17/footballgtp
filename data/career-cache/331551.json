@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 1
     },
     {
       "clubName": "Wigan",
@@ -16,7 +17,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2021,
       "yearEnd": 2023,
-      "appearances": 63
+      "appearances": 63,
+      "goals": 5
     }
   ],
   "seasonRecords": [

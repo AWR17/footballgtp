@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 68
+      "appearances": 69,
+      "goals": 27
     },
     {
       "clubName": "Brazil",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 1
     },
     {
       "clubName": "Atletico Madrid",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 6
     },
     {
       "clubName": "Hertha BSC",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 38
+      "appearances": 38,
+      "goals": 12
     },
     {
       "clubName": "RB Leipzig",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 2
     },
     {
       "clubName": "FC Sion",
@@ -52,14 +57,15 @@
       "tierLabel": "a club in Switzerland",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 10
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

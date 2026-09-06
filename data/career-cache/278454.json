@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Malmo FF",
@@ -16,7 +17,8 @@
       "tierLabel": "European competition",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Sweden",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

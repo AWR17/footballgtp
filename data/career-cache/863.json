@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 86
+      "appearances": 86,
+      "goals": 8
     },
     {
       "clubName": "Uruguay",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 45
+      "appearances": 45,
+      "goals": 3
     },
     {
       "clubName": "Juventus",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2017,
       "yearEnd": 2020,
-      "appearances": 114
+      "appearances": 114,
+      "goals": 2
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Fulham",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Swansea",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2022,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 0
     }
   ],
   "seasonRecords": [

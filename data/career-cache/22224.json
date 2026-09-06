@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 162
+      "appearances": 162,
+      "goals": 17
     },
     {
       "clubName": "Brazil",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 1
     },
     {
       "clubName": "Lille",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2016,
       "yearEnd": 2019,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 2
     },
     {
       "clubName": "Estac Troyes",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

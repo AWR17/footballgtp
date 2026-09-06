@@ -7,16 +7,18 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
-      "clubName": "Colorado Rapids",
-      "country": "USA",
+      "clubName": "Hull City",
+      "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "1st tier, USA",
+      "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 18
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Brisbane Roar",
@@ -25,14 +27,15 @@
       "tierLabel": "a club in Australia",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 19
+      "appearances": 19,
+      "goals": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 253,
-      "appearances": 18
+      "leagueId": 48,
+      "appearances": 1
     },
     {
       "season": 2025,

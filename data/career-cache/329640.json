@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Reims",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in France",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Rodez",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, France",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     },
     {
       "clubName": "Guingamp",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, France",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

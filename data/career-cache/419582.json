@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Sporting CP",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 54
+      "appearances": 54,
+      "goals": 4
     },
     {
       "clubName": "Portugal",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 1
     },
     {
       "clubName": "Coventry",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "FC Nordsjaelland",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 55
+      "appearances": 55,
+      "goals": 4
     }
   ],
   "seasonRecords": [

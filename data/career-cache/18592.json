@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Manchester City",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Everton",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
-      "yearEnd": 2026,
-      "appearances": 35
+      "yearEnd": 2025,
+      "appearances": 34,
+      "goals": 9
     },
     {
       "clubName": "Senegal",
@@ -16,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 2
     },
     {
       "clubName": "Marseille",
@@ -25,7 +37,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 3
     },
     {
       "clubName": "Sheffield Utd",
@@ -34,7 +47,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 79
+      "appearances": 79,
+      "goals": 21
     },
     {
       "clubName": "Boreham Wood",
@@ -43,13 +57,14 @@
       "tierLabel": "a club in England",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 48,
+      "leagueId": 39,
       "appearances": 1
     },
     {

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 34
+      "appearances": 36,
+      "goals": 0
     },
     {
       "clubName": "Norway",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 0
     },
     {
       "clubName": "Burnley",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 1
     },
     {
       "clubName": "Sheffield Utd",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 98
+      "appearances": 98,
+      "goals": 14
     },
     {
       "clubName": "Genk",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2016,
       "yearEnd": 2018,
-      "appearances": 50
+      "appearances": 50,
+      "goals": 0
     },
     {
       "clubName": "Valerenga",
@@ -52,14 +57,15 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

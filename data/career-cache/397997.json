@@ -7,14 +7,15 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 4,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 0
+      "appearances": 2
     },
     {
       "season": 2025,

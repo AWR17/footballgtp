@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 156
+      "appearances": 156,
+      "goals": 7
     },
     {
       "clubName": "Poland",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 1
     },
     {
       "clubName": "Nottingham Forest",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2019,
-      "appearances": 129
+      "appearances": 129,
+      "goals": 11
     },
     {
       "clubName": "Dagenham & Redbridge",
@@ -34,7 +37,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 3
     }
   ],
   "seasonRecords": [

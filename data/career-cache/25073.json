@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 184
+      "appearances": 184,
+      "goals": 13
     },
     {
       "clubName": "VfL Bochum",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2016,
       "yearEnd": 2019,
-      "appearances": 53
+      "appearances": 53,
+      "goals": 2
     }
   ],
   "seasonRecords": [

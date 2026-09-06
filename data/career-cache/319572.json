@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Argentina",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Strasbourg",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 0
     },
     {
       "clubName": "Brighton",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     }
   ],
   "seasonRecords": [

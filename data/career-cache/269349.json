@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Czechia",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "SC Braga",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2020,
       "yearEnd": 2025,
-      "appearances": 33
+      "appearances": 33,
+      "goals": 0
     }
   ],
   "seasonRecords": [

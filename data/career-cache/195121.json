@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 2
     },
     {
       "clubName": "Chile",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 23
+      "appearances": 23,
+      "goals": 3
     },
     {
       "clubName": "Norwich",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 107
+      "appearances": 107,
+      "goals": 11
     },
     {
       "clubName": "U. Catolica",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Chile",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 48
+      "appearances": 48,
+      "goals": 8
     }
   ],
   "seasonRecords": [

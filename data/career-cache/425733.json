@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 5
     },
     {
       "clubName": "Chelsea",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 1
     },
     {
       "clubName": "Palmeiras",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Brazil",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     }
   ],
   "seasonRecords": [

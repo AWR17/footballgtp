@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 3
     },
     {
       "clubName": "Villarreal",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 11
     },
     {
       "clubName": "FC Basel 1893",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Switzerland",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 9
     },
     {
       "clubName": "SK Beveren",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 20
     }
   ],
   "seasonRecords": [

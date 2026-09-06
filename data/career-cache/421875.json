@@ -1,0 +1,46 @@
+{
+  "stints": [
+    {
+      "clubName": "Fenerbahçe",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2025,
+      "yearEnd": 2026,
+      "appearances": 13,
+      "goals": 2
+    },
+    {
+      "clubName": "Angers",
+      "country": "France",
+      "isNationalTeam": false,
+      "tierLabel": "a club in France",
+      "yearStart": 2023,
+      "yearEnd": 2024,
+      "appearances": 2,
+      "goals": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 2,
+      "appearances": 1
+    },
+    {
+      "season": 2025,
+      "leagueId": 203,
+      "appearances": 12
+    },
+    {
+      "season": 2024,
+      "leagueId": 66,
+      "appearances": 0
+    },
+    {
+      "season": 2023,
+      "leagueId": 66,
+      "appearances": 2
+    }
+  ]
+}

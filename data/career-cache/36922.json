@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 0
     },
     {
       "clubName": "Liverpool",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2019,
       "yearEnd": 2023,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "PEC Zwolle",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -1,0 +1,101 @@
+{
+  "stints": [
+    {
+      "clubName": "Ipswich",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 2,
+      "goals": 0
+    },
+    {
+      "clubName": "Bayer Leverkusen",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2019,
+      "yearEnd": 2025,
+      "appearances": 117,
+      "goals": 11
+    },
+    {
+      "clubName": "Argentina",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2018,
+      "yearEnd": 2026,
+      "appearances": 35,
+      "goals": 0
+    },
+    {
+      "clubName": "River Plate",
+      "country": "Argentina",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Argentina",
+      "yearStart": 2015,
+      "yearEnd": 2018,
+      "appearances": 24,
+      "goals": 3
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 2
+    },
+    {
+      "season": 2025,
+      "leagueId": 81,
+      "appearances": 2
+    },
+    {
+      "season": 2024,
+      "leagueId": 78,
+      "appearances": 30
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 24
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 26
+    },
+    {
+      "season": 2021,
+      "leagueId": 78,
+      "appearances": 23
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 9
+    },
+    {
+      "season": 2019,
+      "leagueId": 78,
+      "appearances": 3
+    },
+    {
+      "season": 2018,
+      "leagueId": 128,
+      "appearances": 14
+    },
+    {
+      "season": 2017,
+      "leagueId": 128,
+      "appearances": 9
+    },
+    {
+      "season": 2015,
+      "leagueId": 128,
+      "appearances": 1
+    }
+  ]
+}

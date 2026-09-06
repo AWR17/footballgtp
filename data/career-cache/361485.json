@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Bournemouth",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 0
     },
     {
       "clubName": "Ferencvarosi TC",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Hungary",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 1
     }
   ],
   "seasonRecords": [

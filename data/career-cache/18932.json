@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Tottenham",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 21
+      "appearances": 21,
+      "goals": 0
     },
     {
       "clubName": "England",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2013,
       "yearEnd": 2023,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Southampton",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2021,
-      "appearances": 134
+      "appearances": 134,
+      "goals": 0
     },
     {
       "clubName": "Celtic",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2010,
       "yearEnd": 2013,
-      "appearances": 140
+      "appearances": 140,
+      "goals": 0
     },
     {
       "clubName": "Newcastle",
@@ -52,7 +57,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2007,
       "yearEnd": 2008,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Bristol Rovers",
@@ -61,7 +67,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2009,
       "yearEnd": 2009,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     }
   ],
   "seasonRecords": [

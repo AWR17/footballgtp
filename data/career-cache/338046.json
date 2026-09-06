@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Hull City",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 1
     },
     {
       "clubName": "LDU de Quito",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Ecuador",
       "yearStart": 2021,
       "yearEnd": 2023,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 1
     }
   ],
   "seasonRecords": [

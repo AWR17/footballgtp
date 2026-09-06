@@ -1,13 +1,24 @@
 {
   "stints": [
     {
-      "clubName": "Manchester City",
+      "clubName": "Tottenham",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
-      "yearStart": 2024,
+      "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 20
+      "appearances": 2,
+      "goals": 0
+    },
+    {
+      "clubName": "Manchester City",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2024,
+      "yearEnd": 2025,
+      "appearances": 19,
+      "goals": 7
     },
     {
       "clubName": "Egypt",
@@ -16,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 3
     },
     {
       "clubName": "Eintracht Frankfurt",
@@ -25,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 12
     },
     {
       "clubName": "VfL Wolfsburg",
@@ -34,7 +47,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 41
+      "appearances": 41,
+      "goals": 5
     },
     {
       "clubName": "Wadi Degla",
@@ -43,14 +57,15 @@
       "tierLabel": "a club in Egypt",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 2
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 528,
-      "appearances": 1
+      "leagueId": 39,
+      "appearances": 2
     },
     {
       "season": 2025,

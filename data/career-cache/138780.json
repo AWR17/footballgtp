@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 102
+      "appearances": 102,
+      "goals": 2
     },
     {
       "clubName": "Wales",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 2
     },
     {
       "clubName": "Liverpool",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Burnley",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 9
     },
     {
       "clubName": "Leeds",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 1
     },
     {
       "clubName": "Bournemouth",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 80
+      "appearances": 80,
+      "goals": 11
     },
     {
       "clubName": "Weymouth",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 1
     }
   ],
   "seasonRecords": [

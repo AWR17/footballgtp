@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 87
+      "appearances": 87,
+      "goals": 9
     },
     {
       "clubName": "Burkina Faso",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 1
     },
     {
       "clubName": "Lorient",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in France",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 1
     }
   ],
   "seasonRecords": [

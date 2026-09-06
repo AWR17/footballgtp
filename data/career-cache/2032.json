@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 16
+      "appearances": 17,
+      "goals": 3
     },
     {
       "clubName": "Norway",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 1
     },
     {
       "clubName": "Wolves",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 14
     },
     {
       "clubName": "Celta Vigo",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 69
+      "appearances": 69,
+      "goals": 17
     },
     {
       "clubName": "Groningen",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 63
+      "appearances": 63,
+      "goals": 23
     },
     {
       "clubName": "Sarpsborg 08 FF",
@@ -52,14 +57,15 @@
       "tierLabel": "a club in Norway",
       "yearStart": 2017,
       "yearEnd": 2019,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 4
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 2
+      "appearances": 3
     },
     {
       "season": 2025,

@@ -133,9 +133,34 @@
     font-size: 13px;
     color: var(--text);
     text-align: center;
+    line-height: 1.5;
   }
 
   .debut-clue strong { color: var(--accent); }
+
+  .bonus-clue {
+    font-family: 'Poppins', sans-serif;
+    max-width: 560px;
+    margin: 0 auto 14px;
+    padding: 10px 14px;
+    background: rgba(199,154,61,0.12);
+    border: 1px solid var(--yellow);
+    border-radius: 8px;
+    font-size: 13px;
+    color: var(--text);
+    text-align: center;
+    display: none;
+    animation: fadeIn 0.25s ease;
+  }
+
+  .bonus-clue.show { display: block; }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .bonus-clue strong { color: var(--yellow); }
 
   .stat-row {
     display: flex;
@@ -429,6 +454,8 @@
 
   <div class="debut-clue" id="debutClue"></div>
 
+  <div class="bonus-clue" id="bonusClue"></div>
+
   <div class="stat-row" id="statRow"></div>
 
   <div class="guess-row">
@@ -457,14 +484,20 @@
     <button class="modal-close" id="howToClose" aria-label="Close">×</button>
     <div class="result-name">How to play</div>
     <div style="font-size:13px; line-height:1.6; margin-top:14px;">
-      <p><strong>Guess the mystery 26/27 Premier League player in 7 tries.</strong> You start with one free clue — their nationality, shown at the top. Every guess after that compares 5 attributes: Team, Position, Age, PL debut year, Career PL appearances.</p>
+      <p><strong>Guess the mystery 26/27 Premier League player in 7 tries.</strong> You start with a free clue — their nationality and international caps/goals, shown at the top. Every guess after that compares 5 attributes: Team, Position, Age, PL debut year, Career PL appearances.</p>
 
       <p><strong>The number or word shown is always YOUR GUESS's value</strong> — not the answer's. The icon tells you how close it is:</p>
       <p>⚽ <strong>Football</strong> = exact match &nbsp; 🟨 <strong style="color:var(--yellow)">Yellow card</strong> = close &nbsp; 🟥 <strong style="color:var(--red)">Red card</strong> = not close</p>
 
-      <p><strong>Arrows point toward the real answer.</strong> ↑ means the answer's value is higher than what's shown, ↓ means lower — applies to Age, Debut year, and PL apps. Team and Position are just a match or a miss, no arrow.</p>
+      <p><strong>Arrows point toward the real answer.</strong> ↑ means the answer's value is higher than what's shown, ↓ means lower. Team and Position are always just a match or a miss, no in-between — here's exactly how close counts for the rest:</p>
+      <ul style="margin: 4px 0 12px; padding-left: 18px;">
+        <li><strong>Age</strong> and <strong>Debut year</strong>: within 2 (years old, or years since debut) counts as close. More than 2 apart is a red card.</li>
+        <li><strong>PL apps</strong> is banded (&lt;50, 50–150, 150–300, 300+) rather than an exact number — one band apart counts as close, two or more is a red card.</li>
+      </ul>
 
       <p><strong>Worked example:</strong> you guess a player and see "Age: 24 ↑" as a yellow card. That means your guess is 24, but the real answer is <em>older</em> — so try someone a bit older next.</p>
+
+      <p><strong>Bonus clue:</strong> after 3 wrong guesses, a second clue appears revealing either the answer's Team or Position — whichever you haven't already worked out.</p>
 
       <p><strong>Tap or hold any tile</strong> to see a plain-English explanation of what it means.</p>
 
@@ -495,6 +528,7 @@
   const STORAGE_PREFIX = "premstreak:";
   const MAX_GUESSES = 7;
   const SCORE_BY_GUESS = [100, 85, 70, 55, 40, 25, 15];
+  const BONUS_CLUE_AFTER_GUESSES = 3;
 
   const ATTRIBUTE_ORDER = ["currentClub", "position", "age", "plDebutYear", "plAppsBand"];
   const ATTRIBUTE_LABELS = {
@@ -568,11 +602,11 @@
   }
 
   const DEMO_ATTRIBUTES = {
-    "1": { name: "Erling Haaland", position: "Attacker", nationality: "Norway", currentClub: "Manchester City", age: 26, plAppsBand: "50-150", plDebutYear: 2022 },
-    "2": { name: "Bukayo Saka", position: "Attacker", nationality: "England", currentClub: "Arsenal", age: 24, plAppsBand: "150-300", plDebutYear: 2019 },
-    "3": { name: "Kevin De Bruyne", position: "Midfielder", nationality: "Belgium", currentClub: "Manchester City", age: 35, plAppsBand: "300+", plDebutYear: 2015 },
-    "4": { name: "Declan Rice", position: "Midfielder", nationality: "England", currentClub: "Arsenal", age: 27, plAppsBand: "150-300", plDebutYear: 2017 },
-    "5": { name: "Virgil van Dijk", position: "Defender", nationality: "Netherlands", currentClub: "Liverpool", age: 35, plAppsBand: "150-300", plDebutYear: 2015 },
+    "1": { name: "Erling Haaland", position: "Attacker", nationality: "Norway", currentClub: "Manchester City", age: 26, plAppsBand: "50-150", plDebutYear: 2022, internationalCaps: 38, internationalGoals: 35 },
+    "2": { name: "Bukayo Saka", position: "Attacker", nationality: "England", currentClub: "Arsenal", age: 24, plAppsBand: "150-300", plDebutYear: 2019, internationalCaps: 46, internationalGoals: 16 },
+    "3": { name: "Kevin De Bruyne", position: "Midfielder", nationality: "Belgium", currentClub: "Manchester City", age: 35, plAppsBand: "300+", plDebutYear: 2015, internationalCaps: 106, internationalGoals: 30 },
+    "4": { name: "Declan Rice", position: "Midfielder", nationality: "England", currentClub: "Arsenal", age: 27, plAppsBand: "150-300", plDebutYear: 2017, internationalCaps: 65, internationalGoals: 5 },
+    "5": { name: "Virgil van Dijk", position: "Defender", nationality: "Netherlands", currentClub: "Liverpool", age: 35, plAppsBand: "150-300", plDebutYear: 2015, internationalCaps: 88, internationalGoals: 8 },
   };
 
   let attributesById = null;
@@ -642,7 +676,36 @@
   function renderDebutClue() {
     const el = document.getElementById("debutClue");
     if (!el || !answer?.nationality) return;
-    el.innerHTML = `Clue: born in <strong>${answer.nationality}</strong>.`;
+    const caps = answer.internationalCaps ?? 0;
+    const goals = answer.internationalGoals ?? 0;
+    el.innerHTML = `Clue: born in <strong>${answer.nationality}</strong>.<br>${caps} caps, ${goals} goals for ${answer.nationality}.`;
+  }
+
+  function renderBonusClue() {
+    const el = document.getElementById("bonusClue");
+    if (!el || !answer) return;
+
+    if (!state || state.guesses.length < BONUS_CLUE_AFTER_GUESSES) {
+      el.classList.remove("show");
+      return;
+    }
+
+    const hasCorrectClub = state.guesses.some((g) =>
+      g.comparison.some((c) => c.key === "currentClub" && c.status === "match"));
+    const hasCorrectPosition = state.guesses.some((g) =>
+      g.comparison.some((c) => c.key === "position" && c.status === "match"));
+
+    if (hasCorrectClub && hasCorrectPosition) {
+      el.classList.remove("show");
+      return;
+    }
+
+    if (!hasCorrectClub) {
+      el.innerHTML = `Bonus clue: current club is <strong>${shortClubName(answer.currentClub)}</strong>.`;
+    } else {
+      el.innerHTML = `Bonus clue: plays as a <strong>${answer.position}</strong>.`;
+    }
+    el.classList.add("show");
   }
 
   function freshState() {
@@ -673,7 +736,7 @@
     }
 
     if (!stateMatchesCurrentAttributes(parsed)) {
-      console.warn("[footballgtp] saved state used a different attribute set (likely from before a game update) — starting today's puzzle fresh.");
+      console.warn("[premstreak] saved state used a different attribute set (likely from before a game update) — starting today's puzzle fresh.");
       return freshState();
     }
     return parsed;
@@ -857,6 +920,8 @@
       <span class="stat-pill">Guess <strong>${state.guesses.length}</strong> / ${MAX_GUESSES}</span>
       <span class="stat-pill">⏱ <strong id="timerDisplay">${formatElapsed(currentElapsedSeconds())}</strong></span>
     `;
+
+    renderBonusClue();
 
     const finished = state.solved || state.gaveUp;
     document.getElementById("guessInput").disabled = finished;

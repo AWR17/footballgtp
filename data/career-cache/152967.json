@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 73
+      "appearances": 73,
+      "goals": 2
     },
     {
       "clubName": "Nigeria",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 0
     },
     {
       "clubName": "Ajax",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 1
     },
     {
       "clubName": "Rangers",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 0
     }
   ],
   "seasonRecords": [

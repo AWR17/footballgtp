@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 61
+      "appearances": 61,
+      "goals": 16
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Leicester",
@@ -25,7 +27,8 @@
       "tierLabel": "European competition",
       "yearStart": 2016,
       "yearEnd": 2021,
-      "appearances": 113
+      "appearances": 113,
+      "goals": 22
     }
   ],
   "seasonRecords": [

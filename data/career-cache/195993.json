@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 3
     },
     {
       "clubName": "Argentina",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Southampton",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 41
+      "appearances": 41,
+      "goals": 7
     },
     {
       "clubName": "Racing Club",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Argentina",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 33
+      "appearances": 33,
+      "goals": 2
     }
   ],
   "seasonRecords": [

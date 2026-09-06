@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 0
     },
     {
       "clubName": "Tottenham",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 1
     },
     {
       "clubName": "West Ham",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Newcastle",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 114
+      "appearances": 114,
+      "goals": 47
     },
     {
       "clubName": "England",
@@ -34,7 +37,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2023,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 1
     },
     {
       "clubName": "Bournemouth",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2014,
       "yearEnd": 2019,
-      "appearances": 171
+      "appearances": 171,
+      "goals": 61
     },
     {
       "clubName": "Coventry",
@@ -52,7 +57,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2010,
       "yearEnd": 2013,
-      "appearances": 49
+      "appearances": 49,
+      "goals": 22
     }
   ],
   "seasonRecords": [

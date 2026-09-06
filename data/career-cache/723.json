@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 1
     },
     {
       "clubName": "Newcastle",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2025,
-      "appearances": 186
+      "appearances": 186,
+      "goals": 22
     },
     {
       "clubName": "1899 Hoffenheim",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2015,
       "yearEnd": 2018,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 7
     },
     {
       "clubName": "Rapid Vienna",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2016,
       "yearEnd": 2017,
-      "appearances": 60
+      "appearances": 60,
+      "goals": 15
     },
     {
       "clubName": "Sport Recife",
@@ -43,7 +47,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2014,
       "yearEnd": 2014,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

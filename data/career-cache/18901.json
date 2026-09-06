@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Newcastle",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2024,
-      "appearances": 171
+      "appearances": 171,
+      "goals": 10
     },
     {
       "clubName": "Blackpool",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 42
+      "appearances": 42,
+      "goals": 8
     },
     {
       "clubName": "Kilmarnock",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 16
+      "appearances": 16,
+      "goals": 3
     }
   ],
   "seasonRecords": [

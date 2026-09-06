@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Argentina",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 0
     },
     {
       "clubName": "Aston Villa",
@@ -16,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2025,
-      "appearances": 186
+      "appearances": 186,
+      "goals": 0
     },
     {
       "clubName": "Arsenal",
@@ -25,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2011,
       "yearEnd": 2019,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 0
     },
     {
       "clubName": "Sheffield Wednesday",
@@ -34,10 +47,16 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2013,
       "yearEnd": 2013,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 667,

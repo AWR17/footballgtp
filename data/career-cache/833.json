@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 3
     },
     {
       "clubName": "Slovenia",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 0
     },
     {
       "clubName": "Udinese",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 93
+      "appearances": 93,
+      "goals": 4
     },
     {
       "clubName": "CSKA Moscow",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Russia",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 81
+      "appearances": 81,
+      "goals": 6
     },
     {
       "clubName": "Rudar",
@@ -43,7 +47,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 3
     }
   ],
   "seasonRecords": [

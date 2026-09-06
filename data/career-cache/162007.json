@@ -7,7 +7,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 1
     },
     {
       "clubName": "Belgium",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     },
     {
       "clubName": "Club Brugge KV",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2019,
       "yearEnd": 2024,
-      "appearances": 74
+      "appearances": 74,
+      "goals": 6
     },
     {
       "clubName": "KVC Westerlo",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 9
     }
   ],
   "seasonRecords": [

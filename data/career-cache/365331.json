@@ -7,7 +7,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     },
     {
       "clubName": "Sunderland",
@@ -16,7 +17,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Union St. Gilloise",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 76
+      "appearances": 76,
+      "goals": 1
     },
     {
       "clubName": "Anderlecht",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 0
     }
   ],
   "seasonRecords": [
@@ -51,7 +55,7 @@
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

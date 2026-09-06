@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 75
+      "appearances": 75,
+      "goals": 6
     },
     {
       "clubName": "Rep. Of Ireland",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 21
+      "appearances": 21,
+      "goals": 3
     },
     {
       "clubName": "Wolves",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 0
     },
     {
       "clubName": "Burnley",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 19
+      "appearances": 19,
+      "goals": 2
     },
     {
       "clubName": "Stoke City",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2020,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 2
     }
   ],
   "seasonRecords": [

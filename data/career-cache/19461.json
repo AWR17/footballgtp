@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 1
     },
     {
       "clubName": "VfL Wolfsburg",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2019,
       "yearEnd": 2024,
-      "appearances": 69
+      "appearances": 69,
+      "goals": 16
     },
     {
       "clubName": "Germany",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Anderlecht",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 18
     },
     {
       "clubName": "Manchester City",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 1
     }
   ],
   "seasonRecords": [

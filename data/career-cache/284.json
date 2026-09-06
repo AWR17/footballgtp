@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
       "yearEnd": 2025,
-      "appearances": 146
+      "appearances": 146,
+      "goals": 0
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2024,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 0
     },
     {
       "clubName": "Charlton",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2014,
       "yearEnd": 2014,
-      "appearances": 21
+      "appearances": 21,
+      "goals": 0
     }
   ],
   "seasonRecords": [

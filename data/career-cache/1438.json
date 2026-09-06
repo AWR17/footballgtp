@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 112
+      "appearances": 112,
+      "goals": 0
     },
     {
       "clubName": "Germany",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2015,
       "yearEnd": 2024,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Arsenal",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 101
+      "appearances": 101,
+      "goals": 0
     },
     {
       "clubName": "Bayer Leverkusen",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2011,
       "yearEnd": 2017,
-      "appearances": 216
+      "appearances": 216,
+      "goals": 0
     }
   ],
   "seasonRecords": [

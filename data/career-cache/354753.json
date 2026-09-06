@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 86
+      "appearances": 86,
+      "goals": 5
     },
     {
       "clubName": "Ivory Coast",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 1
     }
   ],
   "seasonRecords": [

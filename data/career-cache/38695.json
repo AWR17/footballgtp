@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Netherlands",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 1
     },
     {
       "clubName": "Brighton",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 72
+      "appearances": 72,
+      "goals": 1
     },
     {
       "clubName": "Blackburn",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 1
     },
     {
       "clubName": "NAC Breda",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2018,
       "yearEnd": 2020,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 3
     }
   ],
   "seasonRecords": [

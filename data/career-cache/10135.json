@@ -1,22 +1,24 @@
 {
   "stints": [
     {
-      "clubName": "Brazil",
-      "country": "World",
-      "isNationalTeam": true,
-      "tierLabel": "national team",
-      "yearStart": 2022,
-      "yearEnd": 2026,
-      "appearances": 33
-    },
-    {
       "clubName": "Arsenal",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
+    },
+    {
+      "clubName": "Brazil",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2022,
+      "yearEnd": 2026,
+      "appearances": 33,
+      "goals": 2
     },
     {
       "clubName": "Newcastle",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2025,
-      "appearances": 125
+      "appearances": 125,
+      "goals": 21
     },
     {
       "clubName": "Lyon",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 3
     },
     {
       "clubName": "Atletico Paranaense",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Brazil",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 1
     },
     {
       "clubName": "Gremio Osasco Audax",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in Brazil",
       "yearStart": 2015,
       "yearEnd": 2016,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -1,22 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Chelsea",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "yearEnd": 2026,
+      "appearances": 80,
+      "goals": 2
+    },
+    {
       "clubName": "Ecuador",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 46
-    },
-    {
-      "clubName": "Chelsea",
-      "country": "World",
-      "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
-      "yearStart": 2023,
-      "yearEnd": 2025,
-      "appearances": 79
+      "appearances": 46,
+      "goals": 2
     },
     {
       "clubName": "Brighton",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 38
+      "appearances": 38,
+      "goals": 1
     },
     {
       "clubName": "Independiente del Valle",
@@ -34,10 +37,16 @@
       "tierLabel": "a club in Ecuador",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 15,

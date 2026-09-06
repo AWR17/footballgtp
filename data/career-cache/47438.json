@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 217
+      "appearances": 217,
+      "goals": 12
     },
     {
       "clubName": "Denmark",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 19
+      "appearances": 19,
+      "goals": 0
     },
     {
       "clubName": "FC Nordsjaelland",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2015,
       "yearEnd": 2018,
-      "appearances": 63
+      "appearances": 63,
+      "goals": 15
     }
   ],
   "seasonRecords": [

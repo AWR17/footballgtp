@@ -6,8 +6,9 @@
       "isNationalTeam": false,
       "tierLabel": "domestic cup, England",
       "yearStart": 2016,
-      "yearEnd": 2025,
-      "appearances": 220
+      "yearEnd": 2026,
+      "appearances": 220,
+      "goals": 17
     },
     {
       "clubName": "Notts County",
@@ -16,10 +17,16 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 3
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
     {
       "season": 2025,
       "leagueId": 48,

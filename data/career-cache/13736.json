@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Crystal Palace",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
-      "yearEnd": 2026,
-      "appearances": 23
+      "yearEnd": 2025,
+      "appearances": 22,
+      "goals": 0
     },
     {
       "clubName": "Colombia",
@@ -16,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 2
     },
     {
       "clubName": "Genk",
@@ -25,7 +37,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 105
+      "appearances": 105,
+      "goals": 11
     },
     {
       "clubName": "Atletico Nacional",
@@ -34,7 +47,8 @@
       "tierLabel": "a club in Colombia",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 7
     },
     {
       "clubName": "Águilas Doradas",
@@ -43,7 +57,8 @@
       "tierLabel": "a club in Colombia",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 62
+      "appearances": 62,
+      "goals": 3
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Southampton",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 1
     },
     {
       "clubName": "Northern Ireland",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 0
     },
     {
       "clubName": "Manchester City",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

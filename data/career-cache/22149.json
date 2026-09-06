@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 43
+      "appearances": 43,
+      "goals": 0
     },
     {
       "clubName": "Ivory Coast",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 23
+      "appearances": 23,
+      "goals": 2
     },
     {
       "clubName": "PSV Eindhoven",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 87
+      "appearances": 87,
+      "goals": 9
     },
     {
       "clubName": "Toulouse",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2016,
       "yearEnd": 2019,
-      "appearances": 78
+      "appearances": 78,
+      "goals": 2
     }
   ],
   "seasonRecords": [

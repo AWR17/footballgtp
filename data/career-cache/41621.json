@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 1
     },
     {
       "clubName": "Portugal",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 1
     },
     {
       "clubName": "Sporting CP",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 74
+      "appearances": 74,
+      "goals": 6
     },
     {
       "clubName": "Brazil",
@@ -34,7 +37,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Estoril",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Portugal",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     }
   ],
   "seasonRecords": [

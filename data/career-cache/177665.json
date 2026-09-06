@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Germany",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "1899 Hoffenheim",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 61
+      "appearances": 61,
+      "goals": 3
     },
     {
       "clubName": "FSV Mainz 05",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 59
+      "appearances": 59,
+      "goals": 2
     },
     {
       "clubName": "SpVgg Greuther Fürth",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 1
     },
     {
       "clubName": "SSV Jeddeloh",
@@ -52,7 +57,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 23
+      "appearances": 23,
+      "goals": 4
     }
   ],
   "seasonRecords": [

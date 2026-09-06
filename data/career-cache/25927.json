@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 111
+      "appearances": 111,
+      "goals": 34
     },
     {
       "clubName": "France",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 2
     },
     {
       "clubName": "FSV Mainz 05",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 52
+      "appearances": 52,
+      "goals": 17
     },
     {
       "clubName": "Le Havre",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, France",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 19
     },
     {
       "clubName": "Lyon",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Chateauroux",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in France",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 11
     }
   ],
   "seasonRecords": [

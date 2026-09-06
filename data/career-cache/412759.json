@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 5
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Toulouse",
@@ -16,14 +17,15 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 2
+      "appearances": 3
     },
     {
       "season": 2025,

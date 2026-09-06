@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Reading",
@@ -16,7 +17,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 84
+      "appearances": 84,
+      "goals": 0
     },
     {
       "clubName": "West Brom",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 0
     },
     {
       "clubName": "Brighton",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Fulham",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2017,
-      "appearances": 60
+      "appearances": 60,
+      "goals": 0
     },
     {
       "clubName": "Brentford",
@@ -52,7 +57,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2013,
       "yearEnd": 2015,
-      "appearances": 136
+      "appearances": 136,
+      "goals": 0
     },
     {
       "clubName": "Charlton",
@@ -61,7 +67,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2012,
       "yearEnd": 2012,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Doncaster",
@@ -70,7 +77,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2011,
       "yearEnd": 2011,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 0
     },
     {
       "clubName": "Plymouth",
@@ -79,7 +87,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2010,
       "yearEnd": 2010,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 0
     },
     {
       "clubName": "Tottenham",
@@ -88,7 +97,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2009,
       "yearEnd": 2009,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Grays Athletic",
@@ -97,7 +107,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2008,
       "yearEnd": 2008,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [

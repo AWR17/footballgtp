@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 105
+      "appearances": 105,
+      "goals": 0
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Blackburn",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2014,
       "yearEnd": 2016,
-      "appearances": 82
+      "appearances": 82,
+      "goals": 0
     },
     {
       "clubName": "Middlesbrough",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2007,
       "yearEnd": 2013,
-      "appearances": 131
+      "appearances": 131,
+      "goals": 0
     },
     {
       "clubName": "Northampton",
@@ -43,7 +47,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2009,
       "yearEnd": 2009,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 0
     }
   ],
   "seasonRecords": [

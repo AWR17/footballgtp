@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Leyton Orient",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
       "clubName": "Coventry",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 0
     },
     {
       "clubName": "Sweden",
@@ -16,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Hammarby FF",
@@ -25,10 +37,16 @@
       "tierLabel": "a club in Sweden",
       "yearStart": 2019,
       "yearEnd": 2023,
-      "appearances": 55
+      "appearances": 55,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 41,
+      "appearances": 0
+    },
     {
       "season": 2025,
       "leagueId": 40,

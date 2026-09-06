@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 4
     },
     {
       "clubName": "AS Roma",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Aston Villa",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 116
+      "appearances": 116,
+      "goals": 16
     },
     {
       "clubName": "Bayer Leverkusen",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2016,
       "yearEnd": 2020,
-      "appearances": 119
+      "appearances": 119,
+      "goals": 28
     },
     {
       "clubName": "Genk",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 6
     }
   ],
   "seasonRecords": [

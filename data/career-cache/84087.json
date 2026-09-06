@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 48
+      "appearances": 50,
+      "goals": 14
     },
     {
       "clubName": "Haiti",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 1
     },
     {
       "clubName": "Zenit",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Russia",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 2
     },
     {
       "clubName": "Lokomotiv",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Russia",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 15
     },
     {
       "clubName": "Monaco",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Bastia-Borgo",
@@ -52,14 +57,15 @@
       "tierLabel": "a club in France",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 15
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

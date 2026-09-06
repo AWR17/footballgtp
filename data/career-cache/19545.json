@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 134
+      "appearances": 134,
+      "goals": 9
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 2
     },
     {
       "clubName": "Wigan",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 45
+      "appearances": 45,
+      "goals": 3
     }
   ],
   "seasonRecords": [

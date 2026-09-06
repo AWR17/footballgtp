@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "RB Leipzig",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 64
+      "appearances": 64,
+      "goals": 27
     },
     {
       "clubName": "Slovenia",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 10
     },
     {
       "clubName": "Red Bull Salzburg",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 55
+      "appearances": 55,
+      "goals": 21
     },
     {
       "clubName": "FC Liefering",
@@ -43,14 +47,15 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

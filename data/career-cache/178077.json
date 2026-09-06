@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 13
     },
     {
       "clubName": "Germany",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "SC Freiburg",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 21
+      "appearances": 21,
+      "goals": 4
     }
   ],
   "seasonRecords": [

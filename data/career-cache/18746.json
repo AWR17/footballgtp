@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 108
+      "appearances": 110,
+      "goals": 18
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Wolves",
@@ -25,14 +27,15 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2021,
-      "appearances": 66
+      "appearances": 66,
+      "goals": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 4,
+      "goals": 4
     },
     {
       "clubName": "Sweden",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 8
     },
     {
       "clubName": "Newcastle",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 87
+      "appearances": 87,
+      "goals": 54
     },
     {
       "clubName": "Real Sociedad",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 103
+      "appearances": 103,
+      "goals": 32
     },
     {
       "clubName": "Borussia Dortmund",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2016,
       "yearEnd": 2018,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "AIK Stockholm",
@@ -52,14 +57,15 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

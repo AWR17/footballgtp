@@ -1,34 +1,36 @@
 {
   "stints": [
     {
-      "clubName": "Crystal Palace",
-      "country": "England",
-      "isNationalTeam": false,
-      "tierLabel": "a club in England",
-      "yearStart": 2024,
-      "yearEnd": 2025,
-      "appearances": 4
-    },
-    {
       "clubName": "Millwall",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2022,
-      "yearEnd": 2023,
-      "appearances": 37
+      "yearEnd": 2026,
+      "appearances": 40,
+      "goals": 3
+    },
+    {
+      "clubName": "Crystal Palace",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "yearEnd": 2025,
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
-      "season": 2025,
-      "leagueId": 528,
-      "appearances": 0
+      "season": 2026,
+      "leagueId": 40,
+      "appearances": 1
     },
     {
       "season": 2024,
-      "leagueId": 528,
-      "appearances": 4
+      "leagueId": 48,
+      "appearances": 2
     },
     {
       "season": 2023,
@@ -39,6 +41,11 @@
       "season": 2022,
       "leagueId": 40,
       "appearances": 12
+    },
+    {
+      "season": 2025,
+      "leagueId": 528,
+      "appearances": 0
     }
   ]
 }

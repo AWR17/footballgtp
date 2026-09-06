@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "SC Freiburg",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 2
     },
     {
       "clubName": "FC Ingolstadt 04",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Germany",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 45
+      "appearances": 45,
+      "goals": 2
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 22
+      "appearances": 23,
+      "goals": 1
     },
     {
       "clubName": "Canada",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Preston",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Sheffield Utd",
@@ -34,14 +37,15 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 2
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2024,

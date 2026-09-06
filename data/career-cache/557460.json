@@ -6,7 +6,9 @@
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2026,
-      "appearances": 0
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": []

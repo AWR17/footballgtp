@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2025,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Crawley Town",
@@ -16,7 +17,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 0
     },
     {
       "clubName": "Viborg",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     }
   ],
   "seasonRecords": [

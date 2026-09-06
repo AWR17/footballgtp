@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 126
+      "appearances": 126,
+      "goals": 19
     },
     {
       "clubName": "Sheffield Utd",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 45
+      "appearances": 45,
+      "goals": 11
     },
     {
       "clubName": "PEC Zwolle",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 48
+      "appearances": 48,
+      "goals": 4
     },
     {
       "clubName": "Dordrecht",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Feyenoord",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 3
     },
     {
       "clubName": "Manchester United",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2025,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 9
     },
     {
       "clubName": "Atalanta",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 1
     }
   ],
   "seasonRecords": [

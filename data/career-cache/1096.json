@@ -7,7 +7,8 @@
       "tierLabel": "European competition",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 48
+      "appearances": 50,
+      "goals": 6
     },
     {
       "clubName": "Hungary",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 4
     },
     {
       "clubName": "RB Leipzig",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 6
     },
     {
       "clubName": "Red Bull Salzburg",
@@ -34,14 +37,15 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2017,
       "yearEnd": 2020,
-      "appearances": 56
+      "appearances": 56,
+      "goals": 16
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

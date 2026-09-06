@@ -2,12 +2,13 @@
   "stints": [
     {
       "clubName": "Chelsea",
-      "country": "World",
+      "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
-      "yearEnd": 2025,
-      "appearances": 32
+      "yearEnd": 2026,
+      "appearances": 33,
+      "goals": 1
     },
     {
       "clubName": "France",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Leicester",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 0
     },
     {
       "clubName": "Saint Etienne",
@@ -34,10 +37,16 @@
       "tierLabel": "a club in France",
       "yearStart": 2017,
       "yearEnd": 2019,
-      "appearances": 16
+      "appearances": 16,
+      "goals": 1
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 15,

@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 2
     },
     {
       "clubName": "Leicester",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2024,
-      "appearances": 138
+      "appearances": 138,
+      "goals": 6
     },
     {
       "clubName": "England",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Luton",
@@ -34,7 +37,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2015,
       "yearEnd": 2018,
-      "appearances": 92
+      "appearances": 92,
+      "goals": 6
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Argentina",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Chelsea",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 105
+      "appearances": 105,
+      "goals": 20
     },
     {
       "clubName": "Manchester United",
@@ -34,14 +37,15 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 205
+      "appearances": 207,
+      "goals": 18
     },
     {
       "clubName": "Netherlands",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2014,
       "yearEnd": 2026,
-      "appearances": 38
+      "appearances": 38,
+      "goals": 8
     },
     {
       "clubName": "Southampton",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
       "yearEnd": 2016,
-      "appearances": 55
+      "appearances": 55,
+      "goals": 4
     },
     {
       "clubName": "Celtic",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2013,
       "yearEnd": 2014,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 9
     },
     {
       "clubName": "Groningen",
@@ -43,14 +47,15 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2010,
       "yearEnd": 2012,
-      "appearances": 62
+      "appearances": 62,
+      "goals": 7
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

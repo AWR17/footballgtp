@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Sunderland",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 41
+      "appearances": 41,
+      "goals": 1
     },
     {
       "clubName": "West Ham",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Accrington ST",
@@ -34,7 +37,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 0
     }
   ],
   "seasonRecords": [

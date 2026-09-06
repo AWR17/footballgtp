@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Burton Albion",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Coventry",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Macarthur",
@@ -16,7 +27,8 @@
       "tierLabel": "a club in Australia",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 4
     },
     {
       "clubName": "Melbourne City",
@@ -25,10 +37,16 @@
       "tierLabel": "a club in Australia",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 1
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 41,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 48,

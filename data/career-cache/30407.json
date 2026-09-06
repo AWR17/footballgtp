@@ -7,7 +7,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Denmark",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2025,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 1
     },
     {
       "clubName": "Brentford",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2024,
-      "appearances": 185
+      "appearances": 185,
+      "goals": 11
     },
     {
       "clubName": "Fiorentina",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Brondby",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2013,
       "yearEnd": 2017,
-      "appearances": 115
+      "appearances": 115,
+      "goals": 8
     },
     {
       "clubName": "Hamburger SV",
@@ -52,7 +57,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2012,
       "yearEnd": 2012,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

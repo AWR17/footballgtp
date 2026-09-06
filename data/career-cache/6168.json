@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Paraguay",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 3
     },
     {
       "clubName": "Getafe",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 90
+      "appearances": 90,
+      "goals": 2
     },
     {
       "clubName": "Valencia",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 2
     },
     {
       "clubName": "Hertha BSC",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 0
     },
     {
       "clubName": "FC Basel 1893",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in Switzerland",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 2
     },
     {
       "clubName": "Huracan",
@@ -61,7 +67,8 @@
       "tierLabel": "a club in Argentina",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     },
     {
       "clubName": "Gimnasia L.P.",
@@ -70,7 +77,8 @@
       "tierLabel": "a club in Argentina",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 1
     },
     {
       "clubName": "Cerro Porteno",
@@ -79,7 +87,8 @@
       "tierLabel": "a club in Paraguay",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 1
     }
   ],
   "seasonRecords": [

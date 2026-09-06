@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 0
     },
     {
       "clubName": "Wigan",
@@ -16,7 +17,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 2
     },
     {
       "clubName": "Liverpool",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 4,
+      "goals": 1
     },
     {
       "clubName": "Ecuador",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 1
     },
     {
       "clubName": "Anderlecht",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 84
+      "appearances": 84,
+      "goals": 0
     },
     {
       "clubName": "LDU de Quito",
@@ -34,14 +37,15 @@
       "tierLabel": "a club in Ecuador",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Belgium",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2015,
       "yearEnd": 2026,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 5
     },
     {
       "clubName": "Aston Villa",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 73
+      "appearances": 73,
+      "goals": 5
     },
     {
       "clubName": "Leicester",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2022,
-      "appearances": 151
+      "appearances": 151,
+      "goals": 21
     },
     {
       "clubName": "Monaco",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 0
     },
     {
       "clubName": "Anderlecht",
@@ -52,14 +57,15 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2013,
       "yearEnd": 2016,
-      "appearances": 139
+      "appearances": 139,
+      "goals": 26
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

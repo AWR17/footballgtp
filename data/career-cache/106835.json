@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 3
     },
     {
       "clubName": "Brighton",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 88
+      "appearances": 88,
+      "goals": 20
     },
     {
       "clubName": "Union St. Gilloise",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 7
     },
     {
       "clubName": "Kawasaki Frontale",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Japan",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 13
     },
     {
       "clubName": "Tsukuba University",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Japan",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

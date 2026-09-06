@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 0
     },
     {
       "clubName": "Middlesbrough",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 47
+      "appearances": 47,
+      "goals": 0
     },
     {
       "clubName": "Wolves",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Rotherham",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 23
+      "appearances": 23,
+      "goals": 2
     }
   ],
   "seasonRecords": [

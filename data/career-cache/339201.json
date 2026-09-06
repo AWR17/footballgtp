@@ -7,14 +7,15 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 68
+      "appearances": 69,
+      "goals": 6
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

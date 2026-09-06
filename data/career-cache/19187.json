@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 124
+      "appearances": 124,
+      "goals": 12
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 0
     },
     {
       "clubName": "Aston Villa",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2011,
       "yearEnd": 2020,
-      "appearances": 190
+      "appearances": 190,
+      "goals": 29
     },
     {
       "clubName": "Notts County",
@@ -34,7 +37,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2013,
       "yearEnd": 2013,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 5
     }
   ],
   "seasonRecords": [

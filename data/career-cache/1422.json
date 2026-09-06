@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 0
     },
     {
       "clubName": "Manchester City",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 68
+      "appearances": 68,
+      "goals": 8
     },
     {
       "clubName": "Rennes",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 74
+      "appearances": 74,
+      "goals": 9
     },
     {
       "clubName": "Anderlecht",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 3
     }
   ],
   "seasonRecords": [

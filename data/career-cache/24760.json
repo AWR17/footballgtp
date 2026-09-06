@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Georgia",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 0
     },
     {
       "clubName": "Valencia",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Spain",
       "yearStart": 2021,
       "yearEnd": 2023,
-      "appearances": 76
+      "appearances": 76,
+      "goals": 0
     },
     {
       "clubName": "Lokomotivi Tbilisi",
@@ -34,7 +37,8 @@
       "tierLabel": "European competition",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 0
     },
     {
       "clubName": "Dinamo Tbilisi",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Georgia",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

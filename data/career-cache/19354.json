@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Arsenal",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "England",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 0
     },
     {
       "clubName": "Aston Villa",
@@ -16,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2025,
-      "appearances": 203
+      "appearances": 203,
+      "goals": 8
     },
     {
       "clubName": "Brentford",
@@ -25,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 42
+      "appearances": 42,
+      "goals": 1
     },
     {
       "clubName": "Charlton",
@@ -34,10 +47,16 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2015,
       "yearEnd": 2017,
-      "appearances": 73
+      "appearances": 73,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 667,

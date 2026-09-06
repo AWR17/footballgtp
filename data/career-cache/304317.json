@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Southampton",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 2
     }
   ],
   "seasonRecords": [

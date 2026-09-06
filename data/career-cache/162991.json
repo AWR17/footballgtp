@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 1
     },
     {
       "clubName": "Antwerp",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 1
     },
     {
       "clubName": "Monaco",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 51
+      "appearances": 51,
+      "goals": 2
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 62
+      "appearances": 62,
+      "goals": 0
     },
     {
       "clubName": "Ukraine",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Dnipro-1",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Ukraine",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 0
     }
   ],
   "seasonRecords": [

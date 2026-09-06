@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 4,
+      "goals": 1
     },
     {
       "clubName": "Sheffield Utd",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2024,
-      "appearances": 148
+      "appearances": 148,
+      "goals": 26
     },
     {
       "clubName": "Scotland",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Swansea",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2016,
       "yearEnd": 2018,
-      "appearances": 58
+      "appearances": 58,
+      "goals": 22
     },
     {
       "clubName": "Newport County",
@@ -43,7 +47,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 3
     },
     {
       "clubName": "Bradford",
@@ -52,14 +57,15 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2013,
       "yearEnd": 2014,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

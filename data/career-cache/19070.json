@@ -7,7 +7,8 @@
       "tierLabel": "a club in Scotland",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 0
     },
     {
       "clubName": "Bournemouth",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 0
     },
     {
       "clubName": "Norwich",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2022,
-      "appearances": 201
+      "appearances": 201,
+      "goals": 5
     }
   ],
   "seasonRecords": [

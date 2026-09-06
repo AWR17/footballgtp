@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 0
     },
     {
       "clubName": "Fiorentina",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 1
     }
   ],
   "seasonRecords": [

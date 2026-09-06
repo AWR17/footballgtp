@@ -7,7 +7,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Preston",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 90
+      "appearances": 90,
+      "goals": 0
     },
     {
       "clubName": "Bournemouth",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Newcastle",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2019,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Swansea",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 48
+      "appearances": 48,
+      "goals": 0
     }
   ],
   "seasonRecords": [

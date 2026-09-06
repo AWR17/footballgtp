@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 232
+      "appearances": 232,
+      "goals": 30
     },
     {
       "clubName": "Germany",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 1
     },
     {
       "clubName": "FC Ingolstadt 04",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2012,
       "yearEnd": 2016,
-      "appearances": 158
+      "appearances": 158,
+      "goals": 17
     },
     {
       "clubName": "Karlsruher SC",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2010,
       "yearEnd": 2011,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 3
     },
     {
       "clubName": "1899 Hoffenheim",
@@ -43,7 +47,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2008,
       "yearEnd": 2009,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     }
   ],
   "seasonRecords": [

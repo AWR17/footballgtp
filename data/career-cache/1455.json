@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 71
+      "appearances": 73,
+      "goals": 14
     },
     {
       "clubName": "Nigeria",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2015,
       "yearEnd": 2026,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 3
     },
     {
       "clubName": "Everton",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 121
+      "appearances": 121,
+      "goals": 6
     },
     {
       "clubName": "Arsenal",
@@ -34,14 +37,15 @@
       "tierLabel": "a club in England",
       "yearStart": 2013,
       "yearEnd": 2018,
-      "appearances": 100
+      "appearances": 100,
+      "goals": 11
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

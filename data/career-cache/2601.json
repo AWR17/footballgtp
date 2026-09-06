@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 7,
+      "goals": 0
     },
     {
       "clubName": "Japan",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 10
     },
     {
       "clubName": "Lazio",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 2
     },
     {
       "clubName": "Eintracht Frankfurt",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2017,
       "yearEnd": 2022,
-      "appearances": 127
+      "appearances": 127,
+      "goals": 20
     },
     {
       "clubName": "St. Truiden",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 12
     },
     {
       "clubName": "Sagan Tosu",
@@ -52,14 +57,15 @@
       "tierLabel": "a club in Japan",
       "yearStart": 2015,
       "yearEnd": 2016,
-      "appearances": 49
+      "appearances": 49,
+      "goals": 10
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 2
+      "appearances": 3
     },
     {
       "season": 2025,

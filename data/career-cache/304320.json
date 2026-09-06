@@ -6,8 +6,9 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
-      "yearEnd": 2025,
-      "appearances": 11
+      "yearEnd": 2026,
+      "appearances": 12,
+      "goals": 1
     },
     {
       "clubName": "Crystal Palace",
@@ -16,10 +17,16 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 40,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 48,

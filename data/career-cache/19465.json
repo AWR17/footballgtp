@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 0
     },
     {
       "clubName": "Spain",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Brentford",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 156
+      "appearances": 156,
+      "goals": 0
     },
     {
       "clubName": "Blackburn",
@@ -34,7 +37,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2014,
       "yearEnd": 2018,
-      "appearances": 96
+      "appearances": 96,
+      "goals": 0
     }
   ],
   "seasonRecords": [

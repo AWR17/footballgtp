@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Lille",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 85
+      "appearances": 85,
+      "goals": 12
     },
     {
       "clubName": "Toulouse",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 72
+      "appearances": 72,
+      "goals": 7
     }
   ],
   "seasonRecords": [

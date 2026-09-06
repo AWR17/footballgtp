@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 41
+      "appearances": 42,
+      "goals": 0
     },
     {
       "clubName": "Morocco",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 2
     },
     {
       "clubName": "Bayern München",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 45
+      "appearances": 45,
+      "goals": 1
     },
     {
       "clubName": "Ajax",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2017,
       "yearEnd": 2021,
-      "appearances": 93
+      "appearances": 93,
+      "goals": 6
     },
     {
       "clubName": "Jong Ajax",
@@ -43,14 +47,15 @@
       "tierLabel": "a club in Netherlands",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 33
+      "appearances": 33,
+      "goals": 6
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

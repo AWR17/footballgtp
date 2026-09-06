@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Rapid Vienna",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 2
     },
     {
       "clubName": "Mali",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Red Bull Salzburg",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "TSV Hartberg",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 2
     },
     {
       "clubName": "Grazer AK",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 5
     },
     {
       "clubName": "FC Liefering",
@@ -61,7 +67,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 1
     }
   ],
   "seasonRecords": [

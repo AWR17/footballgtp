@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2016,
       "yearEnd": 2026,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 10
     },
     {
       "clubName": "Arsenal",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 70
+      "appearances": 70,
+      "goals": 18
     },
     {
       "clubName": "Manchester City",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2016,
       "yearEnd": 2021,
-      "appearances": 159
+      "appearances": 159,
+      "goals": 58
     },
     {
       "clubName": "Palmeiras",
@@ -34,7 +37,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2014,
       "yearEnd": 2015,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     }
   ],
   "seasonRecords": [

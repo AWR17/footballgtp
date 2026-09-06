@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 41
+      "appearances": 41,
+      "goals": 3
     },
     {
       "clubName": "Sweden",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 3
     },
     {
       "clubName": "AIK Stockholm",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Sweden",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 0
     }
   ],
   "seasonRecords": [

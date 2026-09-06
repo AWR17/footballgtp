@@ -1,0 +1,131 @@
+{
+  "stints": [
+    {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
+      "clubName": "Eintracht Frankfurt",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2022,
+      "yearEnd": 2025,
+      "appearances": 69,
+      "goals": 0
+    },
+    {
+      "clubName": "Werder Bremen",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2014,
+      "yearEnd": 2023,
+      "appearances": 38,
+      "goals": 0
+    },
+    {
+      "clubName": "PEC Zwolle",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2019,
+      "yearEnd": 2019,
+      "appearances": 13,
+      "goals": 0
+    },
+    {
+      "clubName": "SpVgg Unterhaching",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Germany",
+      "yearStart": 2012,
+      "yearEnd": 2013,
+      "appearances": 11,
+      "goals": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 81,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 78,
+      "appearances": 34
+    },
+    {
+      "season": 2022,
+      "leagueId": 78,
+      "appearances": 34
+    },
+    {
+      "season": 2023,
+      "leagueId": 78,
+      "appearances": 27
+    },
+    {
+      "season": 2021,
+      "leagueId": 79,
+      "appearances": 11
+    },
+    {
+      "season": 2020,
+      "leagueId": 78,
+      "appearances": 0
+    },
+    {
+      "season": 2018,
+      "leagueId": 78,
+      "appearances": 0
+    },
+    {
+      "season": 2017,
+      "leagueId": 78,
+      "appearances": 0
+    },
+    {
+      "season": 2016,
+      "leagueId": 78,
+      "appearances": 0
+    },
+    {
+      "season": 2015,
+      "leagueId": 78,
+      "appearances": 0
+    },
+    {
+      "season": 2014,
+      "leagueId": 78,
+      "appearances": 0
+    },
+    {
+      "season": 2019,
+      "leagueId": 88,
+      "appearances": 13
+    },
+    {
+      "season": 2013,
+      "leagueId": 80,
+      "appearances": 11
+    },
+    {
+      "season": 2012,
+      "leagueId": 80,
+      "appearances": 0
+    }
+  ]
+}

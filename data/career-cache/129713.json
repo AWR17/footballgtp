@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Newport County",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "4th tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Reading",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Hull City",
@@ -16,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 1
     },
     {
       "clubName": "Gateshead",
@@ -25,10 +37,16 @@
       "tierLabel": "a club in England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 42,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 48,

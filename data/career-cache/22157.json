@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Argentina",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "PSV Eindhoven",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 63
+      "appearances": 63,
+      "goals": 0
     },
     {
       "clubName": "Nice",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2016,
       "yearEnd": 2021,
-      "appearances": 167
+      "appearances": 167,
+      "goals": 0
     },
     {
       "clubName": "Quilmes",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Argentina",
       "yearStart": 2011,
       "yearEnd": 2015,
-      "appearances": 41
+      "appearances": 41,
+      "goals": 0
     }
   ],
   "seasonRecords": [

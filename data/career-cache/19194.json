@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 41
+      "appearances": 41,
+      "goals": 27
     },
     {
       "clubName": "AC Milan",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 3
     },
     {
       "clubName": "AS Roma",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Italy",
       "yearStart": 2021,
       "yearEnd": 2023,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 1
     },
     {
       "clubName": "England",
@@ -34,7 +37,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2022,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 2
     },
     {
       "clubName": "Chelsea",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
       "yearEnd": 2020,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 2
     },
     {
       "clubName": "Swansea",
@@ -52,7 +57,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 5
     }
   ],
   "seasonRecords": [

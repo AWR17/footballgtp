@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Uruguay",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 1
     },
     {
       "clubName": "Barcelona",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2019,
       "yearEnd": 2025,
-      "appearances": 120
+      "appearances": 120,
+      "goals": 8
     },
     {
       "clubName": "Boston River",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Uruguay",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 0
     },
     {
       "clubName": "Rentistas",
@@ -43,14 +47,15 @@
       "tierLabel": "a club in Uruguay",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

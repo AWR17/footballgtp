@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 39
+      "appearances": 41,
+      "goals": 5
     },
     {
       "clubName": "Argentina",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 4
     },
     {
       "clubName": "Brighton",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 98
+      "appearances": 98,
+      "goals": 16
     },
     {
       "clubName": "Argentinos JRS",
@@ -34,14 +37,15 @@
       "tierLabel": "a club in Argentina",
       "yearStart": 2016,
       "yearEnd": 2018,
-      "appearances": 50
+      "appearances": 50,
+      "goals": 6
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

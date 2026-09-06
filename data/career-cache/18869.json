@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2010,
       "yearEnd": 2026,
-      "appearances": 371
+      "appearances": 373,
+      "goals": 6
     },
     {
       "clubName": "Millwall",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2012,
       "yearEnd": 2012,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 1
     },
     {
       "clubName": "Tottenham",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2011,
       "yearEnd": 2011,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Wycombe",
@@ -34,14 +37,15 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2009,
       "yearEnd": 2009,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

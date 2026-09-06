@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Luton",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 2,
+      "goals": 0
+    },
+    {
       "clubName": "Rotherham",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "3rd tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Manchester United",
@@ -16,10 +27,16 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 41,
+      "appearances": 2
+    },
     {
       "season": 2025,
       "leagueId": 48,

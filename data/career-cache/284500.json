@@ -6,8 +6,9 @@
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
-      "yearEnd": 2025,
-      "appearances": 19
+      "yearEnd": 2026,
+      "appearances": 20,
+      "goals": 0
     },
     {
       "clubName": "Aston Villa",
@@ -16,10 +17,16 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2023,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 1022,

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 122
+      "appearances": 122,
+      "goals": 14
     },
     {
       "clubName": "Arsenal",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2019,
-      "appearances": 33
+      "appearances": 33,
+      "goals": 1
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Atletico Madrid",
@@ -16,7 +17,8 @@
       "tierLabel": "European competition",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 0
     },
     {
       "clubName": "Atalanta",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2020,
       "yearEnd": 2023,
-      "appearances": 55
+      "appearances": 55,
+      "goals": 0
     },
     {
       "clubName": "Italy",
@@ -34,14 +37,15 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

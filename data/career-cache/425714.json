@@ -1,0 +1,31 @@
+{
+  "stints": [
+    {
+      "clubName": "Palmeiras",
+      "country": "Brazil",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Brazil",
+      "yearStart": 2024,
+      "yearEnd": 2026,
+      "appearances": 11,
+      "goals": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 475,
+      "appearances": 11
+    },
+    {
+      "season": 2025,
+      "leagueId": 1179,
+      "appearances": 0
+    },
+    {
+      "season": 2024,
+      "leagueId": 71,
+      "appearances": 0
+    }
+  ]
+}

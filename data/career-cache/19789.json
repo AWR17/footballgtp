@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Coventry",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 2,
+      "goals": 0
+    },
+    {
       "clubName": "Brentford",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
-      "yearEnd": 2026,
-      "appearances": 205
+      "yearEnd": 2025,
+      "appearances": 205,
+      "goals": 11
     },
     {
       "clubName": "Jamaica",
@@ -16,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 0
     },
     {
       "clubName": "Barnsley",
@@ -25,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 58
+      "appearances": 58,
+      "goals": 3
     },
     {
       "clubName": "Forest Green",
@@ -34,7 +47,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 40
+      "appearances": 40,
+      "goals": 3
     },
     {
       "clubName": "Dulwich Hamlet",
@@ -43,14 +57,15 @@
       "tierLabel": "a club in England",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 0
+      "appearances": 2
     },
     {
       "season": 2025,

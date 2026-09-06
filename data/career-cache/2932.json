@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 299
+      "appearances": 299,
+      "goals": 0
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2016,
       "yearEnd": 2026,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 0
     },
     {
       "clubName": "Sunderland",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2013,
       "yearEnd": 2016,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 0
     },
     {
       "clubName": "Alfreton Town",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2012,
       "yearEnd": 2012,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 0
     },
     {
       "clubName": "Darlington",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2011,
       "yearEnd": 2011,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 0
     }
   ],
   "seasonRecords": [

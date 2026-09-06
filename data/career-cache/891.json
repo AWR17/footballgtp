@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2026,
-      "appearances": 209
+      "appearances": 210,
+      "goals": 3
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2014,
       "yearEnd": 2024,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 2
     },
     {
       "clubName": "Southampton",
@@ -25,14 +27,15 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2011,
       "yearEnd": 2013,
-      "appearances": 60
+      "appearances": 60,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

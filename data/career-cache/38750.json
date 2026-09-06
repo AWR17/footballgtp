@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Netherlands",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 3
     },
     {
       "clubName": "Ajax",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2019,
       "yearEnd": 2024,
-      "appearances": 116
+      "appearances": 116,
+      "goals": 46
     },
     {
       "clubName": "Jong Ajax",
@@ -34,14 +37,15 @@
       "tierLabel": "a club in Netherlands",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

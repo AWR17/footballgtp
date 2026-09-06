@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 0
     },
     {
       "clubName": "Rep. Of Ireland",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 3
     },
     {
       "clubName": "Sheffield Utd",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2011,
       "yearEnd": 2023,
-      "appearances": 211
+      "appearances": 211,
+      "goals": 7
     },
     {
       "clubName": "Brentford",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2017,
-      "appearances": 67
+      "appearances": 67,
+      "goals": 6
     },
     {
       "clubName": "Gillingham",
@@ -43,7 +47,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2014,
       "yearEnd": 2015,
-      "appearances": 81
+      "appearances": 81,
+      "goals": 10
     },
     {
       "clubName": "Southend",
@@ -52,7 +57,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2013,
       "yearEnd": 2013,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 1
     },
     {
       "clubName": "Sunderland",
@@ -61,7 +67,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2012,
       "yearEnd": 2012,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Nottingham Forest",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 2,
+      "goals": 0
+    },
+    {
       "clubName": "Chelsea",
       "country": "World",
       "isNationalTeam": false,
       "tierLabel": "a club in World",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 1
     },
     {
       "clubName": "Hull City",
@@ -16,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 8
     },
     {
       "clubName": "Manchester City",
@@ -25,10 +37,16 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 2
+    },
     {
       "season": 2025,
       "leagueId": 15,

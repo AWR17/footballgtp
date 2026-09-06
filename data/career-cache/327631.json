@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 5
     },
     {
       "clubName": "Sunderland",
@@ -16,7 +17,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 4,
+      "goals": 1
     },
     {
       "clubName": "Strasbourg",
@@ -25,14 +27,15 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 100
+      "appearances": 100,
+      "goals": 10
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

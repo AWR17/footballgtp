@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 48
+      "appearances": 48,
+      "goals": 11
     },
     {
       "clubName": "Huddersfield",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 2
     },
     {
       "clubName": "AFC Wimbledon",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 80
+      "appearances": 80,
+      "goals": 16
     }
   ],
   "seasonRecords": [

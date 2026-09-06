@@ -1,25 +1,42 @@
 {
   "stints": [
     {
+      "clubName": "Portsmouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Rangers",
       "country": "Scotland",
       "isNationalTeam": false,
       "tierLabel": "a club in Scotland",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
-      "clubName": "Preston",
+      "clubName": "Brentford",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "2nd tier, England",
+      "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 12
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 40,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 185,
@@ -27,8 +44,8 @@
     },
     {
       "season": 2024,
-      "leagueId": 40,
-      "appearances": 12
+      "leagueId": 39,
+      "appearances": 1
     }
   ]
 }

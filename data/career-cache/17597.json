@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 0
     },
     {
       "clubName": "Rep. Of Ireland",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 0
     },
     {
       "clubName": "Burnley",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 3
     },
     {
       "clubName": "West Brom",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
       "yearEnd": 2022,
-      "appearances": 96
+      "appearances": 96,
+      "goals": 7
     },
     {
       "clubName": "Exeter City",
@@ -43,7 +47,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 0
     }
   ],
   "seasonRecords": [

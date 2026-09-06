@@ -7,7 +7,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 3
     },
     {
       "clubName": "Middlesbrough",
@@ -16,7 +17,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Preston",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2013,
       "yearEnd": 2024,
-      "appearances": 377
+      "appearances": 377,
+      "goals": 43
     }
   ],
   "seasonRecords": [

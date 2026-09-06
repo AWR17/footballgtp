@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 111
+      "appearances": 111,
+      "goals": 3
     },
     {
       "clubName": "Burnley",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2015,
       "yearEnd": 2021,
-      "appearances": 198
+      "appearances": 198,
+      "goals": 7
     },
     {
       "clubName": "England",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2020,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Brentford",
@@ -34,7 +37,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2013,
       "yearEnd": 2014,
-      "appearances": 49
+      "appearances": 49,
+      "goals": 3
     },
     {
       "clubName": "Oldham",
@@ -43,7 +47,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2010,
       "yearEnd": 2012,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 3
     }
   ],
   "seasonRecords": [

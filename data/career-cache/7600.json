@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Burnley",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
       "clubName": "Brighton",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 58
+      "appearances": 58,
+      "goals": 0
     },
     {
       "clubName": "Fiorentina",
@@ -16,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 87
+      "appearances": 87,
+      "goals": 0
     },
     {
       "clubName": "Austria Vienna",
@@ -25,7 +37,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 0
     },
     {
       "clubName": "Red Bull Salzburg",
@@ -34,10 +47,16 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2016,
       "yearEnd": 2017,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 40,
+      "appearances": 0
+    },
     {
       "season": 2025,
       "leagueId": 48,

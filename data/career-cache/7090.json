@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Brighton",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Venezia",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, Italy",
       "yearStart": 2020,
       "yearEnd": 2025,
-      "appearances": 116
+      "appearances": 116,
+      "goals": 2
     },
     {
       "clubName": "WSG Wattens",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 57
+      "appearances": 57,
+      "goals": 5
     },
     {
       "clubName": "Stadlau",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2016,
       "yearEnd": 2017,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 3
     },
     {
       "clubName": "Schwechat",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     }
   ],
   "seasonRecords": [

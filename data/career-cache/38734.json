@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 65
+      "appearances": 65,
+      "goals": 2
     },
     {
       "clubName": "Netherlands",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2023,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Lille",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 62
+      "appearances": 62,
+      "goals": 3
     },
     {
       "clubName": "Ajax",
@@ -34,7 +37,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     }
   ],
   "seasonRecords": [

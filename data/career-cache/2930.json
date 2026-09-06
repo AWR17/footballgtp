@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 107
+      "appearances": 107,
+      "goals": 0
     },
     {
       "clubName": "Crystal Palace",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 0
     },
     {
       "clubName": "Stoke City",
@@ -25,7 +27,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2013,
       "yearEnd": 2019,
-      "appearances": 155
+      "appearances": 155,
+      "goals": 0
     },
     {
       "clubName": "England",
@@ -34,7 +37,8 @@
       "tierLabel": "national team",
       "yearStart": 2012,
       "yearEnd": 2020,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Birmingham",
@@ -43,7 +47,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2011,
       "yearEnd": 2012,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

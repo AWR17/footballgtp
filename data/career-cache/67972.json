@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 16
+      "appearances": 16,
+      "goals": 1
     },
     {
       "clubName": "Atletico Madrid",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 3
     },
     {
       "clubName": "England",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2025,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 0
     },
     {
       "clubName": "Chelsea",
@@ -34,7 +37,8 @@
       "tierLabel": "European competition",
       "yearStart": 2018,
       "yearEnd": 2023,
-      "appearances": 75
+      "appearances": 75,
+      "goals": 8
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "European competition",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 91
+      "appearances": 91,
+      "goals": 40
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 1
     },
     {
       "clubName": "Manchester City",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     }
   ],
   "seasonRecords": [

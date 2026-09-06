@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 56
+      "appearances": 56,
+      "goals": 0
     },
     {
       "clubName": "Brighton",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2013,
       "yearEnd": 2020,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Blackburn",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 0
     },
     {
       "clubName": "Wigan",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 0
     },
     {
       "clubName": "Bury",
@@ -43,7 +47,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Plymouth",
@@ -52,7 +57,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2011,
       "yearEnd": 2011,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

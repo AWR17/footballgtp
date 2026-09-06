@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Sheffield Utd",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Coventry",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
-      "yearEnd": 2026,
-      "appearances": 60
+      "yearEnd": 2025,
+      "appearances": 59,
+      "goals": 1
     },
     {
       "clubName": "Barnsley",
@@ -16,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 82
+      "appearances": 82,
+      "goals": 5
     },
     {
       "clubName": "Forest Green",
@@ -25,7 +37,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 0
     },
     {
       "clubName": "Harrogate Town",
@@ -34,13 +47,14 @@
       "tierLabel": "a club in England",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 43
+      "appearances": 43,
+      "goals": 6
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 48,
+      "leagueId": 40,
       "appearances": 1
     },
     {

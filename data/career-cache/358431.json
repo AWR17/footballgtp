@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Hull City",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Rayo Vallecano",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Spain",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Real Betis",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 0
     },
     {
       "clubName": "Paris FC",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, France",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [

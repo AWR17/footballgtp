@@ -7,7 +7,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 121
+      "appearances": 121,
+      "goals": 6
     },
     {
       "clubName": "Bournemouth",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 0
     },
     {
       "clubName": "Leeds",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2020,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 0
     }
   ],
   "seasonRecords": [

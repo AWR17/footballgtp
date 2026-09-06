@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 2
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2023,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 2
     },
     {
       "clubName": "Chelsea",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 129
+      "appearances": 129,
+      "goals": 27
     },
     {
       "clubName": "Derby",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 38
+      "appearances": 38,
+      "goals": 9
     },
     {
       "clubName": "Vitesse",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 14
     }
   ],
   "seasonRecords": [

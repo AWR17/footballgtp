@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 76
+      "appearances": 76,
+      "goals": 2
     },
     {
       "clubName": "Jamaica",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 0
     },
     {
       "clubName": "Swansea",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 2
     },
     {
       "clubName": "Twente",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 1
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2025,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Motherwell",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 57
+      "appearances": 57,
+      "goals": 0
     },
     {
       "clubName": "Walsall",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 23
+      "appearances": 23,
+      "goals": 0
     },
     {
       "clubName": "Carlisle",
@@ -34,7 +37,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2009,
       "yearEnd": 2016,
-      "appearances": 163
+      "appearances": 163,
+      "goals": 0
     }
   ],
   "seasonRecords": [

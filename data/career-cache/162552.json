@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Leyton Orient",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "3rd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
       "clubName": "Hibernian",
       "country": "Scotland",
       "isNationalTeam": false,
       "tierLabel": "1st tier, Scotland",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 1
     },
     {
       "clubName": "Tottenham",
@@ -16,10 +27,16 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 1
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 41,
+      "appearances": 0
+    },
     {
       "season": 2025,
       "leagueId": 179,

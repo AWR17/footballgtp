@@ -6,8 +6,9 @@
       "isNationalTeam": false,
       "tierLabel": "2nd tier, England",
       "yearStart": 2011,
-      "yearEnd": 2024,
-      "appearances": 1
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Salford City",
@@ -16,7 +17,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 0
     },
     {
       "clubName": "Fleetwood Town",
@@ -25,19 +27,26 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2016,
       "yearEnd": 2021,
-      "appearances": 213
+      "appearances": 213,
+      "goals": 0
     },
     {
-      "clubName": "Chesterfield",
+      "clubName": "Rotherham",
       "country": "England",
       "isNationalTeam": false,
-      "tierLabel": "3rd tier, England",
+      "tierLabel": "2nd tier, England",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
     {
       "season": 2024,
       "leagueId": 40,
@@ -105,7 +114,7 @@
     },
     {
       "season": 2015,
-      "leagueId": 41,
+      "leagueId": 40,
       "appearances": 0
     }
   ]

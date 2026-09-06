@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Ghana",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 0
     },
     {
       "clubName": "Leicester",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 82
+      "appearances": 82,
+      "goals": 15
     },
     {
       "clubName": "Sporting CP",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Dreams",
@@ -43,14 +47,15 @@
       "tierLabel": "a club in Ghana",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 6
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

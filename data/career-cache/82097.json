@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 0
     },
     {
       "clubName": "West Brom",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2023,
-      "appearances": 72
+      "appearances": 72,
+      "goals": 0
     },
     {
       "clubName": "Lincoln",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 48
+      "appearances": 48,
+      "goals": 0
     },
     {
       "clubName": "Plymouth",
@@ -34,7 +37,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 0
     }
   ],
   "seasonRecords": [

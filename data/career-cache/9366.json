@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 2
     },
     {
       "clubName": "Brazil",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 1
     },
     {
       "clubName": "Botafogo",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Brazil",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 5
     },
     {
       "clubName": "Shabab Al Ahli Dubai",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in United-Arab-Emirates",
       "yearStart": 2020,
       "yearEnd": 2023,
-      "appearances": 66
+      "appearances": 66,
+      "goals": 34
     },
     {
       "clubName": "Coritiba",
@@ -43,7 +47,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 2
     }
   ],
   "seasonRecords": [

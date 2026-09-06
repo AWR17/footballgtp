@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 65
+      "appearances": 66,
+      "goals": 3
     },
     {
       "clubName": "Argentina",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 1
     },
     {
       "clubName": "Ajax",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 74
+      "appearances": 74,
+      "goals": 6
     },
     {
       "clubName": "Defensa Y Justicia",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Argentina",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 3
     },
     {
       "clubName": "Newells Old Boys",
@@ -43,14 +47,15 @@
       "tierLabel": "a club in Argentina",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 0
+      "appearances": 1
     },
     {
       "season": 2025,

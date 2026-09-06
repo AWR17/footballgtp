@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Northern Ireland",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2015,
       "yearEnd": 2025,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 4
     },
     {
       "clubName": "West Brom",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Middlesbrough",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2023,
-      "appearances": 198
+      "appearances": 198,
+      "goals": 14
     },
     {
       "clubName": "Sunderland",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 0
     },
     {
       "clubName": "Manchester United",
@@ -52,7 +57,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2015,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 0
     }
   ],
   "seasonRecords": [

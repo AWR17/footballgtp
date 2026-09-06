@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Shakhtar Donetsk",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in Ukraine",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 9
     },
     {
       "clubName": "Palmeiras",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Brazil",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 1
     },
     {
       "clubName": "Desportivo Brasil",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Brazil",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     }
   ],
   "seasonRecords": [

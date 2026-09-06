@@ -1,0 +1,26 @@
+{
+  "stints": [
+    {
+      "clubName": "Deportivo Cali",
+      "country": "Colombia",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Colombia",
+      "yearStart": 2025,
+      "yearEnd": 2026,
+      "appearances": 25,
+      "goals": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 239,
+      "appearances": 14
+    },
+    {
+      "season": 2025,
+      "leagueId": 239,
+      "appearances": 11
+    }
+  ]
+}

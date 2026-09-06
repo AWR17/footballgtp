@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2025,
-      "appearances": 203
+      "appearances": 203,
+      "goals": 0
     },
     {
       "clubName": "Lorient",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, France",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 0
     }
   ],
   "seasonRecords": [

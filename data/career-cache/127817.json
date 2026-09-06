@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Ecuador",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 2
     },
     {
       "clubName": "Bayer Leverkusen",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 116
+      "appearances": 116,
+      "goals": 5
     },
     {
       "clubName": "Talleres Cordoba",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Argentina",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Independiente del Valle",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Ecuador",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

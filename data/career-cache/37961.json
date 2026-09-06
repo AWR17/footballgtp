@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 89
+      "appearances": 89,
+      "goals": 4
     },
     {
       "clubName": "Heerenveen",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 7
     },
     {
       "clubName": "ADO Den Haag",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 45
+      "appearances": 45,
+      "goals": 1
     },
     {
       "clubName": "Excelsior Maassluis",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Netherlands",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 2
     }
   ],
   "seasonRecords": [

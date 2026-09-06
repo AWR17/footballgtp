@@ -7,7 +7,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Brazil",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Wolves",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 91
+      "appearances": 91,
+      "goals": 6
     },
     {
       "clubName": "Flamengo",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Brazil",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 1
     }
   ],
   "seasonRecords": [

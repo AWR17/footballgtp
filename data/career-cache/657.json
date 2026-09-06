@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 127
+      "appearances": 127,
+      "goals": 4
     },
     {
       "clubName": "Netherlands",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2015,
       "yearEnd": 2021,
-      "appearances": 7
+      "appearances": 7,
+      "goals": 0
     },
     {
       "clubName": "Lyon",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2017,
       "yearEnd": 2019,
-      "appearances": 53
+      "appearances": 53,
+      "goals": 1
     },
     {
       "clubName": "Ajax",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2013,
       "yearEnd": 2016,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 0
     }
   ],
   "seasonRecords": [

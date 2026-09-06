@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Coventry",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
       "yearEnd": 2023,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 0
     },
     {
       "clubName": "Sheffield Utd",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2016,
       "yearEnd": 2020,
-      "appearances": 63
+      "appearances": 63,
+      "goals": 0
     },
     {
       "clubName": "Cardiff",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2013,
       "yearEnd": 2015,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 0
     },
     {
       "clubName": "Brentford",
@@ -43,7 +47,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2009,
       "yearEnd": 2012,
-      "appearances": 58
+      "appearances": 58,
+      "goals": 0
     }
   ],
   "seasonRecords": [

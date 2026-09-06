@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "West Brom",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2024,
-      "appearances": 237
+      "appearances": 237,
+      "goals": 11
     },
     {
       "clubName": "QPR",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2018,
-      "appearances": 51
+      "appearances": 51,
+      "goals": 1
     }
   ],
   "seasonRecords": [

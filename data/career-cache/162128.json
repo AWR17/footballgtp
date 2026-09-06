@@ -2,12 +2,13 @@
   "stints": [
     {
       "clubName": "Leeds",
-      "country": "World",
+      "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
-      "yearEnd": 2025,
-      "appearances": 110
+      "yearEnd": 2026,
+      "appearances": 110,
+      "goals": 19
     },
     {
       "clubName": "Italy",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 1
     },
     {
       "clubName": "FC Zurich",
@@ -25,10 +27,16 @@
       "tierLabel": "a club in Switzerland",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 59
+      "appearances": 59,
+      "goals": 9
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
     {
       "season": 2025,
       "leagueId": 667,

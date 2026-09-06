@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 2
     },
     {
       "clubName": "Fulham",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2023,
-      "appearances": 119
+      "appearances": 119,
+      "goals": 5
     },
     {
       "clubName": "Blackburn",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 3
     },
     {
       "clubName": "West Brom",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 0
     },
     {
       "clubName": "Manchester City",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
       "yearEnd": 2017,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

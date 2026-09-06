@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Serbia",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 33
+      "appearances": 33,
+      "goals": 2
     },
     {
       "clubName": "Fulham",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 78
+      "appearances": 78,
+      "goals": 2
     },
     {
       "clubName": "Torino",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2016,
       "yearEnd": 2021,
-      "appearances": 135
+      "appearances": 135,
+      "goals": 11
     },
     {
       "clubName": "FK Partizan",
@@ -43,7 +47,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2014,
       "yearEnd": 2015,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 2
     }
   ],
   "seasonRecords": [

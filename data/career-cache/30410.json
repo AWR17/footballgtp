@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 1
     },
     {
       "clubName": "Italy",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2024,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 4
     },
     {
       "clubName": "Juventus",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2020,
       "yearEnd": 2023,
-      "appearances": 98
+      "appearances": 98,
+      "goals": 21
     },
     {
       "clubName": "Fiorentina",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2016,
       "yearEnd": 2019,
-      "appearances": 134
+      "appearances": 134,
+      "goals": 25
     }
   ],
   "seasonRecords": [

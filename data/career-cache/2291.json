@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2013,
       "yearEnd": 2026,
-      "appearances": 48
+      "appearances": 48,
+      "goals": 2
     },
     {
       "clubName": "Manchester City",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 70
+      "appearances": 70,
+      "goals": 7
     },
     {
       "clubName": "Chelsea",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2022,
-      "appearances": 142
+      "appearances": 142,
+      "goals": 4
     },
     {
       "clubName": "Real Madrid",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2015,
       "yearEnd": 2017,
-      "appearances": 73
+      "appearances": 73,
+      "goals": 1
     },
     {
       "clubName": "Inter",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2012,
       "yearEnd": 2014,
-      "appearances": 80
+      "appearances": 80,
+      "goals": 5
     },
     {
       "clubName": "Dinamo Zagreb",
@@ -52,7 +57,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2010,
       "yearEnd": 2011,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 5
     }
   ],
   "seasonRecords": [

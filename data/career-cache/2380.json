@@ -7,7 +7,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Ajax",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 41
+      "appearances": 41,
+      "goals": 14
     },
     {
       "clubName": "Middlesbrough",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 79
+      "appearances": 79,
+      "goals": 33
     },
     {
       "clubName": "PAOK",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Greece",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 53
+      "appearances": 53,
+      "goals": 14
     },
     {
       "clubName": "Arsenal",
@@ -43,7 +47,8 @@
       "tierLabel": "European competition",
       "yearStart": 2012,
       "yearEnd": 2017,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 3
     }
   ],
   "seasonRecords": [

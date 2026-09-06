@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Swansea",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "IFK Goteborg",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Sweden",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "ASEC Mimosas",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Ivory-Coast",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [

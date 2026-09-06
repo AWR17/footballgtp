@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 50
+      "appearances": 51,
+      "goals": 0
     },
     {
       "clubName": "Greece",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 1
     },
     {
       "clubName": "AS Roma",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Olympiakos Piraeus",
@@ -34,14 +37,15 @@
       "tierLabel": "a club in Greece",
       "yearStart": 2014,
       "yearEnd": 2019,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 0
+      "appearances": 1
     },
     {
       "season": 2024,

@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Middlesbrough",
@@ -16,14 +17,15 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2025,
-      "appearances": 102
+      "appearances": 102,
+      "goals": 9
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

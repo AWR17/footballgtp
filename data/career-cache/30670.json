@@ -1,0 +1,141 @@
+{
+  "stints": [
+    {
+      "clubName": "Bournemouth",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
+      "clubName": "Juventus",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Italy",
+      "yearStart": 2024,
+      "yearEnd": 2025,
+      "appearances": 34,
+      "goals": 0
+    },
+    {
+      "clubName": "Italy",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2024,
+      "yearEnd": 2024,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
+      "clubName": "Monza",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Italy",
+      "yearStart": 2020,
+      "yearEnd": 2023,
+      "appearances": 140,
+      "goals": 0
+    },
+    {
+      "clubName": "Pordenone",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, Italy",
+      "yearStart": 2019,
+      "yearEnd": 2019,
+      "appearances": 35,
+      "goals": 0
+    },
+    {
+      "clubName": "Novara",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Italy",
+      "yearStart": 2018,
+      "yearEnd": 2018,
+      "appearances": 32,
+      "goals": 0
+    },
+    {
+      "clubName": "Renate",
+      "country": "Italy",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Italy",
+      "yearStart": 2017,
+      "yearEnd": 2017,
+      "appearances": 35,
+      "goals": 0
+    },
+    {
+      "clubName": "Inter",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2016,
+      "yearEnd": 2016,
+      "appearances": 0,
+      "goals": 0
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 137,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 135,
+      "appearances": 33
+    },
+    {
+      "season": 2023,
+      "leagueId": 135,
+      "appearances": 33
+    },
+    {
+      "season": 2022,
+      "leagueId": 135,
+      "appearances": 37
+    },
+    {
+      "season": 2021,
+      "leagueId": 136,
+      "appearances": 41
+    },
+    {
+      "season": 2020,
+      "leagueId": 136,
+      "appearances": 29
+    },
+    {
+      "season": 2019,
+      "leagueId": 136,
+      "appearances": 35
+    },
+    {
+      "season": 2018,
+      "leagueId": 943,
+      "appearances": 32
+    },
+    {
+      "season": 2017,
+      "leagueId": 138,
+      "appearances": 35
+    },
+    {
+      "season": 2016,
+      "leagueId": 26,
+      "appearances": 0
+    }
+  ]
+}

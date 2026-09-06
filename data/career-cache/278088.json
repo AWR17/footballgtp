@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Swansea",
@@ -16,7 +17,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 0
     },
     {
       "clubName": "Lincoln",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 42
+      "appearances": 42,
+      "goals": 0
     },
     {
       "clubName": "Walsall",
@@ -34,14 +37,15 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 43
+      "appearances": 43,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

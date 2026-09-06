@@ -1,22 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Newcastle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "yearEnd": 2026,
+      "appearances": 74,
+      "goals": 1
+    },
+    {
       "clubName": "England",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 6
-    },
-    {
-      "clubName": "Newcastle",
-      "country": "World",
-      "isNationalTeam": false,
-      "tierLabel": "1st tier, England",
-      "yearStart": 2022,
-      "yearEnd": 2025,
-      "appearances": 73
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Southampton",
@@ -25,10 +27,16 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2021,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 1
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 667,

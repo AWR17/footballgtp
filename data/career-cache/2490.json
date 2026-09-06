@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 1
     },
     {
       "clubName": "Colombia",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 5
     },
     {
       "clubName": "Bournemouth",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2022,
-      "appearances": 178
+      "appearances": 178,
+      "goals": 12
     },
     {
       "clubName": "Levante",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2015,
       "yearEnd": 2017,
-      "appearances": 89
+      "appearances": 89,
+      "goals": 3
     },
     {
       "clubName": "Huila",
@@ -43,7 +47,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2013,
       "yearEnd": 2014,
-      "appearances": 61
+      "appearances": 61,
+      "goals": 4
     }
   ],
   "seasonRecords": [

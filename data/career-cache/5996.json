@@ -1,13 +1,24 @@
 {
   "stints": [
     {
-      "clubName": "Chelsea",
+      "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
-      "yearStart": 2022,
+      "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 63
+      "appearances": 1,
+      "goals": 0
+    },
+    {
+      "clubName": "Chelsea",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2022,
+      "yearEnd": 2025,
+      "appearances": 62,
+      "goals": 7
     },
     {
       "clubName": "Argentina",
@@ -16,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 22
+      "appearances": 22,
+      "goals": 2
     },
     {
       "clubName": "River Plate",
@@ -25,7 +37,8 @@
       "tierLabel": "a club in Argentina",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 2
     }
   ],
   "seasonRecords": [

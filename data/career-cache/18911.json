@@ -2,12 +2,13 @@
   "stints": [
     {
       "clubName": "Newcastle",
-      "country": "World",
+      "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
-      "yearEnd": 2025,
-      "appearances": 87
+      "yearEnd": 2026,
+      "appearances": 87,
+      "goals": 0
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2024,
-      "appearances": 5
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Burnley",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2016,
       "yearEnd": 2021,
-      "appearances": 143
+      "appearances": 143,
+      "goals": 0
     },
     {
       "clubName": "Charlton",
@@ -34,10 +37,16 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2011,
       "yearEnd": 2015,
-      "appearances": 33
+      "appearances": 33,
+      "goals": 0
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 0
+    },
     {
       "season": 2025,
       "leagueId": 667,

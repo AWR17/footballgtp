@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Celta Vigo",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 101
+      "appearances": 101,
+      "goals": 6
     },
     {
       "clubName": "Spain",
@@ -25,7 +27,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2024,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Barcelona",
@@ -34,14 +37,15 @@
       "tierLabel": "a club in Spain",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 48
+      "appearances": 48,
+      "goals": 2
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

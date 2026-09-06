@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 198
+      "appearances": 198,
+      "goals": 14
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2016,
       "yearEnd": 2021,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Burnley",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2014,
       "yearEnd": 2016,
-      "appearances": 100
+      "appearances": 100,
+      "goals": 7
     },
     {
       "clubName": "Manchester United",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2011,
       "yearEnd": 2013,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     }
   ],
   "seasonRecords": [

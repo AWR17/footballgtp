@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Sweden",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 13
     },
     {
       "clubName": "Sporting CP",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 66
+      "appearances": 66,
+      "goals": 68
     },
     {
       "clubName": "Coventry",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 19
+      "appearances": 19,
+      "goals": 3
     },
     {
       "clubName": "Brighton",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2018,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "FC St. Pauli",
@@ -52,7 +57,8 @@
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 6
     },
     {
       "clubName": "IF Brommapojkarna",
@@ -61,7 +67,8 @@
       "tierLabel": "a club in Sweden",
       "yearStart": 2015,
       "yearEnd": 2017,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 7
     }
   ],
   "seasonRecords": [

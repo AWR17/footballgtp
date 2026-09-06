@@ -7,7 +7,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Leeds",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Sassuolo",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Italy",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 1
     },
     {
       "clubName": "Juventus",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Wolfsberger AC",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Austria",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     }
   ],
   "seasonRecords": [

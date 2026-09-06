@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Elche",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in Spain",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 1
     },
     {
       "clubName": "Real Madrid",
@@ -25,14 +27,15 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2022,
       "yearEnd": 2024,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 0
+      "appearances": 1
     },
     {
       "season": 2025,

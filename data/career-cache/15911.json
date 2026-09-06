@@ -1,0 +1,111 @@
+{
+  "stints": [
+    {
+      "clubName": "Al-Qadisiyah FC",
+      "country": "Saudi-Arabia",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Saudi-Arabia",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
+      "clubName": "Tottenham",
+      "country": "World",
+      "isNationalTeam": false,
+      "tierLabel": "a club in World",
+      "yearStart": 2025,
+      "yearEnd": 2025,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
+      "clubName": "Ghana",
+      "country": "World",
+      "isNationalTeam": true,
+      "tierLabel": "national team",
+      "yearStart": 2020,
+      "yearEnd": 2025,
+      "appearances": 13,
+      "goals": 2
+    },
+    {
+      "clubName": "West Ham",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2023,
+      "yearEnd": 2024,
+      "appearances": 65,
+      "goals": 13
+    },
+    {
+      "clubName": "Ajax",
+      "country": "Netherlands",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Netherlands",
+      "yearStart": 2020,
+      "yearEnd": 2022,
+      "appearances": 63,
+      "goals": 16
+    },
+    {
+      "clubName": "FC Nordsjaelland",
+      "country": "Denmark",
+      "isNationalTeam": false,
+      "tierLabel": "a club in Denmark",
+      "yearStart": 2018,
+      "yearEnd": 2019,
+      "appearances": 51,
+      "goals": 14
+    }
+  ],
+  "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 307,
+      "appearances": 0
+    },
+    {
+      "season": 2025,
+      "leagueId": 531,
+      "appearances": 1
+    },
+    {
+      "season": 2024,
+      "leagueId": 39,
+      "appearances": 32
+    },
+    {
+      "season": 2023,
+      "leagueId": 39,
+      "appearances": 33
+    },
+    {
+      "season": 2022,
+      "leagueId": 88,
+      "appearances": 30
+    },
+    {
+      "season": 2021,
+      "leagueId": 88,
+      "appearances": 16
+    },
+    {
+      "season": 2020,
+      "leagueId": 88,
+      "appearances": 17
+    },
+    {
+      "season": 2019,
+      "leagueId": 119,
+      "appearances": 25
+    },
+    {
+      "season": 2018,
+      "leagueId": 119,
+      "appearances": 26
+    }
+  ]
+}

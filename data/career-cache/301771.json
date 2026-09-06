@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 12
+      "appearances": 12,
+      "goals": 2
     },
     {
       "clubName": "Monaco",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in France",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Brighton",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 60
+      "appearances": 60,
+      "goals": 8
     },
     {
       "clubName": "Union St. Gilloise",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 11
     },
     {
       "clubName": "FC Nordsjaelland",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 38
+      "appearances": 38,
+      "goals": 11
     }
   ],
   "seasonRecords": [

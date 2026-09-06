@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 77
+      "appearances": 77,
+      "goals": 7
     },
     {
       "clubName": "Algeria",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 15
+      "appearances": 15,
+      "goals": 0
     },
     {
       "clubName": "Wolves",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 2
     },
     {
       "clubName": "Angers",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2017,
       "yearEnd": 2019,
-      "appearances": 20
+      "appearances": 20,
+      "goals": 0
     }
   ],
   "seasonRecords": [

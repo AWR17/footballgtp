@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 15
+      "appearances": 16,
+      "goals": 1
     },
     {
       "clubName": "Nigeria",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 0
     },
     {
       "clubName": "Brentford",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 69
+      "appearances": 69,
+      "goals": 1
     },
     {
       "clubName": "FC Midtjylland",
@@ -34,14 +37,15 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2017,
       "yearEnd": 2020,
-      "appearances": 95
+      "appearances": 95,
+      "goals": 15
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 2
     },
     {
       "season": 2025,

@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Greece",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 21
+      "appearances": 21,
+      "goals": 4
     },
     {
       "clubName": "Club Brugge KV",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 76
+      "appearances": 76,
+      "goals": 32
     },
     {
       "clubName": "Fortuna Düsseldorf",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, Germany",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 22
     },
     {
       "clubName": "Norwich",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 1
     },
     {
       "clubName": "PAOK",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in Greece",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 42
+      "appearances": 42,
+      "goals": 6
     }
   ],
   "seasonRecords": [

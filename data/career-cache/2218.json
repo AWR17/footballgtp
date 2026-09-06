@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 13
     },
     {
       "clubName": "Crystal Palace",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 3
     },
     {
       "clubName": "Marseille",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 23
+      "appearances": 23,
+      "goals": 3
     },
     {
       "clubName": "Watford",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 126
+      "appearances": 126,
+      "goals": 32
     },
     {
       "clubName": "Rennes",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 59
+      "appearances": 59,
+      "goals": 13
     },
     {
       "clubName": "Metz",
@@ -52,7 +57,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2016,
       "yearEnd": 2016,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 5
     }
   ],
   "seasonRecords": [

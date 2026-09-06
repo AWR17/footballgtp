@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 68
+      "appearances": 70,
+      "goals": 16
     },
     {
       "clubName": "Brazil",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "FC Porto",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2020,
       "yearEnd": 2023,
-      "appearances": 43
+      "appearances": 43,
+      "goals": 16
     },
     {
       "clubName": "Fluminense",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Brazil",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 2
     },
     {
       "clubName": "Šamorín",
@@ -43,14 +47,15 @@
       "tierLabel": "a club in Slovakia",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 3
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

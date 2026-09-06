@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 50
+      "appearances": 50,
+      "goals": 6
     },
     {
       "clubName": "Sheffield Utd",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2023,
-      "appearances": 88
+      "appearances": 88,
+      "goals": 10
     },
     {
       "clubName": "Derby",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
       "yearEnd": 2019,
-      "appearances": 80
+      "appearances": 80,
+      "goals": 3
     }
   ],
   "seasonRecords": [

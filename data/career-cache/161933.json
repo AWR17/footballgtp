@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Newcastle",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 2,
+      "goals": 0
+    },
+    {
       "clubName": "Manchester City",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
-      "yearEnd": 2026,
-      "appearances": 37
+      "yearEnd": 2025,
+      "appearances": 36,
+      "goals": 2
     },
     {
       "clubName": "FC Porto",
@@ -16,7 +27,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 2
     },
     {
       "clubName": "Barcelona",
@@ -25,14 +37,15 @@
       "tierLabel": "a club in Spain",
       "yearStart": 2021,
       "yearEnd": 2022,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 1
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 528,
-      "appearances": 1
+      "leagueId": 39,
+      "appearances": 2
     },
     {
       "season": 2025,

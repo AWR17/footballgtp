@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 50
+      "appearances": 50,
+      "goals": 4
     },
     {
       "clubName": "Spain",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 2
     },
     {
       "clubName": "Sporting CP",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2020,
       "yearEnd": 2021,
-      "appearances": 53
+      "appearances": 53,
+      "goals": 7
     },
     {
       "clubName": "Valladolid",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 13
+      "appearances": 13,
+      "goals": 0
     },
     {
       "clubName": "Girona",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     }
   ],
   "seasonRecords": [

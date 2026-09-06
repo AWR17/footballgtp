@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Portugal",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "West Ham",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 3
     },
     {
       "clubName": "Southampton",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 2
     },
     {
       "clubName": "Sporting CP",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     }
   ],
   "seasonRecords": [

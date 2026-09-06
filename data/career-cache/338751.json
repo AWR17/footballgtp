@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Liverpool",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 3,
+      "goals": 1
     },
     {
       "clubName": "Real Madrid",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Spain",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     },
     {
       "clubName": "RSC Internacional",
@@ -34,14 +37,15 @@
       "tierLabel": "a club in Spain",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 31
+      "appearances": 31,
+      "goals": 10
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

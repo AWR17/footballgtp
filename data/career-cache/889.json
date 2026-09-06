@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 92
+      "appearances": 92,
+      "goals": 1
     },
     {
       "clubName": "Sweden",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2016,
       "yearEnd": 2026,
-      "appearances": 35
+      "appearances": 35,
+      "goals": 1
     },
     {
       "clubName": "Manchester United",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2017,
       "yearEnd": 2021,
-      "appearances": 38
+      "appearances": 38,
+      "goals": 1
     },
     {
       "clubName": "Benfica",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Portugal",
       "yearStart": 2013,
       "yearEnd": 2016,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 1
     },
     {
       "clubName": "Vasteras SK FK",
@@ -43,7 +47,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2010,
       "yearEnd": 2011,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 0
     }
   ],
   "seasonRecords": [

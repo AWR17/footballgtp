@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2026,
-      "appearances": 129
+      "appearances": 129,
+      "goals": 6
     },
     {
       "clubName": "England",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 1
     },
     {
       "clubName": "Brighton",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2016,
       "yearEnd": 2020,
-      "appearances": 36
+      "appearances": 36,
+      "goals": 0
     },
     {
       "clubName": "Leeds",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 46
+      "appearances": 46,
+      "goals": 1
     },
     {
       "clubName": "Newport County",
@@ -43,7 +47,8 @@
       "tierLabel": "4th tier, England",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 42
+      "appearances": 42,
+      "goals": 1
     }
   ],
   "seasonRecords": [

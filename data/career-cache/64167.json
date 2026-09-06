@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2022,
       "yearEnd": 2025,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "USA",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Chicago Fire",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, USA",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 0
     }
   ],
   "seasonRecords": [

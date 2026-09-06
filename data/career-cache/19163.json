@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 188
+      "appearances": 188,
+      "goals": 19
     },
     {
       "clubName": "Norwich",
@@ -16,7 +17,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2013,
       "yearEnd": 2014,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Coventry",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 40
+      "appearances": 40,
+      "goals": 9
     }
   ],
   "seasonRecords": [

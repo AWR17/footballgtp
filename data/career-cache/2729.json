@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 62
+      "appearances": 62,
+      "goals": 1
     },
     {
       "clubName": "Denmark",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2019,
       "yearEnd": 2026,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 0
     },
     {
       "clubName": "Crystal Palace",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2021,
       "yearEnd": 2023,
-      "appearances": 104
+      "appearances": 104,
+      "goals": 3
     },
     {
       "clubName": "Lyon",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2019,
       "yearEnd": 2019,
-      "appearances": 18
+      "appearances": 18,
+      "goals": 1
     },
     {
       "clubName": "Sampdoria",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 39
+      "appearances": 39,
+      "goals": 0
     },
     {
       "clubName": "Twente",
@@ -52,7 +57,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2014,
       "yearEnd": 2016,
-      "appearances": 47
+      "appearances": 47,
+      "goals": 4
     },
     {
       "clubName": "Twente Res.",
@@ -61,7 +67,8 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2013,
       "yearEnd": 2013,
-      "appearances": 21
+      "appearances": 21,
+      "goals": 0
     }
   ],
   "seasonRecords": [

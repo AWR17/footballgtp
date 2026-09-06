@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 71
+      "appearances": 71,
+      "goals": 1
     },
     {
       "clubName": "Belgium",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 29
+      "appearances": 29,
+      "goals": 0
     },
     {
       "clubName": "Leicester",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 91
+      "appearances": 91,
+      "goals": 5
     },
     {
       "clubName": "Atalanta",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Italy",
       "yearStart": 2017,
       "yearEnd": 2019,
-      "appearances": 75
+      "appearances": 75,
+      "goals": 5
     },
     {
       "clubName": "Genk",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2013,
       "yearEnd": 2016,
-      "appearances": 72
+      "appearances": 72,
+      "goals": 1
     }
   ],
   "seasonRecords": [

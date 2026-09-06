@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "1. FC Köln",
+      "country": "Germany",
+      "isNationalTeam": false,
+      "tierLabel": "1st tier, Germany",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 0,
+      "goals": 0
+    },
+    {
       "clubName": "Crystal Palace",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2024,
-      "yearEnd": 2026,
-      "appearances": 6
+      "yearEnd": 2025,
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Ajax",
@@ -16,7 +27,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 16
+      "appearances": 16,
+      "goals": 0
     },
     {
       "clubName": "Croatia",
@@ -25,7 +37,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2024,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 1
     },
     {
       "clubName": "VfB Stuttgart",
@@ -34,7 +47,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2018,
       "yearEnd": 2022,
-      "appearances": 103
+      "appearances": 103,
+      "goals": 4
     },
     {
       "clubName": "Dinamo Zagreb",
@@ -43,13 +57,14 @@
       "tierLabel": "a club in Croatia",
       "yearStart": 2014,
       "yearEnd": 2017,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 39,
+      "leagueId": 78,
       "appearances": 0
     },
     {

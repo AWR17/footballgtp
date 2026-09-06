@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 129
+      "appearances": 131,
+      "goals": 17
     },
     {
       "clubName": "Wales",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2017,
       "yearEnd": 2026,
-      "appearances": 24
+      "appearances": 24,
+      "goals": 4
     },
     {
       "clubName": "Sheffield Utd",
@@ -25,14 +27,15 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2015,
       "yearEnd": 2017,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 3
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 0
+      "appearances": 2
     },
     {
       "season": 2025,

@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Wales",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2014,
       "yearEnd": 2026,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 5
     },
     {
       "clubName": "Fulham",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2021,
       "yearEnd": 2025,
-      "appearances": 137
+      "appearances": 137,
+      "goals": 22
     },
     {
       "clubName": "Liverpool",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
       "yearEnd": 2020,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 2
     }
   ],
   "seasonRecords": [

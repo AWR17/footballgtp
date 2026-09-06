@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 37
+      "appearances": 39,
+      "goals": 3
     },
     {
       "clubName": "Netherlands",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 10
+      "appearances": 10,
+      "goals": 1
     },
     {
       "clubName": "Bayern München",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 0
     },
     {
       "clubName": "Ajax",
@@ -34,14 +37,15 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 72
+      "appearances": 72,
+      "goals": 7
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

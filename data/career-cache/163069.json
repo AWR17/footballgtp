@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     },
     {
       "clubName": "Borussia Mönchengladbach",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 113
+      "appearances": 113,
+      "goals": 1
     },
     {
       "clubName": "Hertha BSC",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 11
+      "appearances": 11,
+      "goals": 1
     }
   ],
   "seasonRecords": [

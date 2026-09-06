@@ -18,6 +18,7 @@ const { getPlayerTeams, getPlayerSeasonStats, getPlayerSeasonAnyTeamLeague, getP
 const { tierFor } = require("../lib/league-tiers");
 
 const SOURCE_POOL_PATH = path.join(__dirname, "../data/pl-squad.json");
+const VALID_TEAMS_PATH = path.join(__dirname, "../data/pl-teams.json");
 const CACHE_DIR = path.join(__dirname, "../data/career-cache");
 const OUTPUT_PATH = path.join(__dirname, "../public/footygtp-attributes.json");
 
@@ -61,13 +62,36 @@ function normalizeClubKey(name) {
   const key = name
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
-    .replace(/[.]/g, "")
+    .replace(/[.']/g, "")
     .trim();
   const genericTokens = ["afc", "fc", "cf"];
   const words = key.split(/\s+/).filter(Boolean);
   while (words.length > 1 && genericTokens.includes(words[0])) words.shift();
   while (words.length > 1 && genericTokens.includes(words[words.length - 1])) words.pop();
   return words.join(" ");
+}
+
+// Real, commonly-used contracted club names — a substring check alone
+// misses these, since letters are DROPPED ("Nottm" from "Nottingham"),
+// not just cut off at the end.
+const CLUB_NAME_ALIASES = {
+  "man utd": "manchester united",
+  "man united": "manchester united",
+  "man city": "manchester city",
+  "nottm forest": "nottingham forest",
+  "spurs": "tottenham",
+  "tottenham hotspur": "tottenham",
+  "wolves": "wolverhampton wanderers",
+  "newcastle": "newcastle united",
+  "leeds": "leeds united",
+  "west ham": "west ham united",
+  "brighton": "brighton and hove albion",
+  "palace": "crystal palace",
+  "villa": "aston villa",
+};
+
+function resolveClubAlias(normalizedKey) {
+  return CLUB_NAME_ALIASES[normalizedKey] || normalizedKey;
 }
 
 function loadJSON(filePath, fallback) {
@@ -84,7 +108,7 @@ async function getCareerData(playerId) {
   const cachePath = path.join(CACHE_DIR, `${playerId}.json`);
   const cached = loadJSON(cachePath, null);
   const isValidCache = cached && cached.stints && cached.seasonRecords &&
-    cached.stints.every((s) => s.isNationalTeam || typeof s.yearEnd === "number");
+    cached.stints.every((s) => typeof s.yearEnd === "number" && typeof s.goals === "number");
   if (isValidCache) return cached;
 
   const teams = await getPlayerTeams(playerId);
@@ -102,10 +126,12 @@ async function getCareerData(playerId) {
     const seasonLeagues = [];
     let seasonCountry = null;
     let totalApps = 0;
+    let totalGoals = 0;
 
     for (const season of seasons) {
       const stat = await getPlayerSeasonStats(playerId, season, t.team.id);
       totalApps += stat.appearances;
+      totalGoals += stat.goals;
       if (stat.leagueId) {
         seasonLeagues.push({ season, leagueId: stat.leagueId });
         if (!isNationalTeam) {
@@ -145,6 +171,7 @@ async function getCareerData(playerId) {
       yearStart: Math.min(...seasons),
       yearEnd: Math.max(...seasons),
       appearances: totalApps,
+      goals: totalGoals,
     });
   }
 
@@ -169,6 +196,7 @@ async function getCareerData(playerId) {
       yearStart: Math.min(existing.yearStart, s.yearStart),
       yearEnd: Math.max(existing.yearEnd, s.yearEnd),
       appearances: existing.appearances + s.appearances,
+      goals: existing.goals + s.goals,
     });
   }
   const mergedStints = [...mergedByClub.values()];
@@ -213,6 +241,17 @@ function getCurrentClub(stints) {
   return mostRecent.clubName;
 }
 
+// International caps and goals — purely display info in the free-clue
+// banner, never compared. Pulled straight from the national-team
+// stint(s) already sitting in the same career data used for everything
+// else, so this costs zero extra API calls.
+function getInternationalStats(stints) {
+  const nationalStints = stints.filter((s) => s.isNationalTeam);
+  const caps = nationalStints.reduce((sum, s) => sum + (s.appearances || 0), 0);
+  const goals = nationalStints.reduce((sum, s) => sum + (s.goals || 0), 0);
+  return { caps, goals };
+}
+
 function computeAge(birthDateStr) {
   if (!birthDateStr) return null;
   const birthDate = new Date(birthDateStr);
@@ -224,6 +263,12 @@ function computeAge(birthDateStr) {
     (today.getMonth() === birthDate.getMonth() && today.getDate() >= birthDate.getDate());
   if (!hasHadBirthdayThisYear) age--;
   return age;
+}
+
+const SKIPPED_LOG_PATH = path.join(__dirname, "../data/skipped-players.json");
+
+function logSkipped(entries) {
+  saveJSON(SKIPPED_LOG_PATH, entries.map((e) => ({ ...e, loggedAt: new Date().toISOString() })));
 }
 
 function normalizeNameForDedup(name) {
@@ -238,10 +283,17 @@ async function run() {
     throw new Error(`No source pool found at ${SOURCE_POOL_PATH}. Run build-pl-squad.js first.`);
   }
 
+  const validTeamNames = loadJSON(VALID_TEAMS_PATH, []);
+  const validTeamKeys = new Set(validTeamNames.map(normalizeClubKey));
+  if (validTeamKeys.size === 0) {
+    console.warn("[build-attributes] no valid-teams list found (run build-pl-squad.js first for full protection) — skipping the not-actually-in-the-PL check.");
+  }
+
   console.log(`[build-attributes] processing ${candidates.length} players...`);
 
   const attributesById = {};
   const usedNames = new Set();
+  const skippedEntries = [];
   let processed = 0;
   let skipped = 0;
   let nameCollisions = 0;
@@ -250,6 +302,7 @@ async function run() {
     try {
       const { stints, seasonRecords } = await getCareerData(candidate.id);
       if (stints.filter((s) => !s.isNationalTeam).length === 0) {
+        skippedEntries.push({ name: candidate.name, id: candidate.id, reason: "No usable club stints found (all filtered as youth/reserve/national team, or genuinely no career data)." });
         skipped++;
         continue;
       }
@@ -257,6 +310,30 @@ async function run() {
       const { totalPlApps, plDebutYear } = derivePlStats(seasonRecords);
 
       if (plDebutYear === null) {
+        skippedEntries.push({ name: candidate.name, id: candidate.id, reason: "No PL debut year could be determined — API-Football's season data for this player had no matching Premier League league-ID records." });
+        skipped++;
+        continue;
+      }
+
+      const { caps: internationalCaps, goals: internationalGoals } = getInternationalStats(stints);
+
+      // Eligibility rule: a real PL appearance is always required (this
+      // is a Premier League guessing game, full stop), but 1 appearance
+      // alone barely narrows anything — almost every squad player picks
+      // up at least one substitute cameo eventually. The real filter is
+      // the second condition: either genuinely established in the PL
+      // (2+ appearances), or independently recognisable regardless of
+      // PL history (1+ international cap) — this specifically keeps a
+      // big-name new signing like Xavi Schlager in the pool even before
+      // they've racked up PL minutes, while still excluding a genuinely
+      // obscure academy player with neither.
+      if (totalPlApps < 1) {
+        skippedEntries.push({ name: candidate.name, id: candidate.id, reason: "Zero real Premier League appearances." });
+        skipped++;
+        continue;
+      }
+      if (totalPlApps < 2 && internationalCaps < 1) {
+        skippedEntries.push({ name: candidate.name, id: candidate.id, reason: `Below the recognisability threshold — only ${totalPlApps} PL appearance(s) and ${internationalCaps} international cap(s).` });
         skipped++;
         continue;
       }
@@ -282,9 +359,23 @@ async function run() {
 
       const currentClub = getCurrentClub(stints);
 
+      const clubKey = resolveClubAlias(normalizeClubKey(currentClub));
+      const looksLikeYouthOrReserve = currentClub && isYouthOrReserveTeam(currentClub);
+      const looksLikeRealPlClub = !looksLikeYouthOrReserve && (validTeamKeys.size === 0 || [...validTeamKeys].some((rawValidKey) => {
+        const validKey = resolveClubAlias(rawValidKey);
+        return clubKey === validKey || clubKey.includes(validKey) || validKey.includes(clubKey);
+      }));
+      if (currentClub && !looksLikeRealPlClub) {
+        console.warn(`[build-attributes] skipping "${candidate.name}" (id ${candidate.id}) — current club "${currentClub}" isn't a real Premier League team; likely already left the league (stale squad-list data).`);
+        skippedEntries.push({ name: candidate.name, id: candidate.id, reason: `Current club "${currentClub}" isn't a real Premier League team — likely already left the league; the source squad list was stale.` });
+        skipped++;
+        continue;
+      }
+
       const nameKey = normalizeNameForDedup(displayName);
       if (usedNames.has(nameKey)) {
         console.warn(`[build-attributes] skipping "${displayName}" (id ${candidate.id}) — name collides with an already-added player.`);
+        skippedEntries.push({ name: candidate.name, id: candidate.id, reason: `Name collision — resolved display name "${displayName}" matches an already-added player.` });
         nameCollisions++;
         continue;
       }
@@ -297,6 +388,8 @@ async function run() {
         plDebutYear,
         plAppsBand: bandPlApps(totalPlApps),
         nationality,
+        internationalCaps,
+        internationalGoals,
       };
       usedNames.add(nameKey);
 
@@ -304,12 +397,15 @@ async function run() {
       if (processed % 50 === 0) console.log(`[build-attributes] ${processed}/${candidates.length} done...`);
     } catch (err) {
       console.warn(`[build-attributes] failed for ${candidate.name} (${candidate.id}): ${err.message}`);
+      skippedEntries.push({ name: candidate.name, id: candidate.id, reason: `API/processing error: ${err.message}` });
       skipped++;
     }
   }
 
   saveJSON(OUTPUT_PATH, attributesById);
+  logSkipped(skippedEntries);
   console.log(`[build-attributes] wrote ${processed} players to ${OUTPUT_PATH} (${skipped} skipped, ${nameCollisions} name collisions resolved).`);
+  console.log(`[build-attributes] skip reasons logged to ${SKIPPED_LOG_PATH} — check this file to see why any specific player is missing.`);
 }
 
 run().catch((err) => {

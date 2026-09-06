@@ -1,13 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Lincoln",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "2nd tier, England",
+      "yearStart": 2026,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Ipswich",
       "country": "England",
       "isNationalTeam": false,
       "tierLabel": "a club in England",
       "yearStart": 2024,
-      "yearEnd": 2026,
-      "appearances": 2
+      "yearEnd": 2025,
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Rep. Of Ireland",
@@ -16,7 +27,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 19
+      "appearances": 19,
+      "goals": 2
     },
     {
       "clubName": "Luton",
@@ -25,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 4
     },
     {
       "clubName": "Rotherham",
@@ -34,7 +47,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2019,
       "yearEnd": 2022,
-      "appearances": 120
+      "appearances": 120,
+      "goals": 12
     },
     {
       "clubName": "Brentford",
@@ -43,7 +57,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
       "yearEnd": 2018,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Cork City",
@@ -52,14 +67,15 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2015,
       "yearEnd": 2016,
-      "appearances": 9
+      "appearances": 9,
+      "goals": 3
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
-      "leagueId": 48,
-      "appearances": 0
+      "leagueId": 40,
+      "appearances": 1
     },
     {
       "season": 2025,

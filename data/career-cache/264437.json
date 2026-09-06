@@ -7,7 +7,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 87
+      "appearances": 87,
+      "goals": 7
     },
     {
       "clubName": "Burnley",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2019,
       "yearEnd": 2021,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Barnsley",
@@ -25,7 +27,8 @@
       "tierLabel": "3rd tier, England",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 25
+      "appearances": 25,
+      "goals": 3
     }
   ],
   "seasonRecords": [

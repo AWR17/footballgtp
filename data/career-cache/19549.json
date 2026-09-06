@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2020,
       "yearEnd": 2026,
-      "appearances": 175
+      "appearances": 177,
+      "goals": 2
     },
     {
       "clubName": "USA",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2018,
       "yearEnd": 2026,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 2
     },
     {
       "clubName": "Wigan",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2018,
       "yearEnd": 2019,
-      "appearances": 64
+      "appearances": 64,
+      "goals": 1
     },
     {
       "clubName": "Bolton",
@@ -34,7 +37,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2017,
       "yearEnd": 2017,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 0
     },
     {
       "clubName": "Everton",
@@ -43,14 +47,15 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
       "yearEnd": 2015,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

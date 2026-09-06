@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Wales",
@@ -16,7 +17,8 @@
       "tierLabel": "national team",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Leeds",
@@ -25,7 +27,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2023,
       "yearEnd": 2025,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 0
     },
     {
       "clubName": "Newcastle",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2015,
       "yearEnd": 2022,
-      "appearances": 86
+      "appearances": 86,
+      "goals": 0
     },
     {
       "clubName": "Nottingham Forest",
@@ -43,7 +47,8 @@
       "tierLabel": "2nd tier, England",
       "yearStart": 2010,
       "yearEnd": 2014,
-      "appearances": 87
+      "appearances": 87,
+      "goals": 0
     }
   ],
   "seasonRecords": [

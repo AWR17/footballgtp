@@ -7,7 +7,8 @@
       "tierLabel": "a club in England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Bayer Leverkusen",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2024,
       "yearEnd": 2024,
-      "appearances": 27
+      "appearances": 27,
+      "goals": 1
     },
     {
       "clubName": "Paris Saint Germain",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 37
+      "appearances": 37,
+      "goals": 0
     },
     {
       "clubName": "RB Leipzig",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2018,
       "yearEnd": 2021,
-      "appearances": 100
+      "appearances": 100,
+      "goals": 8
     },
     {
       "clubName": "France",
@@ -43,7 +47,8 @@
       "tierLabel": "national team",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "Montpellier",
@@ -52,7 +57,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2016,
       "yearEnd": 2017,
-      "appearances": 50
+      "appearances": 50,
+      "goals": 0
     },
     {
       "clubName": "Laval",
@@ -61,14 +67,15 @@
       "tierLabel": "2nd tier, France",
       "yearStart": 2014,
       "yearEnd": 2015,
-      "appearances": 17
+      "appearances": 17,
+      "goals": 2
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 0
+      "appearances": 2
     },
     {
       "season": 2025,

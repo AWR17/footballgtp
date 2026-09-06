@@ -1,22 +1,24 @@
 {
   "stints": [
     {
+      "clubName": "Leeds",
+      "country": "England",
+      "isNationalTeam": false,
+      "tierLabel": "a club in England",
+      "yearStart": 2025,
+      "yearEnd": 2026,
+      "appearances": 1,
+      "goals": 0
+    },
+    {
       "clubName": "Sweden",
       "country": "World",
       "isNationalTeam": true,
       "tierLabel": "national team",
       "yearStart": 2022,
       "yearEnd": 2026,
-      "appearances": 12
-    },
-    {
-      "clubName": "Leeds",
-      "country": "England",
-      "isNationalTeam": false,
-      "tierLabel": "a club in England",
-      "yearStart": 2025,
-      "yearEnd": 2025,
-      "appearances": 0
+      "appearances": 12,
+      "goals": 0
     },
     {
       "clubName": "Lille",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2021,
       "yearEnd": 2024,
-      "appearances": 113
+      "appearances": 113,
+      "goals": 4
     },
     {
       "clubName": "Groningen",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, Netherlands",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 34
+      "appearances": 34,
+      "goals": 2
     },
     {
       "clubName": "Halmstad",
@@ -43,10 +47,16 @@
       "tierLabel": "a club in Sweden",
       "yearStart": 2015,
       "yearEnd": 2018,
-      "appearances": 56
+      "appearances": 56,
+      "goals": 13
     }
   ],
   "seasonRecords": [
+    {
+      "season": 2026,
+      "leagueId": 39,
+      "appearances": 1
+    },
     {
       "season": 2025,
       "leagueId": 48,

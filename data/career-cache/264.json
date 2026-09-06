@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2013,
       "yearEnd": 2026,
-      "appearances": 26
+      "appearances": 26,
+      "goals": 5
     },
     {
       "clubName": "Sunderland",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2026,
       "yearEnd": 2026,
-      "appearances": 1
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Lille",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, France",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 32
+      "appearances": 32,
+      "goals": 2
     },
     {
       "clubName": "Trabzonspor",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Turkey",
       "yearStart": 2023,
       "yearEnd": 2023,
-      "appearances": 14
+      "appearances": 14,
+      "goals": 1
     },
     {
       "clubName": "Borussia Dortmund",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2020,
       "yearEnd": 2022,
-      "appearances": 4
+      "appearances": 4,
+      "goals": 0
     },
     {
       "clubName": "Paris Saint Germain",
@@ -52,7 +57,8 @@
       "tierLabel": "a club in France",
       "yearStart": 2016,
       "yearEnd": 2019,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 5
     },
     {
       "clubName": "Club Brugge KV",
@@ -61,7 +67,8 @@
       "tierLabel": "a club in Belgium",
       "yearStart": 2011,
       "yearEnd": 2015,
-      "appearances": 149
+      "appearances": 149,
+      "goals": 14
     },
     {
       "clubName": "Excelsior Virton",
@@ -70,14 +77,15 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2010,
       "yearEnd": 2010,
-      "appearances": 28
+      "appearances": 28,
+      "goals": 10
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

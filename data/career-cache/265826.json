@@ -7,7 +7,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 8
+      "appearances": 8,
+      "goals": 0
     },
     {
       "clubName": "Czechia",
@@ -16,7 +17,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2024,
       "yearEnd": 2025,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     },
     {
       "clubName": "Slavia Praha",
@@ -25,7 +27,8 @@
       "tierLabel": "a club in Czech-Republic",
       "yearStart": 2021,
       "yearEnd": 2023,
-      "appearances": 0
+      "appearances": 0,
+      "goals": 0
     },
     {
       "clubName": "Vyškov",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Czech-Republic",
       "yearStart": 2022,
       "yearEnd": 2022,
-      "appearances": 30
+      "appearances": 30,
+      "goals": 0
     },
     {
       "clubName": "Dukla Praha",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in Czech-Republic",
       "yearStart": 2019,
       "yearEnd": 2020,
-      "appearances": 6
+      "appearances": 6,
+      "goals": 0
     }
   ],
   "seasonRecords": [

@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2011,
       "yearEnd": 2026,
-      "appearances": 58
+      "appearances": 58,
+      "goals": 5
     },
     {
       "clubName": "Sunderland",
@@ -16,7 +17,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 5,
+      "goals": 0
     },
     {
       "clubName": "Bayer Leverkusen",
@@ -25,7 +27,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2023,
       "yearEnd": 2024,
-      "appearances": 66
+      "appearances": 66,
+      "goals": 5
     },
     {
       "clubName": "Arsenal",
@@ -34,7 +37,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2016,
       "yearEnd": 2022,
-      "appearances": 225
+      "appearances": 225,
+      "goals": 17
     },
     {
       "clubName": "Borussia Mönchengladbach",
@@ -43,7 +47,8 @@
       "tierLabel": "1st tier, Germany",
       "yearStart": 2012,
       "yearEnd": 2015,
-      "appearances": 108
+      "appearances": 108,
+      "goals": 6
     },
     {
       "clubName": "FC Basel 1893",
@@ -52,14 +57,15 @@
       "tierLabel": "an unspecified league",
       "yearStart": 2010,
       "yearEnd": 2011,
-      "appearances": 44
+      "appearances": 44,
+      "goals": 2
     }
   ],
   "seasonRecords": [
     {
       "season": 2026,
       "leagueId": 39,
-      "appearances": 1
+      "appearances": 3
     },
     {
       "season": 2025,

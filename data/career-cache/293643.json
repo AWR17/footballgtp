@@ -7,7 +7,8 @@
       "tierLabel": "national team",
       "yearStart": 2023,
       "yearEnd": 2026,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 0
     },
     {
       "clubName": "Brighton",
@@ -16,7 +17,8 @@
       "tierLabel": "1st tier, England",
       "yearStart": 2024,
       "yearEnd": 2026,
-      "appearances": 2
+      "appearances": 2,
+      "goals": 0
     },
     {
       "clubName": "Birmingham",
@@ -25,7 +27,8 @@
       "tierLabel": "domestic cup, England",
       "yearStart": 2025,
       "yearEnd": 2025,
-      "appearances": 1
+      "appearances": 1,
+      "goals": 0
     },
     {
       "clubName": "FC Nordsjaelland",
@@ -34,7 +37,8 @@
       "tierLabel": "a club in Denmark",
       "yearStart": 2022,
       "yearEnd": 2023,
-      "appearances": 43
+      "appearances": 43,
+      "goals": 6
     },
     {
       "clubName": "Asante Kotoko",
@@ -43,7 +47,8 @@
       "tierLabel": "a club in World",
       "yearStart": 2020,
       "yearEnd": 2020,
-      "appearances": 3
+      "appearances": 3,
+      "goals": 1
     }
   ],
   "seasonRecords": [
